@@ -27,8 +27,10 @@ class BowDocCollection:
 
             # Get BowDoc and add to collection
             doc = BowDoc(parsed, stopWords)
-            self.collection[doc.getDocId()] = doc
-            self.totalDocLength += doc.getDocLen()
+            id = doc.getDocId()
+            self.collection[id] = doc
+            docLen = doc.getDocLen()
+            self.totalDocLength += docLen
 
             f.close()
         
@@ -44,7 +46,6 @@ class BowDocCollection:
         for doc in self.collection.values():
             collection_info += doc.displayDocInfo()
         return collection_info
-
 
     def calculate_df(self):
         """

@@ -26,11 +26,15 @@ if __name__ == "__main__":
 
     # --- Q1 ---
 
+    print('--- Q1 ---')
+
     collection = BowDocCollection(files, stopWords)
     collection_info = collection.displayDocInfo()
     write_to_file('jamie_martin_Q1.txt', collection_info)
 
     # --- Q2_1 ---
+
+    print('--- Q2_1 ---')
 
     df = collection.calculate_df()
     
@@ -42,6 +46,8 @@ if __name__ == "__main__":
     write_to_file('jamie_martin_Q2_1.txt', body)
 
     # --- Q2_2 ---
+
+    print('--- Q2_2 ---')
 
     tfidf = collection.calculate_tfidf() 
 
@@ -57,5 +63,21 @@ if __name__ == "__main__":
    
     # --- Q3 ---
 
-    print(collection.totalDocLength)
-    print(collection.averageLength)
+    print('--- Q3 ---')
+
+    print("Total Doc Length:", collection.totalDocLength)
+
+    print("\nDocs:")
+
+    for id, doc in collection.collection.items():
+            print('{docID}: {length}'.format(docID=id, length=doc.getDocLen()))
+
+    print("\nAverage Doc Length:", collection.averageLength)
+
+    df = collection.calculate_df()
+
+    query = ["British", "fashion"]
+    print("\nBM25 Query:", query)
+    for id, doc in collection.collection.items():
+        score = doc.BM25(collection, df, query)
+        print('{docID}: {score}'.format(docID=id, score=score))

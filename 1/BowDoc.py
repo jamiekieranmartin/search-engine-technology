@@ -85,7 +85,7 @@ class BowDoc:
         print(body)
         return body
 
-    def calculate_df(self, df):
+    def calculate_df(self, df={}):
         """
         Calculates document frequency for each term in the document, adding to the given df dict
         :param df: dict, term:df
@@ -129,7 +129,7 @@ class BowDoc:
             tfidf[term] = tf[term] * idf[term]
         return tfidf
 
-    def BM25(self, q=[], k1=1.5, b=0.75):
+    def BM25(self, collection, df, q=[], k1=1.2, b=0.75):
         """
 
         :param q:
@@ -137,14 +137,17 @@ class BowDoc:
         :param b:
         :return:
         """
-        # scores = 0
-        # q = [stem(item.lower()) for item in q]
-        # for query in q:
-        #     tmp_score = []
-        #     if query in self.tf:
-        #         upper = (self.tf[query] * (k1+1))
-        #         lower = ((self.tf[query]) + k1*(1 - b + b * self.termLength/self.avgDL))
-        #         tmp_score.append(self.idf[query] * upper / lower)
+        scores = 0
+        tf = self.calculate_tf()
+        idf = self.calculate_idf(collection.collection, df)
 
-        #     scores += (sum(tmp_score))
-        # return scores
+        q = [stem(item.lower()) for item in q]
+        for query in q:
+            tmp_score = []
+            if query in tf:
+                upper = tf[query] * (k1+1)
+                lower = tf[query] + k1*(1 - b + b * (self.docLen / collection.averageLength))
+                tmp_score.append(idf[query] * upper / lower)
+
+            scores += (sum(tmp_score))
+        return scores
