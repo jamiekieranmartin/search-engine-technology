@@ -1,0 +1,37 @@
+
+# Default Variables
+
+qf = 1
+k1 = 1.2
+k2 = 100
+b = 0.75
+R = 0 
+r = 0 
+
+# Note
+
+- R and r are equal to zero as there is no relevance information
+
+- As k2 = 100 and qf = 1, the third section of the formula can be calculated as such: (100+1)*1 / (100+1) = 101 / 101 = 1
+
+# gi
+
+gi is the query feature function. Here we utilise and calculate:
+
+    - ni, the frequency of the query term in all documents
+
+    - N, the total number of documents
+
+# fi
+
+fi is the document feature function. Here we utilise and calculate:
+
+    - fi, the frequency of the term in the current document
+
+    - K, the K base, comprises of:
+
+        - the average length of all documents
+
+        - the current documents length
+
+    

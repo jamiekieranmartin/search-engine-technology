@@ -1,0 +1,15 @@
+Average document length 272 for query: This British fashion
+Document: 741299, Length: 199 and BM25 Score: 0
+Document: 741309, Length: 104 and BM25 Score: 1.2875544220723203
+Document: 780718, Length: 107 and BM25 Score: 0
+Document: 780723, Length: 124 and BM25 Score: 0
+Document: 783802, Length: 120 and BM25 Score: 3.317777304602198
+Document: 783803, Length: 490 and BM25 Score: 0
+Document: 807600, Length: 538 and BM25 Score: 0
+Document: 807606, Length: 187 and BM25 Score: 0
+Document: 809481, Length: 151 and BM25 Score: 0
+Document: 809495, Length: 703 and BM25 Score: 0
+
+For the query "This British fashion", three recommended relevant documents and their BM25 scores:
+783802: 3.317777304602198
+741309: 1.2875544220723203

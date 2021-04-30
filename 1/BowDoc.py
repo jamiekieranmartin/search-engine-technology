@@ -1,3 +1,5 @@
+# Jamie Martin
+# N10212361
 from stemming.stemming.porter2 import stem
 import math
 import string
@@ -129,25 +131,33 @@ class BowDoc:
             tfidf[term] = tf[term] * idf[term]
         return tfidf
 
-    def BM25(self, collection, df, q=[], k1=1.2, b=0.75):
+    def gi(self, df, q, N, R=0, r=0):
         """
+        the query feature function
+        :return: result, number
+        """
+        n = df[q]
+        return math.log(((r + 0.5) / (R - r + 0.5)) / ((n - r + 0.5) / (N - n - R + r + 0.5)))
 
-        :param q:
-        :param k1:
-        :param b:
-        :return:
+    def fi(self, tf, avg, q, k1=1.2, b=0.75):
         """
-        scores = 0
+        the document feature function
+        :return: result, number
+        """
+        K = k1 * ((1 - b) + b * (self.docLen / avg))
+        f_i = tf[q]
+        return ((k1 + 1) * f_i) / (K + f_i)
+
+    def BM25(self, df, q, N, avg):
+        """
+        BM25 IR model for the document
+        :return: score, number
+        """
         tf = self.calculate_tf()
-        idf = self.calculate_idf(collection.collection, df)
+        scores = 0
+        q = [stem(item.lower()) for item in q.split(" ")]
 
-        q = [stem(item.lower()) for item in q]
         for query in q:
-            tmp_score = []
             if query in tf:
-                upper = tf[query] * (k1+1)
-                lower = tf[query] + k1*(1 - b + b * (self.docLen / collection.averageLength))
-                tmp_score.append(idf[query] * upper / lower)
-
-            scores += (sum(tmp_score))
+                scores += (self.gi(df, query, N) + self.fi(tf, avg, query))
         return scores
