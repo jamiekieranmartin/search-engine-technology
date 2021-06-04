@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="65692" id="root" date="1996-09-19" xml:lang="en">
+<title>JAPAN: Taito Co shares surge in morning trade.</title>
+<headline>Taito Co shares surge in morning trade.</headline>
+<dateline>TOKYO 1996-09-19</dateline>
+<text>
+<p>Shares of Taito Co Ltd rose sharply in Thursday morning trade, supported by speculation about the firm's development of drugs to assist organ transplants, traders said.</p>
+<p>As of 0148 GMT, the share was up 66 yen at 681 yen, the largest percentage gain on the first section of the Tokyo Stock Exchange. Volume was 394,000 shares.  </p>
+<p>Company officials said that although they have been developing a new drug over the past few years, there have not been any new developments.</p>
+<p>Taito is mainly a sugar refiner affiliated with trading house Mitsui and Co, but it is also involved in producing pharmaceuticals.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

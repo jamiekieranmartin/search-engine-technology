@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="44081" id="root" date="1996-09-10" xml:lang="en">
+<title>USA: Wilson seeks court reversal on Calif. alien benefits.</title>
+<headline>Wilson seeks court reversal on Calif. alien benefits.</headline>
+<dateline>WASHINGTON 1996-09-10</dateline>
+<text>
+<p>California Gov. Pete Wilson announced Tuesday that he will ask a federal court to reconsider its decision striking down much of the state's Proposition 187 law barring benefits to illegal aliens.</p>
+<p>U.S. District Court Judge Mariana Pfaelzer ruled last November that only the federal government can report the presence of illegal immigrants and deny benefits to them. Wilson said he will ask for a reversal because the new federal welfare reform law requires states both to report the presence of illegal aliens and to deny them benefits.</p>
+<p>&quot;Clearly under the action taken by the Congress and signed into law by the president as the welfare reform bill, the basis for her invalidation no longer exists,&quot; he said.</p>
+<p>Wilson spoke to reporters after a meeting with Speaker Newt Gingrich and other House members on an immigration bill being considered by Congress. He urged Congress to approve an amendment to the bill by Representative Elton Gallegly, R-California, that would allow states to deny public education benefits to illegal aliens.</p>
+<p>Wilson said education accounts for $2 billion of the $3 billion California spends on benefits to illegal aliens.</p>
+<p>Gallegly said his amendment would not deny such education benefits but rather would allow states to take that action. He said it had been modified to require the federal government to force states to continue to educate all children from kindergarten through the 12th grade &quot;provided they do not leave the school district.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="GWELF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

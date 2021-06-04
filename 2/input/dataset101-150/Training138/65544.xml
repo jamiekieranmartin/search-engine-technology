@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="65544" id="root" date="1996-09-19" xml:lang="en">
+<title>UK: Britain reviews mad cow policy after new study.</title>
+<headline>Britain reviews mad cow policy after new study.</headline>
+<byline>Paul Mylrea</byline>
+<dateline>LONDON 1996-09-19</dateline>
+<text>
+<p>British ministers met on Thursday to review a cull of up to 147,000 cattle most at risk from mad cow disease after new scientific evidence suggested the mass slaughter was unnecessary.</p>
+<p>Fearing a parliamentary rebellion from ruling party members opposed to the full cull, Prime Minister John Major and his colleagues were expected to cut back on the slaughter programme or introduce measures to protect the domestic beef market.</p>
+<p>But such a move could bring Major once again into conflict with his European Union partners who introduced an export ban on British beef in March to reassure panicky consumers.</p>
+<p>The European Commission eased pressure slightly on Britain by agreeing on Wednesday to examine the new evidence, based on computer studies, showing mad cow disease -- Bovine Spongiform Encephalopathy or BSE -- would die out naturally in five years.</p>
+<p>But the European Commission's chief spokesman said it was unlikely that the export ban could be eased quickly.</p>
+<p>&quot;The report is saying that the BSE disease will go away by itself in a number of years,&quot; Nikolaus van der Pas told the BBC.</p>
+<p>&quot;The ban is there because BSE is there, so as long as BSE is there it is unlikely that the ban will go.&quot; The ban followed a British government admission that humans might contract the fatal CJD brain disease from eating BSE-infected beef.</p>
+<p>Roger Freeman, the minister in charge of seeing measures to eradicate the disease are implemented, on Thursday welcomed the Commission's decision to review the new study.</p>
+<p>But he said Britain was still looking for a fast easing of the ban, adding: &quot;We are fulfilling our side of the bargain and in return we wanted an early lifting of the ban in stages.&quot;</p>
+<p>At the heart of the debate is anger in London that a deal hammered out by Major with his partners at the European Union summit in June has failed to lead to a rapid lifting of a ban on British beef exports.</p>
+<p>After the Florence deal, Major had said he expected the EU to start lifting the ban within five months but this confident prediction found little backing among other EU countries.</p>
+<p>Officials said Agriculture Minister Douglas Hogg returned from talks with EU farm ministers in Brussels earlier this week once again convinced they would not lift the ban any time soon.</p>
+<p>A top British scientist, Professor Sir William Stewart, who advised the government for five years on scientific matters, upset ministers by dismissing the new study by researchers at Oxford University.</p>
+<p>&quot;How do we know for sure that the Oxford evidence will be standing up in five years' time? You can't be sure about that. What you can be sure about is that if you cull, the problem will not be there,&quot; Stewart said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="I0100105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="I41220">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="G153">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

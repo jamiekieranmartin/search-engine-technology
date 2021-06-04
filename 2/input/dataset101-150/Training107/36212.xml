@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="36212" id="root" date="1996-09-05" xml:lang="en">
+<title>MOROCCO: Moroccan tourism receipts up 28 pct in 5 months.</title>
+<headline>Moroccan tourism receipts up 28 pct in 5 months.</headline>
+<dateline>RABAT 1996-09-05</dateline>
+<text>
+<p>Morocco's tourism receipts rose to 4.305 billion dirhams ($500 million) in the first five months of 1996 from 3.370 billion dirhams ($391 million) in the same period last year, the trade regulatory body Office des Changes said in its bulletin.</p>
+<p>Tourism is the second biggest foreign currency earner after expatriate remittances which the bulletin said were estimated at 6.954 billion dirhams ($808 million) in the first five months of 1996. Remittances in that period were up by 3.2 percent over the 6.736 billion dirhams for the same time in 1995. ($=8.6 dirhams)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="E511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="GTOUR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RABAT"/>
+<dc element="dc.creator.location.country.name" value="MOROCCO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

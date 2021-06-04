@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="22250" id="root" date="1996-08-29" xml:lang="en">
+<title>USA: Maine Yankee nuclear plant begins restart.</title>
+<headline>Maine Yankee nuclear plant begins restart.</headline>
+<dateline>NEW YORK 1996-08-29</dateline>
+<text>
+<p>The 910 megawatt (MW) Maine Yankee nuclear power plant in Wiscasset, Maine, shut since July 20 to upgrade the plant's cooling water system, began restart Thursday, the company said in a statement.</p>
+<p>Although the cooling system repairs were completed in mid-August, the outage continued following a failed test of an electrical circuit due to a cut wire.  </p>
+<p>During the outage, electrical cables inside containment were also upgraded.</p>
+<p>The statement said it should take several days to return the plant to service due to required system testing.</p>
+<p>The plant is owned by a consortium of New England electric utilities. The majority owners include Central Maine Power with 38 percent, New England Electric System with 20 percent, and Northeast Utilities with 20 percent.</p>
+<p>--New York Power Desk 212-859-1639</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="I1610109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="36318" id="root" date="1996-09-05" xml:lang="en">
+<title>FRANCE: Four soldiers killed in French Alps avalanche.</title>
+<headline>Four soldiers killed in French Alps avalanche.</headline>
+<dateline>GRENOBLE, France 1996-09-05</dateline>
+<text>
+<p>Four French mountain troopers were killed and four or five others injured when an avalanche hit a party of 17 infantrymen climbing in the French Alps on Thursday, rescue services said.</p>
+<p>The avalanche hit the climbers on the Evette glacier in the Haute Maurienne area near the Franco-Italian border, at an altitude of 3,200 metres (nearly 10,000 feet), rescue services said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GRENOBLE, France"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="42485" id="root" date="1996-09-09" xml:lang="en">
+<title>SWEDEN: PRESS DIGEST - Sweden - September 9.</title>
+<headline>PRESS DIGEST - Sweden - September 9.</headline>
+<dateline>STOCKHOLM 1996-09-09</dateline>
+<text>
+<p>Following are some of the leading stories in the Swedish papers this morning. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>DAGENS NYHETER</p>
+<p>- Swedish female doctors are more prone to give antibiotics to patients than male doctors are, according to research done by the Swedish Karolinska Institute.</p>
+<p>- Video footage of the Estonia ferry, which sank in 1994 killing over 800 people, is to be examined by experts to determine if the ferry sank because of inadequate maintenance.</p>
+<p>- The annual conference of the Swedish Trade Union Confederation (LO) is estimated to cost 60,000 Swedish crowns per delegate.</p>
+<p>SVENSKA DAGBLADET</p>
+<p>- Four percent wage rises per year, an annual inflation rate of two percent, is the economic goal for 1998-2001 which Swedish Prime Minister Goran Persson will try to sell to members of the Swedish Trade Union Confederation (LO) on Wednesday.</p>
+<p>- Despite widespread criticism of the Social Democratic government's reforms, the Swedish Trade Union Confederation (LO) will not break its alliance with the government.</p>
+<p>DAGENS INDUSTRI</p>
+<p>- Carnegie, the Swedish brokerage house, is to have lent 140 million Swedish crowns to a Canadian company, Xavier Mines, through suspended Morgan Grenfell fund manager Peter Young, who is currently under investigation for mismanagement.</p>
+<p>- The Swedish Trade Union Confederation (LO) owns shares on the Stockholm bourse worth 5.3 billion Swedish crowns, mostly invested in construction and real estate companies, according to a survey by Dagens Industri.</p>
+<p>-- Paul de Bendern, Stockholm newsroom +46-8-700 1006</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

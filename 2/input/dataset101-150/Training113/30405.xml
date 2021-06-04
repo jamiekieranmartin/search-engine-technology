@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="30405" id="root" date="1996-09-03" xml:lang="en">
+<title>USA: Union likely to pick Ford for contract talks --NYT.</title>
+<headline>Union likely to pick Ford for contract talks --NYT.</headline>
+<dateline>NEW YORK 1996-09-03</dateline>
+<text>
+<p>The United Auto Workers union is likely to pick Ford Motor Co for a final round of talks aimed at producing a national labour contract, The New York Times reported on Tuesday.</p>
+<p>An announcement on which of the Big Three auto makers the union would pick could come as early as Tuesday, union officials told the newspaper.</p>
+<p>The UAW has been in talks with General Motors Corp and Ford for a week, and unless GM improves its contract offer immediately it would pick Ford as its target, the paper said.</p>
+<p>The union would try to use a Ford deal as a national labour contract that could be applied across the industry.</p>
+<p>The three-year contracts with Ford, GM and Chrysler Corp all expire on September 14, and job security is said to be the major issue in this year's talks.</p>
+<p>-- New York newsroom (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

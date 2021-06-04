@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="15641" id="root" date="1996-08-27" xml:lang="en">
+<title>UK: Forty released from hijacked Sudanese plane.</title>
+<headline>Forty released from hijacked Sudanese plane.</headline>
+<dateline>STANSTED, England 1996-08-27</dateline>
+<text>
+<p>Unidentified hijackers released 40 people on Tuesday morning from a Sudan Airways plane carrying 199 passengers and crew that landed at an airport near London after being diverted on a flight from Khartoum to Amman.</p>
+<p>A police spokesman told reporters there was a &quot;controlled release of hostages&quot; under way by the six or seven hijackers on board the Airbus jet who she said were armed with grenades and possibly other explosives.  </p>
+<p>Reporters at Stansted airport some 30 miles (50 km) northeast of London watched women dressed in brightly coloured costumes carry young children down the aircraft steps as armed police stood by. The sick and elderly were also among those allowed to leave the plane.</p>
+<p>British police said the hijackers, thought to be from Sudan or a Middle East country and to have their families with them on the plane, had issued just one demand -- to be allowed to speak to an unidentified fellow countryman based in London.</p>
+<p>The plane landed at Stansted around 4.30 a.m (0330 GMT) after flying from Cyprus where it had been refuelled.</p>
+<p>Police spokeswoman Kim White said most of the passengers were Sudanese but there were also an unknown number of Iraqis, Jordanians, Palestinians, Syrians and Saudis.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JORDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="SUDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STANSTED, England"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="68921" id="root" date="1996-09-21" xml:lang="en">
+<title>FRANCE: Pope speaks on Internet.</title>
+<headline>Pope speaks on Internet.</headline>
+<dateline>TOURS, France 1996-09-21</dateline>
+<text>
+<p>Pope John Paul recorded his voice onto the Internet on Saturday when he inaugurated a web site set up by the French Roman Catholic Church to improve communication with its flock.</p>
+<p>The 76-year-old Pontiff sent a live personal message welcoming electronic visitors to the new site from a terminal at the convent of the Sisters of Charity where he is staying in the central city of Tours during a four-day visit to France.</p>
+<p>&quot;I am happy to address a message of welcome to those who are consulting the Internet service of the Catholic Church in France,&quot; the Pope said.</p>
+<p>&quot;Among them I especially welcome the young people with whom I will meet during the World Youth Days in Paris in August 1997,&quot; said the Pope, who will return to France next year for the event.</p>
+<p>His electronic message can be heard by visitors to the web site whose computers have a voice facility. A longer, written message from the Pope was entered into the site for him by a French nun who helped set up the service.</p>
+<p>&quot;It's a great joy to be doing this. It's the culmination of more than a year of negotiations,&quot; Sister Catherine Cesboue, 42, told reporters.</p>
+<p>The site's electronic address is http://www.cef.fr. and has been on-line since September 8. It contains biographies of French bishops, details of the Pope's visit and his speeches and a photograph of the Polish-born Pontiff as a young man.</p>
+<p>The Roman Catholic Church has been critical of what it perceives as abuse of the media to peddle sexual and other vices while at the same time welcoming the opportunities of new technologies to spread its own message.</p>
+<p>The Vatican itself is an old hand in cyberspace. It went on-line last Christmas at the address http://www.vatican.va. and 10 national bishops' conferences also have their own web sites.</p>
+<p>The Vatican site gets frequent requests for prayers, some of which the Pope personally answers, officials say.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+  <code code="VCAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+  <code code="GREL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOURS, France"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="45642" id="root" date="1996-09-11" xml:lang="en">
+<title>REPUBLIC OF IRELAND: RUGBY UNION-IRELAND VERSUS AUSTRALIA MATCH BROUGHT FORWARD.</title>
+<headline>RUGBY UNION-IRELAND VERSUS AUSTRALIA MATCH BROUGHT FORWARD.</headline>
+<dateline>DUBLIN 1996-09-11</dateline>
+<text>
+<p>Ireland's rugby international against Australia at Landsdowne Road has been brought forward one week to November 23, the Irish Rugby Football Union said on Wednesday.</p>
+<p>The change in date was made in response to a request from the Welsh Rugby Union for one of the six matches that had been allocated to Ireland for the Wallabies tour.</p>
+<p>Ireland surrendered the fixture between Ireland A and the Wallabies on November 26 and in return will have a match against the All Blacks next season.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBLIN"/>
+<dc element="dc.creator.location.country.name" value="REPUBLIC OF IRELAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="58676" id="root" date="1996-09-17" xml:lang="en">
+<title>USA: Second O.J. Simpson trial gets under way.</title>
+<headline>Second O.J. Simpson trial gets under way.</headline>
+<dateline>SANTA MONICA, California 1996-09-17</dateline>
+<text>
+<p>O.J. Simpson's civil trial convened in a crowded courtroom on Tuesday with the families of Nicole Brown Simpson and Ronald Goldman seeking to prove the former football star got away with murder.</p>
+<p>Nearly a year after Simpson was acquitted of killing his ex-wife and her friend, the sensational case was back in court but with two glaring absences -- the defendant himself and the TV cameras that made his criminal trial an international media event.  </p>
+<p>Simpson, who has struggled to repair his battered image, faces a wrongful-death lawsuit brought by the victims' families accusing him of being responsible -- and financially liable -- for the June 12, 1994, murders.</p>
+<p>The Hall of Fame running back was not in court on opening day. Due to a conflict in court calendars, he had to be 40 miles (65 km) away in an Orange County courtroom, where he is fighting his former in-laws for custody of the two young children he had with his slain ex-wife.</p>
+<p>Simpson's civil trial got under way with a hearing on crucial motions to bar certain evidence and testimony that each side said the other would use to prejudice the jury.</p>
+<p>Simpson never took the witness stand during the last trial but he will be forced to testify in civil court or else forfeit the case. He cannot be punished with jail time, but he could be forced to pay millions of dollars in damages if he is found responsible for the murders. Jury selection was scheduled to begin on Wednesday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA MONICA, California"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

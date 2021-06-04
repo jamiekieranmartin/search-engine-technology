@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="75738" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: Safety regulators open probes of Ford, Chrysler vehicles.</title>
+<headline>Safety regulators open probes of Ford, Chrysler vehicles.</headline>
+<byline>Todd Nissen</byline>
+<dateline>DETROIT 1996-09-25</dateline>
+<text>
+<p>Federal safety regulators are investigating seat belt problems in 1997 F150 pickup trucks from Ford Motor Co., as well as fuel leakage reports on an undetermined number of 1996 Chrysler Corp. minivans.</p>
+<p>The U.S. National Highway Traffic Safety Administration said Wednesday it has received 29 reports that seat belts were loose or improperly attached on the pickups. Causes included a missing bolt, missing nut and an unthreaded bolt hole.</p>
+<p>Ford told NHTSA it has not changed its seatbelt installation procedure, but has added another inspection at the assembly plant. More than 95 percent of the 171,641 trucks included in the probe were built on or before May 1, 1996.</p>
+<p>The agency said it opened an investigation into all models of 1996 Chrysler minivans after receiving nine complaints from owners about fuel tank leaks. NHTSA said preliminary information indicates the leak occurs where the fuel pump joins the fuel tank.</p>
+<p>Chrysler spokeswoman Michele Tinson said the company and agency are trying to determine how many minivans may be affected. She said Chrysler is cooperating with the investigation.</p>
+<p>Separately, NHTSA said it opened a preliminary investigation into 500,000 1988-90 Ford Aerostar minivans because of reports of cracked fuel tanks.</p>
+<p>Regulators have received 26 complaints from owners about &quot;serious incidents of fuel leakage&quot; from cracks or split seams on the top of fuel tanks.</p>
+<p>Ford changed to a 21-gallon tank from a 17-gallon tank in October 1988. NHTSA said it has received complaints from owners with both sized tanks.</p>
+<p>NHTSA is also looking into 250,000 1994-96 F250 four-wheel-drive pickup trucks from Ford. It has received seven owner complaints about the front suspension separating from the frame of the truck.</p>
+<p>Reports have included sheared bolts, missing nuts on bolts and loose fasteners with elongated holes, which NHTSA said could result in a loss of control.</p>
+<p>Ford spokeswoman Francine Romine-MacBride said the automaker is aware of the investigations and is cooperating with NHTSA.</p>
+<p>NHTSA disclosed the probes in its monthly defect investigation report. The cases involved in the new investigations did not result in any accidents or injuries.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I35102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

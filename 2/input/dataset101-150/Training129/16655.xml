@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="16655" id="root" date="1996-08-27" xml:lang="en">
+<title>HONG KONG: Hong Kong nabs blind 10-year-old illegal immigrant.</title>
+<headline>Hong Kong nabs blind 10-year-old illegal immigrant.</headline>
+<dateline>HONG KONG 1996-08-27</dateline>
+<text>
+<p>A blind 10-year-old boy from China sneaked over the border into Hong Kong and was arrested as an illegal immigrant, Hong Kong police said on Tuesday.</p>
+<p>He was caught by police trying to force his way into a home in the rural New Territories, a police spokesman said.</p>
+<p>&quot;The boy came from China's eastern province of Jiangsu. He was spotted by a passerby trying to climb into an apartment in the early hours of Monday morning,&quot; the spokesman said.</p>
+<p>No decision has yet been made on how to deal with the boy. Hong Kong police regularly catch hundreds of illegal immigrants and people who have overstayed their visas from mainland China and send them back.</p>
+<p>Hong Kong, a British colony, reverts to Chinese control next year but will remain sealed off from the mainland except to a tiny trickle of legal immigrants and people with special visit permits.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

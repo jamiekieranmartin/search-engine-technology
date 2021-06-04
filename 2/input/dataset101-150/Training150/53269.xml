@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="53269" id="root" date="1996-09-13" xml:lang="en">
+<title>USA: Rap star Shakur dies after shooting.</title>
+<headline>Rap star Shakur dies after shooting.</headline>
+<dateline>LAS VEGAS 1996-09-13</dateline>
+<text>
+<p>Rap music star Tupac Shakur died on Friday six days after being shot four times in an ambush, a Las Vegas hospital said.  </p>
+<p>Shakur died at the University Medical Centre in Las Vegas at 4:03 p.m. Pacific time (2303 GMT) on Friday, the hospital said in a short statement.</p>
+<p>Doctors said the cause of death was &quot;respiratory failure and cardiopulmonary arrest,&quot; the hospital said.</p>
+<p>Shakur, 25, one of the most notorious performers of hardcore &quot;Gangsta&quot; rap, had been in critical condition since he was shot last Saturday night near the famed Las Vegas strip. He had a lung removed in one of two operations last Sunday.</p>
+<p>A gunman opened fire on Shakur's car from a white Cadillac as he and friends were driving to a nightclub after watching the Mike Tyson-Bruce Seldon world heavyweight title fight in Last Vegas. Shakur was hit four times. No arrests have been made.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="GENT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="GOBIT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAS VEGAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

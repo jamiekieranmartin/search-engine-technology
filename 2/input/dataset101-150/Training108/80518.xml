@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="80518" id="root" date="1996-09-27" xml:lang="en">
+<title>GERMANY: German shares hit by profit-taking before weekend.</title>
+<headline>German shares hit by profit-taking before weekend.</headline>
+<dateline>FRANKFURT 1996-09-27</dateline>
+<text>
+<p>German shares were slightly down in early bourse dealings on Friday, hurt by profit-taking ahead of the weekend.</p>
+<p>The 30-share DAX was down 7.60 points at 2,658.95 in early bourse dealings while the IBIS DAX, which reflects all-day dealings in the index, was down 5.01 points at 2,659.95.</p>
+<p>A firmer dollar and a modest recovery in German debt prices and losses on Wall Street helped to underpin the market as traders debated whether the DAX would make another bid to reach the record high of 2,672.48 points reached on Thursday.</p>
+<p>&quot;There appears not to be much interest in pushing the market higher at the moment,&quot; one Frankfurt trader said.</p>
+<p>Among specific shares, chemical stocks were under pressure due to profit-taking.</p>
+<p>BASF was a top volume stock, falling 82 pfennigs to 48.08 marks after a U.S. Food and Drug Administration advisory board withheld ruling on an application for a weight-loss drug.</p>
+<p>BASF has high hopes for the drug, called Meridia, which BASF management board member Dieter Stein last April predicted would have annual sales of $200 million to $400 million.</p>
+<p>U.S. officials said the one-a-day anti-obesity capsules appeared effective but said they had questions about safety.</p>
+<p>Other chemical stocks were also lower. Bayer AG slipped 53 pfennigs to 56.24 marks while rival Hoechst AG was down 24 pfennigs at 55.75 marks.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

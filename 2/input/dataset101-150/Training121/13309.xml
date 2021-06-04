@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13309" id="root" date="1996-08-25" xml:lang="en">
+<title>USA: China linked to Pakistani missile plant - report.</title>
+<headline>China linked to Pakistani missile plant - report.</headline>
+<dateline>WASHINGTON 1996-08-25</dateline>
+<text>
+<p>U.S. intelligence officials have concluded that Pakistan was secretly building a medium-range missile factory using blueprints and equipment supplied by China, the Washington Post reported on Sunday.</p>
+<p>Quoting unidentified U.S. officials, the newspaper said the development raised the prospect of a major new U.S. proliferation dispute with Beijing.</p>
+<p>A White House spokesman said he could not confirm the story but said the United States took such reports seriously.</p>
+<p>&quot;We do not believe it is in the best interests of the United States or of any other country to supply Pakistan with the capacity to manufacture or deploy weapons of mass destruction,&quot; the spokesman said.</p>
+<p>The partially completed factory in a suburb of the northern city of Rawalpindi, near the capitol Islamabad, was expected to be capable of producing most of the major components of a missile modelled on the Chinese-designed M-11 in a year or two, according to the newspaper report.</p>
+<p>Some U.S. officials believed the factory would produce precise duplicates of the missile, the Post added.</p>
+<p>The United States has twice imposed limited economic sanctions against China for selling M-11 missile launchers and finished missile components to Pakistan, but withdrew them after China promised to stop such deliveries.</p>
+<p>Washington recently settled a dispute with China over a sale to Pakistan of nuclear-related equipment and the Post quoted officials as saying the construction of the missile factory raised the possibility that broad economic sanctions eventually could be imposed on both countries.</p>
+<p>However, the White House spokesman suggested sanctions were not in the offing. &quot;We have not come to any conclusions that would warrant sanctions at this time with respect to Pakistan or China,&quot; he said.</p>
+<p>The existence of the Pakistani factory had been known to U.S. intelligence officials since last year when construction evidently began, the newspaper said.</p>
+<p>The White House has recently sought improved relations with China after months of disputes over Taiwan, trade and human rights. In one sign of the warming relations, U.S. National Security Adviser Tony Lake visited Beijing last month.</p>
+<p>One adminstration official, speaking on condition that he not be identified, suggested it would be a mistake to assume the United States would ignore nuclear proliferation in South Asia in the interests of a better relationship with China.</p>
+<p>&quot;Those that seek to point out our alleged oversensitivity to our relationship with China do not understand how serious we are about these proliferation issues,&quot; said the official.</p>
+<p>&quot;But we also will not come to a conclusion prematurely,&quot; he added. &quot;We need to have the evidence, which is why we are monitoring the situation carefully.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

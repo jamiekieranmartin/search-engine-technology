@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12825" id="root" date="1996-08-24" xml:lang="en">
+<title>NETHERLANDS: Dutch police detain man in Belgian paedophile case.</title>
+<headline>Dutch police detain man in Belgian paedophile case.</headline>
+<dateline>AMSTERDAM 1996-08-24</dateline>
+<text>
+<p>Police are holding a 74-year old Dutchman after a tipoff in connection with Belgium's probe of a child-kidnapping and pornography scandal, police said on Saturday.</p>
+<p>Police with sniffer dogs searched a house out in Amstelveen, 15 kilometres (9.3 miles) south of Amsterdam on Thursday evening after receiving information from Belgium.</p>
+<p>Police spokesman Klaas Wilting told Reuters two firearms were found at the address but so far no evidence of a direct link with the Belgian case.</p>
+<p>&quot;We received some information of a connection to the Belgian investigation and searched the house. We found two guns but so far nothing to connect him to the two missing girls,&quot; he said.</p>
+<p>No formal charges have yet been brought.</p>
+<p>Six people have so far been arrested in Belgium following the rescue a week ago of two kidnapped young girls from a makeshift dungeon in a house owned by Marc Dutroux in Charleroi.</p>
+<p>Then followed the discovery of the bodies of two other abducted girls who had starved to death, and a stepped-up hunt for two more girls who Dutroux admitted kidnapping a year ago.</p>
+<p>The two dead girls, Julie Lejeune and Melissa Russo, were buried in what was virtually a state funeral in the eastern city of Liege on Thursday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-24"/>
+  </code>
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-24"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

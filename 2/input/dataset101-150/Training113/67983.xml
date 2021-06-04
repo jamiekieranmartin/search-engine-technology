@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="67983" id="root" date="1996-09-20" xml:lang="en">
+<title>USA: Ford Motor offers to buy or sell odd share lots.</title>
+<headline>Ford Motor offers to buy or sell odd share lots.</headline>
+<dateline>DEARBORN, Mich. 1996-09-20</dateline>
+<text>
+<p>Ford Motor Co. said Friday it is offering a plan that will allow shareholders owning fewer than 100 shares either to sell their holdings or purchase additional shares to bring them up to an even 100.</p>
+<p>The programme is conducted by mail at a cost below standard brokerage commissions. Many shareholders are discouraged from trading their shares by the cost of brokerage commissions or the inconvenience of buying or selling in small amounts.</p>
+<p>Ford has about 1.1 billion shares of common stock outstanding, including more than 277,000 individual shareholder accounts.</p>
+<p>About 121,000 shareholder accounts, or about 44 percent of the total, own fewer than 100 shares of Ford common stock. More than 74,000 shareholder accounts, or about 27 percent, own 25 shares or less.</p>
+<p>Under the voluntary programme, participants pay a fee of 75 cents a share, up to a maximum of $50 per account. Shares will be bought or sold on the open market through a broker.</p>
+<p>Ford will not be buying or selling any of the shares.</p>
+<p>Those eligible are being notified by mail and will have until Oct. 21 to participate.</p>
+<p>Ford's stock was unchanged at $31.75 on the New York Stock Exchange at mid-morning.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DEARBORN, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

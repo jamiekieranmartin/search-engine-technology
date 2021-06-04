@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="47596" id="root" date="1996-09-11" xml:lang="en">
+<title>SPAIN: Six Moroccans die, 23 hurt, in Spanish bus crash.</title>
+<headline>Six Moroccans die, 23 hurt, in Spanish bus crash.</headline>
+<dateline>MINGLANILLA, Spain 1996-09-11</dateline>
+<text>
+<p>Six Moroccans were killed and 23 injured on Wednesday when a bus slid off a rain-soaked exit ramp near Cuenca in eastern Spain and plunged into a ditch, officials said.</p>
+<p>Cuenca's civil governor, Luis Casero, said the bus, which had Moroccan number plates, fell four metres (13 feet).</p>
+<p>The driver and all 28 of the passengers were Moroccans, most of them workers travelling from Barcelona through the Castilla La Mancha region to Granada. Those killed were a girl, a woman and four men.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINGLANILLA, Spain"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

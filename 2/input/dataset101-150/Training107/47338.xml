@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="47338" id="root" date="1996-09-11" xml:lang="en">
+<title>UK: Northern Ireland unemployment up 800 in August.</title>
+<headline>Northern Ireland unemployment up 800 in August.</headline>
+<dateline>BELFAST 1996-09-11</dateline>
+<text>
+<p>Northern Ireland unemployment increased by 800 in August, bringing the total to 87,500 or 11.3 percent of the workforce, according to seasonally adjusted figures released on Wednesday.</p>
+<p>Unadjusted unemployment figures showed a rise of 1,759 in unemployment in August to 92,554, Northern Ireland's Department of Economic Development said.</p>
+<p>&quot;The unemployment figures reflect the enormous effect on the province of the BSE crisis and the violence this summer which has reduced confidence,&quot; Northern Ireland Economy Minister Baroness Denton said in a statement.</p>
+<p>&quot;Northern Ireland, however, remains a good investment location,&quot; Denton said.</p>
+<p>-- Belfast newsroom +44 1232 315 253</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="E411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BELFAST"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13939" id="root" date="1996-08-26" xml:lang="en">
+<title>USA: Computer Associates, Intel in pact.</title>
+<headline>Computer Associates, Intel in pact.</headline>
+<dateline>NEW ORLEANS, La 1996-08-26</dateline>
+<text>
+<p>Computer Associates and Intel Corp said Monday they had agreed to a strategic deal in which Computer Associates software will be used to reduce the cost and complexity of operating Pentium Pro-based servers.  </p>
+<p>The companies said the deal would tightly integrate Computer Associates' (CA) Unicenter TNG systems management software with hardware and software instrumentation designed into the computer circuit boards in which Pentium chips reside.</p>
+<p>CA said the alliance is a key component of its end-to-end computer systems management strategy, allowing it to expand integration of large corporate networks at the department level and in terms of access to the Internet.  </p>
+<p>It said it embraces Pentium Pro processor-based servers as fully manageable components of the enterprise management infrastructure. It also provides facilities for users to diagnose, troubleshoot and configure Intel Pentium Pro processor-based servers.</p>
+<p>&quot;This landmark agreement underscores CA's commitment to deliver advanced management capabilities to the heterogeneous enterprise,&quot; CA said. &quot;With Pentium Pro processor-based platforms becoming a standard in corporate IT departments, CA-Unicenter TNG will ensure that all servers in the enterprise are managed, monitored and secured.&quot;</p>
+<p>LANDesk is the second leading set of network management tools for Novell NetWare systems behind Novell Inc's ManageWise software.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW ORLEANS, La"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

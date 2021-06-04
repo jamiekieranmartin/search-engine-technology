@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="40234" id="root" date="1996-09-09" xml:lang="en">
+<title>JAPAN: NHK Spring to form Thai auto seat venture.</title>
+<headline>NHK Spring to form Thai auto seat venture.</headline>
+<dateline>TOKYO 1996-09-09</dateline>
+<text>
+<p>Japan's NHK Spring Co Ltd said on Monday that it and Lear Corp of the United States had agreed to form a joint venture in October in Thailand's Rayong province to produce automobile seats.</p>
+<p>The venture, General Seating (Thailand) Co Ltd, will be capitalised at 180 million baht and start producing seats for pickup trucks in the spring of 1998 at an annual rate of 135,000.</p>
+<p>The products will be supplied to Auto Alliance (Thailand) Co Ltd (AAT), a joint venture between Ford Motor Co and Mazda Motor Corp.</p>
+<p>The new company will create 65 jobs.</p>
+<p>Mazda and Ford formed AAT in November 1995 in Rayong province, which is about 120 km southeast of Bangkok.</p>
+<p>AAT is scheduled to start producing pickup trucks in mid-1998 at an annual rate of 135,000 units.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32472" id="root" date="1996-09-04" xml:lang="en">
+<title>INDIA: India domestic air passengers at 12.8 mln in 95/96.</title>
+<headline>India domestic air passengers at 12.8 mln in 95/96.</headline>
+<dateline>NEW DELHI 1996-09-04</dateline>
+<text>
+<p>India's domestic air carriers carried 12.8 million passengers in 1995/96 (April-March) up from 12 million in the previous year, a government statement said on Wednesday.</p>
+<p>&quot;The domestic passengers carried by Indian Airlines and private air taxi operators increased by 62 percent from 1990 to 1995 (from 7.4 million to 12 million). In 1995/96, this reached to 12.8 million,&quot; the statement said.</p>
+<p>India opened its domestic airline industry to private firms as part of an ongoing economic liberalisation programme launched in 1991. Indian Airlines is owned by the government.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

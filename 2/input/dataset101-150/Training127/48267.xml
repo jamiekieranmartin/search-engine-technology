@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="48267" id="root" date="1996-09-12" xml:lang="en">
+<title>SWEDEN: Swedish shares hit record high, led by banks.</title>
+<headline>Swedish shares hit record high, led by banks.</headline>
+<dateline>STOCKHOLM 1996-09-12</dateline>
+<text>
+<p>Sweden's stockmarket closed at a record high on Thursday, buoyed by a strong bank sector sector, low Swedish inflation data and U.S. gains.</p>
+<p>The Stockholm general index rose 0.79 percent to 2,032.20 after shares worth 4.8 billion crowns changed owners.</p>
+<p>The bank sector was the strongest sector, rising 2.30 percent. Nordbanken was the star performer rising seven crowns to 156 crowns after announcing a five billion crown share buy back on Wednesday.</p>
+<p>Handelsbanken rose 6.50 to 149 crowns and Swedbank closed 1.50 crowns higher at 88 crowns.</p>
+<p>Blue-chip Ericsson closed four crowns higher at 163, despite Motorola's heavy losses overnight in the wake of a warning about its third quarter earnings. &quot;Motorola's development differs from Ericsson's,&quot; said an analyst.</p>
+<p>Another winner was car safety equipment maker Autoliv, which jumped nine crowns to 236.50 on news it was selling side air bags to Volkswagen.</p>
+<p>&quot;It also shows the penetration of side airbags into the car market is greater than previously expected and could move onto other models,&quot; Swedbank analyst Mats Liss said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

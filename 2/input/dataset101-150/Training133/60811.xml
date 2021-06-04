@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="60811" id="root" date="1996-09-18" xml:lang="en">
+<title>UK: Scientists map key part of herpes virus.</title>
+<headline>Scientists map key part of herpes virus.</headline>
+<dateline>LONDON 1996-09-18</dateline>
+<text>
+<p>Three separate teams of scientists reported on Wednesday they had mapped a key enzyme of a herpes virus that can blind AIDS patients. They said their findings could help researchers design better drugs to attack cytomegalovirus (CMV), which affects more than 90 percent of AIDS sufferers.</p>
+<p>The enzyme, known as protease, is important to the replicative cycle of the virus. Drugs that inhibit protease production in the HIV virus that causes AIDS have offered new hope of treating the deadly syndrome.</p>
+<p>The researchers, at Boehringer Ingelhelm Pharmaceuticals Inc in Ridgefield, Connecticut, SmithKline Beecham Pharmaceuticals in King of Prussia, Pennsylvania, and Monsanto/Searle in St Louis all said the CMV protease enzyme seemed to be unique.</p>
+<p>They reported their findings in the science journal Nature.</p>
+<p>A member of the herpes family of viruses, CMV is related to the viruses that cause shingles and cold sores.</p>
+<p>Normally harmless, it can cause problems with people whose immune systems are vulnerable such as AIDS victims, transplant patients and very ill new born babies.</p>
+<p>It infects up to 70 percent of all Americans and 90 percent of those suffering from AIDS.</p>
+<p>CMV affects various organs, but when it gets into the eyes it can cause blindness.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

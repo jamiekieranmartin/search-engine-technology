@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="75452" id="root" date="1996-09-25" xml:lang="en">
+<title>TURKEY: Turkey defends order excluding Turks from casino.</title>
+<headline>Turkey defends order excluding Turks from casino.</headline>
+<dateline>ANKARA 1996-09-25</dateline>
+<text>
+<p>Turkey's Islamist-led government on Wednesday defended an order to stop Turks from entering the country's casinos but the gambling industry said it would fight the ban.</p>
+<p>&quot;The regulation is being introduced to prevent families from being broken up by gambling,&quot; said a spokesman at the interior ministry, which this week told provincial governors to exclude Turks from casinos while the industry is reorganised.</p>
+<p>The tourism ministry is expected in October to announce a reorganisation of gambling in Turkey, possibly limiting casinos to three regions in Istanbul, central Anatolia and Antalya.</p>
+<p>The ministry spokesman told Reuters the order was prompted by moral concerns, which have been heightened by media reports of suicides reportedly linked to unpaid gambling debts.</p>
+<p>Leading figures in the casino industry, which depends primarily on domestic gamblers, said on Wednesday they were preparing to fight the order, which has so far been implemented only in parts of the country.</p>
+<p>A tourism ministry official in Antalya said police officers there were checking identity at the entrances and denying entrance to Turkish passport holders.</p>
+<p>&quot;Everyone is thinking of fighting the order in court,&quot; said Guven Eraslan, managing director of Turkey's largest casino group, Princess Casinos.</p>
+<p>Casino industry officials said they would announce on Friday their plans to fight the government order.</p>
+<p>Casino revenues have already been hit by previous that restricted weekday opening hours and imposed a dress code.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97912">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANKARA"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

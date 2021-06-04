@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="74567" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: Silicon Graphics sees lower profits.</title>
+<headline>Silicon Graphics sees lower profits.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1996-09-25</dateline>
+<text>
+<p>Silicon Graphics Inc said Wednesday it expects first quarter profits to fall &quot;materially below&quot; market expectations because of product transitions and microprocessor production problems.</p>
+<p>Analysts had expected the company to earn $0.29 a share for the first quarter of 1997, according to First Call. The company earned $0.33 a share in the year-ago period.</p>
+<p>Silicon Graphics which makes visual computer systems, semiconductors and servers, said it expects revenues to be only slightly above the combined $758 million posted a year-ago by Silicon and recently acquired Cray Research.  </p>
+<p>Silicon Graphics acquired Cray on July 1.</p>
+<p>&quot;In October we will be making our most significant new product announcements in several years,&quot; Edward McCracken, chief executive officer of Silicon said in a statement.</p>
+<p>&quot;Anticipation of these product transitions has slowed our revenue growth rate,&quot; he added.</p>
+<p>McCracken said Silicon's principal supplier for its R10000 microprocessor had a problem in the manufacturing process during the quarter that caused some of the chips to shut down. Silicon has resolved the problem and said it will replace chips shipped to customers between March and July.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

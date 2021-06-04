@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12579" id="root" date="1996-08-24" xml:lang="en">
+<title>CANADA: ATHLETICS-MULTI-DISCIPLINE WILDERNESS RACE BEGINS.</title>
+<headline>ATHLETICS-MULTI-DISCIPLINE WILDERNESS RACE BEGINS.</headline>
+<dateline>PEMBERTON, British Columbia 1996-08-24</dateline>
+<text>
+<p>About 350 athletes from nine countries set out on a 323-mile (517 km) climbing, rafting, biking and running endurance race thorugh the Canadian wilderness on Saturday.</p>
+<p>The event, called the Eco-Challenge, is part of a growing sport known as adventure racing in which competitors test their limits for days over a perilous wilderness course.</p>
+<p>The Eco-Challenge has been staged twice before -- in Utah and Maine last year -- and is modelled on similar races overseas.</p>
+<p>The 70 teams in this year's race will will trek glaciers, climb mountains, whitewater raft, horseback ride, canoe and mountain bike on the gruelling course.</p>
+<p>The location of this year's race was keep a secret until Friday evening. It is being held near Pemberton, British Columbia, about 100 miles (165 km) northeast of Vancouver. The area is filled with treacherous mountain peaks, ice fields and frigid waters.</p>
+<p>Organisers expect about two-thirds of the participants to drop out or be disqualified before the finish. The hardy ones are expected to complete the course in about six days with first-place finishers receiving $10,000 in prize money.</p>
+<p>In the Eco-Challenge, competitors race in teams of five which must include both men and women. Team members must remain within 100 yards of each another at all times and finish together.</p>
+<p>With racers carrying about 40 pounds (18 kg) of gear on their backs, broken bones, sunstroke, dehydration and exhaustion are common.</p>
+<p>&quot;I'm looking forward to this race. I think it will be more physically challenging and we'll have to go up against more diverse situations due to the terrain,&quot; said Dr. Michael Stroud, a veteran Eco-Challenge participant.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-24"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PEMBERTON, British Columbia"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

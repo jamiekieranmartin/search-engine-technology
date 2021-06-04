@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="78775" id="root" date="1996-09-26" xml:lang="en">
+<title>USA: U.S. Southeast spot power firm on ongoing outages.</title>
+<headline>U.S. Southeast spot power firm on ongoing outages.</headline>
+<dateline>NEW YORK 1996-09-26</dateline>
+<text>
+<p>Physical prices of wholesale electricity in the southeastern U.S. remained firmed Thursday amid the ongoing outages of several key nuclear power stations in the region, market sources said.</p>
+<p>Southeast's reduced capacity to produce electricity has been offset by temperate autumn weather in most of the region, traders said.</p>
+<p>Duke Power Co's 846 megawatt (MW) Oconee 2 nuclear unit in Seneca, S.C. and Florida Power Corp's 825 MW Crystal River 3 unit in Red Level, Fla., remained shut, with no restart date set by either plant's operator.  </p>
+<p>Florida Power &amp; Light Co's Turkey Point 3 nuclear unit in Florida City, Fla., was expected to return to operation by Friday after being shut Tuesday when two control rods fell into its reactor core.</p>
+<p>In the Southeast Reliability Council (SERC), non-firm power for heavy demand hours on Friday for delivery into the northern portion of Tennessee Valley Authority (TVA) system was bid near $17.00 a megawatt hour (MWh), flat from Wednesday's level.</p>
+<p>&quot;The momentum is up, but you can still get it $17.00,&quot; said one East Coast trader.  </p>
+<p>Friday's peak electricity in southern TVA was valued near $20.00-$21.00, compared with Wednesday's quote of $20.00 for Thursday electricity.</p>
+<p>TVA was heard offering peak non-firm power for Friday at $17.50 per MWh and for next week $18.50. The country's largest utility was reportedly selling next-day electricity for $18.00 on Wednesday.</p>
+<p>At the Georgia/Florida border, peak, non-firm power was quoted at $21.00-$22.00 per MWh for Friday, wider than Wednesday's $21.00-$21.50 range.</p>
+<p>--R Leong, New York Power Desk +1 212 859 1622</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

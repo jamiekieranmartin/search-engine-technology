@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="73312" id="root" date="1996-09-24" xml:lang="en">
+<title>USA: PRESS DIGEST - Washington Post business - Sept 24.</title>
+<headline>PRESS DIGEST - Washington Post business - Sept 24.</headline>
+<dateline>WASHINGTON 1996-09-23</dateline>
+<text>
+<p>The Washington Post carries the following items on the front page of its business section on Sept. 24:</p>
+<p>---</p>
+<p>WASHINGTON - Republican presidential candidate Bob Dole has not culled many benefits from the tax cut proposal that was to be the centerpiece of his campaign.</p>
+<p>---</p>
+<p>WASHINGTON - Bell Atlantic Corp. will begin distributing Yellow Pages directories that contain listings for Montgomery County and Prince George's County in one volume.</p>
+<p>---</p>
+<p>WASHINGTON - The Securities and Exchange Commission accused the former chairman of Tyson Foods Inc. of tipping off a friend who then made a quick profit in the stock of a company that Tyson was planning to acquire.</p>
+<p>---</p>
+<p>PALO ALTO, CALIFORNIA - Entrepeneurs are worried about a California referendum item that aims to make it easier for investors to sue companies and their executives for misrepresenting their companies' financial health.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="70466" id="root" date="1996-09-23" xml:lang="en">
+<title>USA: Five die as truck hits car, school bus in Wisconsin.</title>
+<headline>Five die as truck hits car, school bus in Wisconsin.</headline>
+<dateline>FOND DU LAC, Wis 1996-09-23</dateline>
+<text>
+<p>Three children, a high school student and an adult were killed Monday when a truck slammed into a car and a school bus in heavy fog, police said.</p>
+<p>The 15-year-old high school student was a passenger on the bus. The three children and adult were riding in the car, which was crushed between the truck and bus.</p>
+<p>The accident happened near the village of Rosendale when the bus stopped on Wisconsin Highway 26 to pick up passengers, the Fond du Lac County Sheriff's Office said.</p>
+<p>A car stopped behind the bus, but a tractor-trailer apparently did not see either vehicle and slammed into the car and bus, police said.</p>
+<p>A seven-year-old girl in the car was airlifted to a Milwaukee hospital, where she was pronounced dead. Police said the bodies of an adult and two other children were found in the car, which was flattened against and under the bus.</p>
+<p>About a dozen children riding on the bus were injured, but none seriously.</p>
+<p>The area was in &quot;extremely heavy fog&quot; at the time, the sheriff's office said. Witnesses said visibility was less than a half-block.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FOND DU LAC, Wis"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

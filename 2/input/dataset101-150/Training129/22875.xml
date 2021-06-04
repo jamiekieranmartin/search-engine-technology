@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="22875" id="root" date="1996-08-29" xml:lang="en">
+<title>FRANCE: France says 88 illegal immigrants deported.</title>
+<headline>France says 88 illegal immigrants deported.</headline>
+<dateline>PARIS 1996-08-29</dateline>
+<text>
+<p>France said on Thursday it had sent home 88 Africans in a continuing crackdown on illegal immigrants.</p>
+<p>The Interior Ministry said 35 Malians, 11 Senegalese, 12 Tunisians and 30 Zaireans -- 10 of them expelled from the Netherlands -- were aboard two chartered planes which left on Wednesday night.  </p>
+<p>The airliners, at least one of them an air force plane, left from Evreux air base west of Paris after unionists and human rights activists had urged civilian pilots nto to fly deportees.</p>
+<p>The air force Airbus A-310 flew to Mali and Senegal, the ministry said. The other plane, a Boeing 737, flew to Tunis and Kinshasa, refuelling on the way in Niger.</p>
+<p>French handling of the illegal immigration issue has become a hot topic since 300 African protesters, 10 of whom had been on hunger strike, were dragged out of a Paris church in a controversial police raid last week.</p>
+<p>Thousands of demonstrators marched through Paris on Wednesday to demand that expulsion orders be repealed and immigration laws reviewed.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="MALI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="SENEG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="TUNIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="ZAIRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

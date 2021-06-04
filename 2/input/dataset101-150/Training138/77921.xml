@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="77921" id="root" date="1996-09-26" xml:lang="en">
+<title>UK: Britain too slow on mad cow tests, journal says.</title>
+<headline>Britain too slow on mad cow tests, journal says.</headline>
+<dateline>LONDON 1996-09-27</dateline>
+<text>
+<p>Britain, the country hardest hit by mad cow disease and a frightening new human equivalent, has been &quot;uncomfortably&quot; slow in developing tests for the disease, the Lancet medical journal said on Friday.</p>
+<p>Both U.S. and German researchers had reported live tests for BSE (bovine spongiform encephalopathy or mad cow disease) and Creutzfeldt-Jakob disease (CJD) while Britain had come up with nothing, it said in an editorial.</p>
+<p>Dr Michael Harrington of the California Institute of Technology in suburban Pasadena said on Thursday he had developed a test that homes in on two proteins produced by the body in reponse to BSE or CJD infection.</p>
+<p>Inga Zerr and colleagues of Georg-August-Universitaet in Gottingen reported in the Lancet on Friday that they, too had developed a test using the cerebrospinal fluid of suspected CJD victims. They said the test was 80 percent accurate.</p>
+<p>Both BSE and CJD -- brain-wasting and fatal illnesses -- can currently only be positively diagnosed by brain autopsy. A &quot;live&quot; test would allow a living victim to be diagnosed.</p>
+<p>&quot;The news is potentially excellent. The course of the BSE epidemic may now be tracked in live animals, rendering a policy of indiscriminate slaughter barbaric,&quot; the journal, one of the most respected international journals of medicine, said.</p>
+<p>&quot;But further, and decidedly uncomfortable, questions arise,&quot; it went on. &quot;Why were laboratory tests for spongiform encephalopathies developed in the USA and in Germany, countries that have worldwide average incidences of CJD, now new variant CJD, and no BSE?&quot; it asked.</p>
+<p>&quot;Why did it take a report of 10 cases of new variant CJD to force the U.K. Ministry of Agriculture Fisheries and food to pay serious attention to BSE research, doubling its research investment for 1996/97 to 10.4 million pounds ($16 million) from 5.4 million pounds the previous year?&quot;</p>
+<p>British government policies had led to the sacrifice of thousands of healthy cattle, it said. &quot;They have also threatened the belief that UK scientists can respond adequately to a new infectious risk.&quot;</p>
+<p>British BSE experts immediately cast doubts on the usefulness of the tests.</p>
+<p>&quot;We only have evidence that the test is positive when the patient already has symptoms,&quot; John Pattison, chairman of the government's Spongiform Encephalopathy Advisory Committee, told BBC television on Wednesday.</p>
+<p>The British government said in March it had identified a new strain of CJD and said victims probably caught it from eating BSE-infected beef. Twelve people, 11 in Britain and one on France, have succumbed to the new variant.</p>
+<p>The announcement prompted the European Union to ban all exports of British beef and beef products. Britain embarked on a campaign to slaughter older animals thought most at risk of BSE.</p>
+<p>Pattison noted also that Harrington had only tested his new assay on nine cows, and did not have enough information to tell whether the test could be used to screen herds for the disease. ($1=.6416 Pound)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="I0100105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

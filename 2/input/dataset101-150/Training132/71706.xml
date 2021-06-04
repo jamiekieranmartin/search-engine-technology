@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="71706" id="root" date="1996-09-23" xml:lang="en">
+<title>JAPAN: N.Korea tells Seoul to return submarine and crew.</title>
+<headline>N.Korea tells Seoul to return submarine and crew.</headline>
+<dateline>TOKYO 1996-09-23</dateline>
+<text>
+<p>North Korea said on Monday South Korea must &quot;unconditionally&quot; return to the communist state a small submarine and its crew including the bodies of those shot dead.  </p>
+<p>&quot;The south side must unconditionally return to the north the submarine and its crew including the dead bodies at once,&quot; a spokesman for the North Korean Ministry of the People's Armed Forces said in a statement.</p>
+<p>The statement was carried by the official Korean Central News Agency (KCNA) monitored in Tokyo.</p>
+<p>&quot;As far as a competent organ of the Ministry of the People's Armed Forces knows, a small training submarine of a Korean People's Army unit which left Wonsan port on September 13 and engaged in a routine training on the north's East Sea of Korea might drift about with an engine trouble and strike a rock on the sea off Kangrung,&quot; the spokesman said.</p>
+<p>&quot;It seemed that its crew were left with no other choice but to get to the enemy's land, which might cause an armed conflict,&quot; the spokesman added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="NKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

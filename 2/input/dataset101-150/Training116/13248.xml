@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13248" id="root" date="1996-08-25" xml:lang="en">
+<title>EGYPT: Egypt hopes jars will reveal secrets of mummies.</title>
+<headline>Egypt hopes jars will reveal secrets of mummies.</headline>
+<dateline>CAIRO 1996-08-25</dateline>
+<text>
+<p>Archaeologists in Egypt have found pots used by ancient Egyptians in burial rites that they say may reveal the secrets of mummification.</p>
+<p>Mohammed Saleh, director of the Egyptian Museum, told Reuters television a U.S. team found the pots, some of which contain human intestines, in a tomb built into the rocks while digging in Dahshour, a village 40 km (25 miles) south of Cairo.</p>
+<p>Dahshour is the site of Egypt's second largest pyramid, built for the pharaoh Seneferu more than 4,500 years ago.</p>
+<p>Saleh said the team -- from New York's Metropolitan Museum -- found four Canopic jars and two unguent jars in the tomb, which belongs to an unidentifed person who lived during the 12th Dynasty (1991-1786 BC) in the Middle Kingdom.</p>
+<p>&quot;This finding is important because one of the jars still contains substances and materials used in the conservation of mummies and the conservation of the intestines and all the things which were in the cavity of a person we have not identified yet,&quot; Saleh said.</p>
+<p>&quot;We hope that the analysis of such substances and liquids will reveal some secrets of the mummification process and materials used in this process,&quot; he added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GENT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAIRO"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

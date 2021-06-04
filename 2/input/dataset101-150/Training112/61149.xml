@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="61149" id="root" date="1996-09-18" xml:lang="en">
+<title>BRAZIL: Fifteen killed in Brazil train crash.</title>
+<headline>Fifteen killed in Brazil train crash.</headline>
+<byline>Simona de Logu</byline>
+<dateline>RIO DE JANEIRO 1996-09-18</dateline>
+<text>
+<p>Fifteen people were killed and more than 30 injured on Wednesday when an out-of-control freight train ploughed into a commuter train carrying rush hour passengers, a federal railway official said.</p>
+<p>The official said the accident was caused by faulty brakes on the freight train, which slammed into the back of a passenger train stopped at a rail intersection in Japeri, 50 miles (80 km) north of Rio de Janeiro.</p>
+<p>He said the freight train conductor had called in two miles (three km) from Japeri station warning that his train was out of control, but there was not enough time for rail officials to advise the passengers on the commuter train.</p>
+<p>The freight train, loaded with steel cables and moving at considerable speed, pushed the three-car passenger train for at least 200 yards (meters) before coming to a halt.</p>
+<p>Bystanders said they looked on in horror and yelled desperately at passengers on the stopped train to warn them of the imminent danger.</p>
+<p>&quot;The people on the train were terrified but several of them jumped out the wrong side,&quot; a Japeri resident told reporters. &quot;Then it seemed as if the train took flight. It actually started flying ... and then the cargo train began running over people.&quot;</p>
+<p>Ten people, including an eight-month pregnant woman, died on the spot and others died on their way to hospitals.</p>
+<p>Witnesses said they were stunned by the carnage at the scene. The passenger train was reduced to a tangle of twisted metal and lay underneath the engine of the freight train, they said. Steel cables were spread all over the tracks and bits of human flesh were strewn amid the wreckage.</p>
+<p>Officials said several of the injured were in life threatening condition.</p>
+<p>&quot;This was a great disaster,&quot; said the president of the federal railway network, Isaac Popoutchi. &quot;There has been no accident of this type in the recent history of the federal railway network.&quot;</p>
+<p>He said an inquiry had been launched which would establish within the next seven days what exactly happened.</p>
+<p>Popoutchi said the freight train had been checked before leaving the town of Barra de Pirai in Rio de Janeiro state and the technicians and train conductor had found the brakes to be in perfect working order.</p>
+<p>He said the federal railway would cover all the funeral and hospital costs of the victims and was considering paying compensation to the families of the dead.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RIO DE JANEIRO"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

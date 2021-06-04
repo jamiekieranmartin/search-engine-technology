@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="17787" id="root" date="1996-08-27" xml:lang="en">
+<title>CHINA: PRESS DIGEST - Chinese newspapers - August 27.</title>
+<headline>PRESS DIGEST - Chinese newspapers - August 27.</headline>
+<text>
+<p>Following is a summary of major Chinese political and business stories in leading newspapers, prepared by Reuters in Beijing. Reuters has not checked the stories and does not guarantee their accuracy. Telephone: (8610) 6532-1921. Fax: (8610) 6532-4978.</p>
+<p>- - - -</p>
+<p>PEOPLE'S DAILY</p>
+<p>China's President Jiang Zemin told visiting Malaysian Prime Minister Mahathir Mohamad that there must be cooperation between countries and not resistance, contact and not containment, dialogue and not force.</p>
+<p>An editorial said the impasse towards an agreement on a global nuclear test ban treaty should be resolved step-by-step.</p>
+<p>- - - -</p>
+<p>CHINA DAILY</p>
+<p>China publicly thanked Gabon for its strong support at the United Nations Human Rights Commission, where Beijing came under attack from Western nations for its human rights record.</p>
+<p>- - - -</p>
+<p>CHINA SECURITIES</p>
+<p>An editorial said last week's interest rate cuts would help reform state firms.</p>
+<p>- - - -</p>
+<p>FINANCIAL NEWS</p>
+<p>China's tourism revenues totalled $4.61 billion in the first half of 1996, up 15.26 percent year-on-year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="53387" id="root" date="1996-09-13" xml:lang="en">
+<title>USA: Maine to use state highway funds for ferry service.</title>
+<headline>Maine to use state highway funds for ferry service.</headline>
+<dateline>NEW YORK 1996-09-13</dateline>
+<text>
+<p>Maine's Attorney General has cleared the way to use state highway funds, including state and federal money dedicated to bridge improvements, to support ferries.</p>
+<p>Until the ruling by the attorney general, Drew Ketterer, earlier this month, the Department of Transportation had assumed that it was unlawful to apply highway funds for that purpose.</p>
+<p>Ticket prices for the ferry service have climbed sharply in the past few years, as state support has falled to 30 percent from 50 percent.</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

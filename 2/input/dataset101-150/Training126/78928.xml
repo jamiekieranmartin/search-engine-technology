@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="78928" id="root" date="1996-09-26" xml:lang="en">
+<title>USA: U.S. nuclear power plant scheduled outages - Sept 26.</title>
+<headline>U.S. nuclear power plant scheduled outages - Sept 26.</headline>
+<dateline>NEW YORK 1996-09-26</dateline>
+<text>
+<p>Listed below are scheduled maintenance and refueling outages at U.S nuclear power plants.</p>
+<p>Company		   Unit	  Capacity	Date     Length</p>
+<p>			  (MW)    strt   end  (days)CURRENT OUTAGES:</p>
+<p>Arizona Public Serv   Palo Verde 1   1,221   9/21  11/04    44</p>
+<p>Carolina P&amp;L Co	 Robinson 2	 683   9/07  10/20    49</p>
+<p>Commonwealth Edison   Bryon 2	  1,105   8/08   9/30    52</p>
+<p>			    LaSalle 2	1,078   9/20  11/25    65</p>
+<p>			    Zion 2	   1,040   9/18  11/16    58</p>
+<p>Duke Power Co	   Catawba 1	1,129   6/12  10/04   105</p>
+<p>Entergy Corp	    Arkansas 1	 836   9/12  10/12    30</p>
+<p>Duquesne Lt Co	  B. Valley 2	833   8/30  10/09    39</p>
+<p>Georgia Power Co	Vogtle 2	 1,162   9/08  10/12    35</p>
+<p>GPU Nuclear Corp	Oyster Creek     610   9/07  10/22    45</p>
+<p>Northeast Utils	 Millstone 1	660   *</p>
+<p>			    Millstone 2	870   *</p>
+<p>			    Millstone 3    1,149   *</p>
+<p>			    Conn. Yankee     582   7/22  11/15   113</p>
+<p>PECO Energy Co	  Peach Bottom 2 1,100   9/13  10/13    30</p>
+<p>Penn Power &amp; Light    Susquehanna 1  1,090   9/07  10/14    36</p>
+<p>PSE&amp;G		     Salem 1	  1,106   5/16  07/  /97</p>
+<p>			    Salem 2	  1,106   6/07  12/  /96</p>
+<p>Vermont Yankee	  Vermont Yankee   510   8/23  10/15    45</p>
+<p>Virginia Power	  North Anna 2     909   9/08  10/08    30</p>
+<p>Wisconsin Public	Kewaunee	   503   9/20  11/01    42</p>
+<p>TOTAL IN SCHEDULED OUTAGE	     19,282 MW</p>
+<p>SCHEDULED:</p>
+<p>Boston Edison Co	Pilgrim 1	   670     2/01/97     35</p>
+<p>Carolina P&amp;L Co	 Brunswick 1	 767    10/05/96     35</p>
+<p>Consumers Power Co    Palisades	   780    11/02/96     51</p>
+<p>Detroit Edison	  Fermi 2	   1,116     9/27/96     52</p>
+<p>Duke Power Co	   Oconee 3	    846    11/03/96     50</p>
+<p>Entergy Corp	    Grand Gulf 1    1,173    10/19/96     30</p>
+<p>IES Utilities	   Duane Arnold	538    10/11/96     30</p>
+<p>Illinois Power	  Clinton 1	   930    10/13/96     43</p>
+<p>NY Power Authority    Indian Pt 3	 965   *05/  /97     50</p>
+<p>			    FitzPatrick	 780    10/26/96     45</p>
+<p>Niagara Mohawk	  9 Mile Point 2  1,137     9/28/96     35</p>
+<p>Omaha Public Power    Ft Calhoun 1	478    10/05/96     44</p>
+<p>SoCal Edison	    San Onofre 2    1,070    11/30/96     65</p>
+<p>Southern Nuclear	Farley 2	    822    10/12/96     45</p>
+<p>TX Utilities	    Comanche Pk 1   1,150   *10/  /96     42</p>
+<p>Union Electric	  Callaway	  1,171    10/12/96     48</p>
+<p>Wisconsin Electric    Pt Beach 2	  485    10/05/96     71</p>
+<p>TOTAL					  14,878 MW</p>
+<p>Note: for those marked with *, the start or restart dates are tentative.</p>
+<p>Almost all nuclear operating companies say length of outage figures are rough guidelines and subject to change.</p>
+<p>-- Chris Reese, New York Power Desk 212-859-1627</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I1610109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

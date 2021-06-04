@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="82244" id="root" date="1996-09-27" xml:lang="en">
+<title>USA: Plane lands in Nashville due to unruly passenger.</title>
+<headline>Plane lands in Nashville due to unruly passenger.</headline>
+<dateline>NASHVILLE, Tenn. 1996-09-27</dateline>
+<text>
+<p>A USAir flight from Las Vegas to Charlotte, North Carolina was diverted to Nashville Friday after an unruly passenger threatened other people aboard, authorities said.</p>
+<p>None of the 119 passengers on Flight 614 was injured by the man, identified as 25-year-old Daniel Walters. Some news reports said Walters brandished a knife, but spokesmen for the FBI and USAir would not confirm that he had a weapon.</p>
+<p>FBI special agent Ken Walsh said Walters was being held, but officials did not consider it a hijacking attempt.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NASHVILLE, Tenn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

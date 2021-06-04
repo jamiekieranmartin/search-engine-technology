@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31761" id="root" date="1996-09-04" xml:lang="en">
+<title>COSTA RICA: Tourism takes dive in Costa Rica after kidnaps.</title>
+<headline>Tourism takes dive in Costa Rica after kidnaps.</headline>
+<dateline>SAN JOSE, Costa Rica 1996-09-04</dateline>
+<text>
+<p>Costa Rica's tourism industry has suffered badly since the kidnapping of two European tourists earlier this year, a top official said on Wednesday.</p>
+<p>&quot;Tourism has notched up its lowest increase in the last five years, around two percent, very far from the average 17 percent rate for the last five years,&quot; Tourism Minister Carlos Roesch told reporters.</p>
+<p>He said the abduction of two European women by former guerrillas on New Year's Day had spooked potential visitors, who had previously flocked to Costa Rica's rain forests and beaches.</p>
+<p>The two women were released in March after a $200,000 ransom was paid. Photographs have since been released showing one of them, 24-year-old German Nicola Fleuchaus, kissing the alleged leader of her captors.</p>
+<p>The official said Mexico's peso devaluation in December 1994 had also lured tourists to comparatively cheaper Mexican resorts.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COSR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GTOUR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Costa Rica"/>
+<dc element="dc.creator.location.country.name" value="COSTA RICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

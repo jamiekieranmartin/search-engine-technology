@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="54814" id="root" date="1996-09-16" xml:lang="en">
+<title>USA: Drug boosts immune system in AIDS cases - study.</title>
+<headline>Drug boosts immune system in AIDS cases - study.</headline>
+<byline>Joanne Kenen</byline>
+<dateline>WASHINGTON 1996-09-16</dateline>
+<text>
+<p>Doctors for the first time have used low doses of a cancer-fighting drug to boost the immune systems of people infected with the AIDS virus without any apparent side effects.</p>
+<p>The research, appearing on Tuesday in the Proceedings of the National Academy of Sciences, was based on a six-month study of 16 patients using interleukin 2 (IL 2).</p>
+<p>Scientists in the past year have made remarkable strides in developing antiviral drugs that suppress the human immunodeficiency virus which causes AIDS. Those drugs target the virus. The interleukin research attempted to give them an ally by marshalling the body's own immune system defense.</p>
+<p>Larger-scale controlled studies are needed, as are studies to determine how IL 2 works best in combination with antiviral AIDS drugs. But the researchers at New York Hospital-Cornell Medical Center were very encouraged by the initial findings.</p>
+<p>&quot;In the entire history of medicine, we really have not been able to stimulate the immune system. We can suppress it -- for transplants, allergies and autoimmune diseases. But we didn't know how to turn it up,&quot; lead researcher Dr. Kendall Smith told Reuters in a telephone interview. &quot;But we achieved that ... This shows the proof of concept.&quot;</p>
+<p>Smith said the idea was to use IL 2, with the other new &quot;cocktails&quot; of AIDS drugs, &quot;to treat people as early as possible, before they've had much immune system damage.&quot;</p>
+<p>IL 2 may also hold promise for people who are already sick. The anti-viral drugs may reduce HIV levels in their blood, but &quot;this may help the immune system in coming back.&quot;</p>
+<p>Interleukin 2 is a hormone that is a natural part of the immune system. Identified in the 1970s, it is used in chemotherapy against some cancers. But chemotherapy requires large doses and patients often have terrible side effects.</p>
+<p>Other scientists are experimenting with chemotherapy-style IL 2 treatments for AIDS, giving large doses in the hospital for about five days at a time. The treatment is costly and the side effects can be severe.</p>
+<p>In contrast, Smith's subjects gave themselves daily shots of small doses of IL 2, much like diabetics give themselves insulin. They did not have to go to the hospital and could continue normal daily school and work activities.</p>
+<p>The idea was to see how low a dose would be effective in raising the number of CD-4 cells in the bloodstream. The CD-4 count is an indicator of how healthy HIV-infected people are and how well they can stave off the virus's killer effects.</p>
+<p>The subjects had no AIDS symptoms yet and had CD4 counts of between 200 and 500 -- below normal but not &quot;advanced&quot; AIDS. On average they had been HIV-infected for seven years.</p>
+<p>Smith's team found that doses measured at 125,000 IU were too low. There were no significant side effects but there were no benefits either. At 500,000 IU, the side effects started, including low-grade fever, muscle aches and a &quot;general bad feeling,&quot; he said.</p>
+<p>But at 250,000 the patients' CD-4 counts rose steadily, a mean of 27 or 28 cells each month, and they had no side effects.</p>
+<p>In other AIDS drug developments, researchers at a medical conference in New Orleans released updated data on AIDS patients taking two protease inhibitors, the new class of HIV-fighting drugs.</p>
+<p>Data is available for only 12 weeks -- not enough to draw any firm conclusions -- but the combination of Abbott Laboratories' Novir (ritonavir) and Hoffmann-La Roche's Invirase (saquinavir) seems to suppress even more of the virus than the results at six weeks showed.</p>
+<p>And Agouron Pharmaceuticals Inc announced on Monday it was making its protease inhibitor, Viracept, available to more people with advanced AIDS who have exhausted other treatment options. The Food and Drug Administration allows such compassionate access for certain drugs pending approval.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

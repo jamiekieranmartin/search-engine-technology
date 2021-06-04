@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13057" id="root" date="1996-08-25" xml:lang="en">
+<title>USA: Analysts' picks in telemarketing stocks - NYT.</title>
+<headline>Analysts' picks in telemarketing stocks - NYT.</headline>
+<dateline>NEW YORK 1996-08-25</dateline>
+<text>
+<p>Some analysts predict double-digit annual earnings growth in companies in the booming telemarketing business, the New York Times reported on Sunday.</p>
+<p>The paper quoted Lehman Brothers analyst Jeff Kessler as saying APAC TeleServices could go as high as $50 in the next 12 to 15 months and can grow its earnings by 40 percent on an annual basis over the next three years.</p>
+<p>Dain Bosworth analyst Maureen Pettirossi recommends APAC as well as SITEL Corp and Precision Response Corp, which her firm helped bring public in July, the paper said. She said SITEL'S earnings could grow 45 to 50 percent annually over the next two to three years and Precision Response earnings' could grow 70 to 75 percent annually over the same period.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

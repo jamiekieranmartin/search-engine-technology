@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="86209" id="root" date="1996-09-30" xml:lang="en">
+<title>FRANCE: INTERVIEW - Ford sees more ventures with Mazda.</title>
+<headline>INTERVIEW - Ford sees more ventures with Mazda.</headline>
+<dateline>PARIS 1996-09-30</dateline>
+<text>
+<p>Ford Motor Co expects Mazda Motor Corp to return to profit this fiscal year and sees profit growth in the next few years as the two companies extend their working relationship.</p>
+<p>Chairman and chief executive officer Alex Trotman said that Mazda, in which Ford has 33.4 percent, would break even this year.</p>
+<p>&quot;I think that we are about to break even in Mazda and from what we see we can gradually improve over the next years,&quot; he said in an interview with Reuters.</p>
+<p>&quot;It's a very tough market in Japan. It's not an easy environment for them but I think they are past the worst now.</p>
+<p>&quot;With our new relationship we will cooperate much more than in the past, very likely we will share more hardware and more engineering in the future. I don't want to comment on what that sharing will look like,&quot; Trotman said.</p>
+<p>He said Mazda was already assembling some Ford-brand vehicles.</p>
+<p>Ford and Mazda are building a plant in Thailand to build pick-up trucks that will be branded Ford and Mazda.</p>
+<p>&quot;I think you will see more programs like that, a single joint-venture factory that makes both Mazda and Ford,&quot; he said.</p>
+<p>&quot;I suspect we will see quite a few of those in the next 10 or 20 years,&quot; he added.</p>
+<p>-- Paris newsroom +33 1 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

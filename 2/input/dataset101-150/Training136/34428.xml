@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="34428" id="root" date="1996-09-05" xml:lang="en">
+<title>GUYANA: Guyana crime wave blamed on U.S. deportees.</title>
+<headline>Guyana crime wave blamed on U.S. deportees.</headline>
+<dateline>GEORGETOWN, Guyana 1996-09-05</dateline>
+<text>
+<p>Guyana is experiencing a crime wave caused by criminals returning home after being deported from the United States, government officials said on Thursday.</p>
+<p>&quot;They are contributing towards criminal activities in the country and are into drugs and other crimes,&quot; Floyd McDonald, deputy police commissioner in charge of crime, told Reuters.</p>
+<p>Sixty-two criminals have been sent back to the former British colony so far this year, mostly from the United States. Most served jail terms for drugs offences. In 1995, 54 Guyanese were deported.</p>
+<p>Their arrival has been associated with an increase in U.S.-style crimes in this small South American country of 800,000 people, McDonald said.</p>
+<p>Car thefts and armed robberies have increased markedly in recent months, he said, without giving any figures.</p>
+<p>Finance Minister Bharrat Jagdeo told a money laundering conference on Wednesday that the government was very concerned about the crime wave and Guyana's 4,000-strong police force was in danger of being overwhelmed.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GUY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GEORGETOWN, Guyana"/>
+<dc element="dc.creator.location.country.name" value="GUYANA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

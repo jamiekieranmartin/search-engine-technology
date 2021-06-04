@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="37094" id="root" date="1996-09-06" xml:lang="en">
+<title>HUNGARY: Pope John Paul begins two-day visit to Hungary.</title>
+<headline>Pope John Paul begins two-day visit to Hungary.</headline>
+<dateline>BUDAPEST 1996-09-06</dateline>
+<text>
+<p>Pope John Paul arrived in Hungary on Friday for a two-day visit intended to highlight his drive for Christian unity in the approach to the year 2000.</p>
+<p>The 76-year-old Pontiff looked in reasonable health as he walked steadily down the steps of the Alitalia plane to be greeted by Hungarian President Arpad Goncz.</p>
+<p>Two young girls presented him with flowers in the Vatican colours of yellow and white. He did not kiss the ground, a regular feature of his trips, because this was his second visit to Hungary.</p>
+<p>The Pope, who hopes to lead the Roman Catholic Church into the third millennium, is to attend a ceremony later on Friday marking the 1,000th anniversary of a Benedictine monastery at Pannonhalma in western Hungary.</p>
+<p>On Saturday he is to celebrate a huge outdoor mass in the nearby city of Gyor, on the River Danube, and meet Hungarian bishops before returning to Rome that evening.</p>
+<p>The trip, the Pope's 73rd abroad, follows a fresh scare about his health in mid-August when he entered hospital briefly for a battery of sophisticated medical tests.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="VCAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="GREL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

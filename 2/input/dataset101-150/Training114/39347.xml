@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="39347" id="root" date="1996-09-07" xml:lang="en">
+<title>GERMANY: Siemens says environment spending pays off.</title>
+<headline>Siemens says environment spending pays off.</headline>
+<dateline>MUNICH, Germany 1996-09-07</dateline>
+<text>
+<p>German electronics group Siemens AG said on Saturday it had invested 225 million marks in environmental protection in 1995 and that its operations had become kinder to the environment as a result.</p>
+<p>In its environmental report, Siemens said the investment had been worthwhile, adding that it had cut its energy consumption over the year by 12 percent as a result.</p>
+<p>The company said it had cut its electricity bill to 2,215 million kilowatt-hours from 2,438 million in 1994. Thermal energy consumption had been reduced to 2,183 million kilowatt-hours from 2,544 million a year earlier.</p>
+<p>Siemens also said the volume of carbon dioxide emitted from its plants had fallen by 8.9 percent to 350,000 tonnes while the volume of non-recyclable waste had fallen by about six percent.</p>
+<p>A reduction in sewage of about 10 percent had saved the company around one million marks, the report added.</p>
+<p>--Frankfurt Newsroom +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MUNICH, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

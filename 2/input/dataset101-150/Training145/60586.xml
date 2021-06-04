@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="60586" id="root" date="1996-09-18" xml:lang="en">
+<title>USA: Airlines drop fall fares for domestic flights.</title>
+<headline>Airlines drop fall fares for domestic flights.</headline>
+<dateline>NEW YORK 1996-09-18</dateline>
+<text>
+<p>Some major airlines Wednesday dropped their domestic fares an average of 45 percent in response to price cuts initiated by AMR Corp's American Airlines.</p>
+<p>Carriers that followed Tuesday's cuts by American included UAL Corp's United Airlines, Delta Air Lines Inc , and Trans World Airlines Inc.</p>
+<p>The rivals said they are matching American's specially priced tickets, which  must be bought by September 30 and apply to travel between September 25 and February 13.  </p>
+<p>United Airlines on Wednesday announced a matching cut, and Trans World Airlines announced discounts of up to 55 percent for 21-day advance purchase domestic flights.</p>
+<p>Delta said it was following with similar measures. &quot;We're going to be offering competitive fares. (They) will be in place by the end of the day,&quot; said Delta spokesman Bill Berry.  </p>
+<p>Continental Airlines Inc and USAir Group Inc said they would also be matching American's fares.</p>
+<p>American's cuts apply also to its Caribbean flights, which will be 25 percent lower for travel through November 29.</p>
+<p>American initiated the cuts on domestic flights late Tuesday, just 10 days after major airlines raised their fares 2.5 percent to match a price increase led by Continental.</p>
+<p>&quot;Things are typically somewhat slower in the fall season, and we have good availablity,&quot; said American spokesman Tim Smith. &quot;This is what brings in incremental business that might not otherwise be there.&quot;</p>
+<p>In early afternoon trade, AMR was off 1/2 at 80-1/2.</p>
+<p>UAL was off 1/8 at 47-3/8; Continental was up 1/4 at 21- 5/8; TWA was down 1/4 at 10 3/8; and Delta was off 1/4 at 69.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

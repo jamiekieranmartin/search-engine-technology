@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="39944" id="root" date="1996-09-08" xml:lang="en">
+<title>INDIA: Indian lorry plunges into river, 35 dead.</title>
+<headline>Indian lorry plunges into river, 35 dead.</headline>
+<dateline>HYDERABAD, India 1996-09-08</dateline>
+<text>
+<p>Thirty-five people in a wedding party were drowned when a lorry plunged into a swollen river in the southern Indian state of Andhra Pradesh, police said on Sunday.</p>
+<p>Police said the accident occurred on Saturday when the overcrowded lorry, carrying about 70 people, somersaulted from a bridge at Cuddapah, 400 km (250 miles) south of Hyderabad, the state capital.</p>
+<p>The dead included 15 women and 10 children.</p>
+<p>The state's relief commissioner, H.S. Brahma, told Reuters that rescue teams were still trying to retrieve bodies from the river, which was swollen by floodwaters. Survivors had waded ashore.</p>
+<p>People often travel by lorry to weddings in India, where an estimated 50,000 people die in road accidents each year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HYDERABAD, India"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

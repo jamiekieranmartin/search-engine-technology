@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="83883" id="root" date="1996-09-29" xml:lang="en">
+<title>TURKEY: Russian boat sinks off Turkey, seven missing.</title>
+<headline>Russian boat sinks off Turkey, seven missing.</headline>
+<dateline>ANKARA 1996-09-29</dateline>
+<text>
+<p>Seven crew members of a Russian-flagged passenger boat were missing on Sunday after the vessel sank in a storm off Turkey's Black Sea coast, Anatolian news agency said.</p>
+<p>It said four people on the Moldavia, including a Russian crew member and a Turkish customs officer, had been rescued after it hit rocks off the province of Bartin and went down on Saturday night. The missing crew members were all Turks, it said.</p>
+<p>The boat was travelling from the eastern coastal city of Trabzon to Istanbul for repairs. A Turkish company had been renovating the Moldavia to turn it into a 300-bed floating hotel with a cinema. It had not been to sea for four years, Anatolian said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANKARA"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

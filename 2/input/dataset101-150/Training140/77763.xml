@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="77763" id="root" date="1996-09-26" xml:lang="en">
+<title>USA: IBM  launches &quot;split-system&quot; PC line.</title>
+<headline>IBM  launches &quot;split-system&quot; PC line.</headline>
+<dateline>NEW YORK 1996-09-26</dateline>
+<text>
+<p>International Business Machines Corp unveiled Thursday its Aptiva &quot;S Series&quot; line of &quot;split system&quot; personal computers designed to make computing functions easier for home users.</p>
+<p>The split-system model allows users to place a PC keyboard and accessories in a convenient location while hiding the bulky main computer box in a separate, out-of-the-way spot.</p>
+<p>IBM said the &quot;S Series&quot; will come in four basic models running either Pentium 166 or 200 megahertz chips and contain up to 3.2 gigabytes of storage capacity, the latest CD-ROM drives, modems and a variety of multimedia features.</p>
+<p>The basic Aptiva models range in price from $2,499 to $3,099, excluding monitor, which run another $499 to $799, the prices of a 15-inch or 17-inch screen, respectively. The line is available immediately from U.S. retailers.</p>
+<p>The new models take many of their architectural cues from the tradition of slick, modular consumer electronics.</p>
+<p>The new Aptiva machines have a charcoal gray appearance and modular components that owe much of their inspiration to home stereo or television/videocasette player systems.,t</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

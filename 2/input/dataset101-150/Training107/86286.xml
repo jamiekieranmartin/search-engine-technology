@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="86286" id="root" date="1996-09-30" xml:lang="en">
+<title>MALTA: Malta tourism down 7.7 percent.</title>
+<headline>Malta tourism down 7.7 percent.</headline>
+<dateline>VALLETTA 1996-09-30</dateline>
+<text>
+<p>Tourist arrivals in Malta dropped by 7.7 percent in the first seven months of 1996 compared to the same period in 1995, the Central Office of Statistics said on Monday.</p>
+<p>The office said the Mediterranean island had 590,793 visitors from January to end-July this year compared to 639,815 in the same period last year.</p>
+<p>The office admitted it made a mistake in tourist arrivals figures for May, saying that a computer error had listed the number of arrivals at 84,977 when the proper figure should have been 97,541.</p>
+<p>Arrivals in June dropped to 101,061 compared with 110,028 in June 1995. July figures were 123,643 from 134,477 arrivals in 1995.</p>
+<p>The drops were mostly in the British and German markets, which are Malta's biggest.</p>
+<p>The office said earnings from tourism in the first six months of 1996 reached Lm97 million ($268 million) compared to Lm96.5 million ($266 million) in the first half of 1995. (Lm1 = $2.76)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALTA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="E511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="GTOUR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VALLETTA"/>
+<dc element="dc.creator.location.country.name" value="MALTA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

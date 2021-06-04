@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="77243" id="root" date="1996-09-25" xml:lang="en">
+<title>TUNISIA: PRESS DIGEST - Tunisia - Sept 25.</title>
+<headline>PRESS DIGEST - Tunisia - Sept 25.</headline>
+<dateline>TUNIS 1996-09-25</dateline>
+<text>
+<p>These are the leading stories in the Tunisian press on Wednesday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>LA PRESSE</p>
+<p>- President Ben Ali confers with Social Affairs Minister Chedli Neffati over help to the elderly.</p>
+<p>- Tunisia refinances $150 million syndicated loan.</p>
+<p>LE TEMPS</p>
+<p>- Telecommunications agency accounter says telephone fees are not too high and not too cheap compared to their level in other countries.</p>
+<p>ASSABAH</p>
+<p>- Details of wage increases in 34 public companies.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TUNIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TUNIS"/>
+<dc element="dc.creator.location.country.name" value="TUNISIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

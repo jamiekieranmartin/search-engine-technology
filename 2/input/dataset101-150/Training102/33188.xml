@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33188" id="root" date="1996-09-04" xml:lang="en">
+<title>FRANCE: France to crack down on child sex.</title>
+<headline>France to crack down on child sex.</headline>
+<dateline>PARIS 1996-09-04</dateline>
+<text>
+<p>France plans a crackdown on the sexual abuse of children, Justice Minister Jacques Toubon said on Wednesday.</p>
+<p>A package of measures cracking down on sex tourism, pornographic material and messages on the Internet computer network involving children will be announced on November 20, he said after meeting associations for the protection of children.</p>
+<p>Humanitarian Action Minister Xavier Emmanuelli is to propose steps to increase prevention of child abuse, while Toubon will introduce a bill on punishment.</p>
+<p>The plan was announced in the wake of Stockholm's first World Congresss on Commercial Sexual Exploitation of Children, and of the child sex and murder scandal in neighbouring Belgium which has stirred strong feelings in France.</p>
+<p>A senior magistrate was being held and questioned by police in the Alpine town of Chambery on Wednesday on allegations of indecent behaviour with young girls.</p>
+<p>The unnamed 54-year-old magistrate, a former children's judge, was involved in a group helping schoolchildren with their homework.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

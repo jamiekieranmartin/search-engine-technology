@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="39304" id="root" date="1996-09-07" xml:lang="en">
+<title>USA: Clinton mulls plan for national monument in Utah.</title>
+<headline>Clinton mulls plan for national monument in Utah.</headline>
+<dateline>WASHINGTON 1996-09-06</dateline>
+<text>
+<p>The Clinton administration is considering a proposal to designate up to 1.8 million acres of federal land in Utah as a national monument, The Washington Post reported in Saturday editions.</p>
+<p>The plan could prevent most future commercial development throughout a vast area rich in spectacular scenery, coal reserves and land use disputes.</p>
+<p>The land lies east of the town of Kanab and southwest of Capitol Reef National Park.</p>
+<p>The paper quoted sources inside and outside the administration as saying the most ambitious plan still under review called for up to 1.8 million acres of land to be included in the national monument, an area nearly as large as Yellowstone National Park.</p>
+<p>Clinton could use a 1906 statute known as the Antiquities Act to create the national monument without congressional approval.</p>
+<p>If Clinton approves the proposal, it would probably stop development of a giant coal mine planned by the Dutch firm Andalax Resources Inc. in a remote area known as the Kaiparowits Plateau, the newspaper reported.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

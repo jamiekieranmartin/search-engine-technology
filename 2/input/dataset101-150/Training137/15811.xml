@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="15811" id="root" date="1996-08-27" xml:lang="en">
+<title>USA: Alaska Supreme Court blocks fish-allocation vote.</title>
+<headline>Alaska Supreme Court blocks fish-allocation vote.</headline>
+<dateline>ANCHORAGE, Alaska 1996-08-26</dateline>
+<text>
+<p>The Alaska Supreme Court handed a victory to the state's commercial fishermen Monday, blocking a salmon-allocation initiative from the November ballot.</p>
+<p>The initiative, promoted by a sport-fishing group called Fairness in Salmon Harvest (FISH), would violate the state constitution by stripping state experts of their ability to allocate salmon between competing users, the court ruled.</p>
+<p>The FISH initiative resulted from clashes between sport and commercial fishermen, particularly over salmon runs on southcentral Alaska's Kenai Peninsula. The area is world famous for its huge king salmon and runs of sockeye salmon.</p>
+<p>The initiative seeks to guarantee a specific allocation of salmon to sport and personal-use fishermen. If it becomes law, it could eliminate entire commercial harvests in times of salmon shortages, the state Supreme Court said.</p>
+<p>Monday's decision was prompted by an appeal filed by United Fishermen of Alaska, the state's largest commercial fishing group. It reversed a lower-court ruling that held the ballot initiative to be constititional.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANCHORAGE, Alaska"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

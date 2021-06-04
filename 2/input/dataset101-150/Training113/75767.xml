@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="75767" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: Lear sets first China joint venture.</title>
+<headline>Lear sets first China joint venture.</headline>
+<dateline>SOUTHFIELD, Mich. 1996-09-25</dateline>
+<text>
+<p>Lear Corp, marking its first expansion into the Chinese vehicle market, said Wednesday it signed a letter of intent to form a joint venture with state-owned Jiangling Motors Co Ltd.</p>
+<p>Lear said it will own 50 percent of the new company, Jiangling-Lear Interior System Co Ltd, which will operate from an existing facility in Nanchang, China.</p>
+<p>The venture will provide seats and interior trim for trucks from Isuzu Motors Ltd and transit vans from Ford Motor Co. Lear said the new company will make seats for 150,000 vehicles a year.  </p>
+<p>Financial details were not disclosed.</p>
+<p>The companies held a signing ceremony at Lear's Ford division headquarters in Allen Park, Mich., attended by Robert Rossiter, president and chief operating officer of Lear, and Jiangling Chairman and President Sun Min.</p>
+<p>Lear said annual vehicle sales in China are expected to triple over the next few years to more than three million from 1.2 million now.</p>
+<p>Lear said it is the world's largest independent supplier of automotive interior systems, and posted 1995 sales of $4.7 billion. Jiangling currently makes light trucks for Isuzu. It will begin production in late 1997 of a light truck for Ford that will be sold in Europe.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SOUTHFIELD, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

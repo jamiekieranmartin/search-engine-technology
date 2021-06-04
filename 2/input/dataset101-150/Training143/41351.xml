@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="41351" id="root" date="1996-09-09" xml:lang="en">
+<title>USA: U.S. offers new air crash victim notification rule.</title>
+<headline>U.S. offers new air crash victim notification rule.</headline>
+<dateline>WASHINGTON 1996-09-09</dateline>
+<text>
+<p>U.S. officials proposed on Monday to require airlines involved in a aviation disaster on an international flight to provide a passenger list to the State Department within one hour of the incident.</p>
+<p>The provision was one of the recommendations made last Thursday by a special White House Aviation Safety and Security Commission formed after the July 17 explosion of a TWA Boeing 747 off New York, killing all 230 people aboard.</p>
+<p>Transportation Secretary Federico Pena said &quot;as recent accidents have illustrated, a more prompt and accurate initial notification to the families is needed.&quot;</p>
+<p>Many families of people killed in recent accidents have complained that it took airlines hours and sometimes even days before they could get any firm word whether relatives or friends were on the crashed plane.</p>
+<p>Pena, who announced the proposal, said his office was studying how to ensure speedy notification for families of victims of domestic disasters as well.</p>
+<p>Under the proposal, the list will contain the full name of the passenger, passport number and country where issued and the name and telephone number of an emergency contact.</p>
+<p>The proposal will be open for public comment until Nov. 12, the department said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

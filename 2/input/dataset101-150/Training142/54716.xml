@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="54716" id="root" date="1996-09-15" xml:lang="en">
+<title>USA: Miss Kansas wins Miss America 1997.</title>
+<headline>Miss Kansas wins Miss America 1997.</headline>
+<dateline>ATLANTIC CITY, N.J. 1996-09-15</dateline>
+<text>
+<p>Miss Kansas, Tara Dawn Holland, Saturday won the title of Miss America for 1997.</p>
+<p>The 23-year-old music education major won the 76th crown in the competition that began in 1921, beating out the first runner-up, Miss Louisiana, Erika Schwarz.</p>
+<p>It was the first contest decided in part by the television audience's call-in vote. The audience vote narrowed the field of 10 semifinalists to five and the winner was selected by a panel of seven celebrity judges.</p>
+<p>The new Miss America sang an operatic aria in her talent performance and announced fighting illiteracy was her field of interest.</p>
+<p>She was crowned by Miss America of 1996, Shawntel Smith, and won a $40,000 scholarship.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTIC CITY, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

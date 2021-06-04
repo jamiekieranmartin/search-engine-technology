@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="35886" id="root" date="1996-09-05" xml:lang="en">
+<title>USA: IBM enters network computer segment.</title>
+<headline>IBM enters network computer segment.</headline>
+<dateline>NEW YORK 1996-09-05</dateline>
+<text>
+<p>International Business Machines Corp said it unveiled its first network computer, a scaled-down personal computer for accessing the Internet and corporate computer networks, priced at under $700.</p>
+<p>IBM said its network computer, called the Network Station, is the first in a series of network devices planned by IBM. The IBM Network Station is aimed at corporate users.</p>
+<p>IBM first talked about developing its own version of the network computer at the Fall Comdex last November. It was the first major U.S. PC maker to adopt the vision promulgated by Oracle Corp chairman Larry Ellison.  </p>
+<p>The Network Station will be the first network computer to use Netscape's new updated World Wide Web browser, Navigator 3.0, which will be customized for the network computer by NAVIO, the new unit created by Netscape to develop a Web browser for network computers and consumer devices.</p>
+<p>The Network Station  will support network access via corporate intranets using Ethernet and Token Ring technology connections. The system can access Sun's Java language, Microsoft Corp's Windows NT software, UNIX, IBM's OS/2 operating system, and IBM's AS/400 minicomputers, RS/6000 workstations and System 390 mainframe computers.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

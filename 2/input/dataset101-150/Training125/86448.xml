@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="86448" id="root" date="1996-09-30" xml:lang="en">
+<title>UK: UK Labour's lead slips six points in Gallup poll.</title>
+<headline>UK Labour's lead slips six points in Gallup poll.</headline>
+<dateline>LONDON 1996-09-30</dateline>
+<text>
+<p>The lead enjoyed by Britain's Labour Party over the Conservatives has slipped by six points in a Gallup poll for the Daily Telegraph.</p>
+<p>The poll showed support for Labour at 54 percent, down 4.5 points from the beginning of the month. The Conservatives were up 1.5 points to 27 percent and the Liberal Democrats were up 2.5 points to 13.5 percent.</p>
+<p>The changes left Labour's overall lead six points off at 27 points.</p>
+<p>Gallup interviewed 1,033 adults between September 18-24 in more than 100 districts of Britain.  </p>
+<p>The poll also showed that the proportion of voters who believe that Labour is divided is higher now than at any time since Tony Blair became leader in 1994.</p>
+<p>It said 58 percent believed Labour was divided compared to 31 percent at the beginning of the year. In January 55 percent of voters believed Labour was united compared to 29 percent in the latest poll.</p>
+<p>-- LONDON NEWSROOM  +44 171 542 7947</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32575" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Protein Design halts second Protivir trial.</title>
+<headline>Protein Design halts second Protivir trial.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1996-09-04</dateline>
+<text>
+<p>Protein Design Labs Inc said it halted a second clinical trial of its Protivir antibody after an interim analysis showed &quot;a lack of evidence of efficacy&quot; at current doses.</p>
+<p>The action follows its move last month to halt another trial of Protivir in AIDS patients with CMV retinitis, a virus that leads to blindness.</p>
+<p>The trial halted on Wednesday was also testing Protivir as a treatment to counter the virus in AIDS patients. Unlike the trial that was halted earlier, the one halted Wednesday, found no safety concerns.  </p>
+<p>The AIDS Clinical Trials Group said it recommended the study continue using a higher dose of Protivir.</p>
+<p>Protein Design Labs also has a third clinical trial under way, a Phase II study of Protivir to prevent CMV infections in cancer patients who have undergone bone marrow transplants. In this group of patients, the CMV virus manifests itself in lung and intestinal infections.</p>
+<p>The company said it expects that study to be completed by around the end of the year.</p>
+<p>In August, a Protivir trial being conducted by SOCA (Studies of the Ocular Complications of AIDS), was halted after findings of a lack of efficacy and a higher death rate among patients in the test group than those receiving the placebo.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

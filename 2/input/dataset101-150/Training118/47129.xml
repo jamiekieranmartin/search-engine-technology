@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="47129" id="root" date="1996-09-11" xml:lang="en">
+<title>USA: RESEARCH ALERT - Salomon upgrades Eli Lilly.</title>
+<headline>RESEARCH ALERT - Salomon upgrades Eli Lilly.</headline>
+<text>
+<p>-- Salomon Brothers said analyst Robert Uhl raised his rating on Eli Lilly and Co to strong buy from buy.</p>
+<p>-- &quot;It appears that worldwide approvals and introductions of Zyprexa, a new therapy for schizophrenia, are imminent,&quot; Uhl said in a report.</p>
+<p>-- He set a 12-month price target of $75 on the stock.</p>
+<p>-- Shares rose 3/8 to 59-3/4 in late morning exchange trading.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

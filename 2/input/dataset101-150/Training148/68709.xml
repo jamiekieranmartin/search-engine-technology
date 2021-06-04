@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="68709" id="root" date="1996-09-21" xml:lang="en">
+<title>MEXICO: Mexico-U.S. border wins NAFTA project funding.</title>
+<headline>Mexico-U.S. border wins NAFTA project funding.</headline>
+<dateline>MEXICO CITY 1996-09-21</dateline>
+<text>
+<p>Mexico's Finance Ministry said Saturday that the North American Development Bank has approved the first finance packages for two water projects on the U.S.-Mexico border.</p>
+<p>The border region was earmarked for special attention and funding under the North American Free Trade Agreement (NAFTA) between Mexico, the United States and Canada, especially for environmental infrastructure projects.</p>
+<p>No figures were given for the amounts of the packages, which are both on the Mexican side of the border.</p>
+<p>The first is a credit to partially finance a system of water storage and treatment of waste water in the town of Naco in the state of Sonora.</p>
+<p>The second is for partial credit guarantees for a waste water treatment plant for an industrial corridor in Matamoros, in the state of Tamaulipas.</p>
+<p>Other Mexican border towns that are earmarked for project finance are Nogales, Piedras Negras, Puerto Penasco, Ciudad Juarez, Mexicali, Tijuana, Nuevo Laredo and Ensenada.</p>
+<p>U.S. towns that are listed to receive funding are Brawley in California, Mercedes in Texas and Somerton in Arizona, the ministry added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I17000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

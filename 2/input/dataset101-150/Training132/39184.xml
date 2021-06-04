@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="39184" id="root" date="1996-09-07" xml:lang="en">
+<title>CHINA: Beijing alarmed by surge in industrial accidents.</title>
+<headline>Beijing alarmed by surge in industrial accidents.</headline>
+<dateline>BEIJING 1996-09-07</dateline>
+<text>
+<p>Beijing authorities, alarmed by a surge in the number of deaths from industrial accidents, convened an emergency meeting to try to curb such casualties, the Capital Economic Information Daily said on Saturday.</p>
+<p>Forty workers were killed in industrial accidents in August, compared with 143 in the first seven months of 1996 or an average of 20.4 a month, the newspaper said. It gave no reason for the increase.</p>
+<p>Beijing Vice-Mayor Jin Renqing convened an emergency meeting this month and decided that officials must adopt measures to curb the rise in the number of deaths from industrial accidents.</p>
+<p>A total of 155 industrial accidents were reported in the Chinese capital in the first eight months, 68 of them at construction sites, it said.</p>
+<p>Eighty-four building workers were killed, accounting for 45.9 percent of the total, the newspaper said.</p>
+<p>A construction boom in Beijing has attracted thousands of out-of-town farmers to work as construction workers.</p>
+<p>Separately, 62 miners were killed in 51 mining accidents in Beijing, the newspaper said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIJING"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

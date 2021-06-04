@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="62401" id="root" date="1996-09-18" xml:lang="en">
+<title>SWEDEN: Autoliv rises over 3 pct on safety report.</title>
+<headline>Autoliv rises over 3 pct on safety report.</headline>
+<dateline>STOCKHOLM 1996-09-18</dateline>
+<text>
+<p>Shares in Swedish car safety equipment maker Autoliv jumped over three percent on Wednesday after a report by the U.S. National Transportation Safety Board (NTSB) on airbags and child restraint systems.</p>
+<p>At 1305 GMT the share traded at 240.50 crowns, up 7.50 in lively turnover on an otherwise softer Swedish sharemarket.</p>
+<p>&quot;This report was positive for Autoliv,&quot; said one Stockholm-based analyst.</p>
+<p>The NTSB recommended the National Highway Traffic Safety Administration set up a timetable to implement so called &quot;smart&quot; airbags and require children up to age eight to use child safety seats and booster seats.</p>
+<p>-- Stockholm newsroom +46-8-700 1017</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

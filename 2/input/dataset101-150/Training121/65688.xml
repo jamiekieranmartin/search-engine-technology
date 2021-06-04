@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="65688" id="root" date="1996-09-19" xml:lang="en">
+<title>CHINA: PRESS DIGEST - Chinese newspapers - Sept 19.</title>
+<headline>PRESS DIGEST - Chinese newspapers - Sept 19.</headline>
+<text>
+<p>Following is a summary of major Chinese political and business stories in leading newspapers, prepared by Reuters in Beijing. Reuters has not checked the stories and does not guarantee their accuracy. Telephone: (8610) 6532-1921. Fax: (8610) 6532-4978.</p>
+<p>- - - -</p>
+<p>CHINA SECURITIES</p>
+<p>An editorial said August's rebound in inflation was not too large and that inflation in September and October would be stable</p>
+<p>Experts suggest lowering land prices and reforming the financial system to promote the housing consumption.</p>
+<p>Rubber prices are steadily falling due to a glut in the market. China's rubber output.</p>
+<p>- - - -</p>
+<p>FINANCIAL NEWS</p>
+<p>Vehicle output in the first eight months of 1996 was 1.025 million units, up 2.06 percent from the same period a year ago.</p>
+<p>- - - -</p>
+<p>ECONOMIC INFORMATION DAILY</p>
+<p>China had reserves of 300,000 tonnes of sugar in July, boosting sugar prices.</p>
+<p>- - - -</p>
+<p>CHINA DAILY</p>
+<p>Construction officials urged swift action to curb swelling energy consumption and pollution by construction projects across the country.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

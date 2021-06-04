@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="43604" id="root" date="1996-09-10" xml:lang="en">
+<title>MEXICO: Foreign, Mexican firms line up for Jalisco casinos.</title>
+<headline>Foreign, Mexican firms line up for Jalisco casinos.</headline>
+<dateline>GUADALAJARA, Mexico 1996-09-10</dateline>
+<text>
+<p>Around 20 Mexican and foreign firms have contacted the government of the central state of Jalisco to put their names down as potential casino operators if Mexico changes its gambling laws, an official said on Tuesday.</p>
+<p>&quot;We have identified around 20 groups, mostly foreign ones...such as Circus Circus, Hollywood Casinos...MGM,&quot; Donaciano Hernandez, a top official in the state's Tourism Secretariat, told Reuters.</p>
+<p>He said the Pacific resort of Puerto Vallarta and Guadalajara, the state capital that is Mexico's second largest city, were the most sought-after venues. Also he mentioned the Jalisco lakeside town of Chapala.</p>
+<p>A tentative government move to remove the bar to gambling in Mexico has sparked the interest of Guadalajara's debt-ridden tourism giant Grupo Situr, though it says its interest is mainly in hotels.</p>
+<p>For Situr, &quot;the best business is real estate. We haven't thought about, no do we intend, learning to operate a casino as such,&quot; said Situr boardmember Jose Martinez Guitron.</p>
+<p>-- Monica Ballesca, Mexico City newsroom +525 728-9560</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="I97912">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GUADALAJARA, Mexico"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

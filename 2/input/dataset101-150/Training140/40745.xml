@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="40745" id="root" date="1996-09-09" xml:lang="en">
+<title>USA: FULL TEXT - Apple unveils servers.</title>
+<headline>FULL TEXT - Apple unveils servers.</headline>
+<dateline>CUPERTINO, Calif. 1996-09-09</dateline>
+<text>
+<p>Apple Computer Inc Monday unveiled a new line of workgroup servers. The following is the company's news release.</p>
+<p>-----------------PRESS RELEASE ----------------------</p>
+<p>CUPERTINO, Calif., Sept. 9 /PRNewswire/ -- Underscoring its commitment to the server market, Apple Computer, Inc. today announced faster and feature- enhanced Workgroup Servers and Network Servers with up to 200MHz PowerPC(TM) 604e microprocessors.  The new systems -- the Mac(R) OS-based Workgroup Server 8550/200 and 7250/120 and the AIX(R)-based Network Server 700/200 -- extends the full server product lines with the latest technologies and fastest processors available from Apple(R).</p>
+<p>&quot;Today's announcement of the speed-bumped servers substantiates Apple's commitment to deliver superior price/performance and advanced technology to our Workgroup Server and Network Server customers,&quot; said Howard Lee, senior vice president and general manager of Apple's Server and Alternative Platform Products Division.  &quot;By integrating faster processors and upgraded server components into our server product lines, Apple continues to deliver compelling solutions to our customers who demand leading performance, reliability and superior ease-of-use.&quot;</p>
+<p>Blazing Performance Improvements and Upgrades for departmental Network Servers</p>
+<p>Featuring an innovative product design enclosure for easy serviceability, the new Apple Network Server 700/200 becomes the flagship of Apple's departmental server family and is powered by a 200MHz 604e PowerPC processor. The Network Server family has been further enhanced with the availability of a high-capacity 3.5&quot; Fast/Wide SCSI-2 disk drive (9GB), a high-capacity 8mm tape drive (20GB uncompressed/40GB compressed), an 8x-speed CD-ROM drive and a PCI FDDI card.  The 8mm tape drive from Exabyte is capable of backing-up data at a rate of up to 6MBs per second or 40GBs in two hours.</p>
+<p>For existing Network Server 500/132 and Network Server 700/150 customers, a 200MHz CPU Upgrade Card is also expected to be available, thus increasing server performance while enhancing customers' investment in Apple hardware. The Network Server 700/200 joins the Network Server 500/132 and 700/150 products which remain in the product line and have improved internal hard disk capacities of 54GBs and 65GBs respectively.</p>
+<p>Introduced in February 1996, the Network Servers have been engineered and designed for high-performance and reliability for publishing, enterprise, entertainment, and education environments.  As a binary-compatible AIX-based server platform, the Network Server can run virtually thousands of proven AIX- based applications off-the-shelf. Key server solutions are available from leading vendors such as IPT and Helios for file and print sharing, Netscape and Lotus Notes and Domino for Internet/intranet solutions, Oracle and Informix for relational database services, IPT, Helios, and Archetype for OPI prepress, Lotus Notes for groupware, Starlight for QuickTime(R) video/media services, Legato for data backup and recovery, and American Power Conversion for power management.</p>
+<p>Support for Symmetric Multi-Processing in Network Servers</p>
+<p>Apple also announced the development of symmetric multi-processing (SMP) capabilities in its Network Server product line.  With an anticipated availability of early-1997, Apple's first SMP server systems are expected to feature two 200MHz PowerPC 604e processors and 1MB of in-line L2 cache per processor to provide performance increases of up to 1.8 times for processor- intensive server applications and environments. SMP upgrades are planned to be available for existing Network Server customers.  Technology demonstrations of a prototype SMP Network Server -- Apple's first ever demonstration of an SMP system -- are scheduled during the Seybold Publishing trade show in San Francisco, September 11 through 13.</p>
+<p>Workgroup Servers Performance Increased; Solution Bundles Enhanced  </p>
+<p>Following closely on the heels of its speed-bumped Power Mac(TM) counterparts, the new Workgroup Servers feature the fastest PowerPC microprocessors offered by Apple -- the 200MHz PowerPC 604e.  Expected to be available starting in October 1996, the new Workgroup Servers include the Workgroup Server 8550/200 with a 200 MHz PowerPC 604e processor and 32MB of DRAM, and the Workgroup Server 7250/120 with a higher capacity 2GB disk drive. Both servers have been upgraded with 8x-speed CD-ROM drives.  The new servers join the Workgroup Server 6150/66 which rounds out the product line as Apple's most affordable, entry-level server and comes bundled with the Apple Internet Server Solution which enables the easy creation and publishing of information on the World Wide Web.</p>
+<p>The Workgroup Server 8550/200 and 7250/120 come bundled with the customers' choice of one of three software solutions -- valued at $4,000 to $6,000 if purchased separately -- which provide customers with software applications to operate the Workgroup Servers as an Application, Internet or AppleShare(R) file and print server.  Called the Application Server Solution, the Apple(R) Internet Server Solution 2.1, and the AppleShare Server Solution, these solutions have been updated with newer versions of Apple and third-party software to provide customers with the latest software functionality and features.</p>
+<p>Continuing its efforts to provide valuable solutions for Workgroup Server customers, Apple has included a trial version of RunShare for Macintosh by RUN Ltd. with the AppleShare Server Solution for the new Workgroup Server 7250/120 and 8550/200.  The inclusion of this trial product provides customers with the opportunity to pilot RunShare in their own networking environment.  RunShare is tuned to increase the transfer rate for moving large files across the network, demonstrating the largest performance gains when operating across 100 Mbps ethernet segments.  Based on benchmarks from RUN, RunShare can accelerate network performance by up to 300%.</p>
+<p>Pricing and Availability</p>
+<p>The new Network Server 700/200, configured with 48MB of DRAM, two 4GB Fast/Wide SCSI-2 hard disks and an 8x-speed CD-ROM drive, has an Apple Price starting at U.S.$16,129 and is expected to be available by early October 1996.</p>
+<p>The new Workgroup Server 7250/120 has an Apple Price between U.S.$2,689 and $3,509 depending on solution bundled selected.  The new Workgroup Server 8550/200 has an Apple Price between U.S.$5,799 and $7,399 depending on the hardware configuration and software solution bundle selected.  These servers are expected to be available starting in October 1996.</p>
+<p>Apple Computer, Inc., a recognized innovator in the information industry and leader in multimedia technologies, creates powerful solutions based on easy-to-use personal computers, servers, peripherals, software, personal digital assistants and Internet content.  Headquartered in Cupertino, California, Apple develops, manufactures, licenses and markets solutions, products, technologies and services for business, education, consumer, entertainment, scientific and engineering and government customers in more than 140 countries.</p>
+<p>Customer Information Contact:  If you are considering the purchase of an Apple product and would like to have product information faxed to you, please call 1-800-462-4396 in the U.S. or 1-800-263-3394 in Canada.  If you do not have a fax machine or would like to locate an Apple authorized reseller near you, please call 1-800-538-9696.  Customers outside the U.S. should contact their local Apple representatives for information.</p>
+<p>Visit Apple's Server Division home page at: http//www.solutions.apple.com/servers/ Apple's home page on the World Wide Web is: http://www.apple.com</p>
+<p>Apple, the Apple logo, Macintosh, Mac OS and AppleShare are registered trademarks of Apple Computer, Inc. Mac and QuickTime are trademarks of Apple Computer, Inc.  PowerPC(TM) and the PowerPC logo(TM) are trademarks of International Business Machines, used under license therefrom.  AIX is a registered trademark of International Business Machines.  All other brand names mentioned are registered trademarks or trademarks of their respective holders and are hereby acknowledged.  </p>
+<p>Addendum - Workgroup Servers and Network Servers</p>
+<p>Network Server Pricing and Availability</p>
+<p>All Network Servers and component products are available today except for the items indicated by an asterisk (*) below. The AIX operating system software is sold separately. Customers will need to purchase both the hardware configuration and the AIX for Apple Network Servers Accessory Kit. U.S. pricing is listed below.  Prices and availability outside the U.S. may vary.</p>
+<p>     *     Anticipated availability is October, 1996.</p>
+<p>    **    Anticipated availability is November, 1996.</p>
+<p>    Part No.   Description</p>
+<p>U.S. Apple Price</p>
+<p>SYSTEMS:</p>
+<p>M5173LL/A Network Server 700/200 (48MB,1MB,2x4GB Disks,8x CD-ROM)$16,129*</p>
+<p>M3470LL/A Network Server 700/150 (48MB,1MB,4GB Disk,DAT2,CD-ROM)$13,979</p>
+<p>M3471LL/A Network Server 700/150 (32MB,1MB,1GB Disk,CD-ROM)</p>
+<p>$11,289</p>
+<p>M3468LL/A Network Server 500/132 (32MB,512K,2GB Disk,DAT2,CD-ROM)$10,219</p>
+<p>M3469LL/A Network Server 500/132 (32MB,512K,CD-ROM)</p>
+<p>$8,279</p>
+<p>COMPONENTS:</p>
+<p>M5177Z/A  Network Server 200MHz 604e CPU Upgrade Card</p>
+<p>$1,609**</p>
+<p>M4017Z/A  Network Server 16MB Parity Memory Kit (2x8MB)</p>
+<p>	 $749</p>
+<p>M4018Z/A  Network Server 32MB Parity Memory Kit (2x16MB)</p>
+<p>$1,399</p>
+<p>M4019Z/A  Network Server 64MB Parity Memory Kit (2x32MB)</p>
+<p>$2,799</p>
+<p>M4022Z/A  Network Server 2GB F/W SCSI-2 Disk in Removable Tray     $859</p>
+<p>M4023Z/A  Network Server 4GB F/W SCSI-2 Disk in Removable Tray   $1,399</p>
+<p>M5178Z/A  Network Server 9GB F/W SCSI-2 Disk in Removable Tray  $2,469*</p>
+<p>M4818Z/A  Network Server 700 2GB Fixed disk with Bracket</p>
+<p>	 $859</p>
+<p>M4819Z/A  Network Server 700 2x4GB Fixed disks with Bracket</p>
+<p>$2,579</p>
+<p>M4025Z/A  Network Server DAT-2 Tape Drive (4GB/12GB) with Tray   $1,129</p>
+<p>M4026Z/A  Network Server 8mm Tape Drive (20GB/40GB) with Tray   $5,699*</p>
+<p>M4024Z/A  Network Server 4x-speed CD-ROM in Removable Tray</p>
+<p>	 $219</p>
+<p>M4030Z/A  Network Server PCI RAID Disk Array Card</p>
+<p>$2,039</p>
+<p>M4031Z/A  Network Server External SCSI Cable for RAID Card</p>
+<p>	  $89</p>
+<p>M4709Z/A  Apple PCI Ethernet Card</p>
+<p>	 $149</p>
+<p>M3906Z/A  Apple PCI Ethernet 100baseTX Card</p>
+<p>	 $199</p>
+<p>M4808Z/A  Apple PCI Dual-Attached FDDI Card</p>
+<p>$1,499**</p>
+<p>M4035Z/A  Network Server 700 Redundant Power Supply</p>
+<p>	 $799</p>
+<p>M4036Z/A  Network Server 19-inch Rack Mount Kit</p>
+<p>	 $189</p>
+<p>M4028Z/A  Network Server Third Party SCSI Drive Adapter Kit</p>
+<p>	 $159</p>
+<p>		  (50-pin and 68-pin)</p>
+<p>M4029Z/A  Network Server Third Party Front Drive Bezel Kit</p>
+<p>	  $39</p>
+<p>		  (DAT2 and CD-ROM drive bezels)</p>
+<p>M4525Z/B  AIX(R) for Apple Network Servers Accessory Kit</p>
+<p>$1,489</p>
+<p>M4891Z/A  AIX(R) for Apple Network Servers Unlimited User License</p>
+<p>		  Upgrade</p>
+<p>$1,399</p>
+<p>Workgroup Server Pricing and Availability</p>
+<p>The enhanced Workgroup Server 7250/120 and 8550/200 are expected to be available starting in October 1996.  U.S. pricing is listed below.  Prices and availability outside the  </p>
+<p>U.S. may vary.</p>
+<p>    Part No.    Description</p>
+<p>U.S. Apple Price</p>
+<p>Application Server Solutions</p>
+<p>(includes the Application Server Solutions CD)</p>
+<p>M5488LL/A  Workgroup Server 8550/200  32/2GB/8x-speed CD/DAT     $6,559</p>
+<p>M5482LL/A  Workgroup Server 7250/120  16/2GB/8x-speed CD</p>
+<p>$2,689</p>
+<p>AppleShare Server Solution</p>
+<p>(includes the Application Server Solutions CD and AppleShare 4.2.1)</p>
+<p>M5489LL/A  Workgroup Server 8550/200  32/2GB/8x-speed CD/DAT     $7,419</p>
+<p>M4340LL/A  Workgroup Server 8550/132  24/2GB/4x-speed CD/DAT     $6,879</p>
+<p>M5486LL/A  Workgroup Server 8550/200  32/2GB/8x-speed CD</p>
+<p>$6,239</p>
+<p>M4343LL/A  Workgroup Server 8550/132  24/2GB/4x-speed CD</p>
+<p>$5,699</p>
+<p>M5483LL/A  Workgroup Server 7250/120  16/2GB/8x-speed CD</p>
+<p>$3,509</p>
+<p>M4336LL/A  Workgroup Server 7250/120  16/1.2GB/4x-speed CD</p>
+<p>$3,309</p>
+<p>Apple Internet Server Solution for the World Wide Web</p>
+<p>(includes the Apple Internet Server Solution)</p>
+<p>M5487LL/A  Workgroup Server 8550/200  32/2GB/8x-speed CD</p>
+<p>$5,799</p>
+<p>M4341LL/A  Workgroup Server 8550/132  24/2GB/4x-speed CD</p>
+<p>$5,299</p>
+<p>M5484LL/A  Workgroup Server 7250/120  16/2GB/8x-speed CD</p>
+<p>$3,099</p>
+<p>M4337LL/A  Workgroup Server 7250/120  16/1.2GB/4x-speed CD</p>
+<p>$2,899</p>
+<p>    M4692LL/A  Workgroup Server 6150/66   16/1.2GB/4x-speed CD</p>
+<p>$2,299</p>
+<p>Workgroup Server 8550/132 Logic Board Upgrade</p>
+<p>M4607LL/A  Logic Board Upgrade with PowerPC 604 processor card at</p>
+<p>		   132 MHz,</p>
+<p>$4,169</p>
+<p>		   0 MB DRAM, System 7.5.3, AppleShare 4.2.1 update</p>
+<p>kit and Apple</p>
+<p>		   RAID Software.  Upgrades a Workgroup Server 80,</p>
+<p>8150 or</p>
+<p>		   8150/110 to a Workgroup Server 8550/132.  ($1300</p>
+<p>credit to</p>
+<p>		   dealer, upon return of old Logic Board to Apple)</p>
+<p>As previously announced, Apple plans to offer a 180 MHz PowerPC 604e processor card upgrade.  Apple expects to certify this upgrade card for the Workgroup Server 8550/132 in October, 1996.</p>
+<p>Workgroup Server Software Solutions</p>
+<p>--  Application Server Solution:  With an estimated value of $4,000, the Application Server Solution CD consists of third-party workgroup productivity, reliability and server administration tools that, with a Workgroup Server, form the foundation for adding other network services such as fax, calendars, email or database.  The suite of products includes: 4-Sight Fax LE from 4- Sight L.C., FileWave from Wave Research, netOctopus &amp; Virex from Datawatch Corporation, Now Contact and Now Up-to-Date from Now Software, Skyline/Satellite from the AG Group and Viper Instant-Access from IT Design. Additionally, this solution includes Apple RAID to provide RAID 0 &amp; 1 functions for the server and AppleShare client software for Windows and Windows95 users allowing these Windows-based PCs to share files and printers on AppleTalk(R) networks.</p>
+<p>--  AppleShare Server Solution: Valued at over $6,000, the AppleShare Server Solution contains all of the software included with the Applications Server Solutions CD plus AppleShare 4.2.1 file and print server software, Server Manager from Santorini Consulting for remote administration of an AppleShare server, Apple Remote Access Multiport Server Software for remote connections to the server and Retrospect Remote from Dantz Development to backup data on the server and remote clients (DAT configurations only).  Also included in the solution is a 14-day trial version of RunShare(R) from RAD Unlimited Networking, Ltd., which increases AppleShare performance by up to three times.</p>
+<p>--  Apple Internet Server Solution 2.1 (AISS):  Updated from the second generation version introduced last February, the new AISS 2.1 provides webmasters with award-winning software from industry-leading Internet developers to easily and cost-effectively publish HTML, graphics, audio, video and database information on the web.  Valued at over $4,000, the solution features the latest version of WebStar (1.3.1) as well as PageMill and Acrobat Pro from Adobe, RealAudio Server from Progressive Networks, as well as Tango and Butler SQL (limited version) from EveryWare Development.</p>
+<p>Apple, the Apple logo, Macintosh, Mac OS and AppleShare are registered trademarks of Apple Computer, Inc.  Mac is a trademark of Apple Computer, Inc. PowerPC(TM) and the PowerPC logo(TM) are trademarks of International Business Machines, used under license therefrom.  AIX is a registered trademark of International Business Machines.  All other brand names mentioned are registered trademarks or trademarks of their respective holders and are hereby acknowledged.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CUPERTINO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

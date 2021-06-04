@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="68370" id="root" date="1996-09-20" xml:lang="en">
+<title>SOUTH KOREA: Four N.Korean infiltrators found dead - TV.</title>
+<headline>Four N.Korean infiltrators found dead - TV.</headline>
+<dateline>SEOUL 1996-09-20</dateline>
+<text>
+<p>Four North Korean infiltrators were found dead on Friday and South Korean security forces are seeking a fifth, Munhwa Broadcasting Corporation reported.  </p>
+<p>The state television network, the Korea Broadcasting System, also reported four infiltrators had been found dead.</p>
+<p>The news reports gave no further details.</p>
+<p>A defence ministry spokesman said he could not confirm the reports.</p>
+<p>Authorities initially said about 20 infiltrators landed by submarine on Wednesday. Before the latest death reports, authorities had said 18 of the infiltrators had been shot to death and one captured alive.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

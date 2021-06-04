@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="76408" id="root" date="1996-09-25" xml:lang="en">
+<title>ISRAEL: Israeli troops enter self-ruled Ramallah - radio.</title>
+<headline>Israeli troops enter self-ruled Ramallah - radio.</headline>
+<dateline>JERUSALEM 1996-09-25</dateline>
+<text>
+<p>Israel Radio said Israeli troops entered Palestinian-ruled Ramallah on Wednesday in pursuit of gunmen who fired at them from inside the West Bank city.</p>
+<p>The radio, reporting from Ramallah, said it was the first time Israeli soldiers had entered a self-rule enclave since the Jewish state began handing over parts of the West Bank and Gaza to Palestinian self-rule in 1994.  </p>
+<p>Palestinian demonstrators rushed towards the checkpoint where the Israeli troops were stationed, witnesses said.</p>
+<p>The Israelis opened fire, wounding more Palestinians, including police.</p>
+<p>Palestinian police over loudspeakers urged the youths to get back. Ramallah hospital said earlier at least 160 Palestinians were wounded in the clashes.</p>
+<p>Palestinian demonstrations erupted in Jerusalem, the West Bank and Gaza Strip earlier in protest at Israeli policy in Jerusalem.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERUSALEM"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

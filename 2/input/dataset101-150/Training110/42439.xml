@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="42439" id="root" date="1996-09-09" xml:lang="en">
+<title>JORDAN: Israel's tourism minister in Jordan for talks.</title>
+<headline>Israel's tourism minister in Jordan for talks.</headline>
+<dateline>AMMAN 1996-09-09</dateline>
+<text>
+<p>Israel's Tourism Minister Moshe Katsav arrived in Jordan on Monday to discuss ways to boost cooperation and attract more tourists to the region, officials said.</p>
+<p>Katsav and his Jordanian number Saleh Irsheidat will explore possibilities to set up a number of projects, including setting up a joint tourism park on the shores of the Dead Sea, the lowest point on earth, they added.</p>
+<p>Tens of thousands of Israelis have visited Jordan since it signed a peace treaty with Israel in October 1994, ending a 46-year-state of war between the two neighbours and encouraging them to market their countries' ancient riches on package tours worldwide.</p>
+<p>Tourism has shown the most visible gains from the treaty in Israel and Jordan with more European and American guests visiting the region.</p>
+<p>But it has suffered recently from uncertainty of future Middle East peace moves after the election of Israel's Prime Minister Benjamin Netanyahu in May and U.S. air strikes against Iraq earlier this month.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="JORDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="E511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="GTOUR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMMAN"/>
+<dc element="dc.creator.location.country.name" value="JORDAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

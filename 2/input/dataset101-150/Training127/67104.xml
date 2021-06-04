@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="67104" id="root" date="1996-09-20" xml:lang="en">
+<title>USA: Consumer advocate warns of car-safety standards drop.</title>
+<headline>Consumer advocate warns of car-safety standards drop.</headline>
+<dateline>WASHINGTON 1996-09-20</dateline>
+<text>
+<p>The dramatic drop in the rate of highway deaths in recent decades has led the federal government to scale back its tough stance on car safety, a consumer advocate warned Friday.</p>
+<p>In a report titled &quot;Driving in Reverse,&quot; consumer advocacy guru Ralph Nader charged that regulators have failed to carry out expectations laid out by Congress, issuing watered-down standards in some cases or dragging its feet on reforms.</p>
+<p>&quot;The dramatic reduction in deaths and injuries from highway crashes since 1966 has lulled the current administration into dangerous inactivity,&quot; Nader said.</p>
+<p>The report tracks the progress made since the creation of the National Highway Traffic Safety Administration 30 years ago and the publication of Nader's 1965 book, &quot;Unsafe at Any Speed,&quot; which helped raise public awareness about safety issues.</p>
+<p>Since then, the government has been involved in setting standards on everything from seat belts to speed limits. The focus on safety also resulted in laws requiring automobile makers to notify car owners if their cars were found to harbour safety-related defects.</p>
+<p>A spokesman for the National Highway Traffic Safety Administration said officials there were not in a position to comment on the Nader report because they had not yet seen it.</p>
+<p>&quot;We haven't had a chance to see the report so we wouldn't be able to say anything about it,&quot; the spokesman said.</p>
+<p>Nader credited the Clinton administration with extending passenger car standards to vans and light trucks and improving child restraint safety rules, among other changes.</p>
+<p>But the report criticised as too modest standards intended to reduce head injuries. It also cited inaction on standards for vehicle roofs and those intended to eliminate sharp edges and hood ornaments that account for a portion of pedestrian- related auto deaths.</p>
+<p>The report charges that &quot;the great strides made following the 1966 legislation have slowed and sometimes backtracked in the years since 1980.&quot;</p>
+<p>Nader predicted that motor vehicle fatalities inevitably would accelerate with the revocation of the 55 mile per hour national maximum speed limit.</p>
+<p>He also faulted the media for deserting automobile traffic safety issues, dwelling instead on recent airline crashes.</p>
+<p>&quot;Yet the same number of people killed in one of those crashes are killed on the highway almost every day and barely a peep is heard,&quot; Nader said.</p>
+<p>According to NHTSA data, the number of automobile-related fatalities stood at about 16 per 100,000 people in 1995. That measure of traffic fatalities has held fairly steady in the last three years but the long-term trend has been downward.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

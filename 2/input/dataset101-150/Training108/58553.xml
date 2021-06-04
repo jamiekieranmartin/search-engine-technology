@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="58553" id="root" date="1996-09-17" xml:lang="en">
+<title>USA: Heart exam may do more harm than good: U.S. study.</title>
+<headline>Heart exam may do more harm than good: U.S. study.</headline>
+<dateline>CHICAGO 1996-09-17</dateline>
+<text>
+<p>A common hospital procedure used to investigate the condition of the heart does patients little good and may actually increase the risk of death, U.S. researchers said on Tuesday.</p>
+<p>Based on the research, an editorial in the Journal of the American Medical Association called for a nationwide study of right heart catheterization or, in the absence of such a study, a moratorium on the procedure by the U.S. Food and Drug Administration.</p>
+<p>&quot;Despite the widespread use of this procedure and its attendant costs, there is no evidence that it benefits patients,&quot; James Dalen, editor of the American Medical Association journal Archives of Internal Medicine, wrote in an accompanying editorial. &quot;To the contrary, there is evidence that it may increase morbidity and mortality.&quot;</p>
+<p>The procedure involves inserting a thin plastic tube into a hole in the groin or elbow and guiding the tube through the circulatory system into the heart's interior. Inside the heart, the tube can measure blood pressure and oxygen levels or insert opaque dye for X-ray examination.</p>
+<p>Researchers led by Alfred Connors Jr. at Case Western Reserve University in Cleveland studied 5,735 critically ill patients, of whom 2,184 underwent right heart catherization within 24 hours of being admitted to an intensive care unit.</p>
+<p>Compared to patients who did not undergo the procedure, patients who did had a 30-day mortality rate that was 24 percent higher, stayed in intensive care an average of 1.8 days longer and ran up a hospital bill that averaged more than one-third higher at $49,300.</p>
+<p>Many cardiologists view the procedure, also known as pulmonary artery catheterization, as a valuable way to measure the heart's condition. John Hoyt, president of the Society of Critical Care Medicine, said the procedure saved thousands of lives annually and criticised the new study's methodology for not being a random patient trial.</p>
+<p>&quot;We do not want news coverage of the issues raised by the authors to alarm patients and their families or to compel physicians to change their method of practice,&quot; Hoyt said.</p>
+<p>But Dalen said the motives of the medical industry may be coloured by profit, noting that one million of the catheters are sold in the United States each year and the annual cost associated with their use is more than $2 billion.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

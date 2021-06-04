@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="26058" id="root" date="1996-08-31" xml:lang="en">
+<title>USA: FDA issues alert on unapproved drug.</title>
+<headline>FDA issues alert on unapproved drug.</headline>
+<dateline>WASHINGTON 1996-08-31</dateline>
+<text>
+<p>The U.S. Food and Drug Administration Friday issued a nationwide alert, warning that injections of an unapproved drug derived from the adrenal glands of cattle and other livestock can lead to serious bacterial infections or abscesses.</p>
+<p>The agency said the alert concerned 30 millilitre vials of the injectable &quot;adrenal cortex extract&quot;, distributed by Phyne Pharmaceuticals of Scottsdale, Ariz., and labeled Hallmark Labs.</p>
+<p>Since April 1996, the FDA, the U.S. Centres for Disease Control, and state agencies had received 54 reports of infections forming at sites where patients had been injected with the product.</p>
+<p>Adrenal cortex extract is not approved for use by the FDA for any medical condition. &quot;Although it has never been shown to be effective for treating any medical condition, it has been promoted over the years for a wide variety of uses including weight loss, burn treatment and lessening substance abuse addictions,&quot; the FDA said in a statement.</p>
+<p>FDA said it was working with other government agencies to investigate how the product was manufactured and distributed. It was taking regulatory steps to identify the parties responsible for any contamination and to ensure that the products were removed from the market.</p>
+<p>Patients experiencing swelling, tenderness, other other signs of infection at the site of the injection or other adverse reactions should contact their physician immediately.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

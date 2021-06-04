@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="28657" id="root" date="1996-09-03" xml:lang="en">
+<title>BELGIUM: BONES FOUND IN SEARCH OF CHILD SEX SCANDAL HOUSE.</title>
+<headline>BONES FOUND IN SEARCH OF CHILD SEX SCANDAL HOUSE.</headline>
+<dateline>JUMET, Belgium 1996-09-03</dateline>
+<text>
+<p>Belgian police found bones, probably human, on Tuesday while searching a property owned by convicted child rapist Marc Dutroux, the chief suspect in the country's child abduction, sex and death scandal, a police spokesman said.  </p>
+<p>&quot;We discovered bones, probably of a human nature,&quot; Gendarmerie spokesman Major Jean-Marie Boudin told reporters.</p>
+<p>Police have been digging in and around the house in the Charleroi suburb of Jumet for a week. The house is one of six owned by Dutroux.</p>
+<p>Public Prosecutor Michel Bourlet, leading the hunt for a suspected paedophile sex gang and its victims, was at the site, as was the Charleroi police pathologist.</p>
+<p>The bodies of two eight-year-old children were found alongside that of an adult accomplice of Dutroux on August 17 at a house owned by Dutroux in Sars-La-Buissiere south of Charleroi. No human remains had been found previously at the house in Jumet.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JUMET, Belgium"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="53308" id="root" date="1996-09-13" xml:lang="en">
+<title>USA: New York opens hot line to report street crime.</title>
+<headline>New York opens hot line to report street crime.</headline>
+<dateline>NEW YORK 1996-09-13</dateline>
+<text>
+<p>In the campaign to stop so-called quality-of-life crimes, New York officials on Friday opened a new hotline for citizens to report panhandlers, prostitutes and &quot;squeegee men&quot; seen on the city's streets.</p>
+<p>Officials have attributed the lowest crime rates in years to the quality-of-life strategy, which is based on the belief that many people who commit minor offences go on to perpetrate major crimes.</p>
+<p>The &quot;squeegee men&quot; -- who approach cars stopped at intersections and wash windscreens with rubber implements known as &quot;squeegees&quot; in expectations of a tip -- were top of the target list released by police on Friday.</p>
+<p>Police asked residents to call the new 24-hour toll-free hotline 1-888-677-LIFE to also report &quot;aggressive panhandlers, loiterers at Automatic Teller Machines, illegal dumping, people creating permanent living spaces in public, street prostitution and any other non-emergency situation condition which contributes to a negative quality of life in the City.&quot;</p>
+<p>For shootings, robberies and other emergencies, New Yorkers will still call 911.</p>
+<p>Serious crime in New York was down 40 percent, in part because of the emphasis on stopping minor infractions, according to police department statistics.</p>
+<p>But police commanders in the city's five boroughs were recently shown videotapes demonstrating that public drinking, public urination, subway fare-beating and panhandling persist.</p>
+<p>Police Commissioner Howard Safir said the information gathered from the calls to the new hotline would be recorded, analysed and sent to each of the commanders to &quot;develop strategies to permanently correct problem areas.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="39858" id="root" date="1996-09-08" xml:lang="en">
+<title>ISRAEL: PRESS DIGEST - Israel - Sept 8.</title>
+<headline>PRESS DIGEST - Israel - Sept 8.</headline>
+<dateline>JERUSALEM 1996-09-08</dateline>
+<text>
+<p>These are some of the leading stories in Israeli newspapers on Sunday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>HAARETZ</p>
+<p>- Israeli Prime Minister Netanyahu to try to formulate with U.S. President Clinton a formula for resumption of talks with Syria.</p>
+<p>- Inquiry commission to investigate fire brigade's handling Friday's Jerusalem forest fire.</p>
+<p>YEDIOTH AHRONOTH</p>
+<p>- Thirty-five &quot;Russian mafia&quot; chiefs will be expelled from Israel.</p>
+<p>MAARIV</p>
+<p>- Government to sell 70 companies and banks for 18 million shekels within four years, according to still incomplete privatisation programme being formulated by prime minister's office.</p>
+<p>- Defence Minister Mordechai and Palestinian leader Arafat will try today to set a date for their meeting.</p>
+<p>JERUSALEM POST</p>
+<p>- 18,000 more permits to be issued for Palestinian workers.</p>
+<p>- Fire devastates forests, property in Jerusalem corridor area.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERUSALEM"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="83225" id="root" date="1996-09-28" xml:lang="en">
+<title>JAPAN: N. Korea, consortium agree terms for power plant.</title>
+<headline>N. Korea, consortium agree terms for power plant.</headline>
+<dateline>TOKYO 1996-09-28</dateline>
+<text>
+<p>North Korea and an international consortium in charge of building nuclear plants in North Korea agreed on the protocols to build a light-water reactor in the Stalinist state, official media reported on Saturday.</p>
+<p>Representatives of Korean Peninsula Energy Development Organization (KEDO) and experts from the North Korean side &quot;discussed and agreed on the protocols in keeping with the international usage and special circumstances of the provision of light-water reactors,&quot; Pyongyang's Korea Central News Agency reported.</p>
+<p>&quot;Full conditions for starting the light-water reactor project have been created with the agreement on the protocols,&quot; said KCNA, monitored in Tokyo.</p>
+<p>The US-led international consortium is working to provide the North with $4.5 billion in nuclear power plants and alternative energy supplies as part of a deal to end the country's suspected nuclear weapons programme.</p>
+<p>Stephen Bosworth, head of KEDO said earlier in the month that the construction of two North Korean nuclear reactors will start within weeks.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="NKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I1610109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

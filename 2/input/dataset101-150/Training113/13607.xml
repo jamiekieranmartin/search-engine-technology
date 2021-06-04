@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13607" id="root" date="1996-08-26" xml:lang="en">
+<title>GERMANY: Smaller cars behind profit drop -Ford Germany.</title>
+<headline>Smaller cars behind profit drop -Ford Germany.</headline>
+<dateline>COLOGNE, Germany 1996-08-26</dateline>
+<text>
+<p>Ford-Werke AG, the German unit of Ford Motor Co of the U.S, said on Monday that a trend to smaller cars and costs related to model changes were behind its first half 1996 profit drop.</p>
+<p>The company said earlier in a statement its pre-tax profit in the January to June period slumped to 75 million marks from 400 million in the same period of 1995.</p>
+<p>&quot;The trend to smaller cars like the Fiesta means lower profitability as do start-up costs for new models in the autumn. A move to a shorter working week also added to costs,&quot; a spokesman told Reuters.</p>
+<p>-- Bonn newsroom, 49-228-2609750</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLOGNE, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

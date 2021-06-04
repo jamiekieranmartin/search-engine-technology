@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="77009" id="root" date="1996-09-25" xml:lang="en">
+<title>CHINA: PRESS DIGEST - Chinese newspapers - Sept 25.</title>
+<headline>PRESS DIGEST - Chinese newspapers - Sept 25.</headline>
+<text>
+<p>Following is a summary of major Chinese political and business stories in leading newspapers, prepared by Reuters in Beijing. Reuters has not checked the stories and does not guarantee their accuracy. Telephone: (8610) 6532-1921. Fax: (8610) 6532-4978.</p>
+<p>- - - -</p>
+<p>PEOPLE'S DAILY</p>
+<p>Military officials and troops should study hard Marxist philosophy and Deng Xiaoping thought to lead China into the 21st century.</p>
+<p>- - - -</p>
+<p>CHINA DAILY</p>
+<p>China will pursue an &quot;active defence&quot; policy to ensure it has sufficient force to defend its national sovereignty.</p>
+<p>- - - -</p>
+<p>CHINA SECURITIES</p>
+<p>Deposits in rural financial institutions reached nearly 1.7 trillion yuan by the end of August.</p>
+<p>- - - -</p>
+<p>FINANCIAL NEWS</p>
+<p>The People's Insurance Co's Property Insurance Ltd Co recovered $200 million in bad loans from an unidentified country.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

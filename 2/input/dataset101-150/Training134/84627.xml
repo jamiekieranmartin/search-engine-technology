@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="84627" id="root" date="1996-09-30" xml:lang="en">
+<title>UK: Attack spray scare at British Labour conference.</title>
+<headline>Attack spray scare at British Labour conference.</headline>
+<dateline>BLACKPOOL, England 1996-09-30</dateline>
+<text>
+<p>The annual conference of Britain's opposition Labour party became too hot for the press to handle on Monday when a security guard accidentally set off a pepper gas spray in the media centre.</p>
+<p>The spray was brought in by a female journalist who carries it as a personal attack deterrent.</p>
+<p>But a security guard checking her bag activated the spray, sending spluttering and coughing reporters rushing outside.</p>
+<p>A police source said the spray was being analysed. He added that it was illegal to carry such devices in Britain and the woman could be charged with carrying an offensive weapon.</p>
+<p>Police, worried at the risk of a terrorist attack like the IRA bombing of the Grand Hotel in Brighton during the 1985 Conservative conference which narrowly missed killing the prime minister Margaret Thatcher, are out in force in Blackpool.</p>
+<p>Labour, facing an election sometime in the next seven months and sitting on a huge poll lead, has won over voters with new policies like the party's pledge to be &quot;tough on crime, tough on the causes of crime&quot;.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BLACKPOOL, England"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

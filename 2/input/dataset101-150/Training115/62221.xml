@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="62221" id="root" date="1996-09-18" xml:lang="en">
+<title>USA: Majority of Ohio voters oppose gaming measure-poll.</title>
+<headline>Majority of Ohio voters oppose gaming measure-poll.</headline>
+<dateline>CHICAGO 1996-09-18</dateline>
+<text>
+<p>Most Ohio voters opposed a proposed constitutional amendment allowing casino gambling in the state, according to results from a poll released Wednesday.</p>
+<p>The poll, conducted by the Institute for Policy Research at the University of Cincinnati, indicated 53 percent of likely voters would vote against the measure on Nov. 5, 41 percent would vote for it and six percent were undecided.</p>
+<p>The proposed amendment would allow a total of eight permanently moored floating casinos in the state that would turn over 20 percent of their gross revenues to a new Ohio Gaming Commission. Of those revenues, 80 percent would be earmarked for public schools with the rest split between local governments where the casinos would be located.</p>
+<p>Six years ago, a similar measure was defeated by Ohio voters.</p>
+<p>The Ohio Poll, which was based on a sample of 627 likely voters polled from Sept. 3-10, was sponsored by the Cincinnati Enquirer, WLWT-TV and the University of Cincinnati.</p>
+<p>--Karen Pierog, 312-408-8647</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97912">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

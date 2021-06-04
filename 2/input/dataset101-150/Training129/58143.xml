@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="58143" id="root" date="1996-09-17" xml:lang="en">
+<title>NICARAGUA: Nicaraguan parties warn of election fraud.</title>
+<headline>Nicaraguan parties warn of election fraud.</headline>
+<dateline>MANAGUA, Nicaragua 1996-09-17</dateline>
+<text>
+<p>Nicaragua's top two political parties on Tuesday warned of election fraud in the Oct. 20 general elections because of chaos in the distribution of voter identification cards.</p>
+<p>With little more than a month left before the vote, 55 percent of Nicaraguans have not received the documents they need to vote, and election observers have said they fear many voters may still be without them on election day.</p>
+<p>The poll-topping Liberal Alliance and the second-place Sandinista Front accused each other of using the chaos to foster fraud by denying their supporters valid voter cards.</p>
+<p>&quot;We have a great fear that with the famous voter cards and supplementary documents they are preparing an election fraud,&quot; Arnoldo Aleman, presidential candidate for the conservative Liberal Alliance, told reporters.</p>
+<p>Aleman said that while he did not doubt the honesty of top officials at Nicaragua's Supreme Election Council (CSE), mid-level CSE officials were &quot;known Sandinista supporters.&quot;</p>
+<p>&quot;Given that their party has little chance of winning, they have been assigned the task of preparing a fraud, not on the day of the election, but well in advance,&quot; Aleman said.</p>
+<p>The Sandinista-owned newspaper Barricada reported that Sandinista activists were being given bad voter cards.</p>
+<p>Sandinista presidential candidate Daniel Ortega has warned that the Liberal Alliance is planning to use fraud charges to discredit a Sandinista victory.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NICG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANAGUA, Nicaragua"/>
+<dc element="dc.creator.location.country.name" value="NICARAGUA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

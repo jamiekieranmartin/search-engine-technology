@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="67535" id="root" date="1996-09-20" xml:lang="en">
+<title>USA: California counties told to continue food stamps.</title>
+<headline>California counties told to continue food stamps.</headline>
+<dateline>SACRAMENTO, Calif. 1996-09-19</dateline>
+<text>
+<p>California Governor Pete Wilson said late on Thursday he was instructing the state's counties to continue providing food stamp benefits for legal immigrants.</p>
+<p>Wilson said the federal government had instructed the state to begin by September 22 the termination of food stamp benefits to all legal immigrants who were not specifically exempted under the new federal welfare law.</p>
+<p>But Wilson said the U.S. Department of Agriculture late on Thursday instructed the state not to implement the restrictions for food stamp recipients as it had planned.</p>
+<p>As a result, Wilson said he has directed the state's Health and Welfare Agency to notify all 58 counties not to terminate food stamp benefits to legal immigrants pending further direction by the federal government.</p>
+<p>Wilson, a Republican, blasted the Clinton Administration for &quot;needlessly&quot; confusing California.</p>
+<p>Los Angeles County Supervisor Gloria Molina welcomed the news. In a statement, she said that more than 200,000 children and adults in the county would have been cut off.  </p>
+<p>&quot;Thankfully, the U.S. Department of Agriculture has reigned in the state and has told them to continue to provide food stamp benefits to legal immigrants,&quot; Molina said.</p>
+<p>The welfare law, signed by President Bill Clinton last month, ends a six-decade federal guarantee of aid, limits most benefits to five years and requires recipients to work after two years. It gives states block grants to design their own welfare systems.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="GWELF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SACRAMENTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

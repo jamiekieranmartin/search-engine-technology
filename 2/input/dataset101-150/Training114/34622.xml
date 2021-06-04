@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="34622" id="root" date="1996-09-05" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australia firms to cut greenhouse emissions.</title>
+<headline>RTRS-Australia firms to cut greenhouse emissions.</headline>
+<dateline>SYDNEY 1996-09-05</dateline>
+<text>
+<p>Environmental improvements by 17 of Australia's largest companies will reduce their aggregate greenhouse gas emissions by about 15 million tonnes or 15 percent by 2000, Australian Resources and Energy minister Warwick Parer said on Thursday.</p>
+<p>Agreements from the companies to reduce emissions cover over 250 work sites in Australia, which contributed just under 50 percent of Australia's emission from the industrial sector, he said in a statement.</p>
+<p>&quot;Between them the agreements have identified over 420 actions to reduce greenhouse emissions,&quot; Parer said.  </p>
+<p>The actions companies are taking to reduce emissions range from installing new low energy cells for smelting aluminium, to reducing waste going to land fill and increasing tree plantings to capture more carbon dioxide, Parer said.</p>
+<p>The agreements by the 17 companies fall under the federal governments greenhouse challenge programme. Companies that have signed agreements include The Broken Hill Pty Co Ltd, RTZ-CRA and the Australian Aluminium Council representing Alcoa of Australia, Capral Aluminium Ltd, Comalco Ltd and Tomago Aluminium.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="I22450">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

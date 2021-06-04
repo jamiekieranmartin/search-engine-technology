@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="35148" id="root" date="1996-09-05" xml:lang="en">
+<title>USA: U.S. immigration agency arrests nearly 3,700 aliens.</title>
+<headline>U.S. immigration agency arrests nearly 3,700 aliens.</headline>
+<dateline>WASHINGTON 1996-09-05</dateline>
+<text>
+<p>The U.S. Immigration and Naturalization Service said on Thursday it had arrested nearly 3,700 illegal workers at more than 480 businesses during a six-week operation that covered 13 states.</p>
+<p>It said the series of worksite enforcement operations was part of its continuing crackdown on firms that employ illegal aliens. Most of the arrests occurred in Texas and New Mexico.</p>
+<p>The operations began in late July and continued through August, targeting businesses in industries traditionally associated with illegal employment including construction, agriculture and food processing firms.</p>
+<p>&quot;INS has made worksite enforcement a priority,&quot; the agency's head, Doris Meissner, said in announcing the apprehensions. Nearly all of the aliens were from Mexico.</p>
+<p>Illegal immigration has become a major political issue in the November presidential election, especially in such key states as California, Texas and Florida. Besides the Southwest, arrests took place in the Midwest, led by more than 400 in Minnesota and Iowa, and in the West, with more than 150 aliens taken into custody in Wyoming and Montana.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

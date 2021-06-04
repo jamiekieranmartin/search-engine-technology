@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="18393" id="root" date="1996-08-28" xml:lang="en">
+<title>USA: Ford announces new computer-aided design system.</title>
+<headline>Ford announces new computer-aided design system.</headline>
+<byline>Todd Nissen</byline>
+<dateline>DEARBORN, Mich. 1996-08-28</dateline>
+<text>
+<p>Calling it a crucial change for how it develops new cars and trucks, Ford Motor Co. Wednesday launched a new computer-aided design project based on a computer programme from Structural Dynamics Research Corp..</p>
+<p>Ford said the new project, called C3P, will cut prototype costs by up to 50 percent; improve investment efficiency by 20 percent to 30 percent; and eliminate half of costly late development changes.</p>
+<p>&quot;The new C3P initiative represents the most fundamental change of the engineering computer infrastructure in Ford's history,&quot; Paul Blumberg, director of product development systems at Ford's Product Development Centre, said in a statement.</p>
+<p>Officials did not specify any dollar amount savings. But executives said they fall under previously disclosed product development cost savings. Three new vehicle programmes started this year will use C3P.</p>
+<p>Once the programme is fully implemented in 2000, Ford said it will merge computer-aided design, manufacturing and engineering functions into a seamless, unified system encompassing all stages of vehicle and component development.</p>
+<p>Ford's decision to team up with Structural Dynamics Research (SDRC) raised eyebrows at competitors. The Milford, Ohio-based firm is a small player in the market of supplying computer aided design and manufacturing systems (CAD/CAM) to the auto industry, according to both competitors and analysts.</p>
+<p>&quot;You just don't hear about SDRC,&quot; said Ron Bienkowski, an executive engineer at Chrysler Corp.</p>
+<p>Bienkowski also chided Ford for launching a new design programme seven years after Chrysler did.</p>
+<p>&quot;We made the decision to go to a single system like C3P back in 1989,&quot; he said.</p>
+<p>Chrysler, as well as several other Japanese and European automakers, use the more popular CATIA programme from Paris-based Dassault Systemes and IBM Corp..</p>
+<p>Charles Foundyller, president of market research firm Daratech Inc. in Cambridge, Mass., said the SDRC system is an easy-to-use, powerful system that should serve Ford well.</p>
+<p>&quot;All in all, I don't think Ford made a bad decision,&quot; he said.</p>
+<p>Ford made the C3P announcement as part of a half-day presentation to reporters touting the No. 2 U.S. automaker's computer capabilities. Among other news items announced Wednesday, Ford:</p>
+<p>-- plans to eliminate 90 percent of its physical prototypes by 2000 in favour of electronic versions. Physical prototypes now constitute about 40 percent to 50 percent today;</p>
+<p>-- will be able to conduct a computer-simulated frontal crash for $10 in 2000, compared to the $200 it currently costs;</p>
+<p>-- will introduce a production car in Europe in 1997 that was designed almost completely using computer technology.</p>
+<p>Ford executives were hard-pressed to assign dollar amounts to all of the new computer design and prototype initiatives.</p>
+<p>But Claude Lobo, director of advanced design at Ford, said the new systems dramatically improve quality and free designers and engineers to take more risks.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DEARBORN, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

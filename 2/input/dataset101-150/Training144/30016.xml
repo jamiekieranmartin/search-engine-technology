@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="30016" id="root" date="1996-09-03" xml:lang="en">
+<title>PAKISTAN: Climbers head home after trio die on Pakistan peak.</title>
+<headline>Climbers head home after trio die on Pakistan peak.</headline>
+<dateline>ISLAMABAD 1996-09-03</dateline>
+<text>
+<p>Two New Zealand climbers, Thomas Davies and Dominic Harmond, arrived in the Pakistani city of Rawalpindi on Tuesday on their way home after three of their colleagues died on one of the world's highest mountains.</p>
+<p>Witnesses said the two men, looking dusty, haggard and exhausted, reached a hotel in Rawalpindi, near the capital Islamabad, by road from the northern town of Gilgit.</p>
+<p>They refused to speak to reporters.</p>
+<p>Three members of their expedition, Britons Stephen Thornley and Andrew Boas and New Zealander Christopher Hoare, went missing on August 12 high on the 7,885 metre (25,869 foot) peak of Disteghil Sar and are presumed dead.</p>
+<p>Pakistani officials issued death certificates for the three men on Sunday, though their bodies have not been found.</p>
+<p>Another expedition member, Peter Marriott of New Zealand, reached Rawalpindi on Sunday, but made no statement.</p>
+<p>A British diplomat involved in gathering details of the tragedy said Marriott was upset and unwell and was anxious to leave Pakistan as soon as he could.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISLAMABAD"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

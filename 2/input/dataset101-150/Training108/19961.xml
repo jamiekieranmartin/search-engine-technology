@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="19961" id="root" date="1996-08-28" xml:lang="en">
+<title>USA: Study links diet drug to often deadly lung problem.</title>
+<headline>Study links diet drug to often deadly lung problem.</headline>
+<byline>Gene Emery</byline>
+<dateline>BOSTON 1996-08-28</dateline>
+<text>
+<p>A team of doctors has discovered a link between diet pills containing amphetamine-like drugs and a rare but often-fatal lung condition called primary pulmonary hypertension.</p>
+<p>In a study published in Thursday's New England Journal of Medicine, the research team found that people taking appetite suppressants made from the drugs fenfluramine or dexfenfluramine were six times more likely to develop high blood pressure in the lungs. The risk jumped to 23 times higher if they took the drugs for more than three months.</p>
+<p>Wyeth-Ayerst International, a unit of American Home Products Corp, markets dexfenfluramine under the brand name Redux. It said it met with the Food and Drug Administration and agreed to re-label dexfenfluramine capsules.</p>
+<p>Some researchers urged the public to put the results in perspective. The health risks associated with obesity, which the drugs are designed to fight, remain far greater than the likelihood of developing pulmonary hypertension, which can cause heart failure when blood cannot flow easily through the arteries of the lungs.</p>
+<p>In an editorial in the journal, Drs. JoAnn Manson of Harvard Medical School and Gerald Faich of the University of Pennsylvania estimate that using the drugs to reduce obesity will prevent roughly 20 obesity-related deaths per year for every person who dies from the side effect of the medicine.</p>
+<p>However, the journal was investigating whether Manson and Faich acted improperly in failing to disclose work they had done for the pharmaceutical companies involved, the Wall Street Journal reported.</p>
+<p>Dr. Marcia Angell, editor of the journal, said she was surprised to learn of Manson and Faich's consulting arrangements with Interneuron Pharmaceutical, which has the U.S. rights to Redux marketed by Wyeth-Ayerst.</p>
+<p>Fenfluramine, sold as Pondimine by A.H. Robins, has been around for years.</p>
+<p>Dexfenfluramine, under the brand name Redux, is turning into a big seller after its introduction last June, two months after it was approved by the FDA.</p>
+<p>Weight loss is big business and obesity is a huge health problem. About 58 million Americans are obese, weighing more than than 20 percent than their recommended weight. The excess poundage contributes to 300,000 deaths in the U.S. each year.</p>
+<p>Even losing a small amount of weight can dramatically reduce the risk of death.</p>
+<p>Doctors have been looking for a safe diet pill because genetic factors, eating habits, and environmental influences make it extraordinarily difficult for many obese people to lose weight and keep it off.</p>
+<p>The research was based on a study of volunteers in France, Belgium, Britain and the Netherlands, where both drugs have been in use for a longer period than the United States.</p>
+<p>Nearly 32 percent of the people with the lung condition had taken the suppressants. Only 7 percent of the people without the condition had taken the suppressants.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

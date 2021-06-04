@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="56499" id="root" date="1996-09-16" xml:lang="en">
+<title>USA: TVA shuts Browns Ferry 3 Ala. nuclear power plan.</title>
+<headline>TVA shuts Browns Ferry 3 Ala. nuclear power plan.</headline>
+<dateline>NEW YORK 1996-09-16</dateline>
+<text>
+<p>Tennessee Valley Authority (TVA) has shut down its 1,065 megawatt (MW) Browns Ferry 3 nuclear power plant, the Nuclear Regulatory Administration (NRC) said Monday.</p>
+<p>The unit, in Decatur, Ala., was shut after being manually tripped to repair a recirculation pump, the commission said.  </p>
+<p>TVA Nuclear, which operates the plant, was not immediately available for comment on the problem or when the unit might be brought back on line.</p>
+<p>Meanwhile, the Browns Ferry 3 reactor is being kept in hot shutdown mode, which typically indicates the unit is not expected to be down long.</p>
+<p>Output at the unit had been fluctuating since it returned to service following a Sept 4 maintenance outage.</p>
+<p>It was scheduled to reduce power Friday for a rod reorganization and then ramp up again over the weekend, the company said late last week.</p>
+<p>-- New York Power Desk + 1 859 1622</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

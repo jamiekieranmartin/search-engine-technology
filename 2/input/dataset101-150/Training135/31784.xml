@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31784" id="root" date="1996-09-04" xml:lang="en">
+<title>BRAZIL: WTO director-general to visit Brazil in September.</title>
+<headline>WTO director-general to visit Brazil in September.</headline>
+<dateline>BRASILIA 1996-09-04</dateline>
+<text>
+<p>The director general of the World Trade Organization (WTO), Renato Ruggiero, will visit Brazil between September 11-14, the Brazilian Foreign Ministry said on Wednesday.</p>
+<p>Ruggiero's visit, which will include meetings with President Fernando Henrique Cardoso and several of his ministers, is in preparation for the first, biannual summit of the WTO in Singapore December 9-13, the ministry said in a statement.</p>
+<p>Brazil is currently involved in a dispute at the WTO after Japan, the European Union, South Korea, the United States and Canada objected to its car import rules. Several trading partners have also expressed concern over recent import tariff hikes on toys and quotas for textiles.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRASILIA"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

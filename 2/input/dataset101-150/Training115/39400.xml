@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="39400" id="root" date="1996-09-07" xml:lang="en">
+<title>INDIA: Indian forex reserves slip to $22.39 bln on Aug 30.</title>
+<headline>Indian forex reserves slip to $22.39 bln on Aug 30.</headline>
+<dateline>BOMBAY 1996-09-07</dateline>
+<text>
+<p>India's foreign exchange reserves declined to $22.39 billion on August 30, 1996, from 22.41 billion the previous week, the Reserve Bank of India (RBI) said on Saturday.</p>
+<p>	 FOREIGN EXCHANGE RESERVES (in million U.S. dollars)</p>
+<p>					   Aug 30     Aug 23	 Sept 1</p>
+<p>					    1996	  1996	   1995</p>
+<p>    Foreign currency assets     17,976	17,985	 19,017</p>
+<p>    Gold				 4,410	 4,410	  4,413</p>
+<p>    SDRs				     9	    19	     46</p>
+<p>    Total			     22,395	22,414	 23,476</p>
+<p>-- Bombay newsroom +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+  <code code="E513">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

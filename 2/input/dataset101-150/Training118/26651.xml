@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="26651" id="root" date="1996-09-01" xml:lang="en">
+<title>USA: FDA orders Phyne Pharmaceuticals drug off market.</title>
+<headline>FDA orders Phyne Pharmaceuticals drug off market.</headline>
+<dateline>WASHINGTON 1996-09-01</dateline>
+<text>
+<p>U.S. Food and Drug Administration has issued a national alert on a drug that has been used to help people lose weight and reduce drug abuse, saying it was causing dangerous infections that could be fatal.</p>
+<p>The FDA said in a statement released on Friday it had ordered the drug off the market and was investigating its makers and distributors.</p>
+<p>It said it had received dozens of complaints from people who suffering from abscesses on parts of their bodies where the adrenal cortex extract had been injected.</p>
+<p>The drug comes in a 30-milliliter vial from Hallmark Labs that is distributed by Phyne Pharmaceuticals of Scottsdale, Arizona, it said.</p>
+<p>The administration said it had never approved the use of the extract, which comes from the adrenal glands of sheep and other animals.</p>
+<p>The administration said the abscesses might have occurred because the drug had been poorly prepared or labelled.</p>
+<p>Phyne officials could not be immediately reached for comment.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

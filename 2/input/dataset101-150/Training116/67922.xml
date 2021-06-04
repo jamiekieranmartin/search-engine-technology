@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="67922" id="root" date="1996-09-20" xml:lang="en">
+<title>AUSTRIA: Austria unearths 6,500-year-old girl.</title>
+<headline>Austria unearths 6,500-year-old girl.</headline>
+<dateline>VIENNA 1996-09-20</dateline>
+<text>
+<p>Archaeologists in Austria have discovered the skeletal remains of a Stone Age girl, believed to be over 1,200 years older than the 5,300-year-old &quot;iceman&quot; found in 1991, the Austrian news agency APA said on Friday.</p>
+<p>The bones were found on a 6,500-year-old Stone Age settlement near the northwestern city of Linz, archaeologist Manfred Pertlwieser at the Francisco Carolinum museum in northern Austria was quoted as saying.</p>
+<p>Judging from the good condition of her teeth, the girl was estimated to be between 12 and 13 when she died. He said the body was curled up in a tight ball when it was buried, &quot;just as children crouch when they are cold&quot;.</p>
+<p>He said she had probably died of a fever or frozen to death. Remains of a fireplace near her grave suggest she was buried in her home.</p>
+<p>The discovery comes after five years of excavation on the Stone Age settlement in Oelkam.</p>
+<p>Previously the &quot;iceman&quot; discovered on a glacier in the Tyrolean Alps five years ago was the oldest human being to have been found intact.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VIENNA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

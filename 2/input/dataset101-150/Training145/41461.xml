@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="41461" id="root" date="1996-09-09" xml:lang="en">
+<title>USA: U.S. airlines raise most domestic fares by 2.5 pct.</title>
+<headline>U.S. airlines raise most domestic fares by 2.5 pct.</headline>
+<dateline>NEW YORK 1996-09-09</dateline>
+<text>
+<p>Major airlines except Southwest Airlines Co said Monday they raised their fares by 2.5 percent because of strong passenger demand for seating.</p>
+<p>The airlines said the fare increase applied to domestic flights in most routes which do not compete with Southwest and matched a 2.5 percent increase initiated by Continental Airlines Inc.</p>
+<p>The fare hikes come on top of the 10 percent federal passenger excise tax reinstated in August, which had prompted some airlines to increase their fares 10 percent.  </p>
+<p>Airlines that said they raised their fares include Trans World Airlines Inc, UAL Corp, parent of United Airlines, Northwest Airlines Corp and Delta Air Lines Inc and USAir Group Inc.</p>
+<p>&quot;We've seen a tremendous demand this summer and our advanced bookings for the fall are looking strong,&quot; said Jackie Pate, a Delta spokesperson specializing in pricing.</p>
+<p>Pate said Delta's load factor for the calendar year through July was 70.14 percent, compared with 65.13 percent over the same period last year.  </p>
+<p>&quot;Traditionally after Labor Day travel tends to slacken. That is occuring, but we are still seeing strong demand,&quot; said American Airlines spokesman John Hotard.  American Air is an AMR Corp subsidiary.  Hotard said this year's bookings are up &quot;a couple of percentage points&quot; compared with last year's.</p>
+<p>The airlines gave other reasons for the fare increases, including rising fuel costs and the cost of greater security measures.</p>
+<p>In August some airlines raised their fares by 10 percent to cover the excise tax, but the fare hike did not stick because it wasn't uniformly matched by all carriers.</p>
+<p>Southwest said it absorbed the cost of the tax on most of its routes, except for longer flights, and has so far chosen not to make additional fare increases.</p>
+<p>&quot;It was just a business decision.  We are the low-fare airline,&quot; said Southwest spokesperson Linda Rutherford, adding &quot;We know that the resumption of the (excise) tax will definitely impact profits, but we don't know by how much yet.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

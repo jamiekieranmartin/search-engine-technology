@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="29728" id="root" date="1996-09-03" xml:lang="en">
+<title>USA: Computer scientists discover new largest prime number.</title>
+<headline>Computer scientists discover new largest prime number.</headline>
+<dateline>CHICAGO 1996-09-03</dateline>
+<text>
+<p>Computer scientists at Cray Research have discovered the largest-known prime number, with 378,632 digits filling about 12 newspaper pages, Cray said on Tuesday.</p>
+<p>Prime numbers can be divided evenly only by themselves and one. Examples include 2, 3, 5, 7 and 11. The new number was discovered at the company's facility in Chippewa Falls, Wisconsin.</p>
+<p>According to Cray, the Greek mathematician Euclid proved that there is an infinite number of prime numbers, but they do not occur in a regular sequence and there is no formula for generating them.</p>
+<p>Cray said finding prime numbers is a &quot;torture test&quot; for supercomputers, which helps researchers learn new techniques for speeding up mathematical operations. The process requires randomly generating and testing millions of numbers.</p>
+<p>The number itself, however, is seen as simply a mathematical curiosity.</p>
+<p>&quot;I'd have to say that it's not really significant at all for any practical use,&quot; said Christopher Colby, a computer science professor at Loyola University in Chicago.</p>
+<p>&quot;I would use it to get more research grants, perhaps,&quot; Colby said.</p>
+<p>Cray, a unit of Silicon Graphics Inc, said it had discovered the previously largest prime number as well, which had 258,716 digits.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="28761" id="root" date="1996-09-03" xml:lang="en">
+<title>USA: Precision Standard Inc Q2 loss widens.</title>
+<headline>Precision Standard Inc Q2 loss widens.</headline>
+<dateline>BIRMINGHAM, Ala. 1996-09-03</dateline>
+<text>
+<p>Precision Standard Inc.</p>
+<p>		     Results through 6/30/96</p>
+<p> Second Quarter Results			    1996	 1995</p>
+<p> Sales					 $ 35,808,708$ 42,205,228</p>
+<p> Income (loss) before income tax	 (1,276,188)    192,003</p>
+<p> Income tax expense			   (662,151) (1,867,610)</p>
+<p> Net income (loss)			  (1,938,339) (1,675,607)</p>
+<p> Avg. shares outstanding - primary     12,471,080  12,442,850</p>
+<p>Avg. shares outstanding - fully diluted</p>
+<p>						   12,471,080  12,442,850</p>
+<p>Primary Earnings Per Share</p>
+<p> Income (loss) before income tax		(0.10)	 0.02</p>
+<p> Income tax (expense)/benefit		   (0.06)     (0.15)</p>
+<p> Net income (loss)				  (0.16)     (0.13)</p>
+<p>Fully diluted earnings per share</p>
+<p> Income (loss) before income tax		(0.10)	 0.02</p>
+<p> Income tax (expense)/benefit		   (0.06)     (0.15)</p>
+<p> Net income (loss)				  (0.16)     (0.13)</p>
+<p>Six Months Results</p>
+<p> Sales					   62,356,113  83,351,408</p>
+<p> Income (loss) before income tax	 (3,271,322)  1,943,859</p>
+<p> Income tax (expense)/benefit	     (708,885) (2,021,610)</p>
+<p> Net income (loss)			   (3,980,207)   (77,751)</p>
+<p> Avg. shares outstanding - primary     12,467,629  12,393,571</p>
+<p>Avg. shares outstanding - fully diluted</p>
+<p>						   12,467,629  12,393,571</p>
+<p>Primary Earnings Per Share</p>
+<p> Income (loss) before income tax		(0.26)	 0.15</p>
+<p> Income tax (expense)/benefit		   (0.06)     (0.16)</p>
+<p> Net income (loss)				  (0.32)     (0.01)</p>
+<p>Fully diluted earnings per share</p>
+<p> Income (loss) before income tax		(0.26)	 0.15</p>
+<p> Income tax (expense)/benefit		   (0.06)     (0.16)</p>
+<p> Net income (loss)				  (0.32)     (0.01)</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="I3640048">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BIRMINGHAM, Ala."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

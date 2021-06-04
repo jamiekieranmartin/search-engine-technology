@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="45828" id="root" date="1996-09-11" xml:lang="en">
+<title>SOUTH AFRICA: Mandela orders probe into S.African mine violence.</title>
+<headline>Mandela orders probe into S.African mine violence.</headline>
+<dateline>PRETORIA 1996-09-11</dateline>
+<text>
+<p>President Nelson Mandela has appointed a judicial commission of inquiry into violence on South African mines, the labour ministry announced on Wednesday.</p>
+<p>Judge John Myburgh, the judge president of the labour courts, will head the inquiry, the ministry said in a statement.</p>
+<p>&quot;The terms of reference for the commission are to urgently investigate the causes of the recent violence and occurrences... and to make recommendations within 10 working days as to the immediate steps needed to end the strife and carnage,&quot; it added.</p>
+<p>At least 30 miners have been killed and scores more injured in fighting on four mines run by Gold Fields of South Africa Ltd. Three produce gold and one is a platinum operation.</p>
+<p>Gold Fields has attributed the violence to clashes between the 350,000-strong National Union of Mineworkers (NUM) which has a largely Xhosa membership and the smaller United Workers' Union of South Africa, aligned to the Zulu-led Inkatha Freedom Party.</p>
+<p>Labour Minister Tito Mboweni said late last month he backed a wide-ranging inquiry into South Africa's mining industry and would moot it in cabinet.</p>
+<p>&quot;It is quite clear that some of the root causes of this violence are historical and in a sense some of the chickens are coming home to roost at the wrong time when now there is a democratic government,&quot; Mboweni said.</p>
+<p>South Africa's mining industry was built on a labour system whereby men left their wives and families for months at a time to work on the mines. Mine hostels were largely segregated on ethnic lines with Zulus, Xhosas or Basotho in separate quarters.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRETORIA"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

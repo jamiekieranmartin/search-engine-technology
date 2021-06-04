@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="81494" id="root" date="1996-09-27" xml:lang="en">
+<title>USA: One dead, 18 injured in California prison riot.</title>
+<headline>One dead, 18 injured in California prison riot.</headline>
+<dateline>SACRAMENTO, Calif 1996-09-27</dateline>
+<text>
+<p>A prisoner was killed and 18 people injured Friday when a riot broke out at a California maximum security prison and guards opened fire to quell it, officials said.</p>
+<p>About 100 Hispanic and black prisoners, some armed with home-made knives, started fighting in the exercise yard at California State Prison Sacramento, said Christine May, a spokeswoman for the California Department of Corrections.</p>
+<p>The riot at the prison near Folsom, 20 miles east of Sacramento, was quickly brought under control when security guards opened fire on the warring prisoners.</p>
+<p>After being briefed by Jim Gomez, director of the state Department of Corrections, California Gov. Pete Wilson said the riot was &quot;evidently a fight between two gangs within the prison.&quot;</p>
+<p>&quot;The gangs are racially organised and this was a fight between the African-American gang and the Latino gang,&quot; he told reporters.</p>
+<p>May said the prisoner who died was shot in the buttocks but it was not yet known if the bullet caused his death.</p>
+<p>Marilyn Broddrick, a spokeswoman for the prison, said 14 prisoners were also injured. Eight suffered stab wounds and six suffered gunshot wounds, she said.</p>
+<p>Most of the wounded were taken by ambulance to the University of California at Davis Medical Centre in Sacramento.</p>
+<p>Four prison staff members were also injured and two of them were taken to outside hospitals, Broddrick said.</p>
+<p>The condition of the injured was not immediately available.</p>
+<p>Ambulances raced to and from the prison and local television showed bandaged prisoners being unloaded from ambulances at the hospital.</p>
+<p>Broddrick said prison guards used pepper spray, batons and fired rubber baton rounds -- larger than rubber bullets -- before opening fire with live rounds when the prisoners continued to fight.</p>
+<p>About 17 shots were fired, May said.</p>
+<p>Broddrick said the prison would be locked down -- meaning prisoners would be confined to their cells -- at least through the weekend while prison officials investigated what caused the clash. She said the last major incident at the prison was in 1989.</p>
+<p>The prison is a modern facility for criminals convicted of the most serious crimes. May said the prison is overcrowded as are all California prisons. It holds 3,200 prisoners but is designed for 1,700, she said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SACRAMENTO, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="28826" id="root" date="1996-09-03" xml:lang="en">
+<title>USA: Lilly shares up on FDA action on Zyprexa.</title>
+<headline>Lilly shares up on FDA action on Zyprexa.</headline>
+<dateline>CHICAGO 1996-09-03</dateline>
+<text>
+<p>Shares in Eli Lilly &amp; Co climbed 2-1/2 to 59-3/4 on Wall Street reaction to the U.S. Food and Drug Administration's issuing an approvable letter for the company's Zyprexa drug for schizophrenia.</p>
+<p>&quot;The stock is trading up on the announcement,&quot; said Deutsche Morgan Grenfell/C.J. Lawrence pharmaceuticals analyst Mariola Haggar.</p>
+<p>At the same time, Haggar noted that issuance of the FDA letter, usually a preliminary to full marketing clearance, was widely expected. She added that final FDA approval for the drug can be expected in the next one to three months.</p>
+<p>--Chicago Newsdesk 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

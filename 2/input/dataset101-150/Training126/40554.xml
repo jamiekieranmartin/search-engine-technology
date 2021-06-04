@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="40554" id="root" date="1996-09-09" xml:lang="en">
+<title>USA: U.S. Southeast spot power climbs on heat, outages.</title>
+<headline>U.S. Southeast spot power climbs on heat, outages.</headline>
+<dateline>NEW YORK 1996-09-09</dateline>
+<text>
+<p>Spot electricity prices in the U.S. Southeast climbed Monday on hot weather and continued outages of several large generation plants in the region, said industry sources.</p>
+<p>After the passage of Hurricane Fran last week, the region was left with hot and muggy weather since this weekend.</p>
+<p>Some regional power providers, whose transmission assets were ravaged by Hurricane Fran, scrambled to cover the native electric load in the wholesale market, traders said.</p>
+<p>Those with extra power to sell today commanded high premiums for their incremental generation, they said.</p>
+<p>Tennessee Valley Authority, the largest energy provider in the Southeast, reportedly purchased spot power today on an hourly basis in the $28.00-$30.00</p>
+<p>Within the Southeastern Electric Reliability Council (SERC), peak, non-firm power for Tuesday was bid at $25.00 a megawatt hour (MWh), compared with a range of $22.50-$23.50 for Monday delivery on Friday.</p>
+<p>At the Georgia/Florida border, peak, non-firm power prices for Tuesday were valued in the $28.00 area, compared with Friday's $23.50.</p>
+<p>In the Florida pennisula, non-firm, peak electricity prices for Tuesday delivery were quoted in the $31.00-$33.00 range, up from Friday's prices in the $28.00 area for Monday delivery.</p>
+<p>Florida Power &amp; Light Co's 839 megawatt (MW) St Lucie 1 nuclear power plant will likely operate at reduced power for the next two weeks, while it repairs one of the unit's main transformer.</p>
+<p>Florida Power Corp's 825 MW Crystal River 3 nuclear unit remained shut because of lube oil leak.</p>
+<p>Carolina Power &amp; Light Co's 683 MW Robinson 2 nuclear unit was taken off line Saturday to begin a 40-day refueling outage.</p>
+<p>--R Leong, New York Power Desk +1 212 859 1622</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

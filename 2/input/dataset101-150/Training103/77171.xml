@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="77171" id="root" date="1996-09-25" xml:lang="en">
+<title>HONG KONG: HK Ferry expects green light on redevelopment plan.</title>
+<headline>HK Ferry expects green light on redevelopment plan.</headline>
+<dateline>HONG KONG 1996-09-25</dateline>
+<text>
+<p>Hong Kong Ferry (Holdings) Co Ltd said on Wednesday the government's Town Planning Board has no objection in principal to the company's request of rezone its shipyard at Tai Kok Tsui to a comprehensive development area zone from an industrial zone.</p>
+<p>&quot;However, no written confirmation has yet been received from the Town Planning Board,&quot; the ferry operator said, adding a premium was expected to be payable in relation to the redevelopment. It gave no further details.</p>
+<p>The company's shares had risen HK$2.30 or 19.16 percent in the last two trading dates to HK$14.30 on Tuesday on speculation of strong earnings from the redevelopment of its old 228,000 sq.ft. shipyard site into a comprehensive complex.</p>
+<p>Hong Kong Ferry shares fell HK$0.50 or 3.49 percent to HK$13.80 by mid-morning on Wednesday.</p>
+<p>-- Hong Kong Newsroom (852) 2843 6370</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

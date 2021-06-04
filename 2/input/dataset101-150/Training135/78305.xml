@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="78305" id="root" date="1996-09-26" xml:lang="en">
+<title>PANAMA: Panama hopes for unanimous vote to join WTO.</title>
+<headline>Panama hopes for unanimous vote to join WTO.</headline>
+<dateline>PANAMA CITY 1996-09-26</dateline>
+<text>
+<p>Panama is likely to be a more competitive country on the world markets after its acceptance in the World Trade Organization (WTO), expected next week, Trade Minister Nitzia de Villarreal predicted Thursday.</p>
+<p>The minister will travel to Geneva on Monday to attend the WTO assembly, which is due to vote on Panama's application on October 2. She said she hoped the vote would be unanimous.</p>
+<p>Joining the WTO would mean a 40 percent ceiling on tariffs for Panama's industrial sector, dropping to 30 percent over five years.</p>
+<p>-- Panama City newsroom, 507 2237739</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PANAMA CITY"/>
+<dc element="dc.creator.location.country.name" value="PANAMA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="84272" id="root" date="1996-09-30" xml:lang="en">
+<title>USA: Connective says drug stabilizes MS for year.</title>
+<headline>Connective says drug stabilizes MS for year.</headline>
+<dateline>PALO ALTO, Calif. 1996-09-30</dateline>
+<text>
+<p>Connective Therapeutics Inc said on Monday that results from Phase I/II clinical testing of T-cell Receptor (TCR) peptide vaccines used to treat multiple sclerosis show the discease stabilized in patients without side effects during a one-year test period.</p>
+<p>Results from the pilot study will be published in the October 1996 issue of the journal Nature Medicine, the company said in a statement. The trials were led by Arthur Vandenbark, Ph.D. of Neuroimmunology Research, Veterans Affairs Medical Center, Portland and Oregon Health Sciences University.</p>
+<p>The double-blind, placebo-controlled trial involved 23 patients with chronic, progressive multiple sclerosis who were treated for 12 months with a native or substituted version of a V beta 5.2 TCR peptide vaccine or placebo.</p>
+<p>Successful peptide vaccination boosted protective T-cells and lowered pathogenic T-cells thought to cause the disease.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

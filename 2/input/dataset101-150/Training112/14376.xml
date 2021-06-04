@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="14376" id="root" date="1996-08-26" xml:lang="en">
+<title>AUSTRALIA: RTRS-Melbourne train collides with truck, 15 injured.</title>
+<headline>RTRS-Melbourne train collides with truck, 15 injured.</headline>
+<dateline>MELBOURNE 1996-08-26</dateline>
+<text>
+<p>Fifteen people were injured when a suburban passenger train and a truck collided at a street-level rail crossing in the Australian city of Melbourne on Monday, said rail and ambulance officials.</p>
+<p>The injured, which included a pregnant woman, were taken to hospital, but were not in a serious condition, an ambulance spokesman told Reuters.</p>
+<p>A Public Transport Corporation spokesman said the train, collided with the truck loaded with concrete pylons in the north Melbourne suburb of Preston just before 8.30 a.m..</p>
+<p>The train was derailed when a corner of the driver's compartment caught the rear of the truck, the spokesman said.</p>
+<p>The truck was overturned, spilling its load onto the crossing, and careered into the nearby Bell St Station.</p>
+<p>&quot;Remarkably both the train driver and the truck driver were not injured,&quot; the rail spokesman said.</p>
+<p>&quot;It had the potential to be quite a nasty accident.&quot;</p>
+<p>-- Sydney Newsroom 61-2 373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELBOURNE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="37685" id="root" date="1996-09-06" xml:lang="en">
+<title>USA: U.S. Senate passes Antarctica environmental bill.</title>
+<headline>U.S. Senate passes Antarctica environmental bill.</headline>
+<dateline>WASHINGTON 1996-09-05</dateline>
+<text>
+<p>The U.S. Senate on Thursday passed a bill to make U.S. research activities in Antarctica consistent with an international treaty to protect the Antarctic environment.</p>
+<p>The bill, which passed unanimously, would impose strict rules on incinerating or disposing of waste, and would continue the ban on exploration and development of Antarctic minerals.</p>
+<p>The legislation would apply U.S. environmental provisions for assessing and monitoring human effects on the fragile Antarctic environment.</p>
+<p>The bill would also keep the National Science Foundation as the lead agency responsible for managing the U.S. Antarctic science programme and issuing regulations and research permits.</p>
+<p>The House of Representatives passed its legislation in April to implement environmental measures of the Antarctic treaty agreed to by 26 countries in 1991.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AARCT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

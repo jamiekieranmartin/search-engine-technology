@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="24287" id="root" date="1996-08-30" xml:lang="en">
+<title>JAPAN: Japan finds killer germ in U.S. beef intestines.</title>
+<headline>Japan finds killer germ in U.S. beef intestines.</headline>
+<dateline>TOKYO 1996-08-30</dateline>
+<text>
+<p>The Health Ministry said on Friday it had found the deadly O-157 bacteria, responsible for a food poisoning epidemic in Japan which has killed 11 people, in a sample of imported U.S. beef intestine.</p>
+<p>A ministry official added, however, that the finding would not prompt any new restrictions on Japan's imports of U.S. beef, noting that imported beef intestines are heat-treated before distribution to the market and this destroys the killer germ.</p>
+<p>The U.S. embassy said in a statement that the shipment from which the sample was taken had not been distributed for sale in Japan.</p>
+<p>The Health Ministry official said the bacteria was found on Wednesday at one of the ministry's laboratories and that the U.S. embassy was notified immediately.</p>
+<p>The embassy said the product was voluntarily destroyed by the importer and that therefore it had no link with the O-157 epidemic.</p>
+<p>The O-157 colon bacillus has been found responsible for a widespread food poisoning epidemic in Japan that has killed 11 people and made over 9,500 ill this year.</p>
+<p>The government said earlier this week that the threat from the germ, while still requiring vigilance, appeared to be receding in Sakai, a city near the regional commercial centre of Osaka in western Japan, which has been hit hardest by the deadly bacteria.</p>
+<p>Health authorities believe school lunches were responsible for the food poisoning in Sakai, but researchers have been unable to pinpoint the exact source of the infection.</p>
+<p>The outbreak has prompted authorities to tighten sanitary standards at slaughterhouses and meatpacking plants and sparked calls for an overhaul of the nation's school lunch programme.</p>
+<p>Japan imported 417,105 tonnes of beef in the first seven months of this year, more than half of it from the United States.</p>
+<p>Beef intestines are sometimes used as ingredients in an inexpensive Japanese stew that includes other animal organs and is popular in the winter.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="I0100105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="I41220">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

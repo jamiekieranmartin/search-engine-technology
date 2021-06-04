@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="22321" id="root" date="1996-08-29" xml:lang="en">
+<title>USA: IPO FILING - Simulation Sciences Inc.</title>
+<headline>IPO FILING - Simulation Sciences Inc.</headline>
+<dateline>WASHINGTON 1996-08-29</dateline>
+<text>
+<p>Company Name		 Simulation Sciences Inc</p>
+<p>Nasdaq Stock symbol	     SMCI.O</p>
+<p>Estimated price range	   $8-$10/shr</p>
+<p>Total shares to be offered    3.45 million</p>
+<p>Shrs offered by company	 2.7 million</p>
+<p>Shrs offered by shareholders  750,000</p>
+<p>Shrs outstanding after ipo    9,811,323</p>
+<p>Lead Underwriter    Alex Brown &amp; Sons Inc</p>
+<p>Underwriters over-allotment  517,500 shrs Business: provider of commercial simulation software and related services to the process industries, including petroleum, petrochemical and industrial chemicals process industries.</p>
+<p>Use of Proceeds: For working capital and corporate purposes.</p>
+<p>Financial Data in 000s:     1995		 1994</p>
+<p>   - Revenue		 $33,119	    $28,252</p>
+<p>   - Net Income  (loss)   $1,355	    ($1,642)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

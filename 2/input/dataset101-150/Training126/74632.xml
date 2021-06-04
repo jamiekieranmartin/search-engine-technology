@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="74632" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: U.S. Southeast spot power firm amid nuke outages.</title>
+<headline>U.S. Southeast spot power firm amid nuke outages.</headline>
+<dateline>NEW YORK 1996-09-25</dateline>
+<text>
+<p>Spot wholesale electricity prices in the southeastern U.S. firmed Wednesday amid outages of several large nuclear generating station in the region, market sources said.</p>
+<p>&quot;It didn't see much (price) change,&quot; said a Midwest-based power marketer.</p>
+<p>Late Tuesday, Duke Power Co's 846 megawatt (MW) Oconee 2 nuclear unit in Seneca, S.C., was taken out of service after a steampipe exploded, injuring seven workers.</p>
+<p>The Oconee unit resumed operation briefly Tuesday after being shut last weekend to repair a leaking valve.</p>
+<p>Duke said it has not scheduled a restart date when Oconee 2 would return to service following Tuesday's incident.</p>
+<p>Two Florida nuclear units remained off line: Florida Power and Light Co's Turkey Point 3 nuclear unit in Florida City, Fla., and Florida Power Corp's 825 Crystal River 3 unit in Red Level, Fla.</p>
+<p>In the Southeastern Reliability Council (SERC), non-firm power for heavy demand hours on Thursday for delivery into the northern portion of Tennessee Valley Authority (TVA) system was quoted near $17.00 a megawatt hour (MWh), higher than Tuesday's quote of $16.25 for Wednesday.</p>
+<p>Thursday's peak electricity in southern TVA was valued near $20.00, compared with Tuesday's $19.25-$20.00 range.</p>
+<p>TVA was heard offering peak, non-firm power for Thursday at $18.00.</p>
+<p>At the Georgia/Florida border, peak, non-firm power was quoted at $21.00-$21.50 a MWh for Thursday, compared with Tuesday's range of $20.00-$23.50.</p>
+<p>--R Leong, New York Power Desk +1 212 859 1622</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

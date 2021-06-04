@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="48882" id="root" date="1996-09-12" xml:lang="en">
+<title>NIGERIA: 11 Nigerian women footballers die in road crash.</title>
+<headline>11 Nigerian women footballers die in road crash.</headline>
+<dateline>LAGOS 1996-09-12</dateline>
+<text>
+<p>Fourteen people, including 11 policewomen footballers, died when the bus they were in plunged into a river, a police statement said on Thursday.</p>
+<p>It said the accident occured on Wednesday night along the Lagos-Benin expressway after a heavy downpour. Police said the members of the Police Machine Football Team had been returning from a match in eastern Nigeria.</p>
+<p>&quot;As a result of the accident, 11 women players, two coaches and the driver, were all confirmed dead,&quot; it said.</p>
+<p>The Lagos-Benin expressway is the main gateway to eastern Nigeria and accidents are common along the pot-holed road, which is currently undergoing rehabilitation in several sections.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NIGEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAGOS"/>
+<dc element="dc.creator.location.country.name" value="NIGERIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

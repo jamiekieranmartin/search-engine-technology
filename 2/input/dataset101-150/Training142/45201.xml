@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="45201" id="root" date="1996-09-10" xml:lang="en">
+<title>MOROCCO: PRESS DIGEST - Morocco - Sept 10.</title>
+<headline>PRESS DIGEST - Morocco - Sept 10.</headline>
+<dateline>RABAT 1996-09-10</dateline>
+<text>
+<p>These are the leading stories in the Moroccan press on Tuesday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>LE MATIN DU SAHARA</p>
+<p>- Opposition party, Parti pour le Progres et le Socialisme (PPS), adopts report calling for yes-vote in Sept 13 referendum on constitutional reform.</p>
+<p>L'OPINION</p>
+<p>- Appeal court cuts to six months jail sentence imposed on 68-year-old French woman involved in drugs.</p>
+<p>AL-MAGHRIB</p>
+<p>- United Nations Development Programme puts Morocco at 119th position for illiteracy.</p>
+<p>LE QUOTIDIEN DU MAROC</p>
+<p>- Survey commissioned by Youth Council and Directorate of Statistics says only few businesses provide staff with training.</p>
+<p>AL-ALAM</p>
+<p>- Dissident members distance themselves from their party, Organisation pour l'Action Democratique Populaire (OADP), which called for a no-vote in referendum.</p>
+<p>ANOUAL</p>
+<p>- Moroccan Commission backing Iraqi people condemns American raid on Iraq.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RABAT"/>
+<dc element="dc.creator.location.country.name" value="MOROCCO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

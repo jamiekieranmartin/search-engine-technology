@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="58748" id="root" date="1996-09-17" xml:lang="en">
+<title>FRANCE: French boy kills schoolmate in shooting accident.</title>
+<headline>French boy kills schoolmate in shooting accident.</headline>
+<dateline>PARIS 1996-09-17</dateline>
+<text>
+<p>France's Education Minister decreed a two-hour pause for debate at schools across the country after a teenage boy shot dead a fellow pupil, apparently by accident, outside a school on Tuesday.</p>
+<p>Investigators said Julien, 15, was shot dead outside a school in Montereau outside Paris when a pupil took a gun out of his satchel to show his friends. The bullet hit Julien in the heart.</p>
+<p>The weapon belonged to the pupil's father, a retired policeman.</p>
+<p>Education Minister Francois Bayrou said lessons at schools across France would stop for two hours on Friday to allow pupils and teachers to discuss violence in schools.</p>
+<p>&quot;I want teachers, schoolparents and children to talk about what must be done to defuse the climate of violence plaguing modern societies,&quot; Bayrou said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

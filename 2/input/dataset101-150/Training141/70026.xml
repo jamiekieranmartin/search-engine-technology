@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="70026" id="root" date="1996-09-23" xml:lang="en">
+<title>TANZANIA: Tanzania beefs up security in national parks.</title>
+<headline>Tanzania beefs up security in national parks.</headline>
+<dateline>DAR ES SALAAM 1996-09-23</dateline>
+<text>
+<p>Tanzania has sent 250 armed rangers to its Serengeti national park with orders to shoot bandits on sight, tourism officials said on Monday.</p>
+<p>The order was given by Tourism Minister Juma Ngasongwa last week after a surge in attacks at tourist sites.</p>
+<p>Other measures include a 24-hour radio network, patrols by helicopters and light aircraft and the hiring of a security expert from Zimbabwe to advise how best to combat the problem.</p>
+<p>Heavily-armed bandits earlier this month ambushed 25 Italian and American tourists inside Serengeti, one of Africa's best-known game parks, shooting up two mini-buses and badly wounding two female tourists.</p>
+<p>Three days later, gunmen posing as tourists shot dead a hotel cashier in the northern Tanzanian town of Arusha at the foot of Mount Meru, the gateway to many of Tanzania's top attractions.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TANZA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="E511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="GTOUR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DAR ES SALAAM"/>
+<dc element="dc.creator.location.country.name" value="TANZANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

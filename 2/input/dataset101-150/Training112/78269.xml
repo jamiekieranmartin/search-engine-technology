@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="78269" id="root" date="1996-09-26" xml:lang="en">
+<title>RUSSIA: Fifteen die after train hits Russian school bus.</title>
+<headline>Fifteen die after train hits Russian school bus.</headline>
+<dateline>MOSCOW 1996-09-26</dateline>
+<text>
+<p>Fifteen children were killed and 14 injured on Thursday when a train struck a school bus at a level crossing in Russia's southern Rostov region, the Ministry for Emergency Situations said.</p>
+<p>The ministry said the accident occurred early in the morning, adding that a team of doctors was on stand-by to fly to the region if local hospitals needed assistance. The driver of the bus was also hurt.</p>
+<p>Accidents on unguarded level crossings are common in Russia. There was no immediate indication of whether the Rostov crossing was unguarded or how Thursday's accident happened.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

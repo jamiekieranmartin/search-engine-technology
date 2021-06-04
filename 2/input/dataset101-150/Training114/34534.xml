@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="34534" id="root" date="1996-09-05" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australia aluminium makers eye emission cuts.</title>
+<headline>RTRS-Australia aluminium makers eye emission cuts.</headline>
+<dateline>SYDNEY 1996-09-05</dateline>
+<text>
+<p>Australia's aluminium makers said on Thursday they would work toward making further reductions in harmful greenhouse gas emissions.</p>
+<p>&quot;The Australian aluminium industry is working together to deal with the greenhouse issue,&quot; Ian Edwards, managing director of Capral Aluminium Ltd and president of the Australian Aluminium Council said in a speech to business and government leaders on Greenhouse emissions.</p>
+<p>The council represents Alcoa of Australia Ltd, Capral, Comalco Ltd and Tomago Aluminium Ltd, which in total produce about 1.3 million tonnes of aluminium a year.  </p>
+<p>Edwards said the industry has already reduced greenhouse emissions by over 14 percent per tonne of aluminium since 1990.</p>
+<p>&quot;This is equivalent to a total reduction in greenhouse gas emissions of 10 percent and has been achieved even though production of aluminium has increased by over four percent in the same period,&quot; Edwards said.</p>
+<p>Under a so-called &quot;Greenhouse Challenge&quot; pact with the federal government, Edwards said aluminium makers aim to reduce CO2 equivalents per tonne by a further seven percent by the end of the decade.  </p>
+<p>The aluminium industry is Australia's largest industrial user of electricity, Edwards said.</p>
+<p>A spokesman for Alcoa said advances in technology have enabled aluminium smelters to use less power to produce aluminium</p>
+<p>Most electricity in Australia is generated from coal, meaning that gains in energy efficiency would contribute to the abatement of greenhouse gas emissions.</p>
+<p>-- Sydney newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22450">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

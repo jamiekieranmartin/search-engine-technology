@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="61329" id="root" date="1996-09-18" xml:lang="en">
+<title>SOUTH KOREA: Chronology of North Korean infiltrations into South.</title>
+<headline>Chronology of North Korean infiltrations into South.</headline>
+<dateline>SEOUL 1996-09-18</dateline>
+<text>
+<p>A North Korean infiltration into the enemy South on Wednesday is one of many that have occurred since the 1950-53 Korean War.</p>
+<p>Wednesday's drama is the 310th incident of infiltration and espionage since 1970, the South Korean Defence Ministry said.</p>
+<p>Following is a chronology of the major incidents:</p>
+<p>January 21, 1968 - Thirty-one armed North Korean agents reach the presidential Blue House in Seoul, 28 are killed in a fierce gunbattle in which 34 South Korean troops, police and civilians also die.</p>
+<p>October 30, 1968 - A total of 130 armed North Koreans slip in through the east coast areas of Uljin and Samchok. Some 110 are killed after exchanges of gunfire in which 70 Southern troops and civilians also die. Seven are captured.</p>
+<p>June 12, 1969 - North Korean espionage vessel with 15 people on board sails into the remote, southeast island of Huksando. All infiltrators are killed in a gunbattle.</p>
+<p>April 4, 1970 - North Koran espionage vessel infiltrates tiny western island of Gyokyolbiyol. South Korean troops kill 17 agents.</p>
+<p>June 21, 1981 - South Korean armed forces destroy North Korean espionage vessel off west coast city of Sosan, killing nine and capturing one alive.</p>
+<p>September 24, 1984 - Armed North Korean agent commits suicide by taking poison after murdering three people in the country's third largest city of Taegu.</p>
+<p>May 22, 1992 - Three armed North Koreans infiltrate just south of the inter-Korean border. All are shot and killed.</p>
+<p>October 24, 1995 - A North Korean spy is captured and his companion killed in clash with security forces in southern city of Puyo. They had landed on Cheju island on a midget submarine on September 2.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

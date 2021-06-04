@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13069" id="root" date="1996-08-25" xml:lang="en">
+<title>USA: CA plans include Intel, Tandem deals-analysts.</title>
+<headline>CA plans include Intel, Tandem deals-analysts.</headline>
+<byline>Eric Auchard</byline>
+<dateline>NEW YORK 1996-08-25</dateline>
+<text>
+<p>Computer Associates International Inc is set to announce a series of deals designed to extend the reach of its systems managment software onto new computer platforms and to strengthen its existing ties to Microsoft Corp's Windows NT, analysts said.</p>
+<p>They said CA is likely to announce deals that allow its software to run on Novell and Tandem computer systems as well.</p>
+<p>Computer Associates has scheduled separate press conferences Monday and Tuesday with Microsoft, Intel Corp and Tandem Computers Inc.  </p>
+<p>CA officals declined to comment on what may be announced.</p>
+<p>But analysts say the announcements will be made at the company's three-day CA World conference that starts Sunday in New Orleans.</p>
+<p>Chet Geschickter, an industry analyst Hurwitz Consulting Group based in Newton, Mass., said he expected CA and Microsoft to announce a tighter integration of CA's Unicenter systems management product with Microsoft's BackOffice suite.</p>
+<p>The two software giants already have a co-marketing pact for CA/Unicenter for Windows NT which was announced in 1995.  </p>
+<p>&quot;Where the rubber hits the road with Microsoft is bundling and co-marketing,&quot; Geschickter said, noting how this relationship distinguishes CA from all but a handful of the thousands of firms developing software to run on Windows.</p>
+<p>&quot;This would represent a downward proliferation strategy for CA,&quot; resulting in far greater use of Computer Assocates software at the desktop level of corporate offices, he said.</p>
+<p>Morgan Stanley analyst Chuck Philips speculated that CA and Tandem have agreed to a partnership where CA will port its software to Tandem's large-scale transaction computers commonly used in banking and telecommunications.  </p>
+<p>&quot;The agreement is likely to be strategic, with little in the way of actual technology or products to annouce intially,&quot; said Philips, who is attending the CA World conference.</p>
+<p>It is less evident what the business software firm might be planning with Intel, but one analyst predicted the two would announce a deal for CA to market Intel's LANdesk Novell network management software.</p>
+<p>Intel, best known as the kingpin of microprocessors, also develops a variety of software, including LANdesk, the second leading set of network managent tools for Novell NetWare systems behind Novell Inc's own ManageWise software.  </p>
+<p>Microsoft chairman Bill Gates is scheduled to deliver a keynote speech Tuesday evening that is likely to center on the further integration of CA and Microsoft software strategies.</p>
+<p>Although not nearly so well known as Microsoft and other brand name PC software makers, Computer Associates is the world's top mainframe software supplier and the second largest independent software firm overall after Microsoft.</p>
+<p>The two have forged a strategic partnership based their respective market strengths.</p>
+<p>CA's expertise in the complicated software used to manage large-scale computer systems complements Microsoft's dominance of the high-volume corporate desktop software market and helps beef up Microsoft's suite of &quot;BackOffice&quot; software products.</p>
+<p>-- Eric Auchard, New York Newsdesk, 212-859-1736</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

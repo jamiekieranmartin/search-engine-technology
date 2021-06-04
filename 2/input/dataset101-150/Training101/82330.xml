@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="82330" id="root" date="1996-09-27" xml:lang="en">
+<title>GERMANY: FOCUS - Two men held over VW industrial espionage.</title>
+<headline>FOCUS - Two men held over VW industrial espionage.</headline>
+<byline>John Gilardi</byline>
+<dateline>FRANKFURT 1996-09-27</dateline>
+<text>
+<p>Two German men were detained by police on Friday after one confessed he planted a camera at the test track of carmaker Volkswagen AG and sold photographs to car industry publications, a prosecutor said.</p>
+<p>The men, who were 39 and 44 years old, were not employed by Volkswagen or a rival, public prosecutor Eckehard Niestroj said in announcing the breakthrough in one of Germany's most spectacular cases of industrial espionage.</p>
+<p>Police said the men were discovered after a resident of southern Germany tipped police off to a man in Starnberg who had expertise with high-tech photographic equipment and was known to visit the test tracks of German car manufacturers.</p>
+<p>The 44-year-old man admitted that he had confessed to installing the camera and to taking covert pictures of the VW prototypes while the other has declined comment, Niestroj said.</p>
+<p>The names of the men, whose residences in Starnberg and the state of Saarland in southwest Germany have been searched by police, were not made public.</p>
+<p>Both of the men turned themselves into police once the investigation was launched and were being held in jail to prevent them from tampering with evidence, police said.</p>
+<p>VW, which declined on Friday comment on the investigation, announced in August that it had discovered the sophisticated camera at its Ehra-Lessin test track.</p>
+<p>The device apparently used heat sensors and sent photographs by means of radio or satellite technology to the home of one of the suspects, police said.</p>
+<p>Four unauthorised photographs of VW prototypes appeared in car magazines in recent months, leading the carmaker to suspect that its security system had been penetrated.</p>
+<p>The photographs were of VW's new Golf, Passat and the EA-420 model under development.</p>
+<p>Premature publication of such photographs can cost a carmaker millions of marks in lost sales because innovative body styling can be copied or preempted by rivals before the introduction of a new vehicle.</p>
+<p>Pictures of new models and prototypes are highly valued by specialist motoring magazines, and some photographers go to considerable lengths to get them.</p>
+<p>VW has said it was spending a three-digit-million mark sum to develop a new car model, of which 30 percent is to be spent on design and body styling.</p>
+<p>VW management board chairman Ferdinand Piech has said he believed the carmaker, the largest in Europe, has been under surveillance for about eight years and suspected news photographers were not behind the pictures.</p>
+<p>After discovering the cameras, VW hired organised crime expert Dieter Langendoerfer as its new security chief. Langendoerfer is scheduled to begin work at VW next week.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="26110" id="root" date="1996-08-31" xml:lang="en">
+<title>NORWAY: Climbers bring down bodies from Arctic wreck.</title>
+<headline>Climbers bring down bodies from Arctic wreck.</headline>
+<byline>Rolf Soderlind</byline>
+<dateline>LONGYEAR, Norway 1996-08-31</dateline>
+<text>
+<p>Norwegian and Russian climbers worked on an Arctic mountainside on Saturday to bring down the frozen and shattered bodies of those who died when a Russian airliner crashed this week on the island of Spitzbergen.</p>
+<p>All 141 on board were killed when the plane hit the mountain as it was coming in to land on Thursday. The dead were Russian and Ukrainian miners, some with their families, on their way to work in the coal mines on the island.</p>
+<p>Norwegian officials said the weather had improved after early fog cleared on Saturday, allowing helicopters to fly the rescue teams and investigators to the remote crash site.</p>
+<p>&quot;We will start bringing down the bodies today,&quot; said a spokeswoman for the island governor's office.</p>
+<p>Russia has sent a group of 11 top-class mountaineers to help Norwegian teams recover bodies from the steep, snow-covered slopes. Their grisly task is complicated by the danger of avalanches, strong winds and sudden changes in the weather.</p>
+<p>Officials say it could take weeks to bring all the bodies down from the mountain to Longyear, the island's main town just a few miles (km) from the crash site.</p>
+<p>From there, they will be flown to the city of Tromsoe in northern Norway -- more than 500 miles (800 km) to the south -- for autopsies and formal identification of the dead.</p>
+<p>Accident investigators working on the mountain recovered a flight recorder buried in the snow near the Tupolev Tu-154's tail section on Friday, which could provide the explanation for the worst air disaster in Norway's history.</p>
+<p>The shockproof orange box will be taken to Moscow for examination.</p>
+<p>Officials said it was either the flight data recorder, containing vital information about the height and speed of the plane when it crashed, or a second device used to record the pilots' voices and communications.</p>
+<p>Western aviation experts have raised questions about the safety of Russian airline operations following the breakup of the Soviet Union in 1991. But the pilot was experienced and did not report any trouble before the plane crashed.</p>
+<p>The close-knit, hardy Norwegian and Russian mining communities on the island have been plunged into grief and shock by the disaster.</p>
+<p>The miners were on their way to start work in the Russian towns of Barentsburg and Pyramiden. Fewer than 3,000 people live on Spitzbergen, which has one of the world's harshest climates.</p>
+<p>The island is governed by Norway but Russia has rights of access under an international treaty from the 1920s.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="UKRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONGYEAR, Norway"/>
+<dc element="dc.creator.location.country.name" value="NORWAY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

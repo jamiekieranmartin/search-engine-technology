@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="67204" id="root" date="1996-09-20" xml:lang="en">
+<title>USA: U.S. drafts guidelines on animal-human transplants.</title>
+<headline>U.S. drafts guidelines on animal-human transplants.</headline>
+<byline>Joanne Kenen</byline>
+<dateline>WASHINGTON 1996-09-20</dateline>
+<text>
+<p>Federal health officials on Friday proposed guidelines for transplanting animal tissue and organs into humans, one of the most complex cutting edge issues in modern medicine.</p>
+<p>&quot;Xenotranplants&quot; hold out hope for patients who are getting sicker or dying as they wait for suitable human donor organs. But scientists fear introducing animal viruses into humans with potentially disastrous effects.</p>
+<p>That risk may be even higher with transplant patients whose immune systems are suppressed and who therefore are less able to mount a response to foreign microbes.</p>
+<p>Yet the benefits could be huge. Some 48,000 people are on waiting lists at any given time in the United States alone. The 5,000 people who donate organs each year after death do not meet the demand.</p>
+<p>Organ transplant is only one aspect. Scientists are also studying whether certain animal cells could cure diseases like diabetes or even control a cancer patient's pain.</p>
+<p>&quot;We want to protect the public and patients from potential risks while not impeding research into these promising new treatments,&quot; Food and Drug Commissioner David Kessler said as the draft guidelines were printed in the Federal Register for 90 days of public comment.</p>
+<p>Cross-species transplants, whether cells or whole organs, are reviewed by the Food and Drug Administration. The new recommendations include animal safety screenings to minimise the risk of transferring diseases, a fear that has been underscored by the AIDS epidemic.</p>
+<p>HIV, the virus that causes AIDS, is widely believed to have originated in monkeys and somehow made its way into the human population, although not through a transplant.</p>
+<p>The guidelines would require doctors to take blood cell and tissue samples from the animal and the human recipient for future public health study if needed. A national data base or registry would be established for public health research purposes and there would be requirements about monitoring the patients and careful selection of the doctors and researchers.</p>
+<p>There have already been a few cross-species transplants. A baby received a baboon heart in California several years ago but died. Last year an AIDS patient received a baboon bone marrow transplant. The transplanted cells apparently did not take, but the patient is alive and doing well.</p>
+<p>Other scientists and biotechnology companies are exploring whether they can genetically modify animal organs such as pig livers for human transplants, either as a replacement for a failing human organ or to keep a patient alive long enough to wait for a human replacement.</p>
+<p>Researchers are also testing whether they can treat Parkinson's Disease with foetal pig nerve cells, whether foetal calf adrenal cells implanted into the spine can help control end-stage cancer pain, and whether pancreatic islets from pigs could help treat insulin-dependent diabetes.</p>
+<p>The guidelines were drawn up jointly by the FDA, the National Institutes of Health and the Centres for Disease Control in consultation with leading scientists. The topic of xenotranplantation has also been vigorously analysed and debated at research centres and in the top medical journals.</p>
+<p>&quot;This guideline represents the consensus of physicians and scientists regarding the best way to move ahead in the field of xenotransplantation,&quot; Health and Human Services Secretary Donna Shalala said.</p>
+<p>Once the regulations are finalised, they can be updated as scientific knowledge advances.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

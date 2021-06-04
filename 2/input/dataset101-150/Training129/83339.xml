@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="83339" id="root" date="1996-09-28" xml:lang="en">
+<title>USA: White House, Congress reach spending accord.</title>
+<headline>White House, Congress reach spending accord.</headline>
+<dateline>WASHINGTON 1996-09-28</dateline>
+<text>
+<p>After marathon talks, congressional leaders and the White House agreed on Saturday on a spending bill for the 1997 fiscal year, both sides said.</p>
+<p>A statement by House Republican leaders said that White House Chief of Staff Leon Panetta had pledged White House support for the measure and said the administration would work to get Democratic votes in the House and Senate.  </p>
+<p>The Republican leaders' statement said the U.S. House of Representatives would vote on the pact later on Saturday. They said it &quot;locks in more than $50 billion in savings for the American taxpayer.&quot;</p>
+<p>They said the accord contained a strong immigration reform bill. The bill clamps down on illegal immigration but a section imposing restrictions on welfare benefits for legal immigrants, opposed by the administration, had held up agreement.</p>
+<p>White House Budget Office spokesman Larry Haas said,&quot;With this agreement we have finished the appropriations process for fiscal year 1997. We will have full-year funding for the government in place for 1997.&quot;</p>
+<p>&quot;It won't be precisely what the president asked for, but it will be largely what he asked for,&quot; Haas said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

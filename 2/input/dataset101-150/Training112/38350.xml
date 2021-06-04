@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="38350" id="root" date="1996-09-06" xml:lang="en">
+<title>EGYPT: 17 killed in two bus-truck collisions in Egypt.</title>
+<headline>17 killed in two bus-truck collisions in Egypt.</headline>
+<dateline>CAIRO 1996-09-06</dateline>
+<text>
+<p>Seventeen people were killed and 43 injured in southern Egypt on Thursday in two separate collisions between buses and trucks, government newspapers said on Friday.</p>
+<p>One of the buses was carrying children to work picking cotton and seven children aged between seven and 15 were killed, the newspaper al-Gomhuria said.</p>
+<p>Twenty-seven people, 26 of them children, were injured in that collision, near the town of Samalout, about 200 km (120 miles) south of the capital Cairo.</p>
+<p>In the second accident, 10 people were killed and 16 injured. The dead include the driver of the truck, Sabir Gamal Kabousha, 40, and six men aged between 35 and 48. Three of the bodies have not yet been identified.</p>
+<p>That accident took place on the Cairo-Aswan road near the town of Maghagha, in the Nile valley 150 km (90 miles) south of Cairo, the papers said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAIRO"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

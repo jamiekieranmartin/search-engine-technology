@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="41481" id="root" date="1996-09-09" xml:lang="en">
+<title>USA: Biodiesel mixers seek US alternative fuel listing.</title>
+<headline>Biodiesel mixers seek US alternative fuel listing.</headline>
+<dateline>WASHINGTON 1996-09-09</dateline>
+<text>
+<p>U.S. biodiesel manufacturers on Tuesday plan to ask the Energy Department to list biodiesel/diesel blend as an alternative fuel that could be used to help meet the goals of the Energy Policy Act of 1992, the National Biodiesel Board said.</p>
+<p>The 1992 law sought to displace 30 percent of oil used in cars by 2010, by requiring federal, state and local governments and other fleet owners to buy alternative fuel vehicles.</p>
+<p>Energy Department rules under the law recognized biodiesel in its neat form as an alternative fuel, but did not include B20, a blend of 20 percent biodiesel and 80 percent diesel.  </p>
+<p>B20 costs about 30-40 cents a gallon more than regular diesel, but Horvath said it was cheaper to use than alternatives such as compressed natural gas (CNG) to comply with the law because it did not entail major engine changes.</p>
+<p>Manufacturers sold about 1.5 million gallons of mostly soy-based biodiesel over the last year. One bushel of soybeans produces about 1.6 gallons of biodiesel.  </p>
+<p>&quot;The market has demanded that this (blended) fuel be given an opportunity,&quot; said Jeff Horvath, program director of the National Biodiesel Board, who said that B20 had been used successfully in buses, underground mining equipment, airport vehicles and boats.</p>
+<p>&quot;By expanding the regulations to include B20, the (Energy Department) will give fleets and fleet manufacturers more choices ... to comply with the law,&quot; he said.</p>
+<p>In its petition to the department, the National Biodiesel Board argues that B20 will be more effective than neat biodiesel in displacing petroleum because the market prefers to use B20.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

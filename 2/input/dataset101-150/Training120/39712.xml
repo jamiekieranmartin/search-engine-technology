@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="39712" id="root" date="1996-09-08" xml:lang="en">
+<title>AUSTRALIA: RTRS-NSW says will approve Newcrest mine.</title>
+<headline>RTRS-NSW says will approve Newcrest mine.</headline>
+<dateline>SYDNEY 1996-09-09</dateline>
+<text>
+<p>The New South Wales government will later on Monday announce approval for the development of Newcrest Mining Ltd's Cadia Hill copper/gold project, New South Wales premier Bob Carr told Reuters.  </p>
+<p>&quot;The approval reflects great confidence in New South Wales and will boost the local economy,&quot; Carr said.</p>
+<p>Newcrest Mining has proposed developing the A$440 million copper and gold mine in central western New South Wales but has been awaiting an official go-ahead from the state government.</p>
+<p>The mine is forecast to become one of the five largest gold mines in Australia, and possibly the largest in New South Wales, processing more than 17 million tonnes of ore per year.</p>
+<p>When asked, Carr said there had been no change over the Lake Cowal gold mine project proposed by North Ltd.  </p>
+<p>The News South Wales government earlier this year rejected approval for development of the A$200 million Lake Cowal project on environmental grounds.</p>
+<p>North has been seeking to reopen negotiations about the proposed mine with the Carr government.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

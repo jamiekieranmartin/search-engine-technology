@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="20785" id="root" date="1996-08-29" xml:lang="en">
+<title>UK: Vets find slaughter could spread disease in cows.</title>
+<headline>Vets find slaughter could spread disease in cows.</headline>
+<byline>Maggie Fox</byline>
+<dateline>LONDON 1996-08-30</dateline>
+<text>
+<p>Captive bolt stunners used to knock out cows before they are slaughtered could spread potentially infectious brain tissue through their bodies, U.S. veterinarians said on Friday.</p>
+<p>Tam Garland and colleagues at Texas A&amp;M University said their findings could mean that people are at risk of catching the human version of mad cow disease despite precautions aimed at keeping beef safe.</p>
+<p>&quot;We found grossly visible brain tissue in the left and right branches of the main pulmonary artery (the artery leading to the lungs) of 2.5 to five percent of cattle after slaughter,&quot; they wrote in a letter to the Lancet medical journal.</p>
+<p>&quot;It is likely that prion proteins (the agent believed to carry mad cow infection) are found throughout the bodies of animals stunned for slaughter.&quot;</p>
+<p>Britain currently requires that slaughterhouses remove tissue considered to be infectious from all cattle carcasses. This includes the brain, spinal cord and certain organs.</p>
+<p>But Garland said current slaughter practices literally blew bits of brain throughout the cow's body. Because it takes a cow several minutes to die after stunning, the pieces could be pumped into a number of organs.</p>
+<p>She said she thought to check for the effect because she knew people who have head traumas often turn up with brain tissue in other parts of their bodies.</p>
+<p>&quot;Since it is well documented in human literature, the thought occurred to me that oh, when we stun animals we are creating head trauma,&quot; she said in a telephone interview.</p>
+<p>She and colleagues checked and: &quot;Oh, boy did we find it.&quot;</p>
+<p>Bovine Spongiform Encephalopathy (BSE or mad cow disease) is epidemic in Britain but only occurs occasionally in other countries, including the United States. However, scientists say it is the probable cause of a new strain of Creutzfeldt-Jakob Disease (CJD), a fatal brain illness.</p>
+<p>Garland said her research centred on one particular pneumatic stunner known as &quot;The Knocker&quot;, which is used about 50 percent of the time in U.S. slaughterhouses. Her group was now investigating other slaughterhouse practices.</p>
+<p>The British Meat and Livestock Commission said it was checking to see how often &quot;The Knocker&quot;  was used in Britain.</p>
+<p>A spokesman said he did not believe lung products were widely used in British beef products.</p>
+<p>Garland said she feared the only methods guaranteed not to spread brain tissue were electric stunning or Islamic halal and Jewish kosher slaughter, which involve slitting the animal's throat while conscious. Both are widely considered inhumane.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

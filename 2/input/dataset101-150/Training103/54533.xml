@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="54533" id="root" date="1996-09-15" xml:lang="en">
+<title>CHILE: Cargo ship sinks off Chile, three crewmen missing.</title>
+<headline>Cargo ship sinks off Chile, three crewmen missing.</headline>
+<dateline>SANTIAGO, Chile 1996-09-14</dateline>
+<text>
+<p>Three crewmen who jumped into the sea from a sinking cargo ship were missing on Saturday after their vessel went down in rough seas in the South Pacific, Chilean naval officers said.</p>
+<p>The 120-foot (36-meter) Chilean cargo vessel Praga was carrying supplies from the port of Valparaiso to Easter Island when it was struck by a huge wave and capsized in bad weather on Friday night about 60 miles (96 kms) off the coast, the officers said.</p>
+<p>About half an hour after rolling over, it sank, they said.</p>
+<p>A passing Argentine freighter, the Sarmiento, came to the rescue and launched two lifeboats, which five of the eight crewmen managed to climb aboard, said the officers. The three others were unaccounted for.</p>
+<p>Rough seas prevented the Sarmiento from picking up the men, so the freighter positioned itself to shelter the rafts from wind and waves until a Chilean rescue vessel arrived, said the officers by telephone from Valparaiso.</p>
+<p>The three missing men were wearing life vests, but officers declined to speculate on the chances of finding them alive when searches by air and ship resume on Sunday.</p>
+<p>Officials for the ship's owners, Transportes Miramar SA, said on local television the boat had been recently inspected and was in perfect conditions to sail.</p>
+<p>But the wife of one of the survivors told local television her husband told her before the ship left Valparaiso that it was packed beyond capacity.</p>
+<p>The ship was carrying about 260 ton of food and other supplies to Easter Island, naval officers said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-15"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO, Chile"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

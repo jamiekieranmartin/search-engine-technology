@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="65633" id="root" date="1996-09-19" xml:lang="en">
+<title>AUSTRALIA: Australia land rights reforms slammed as racist.</title>
+<headline>Australia land rights reforms slammed as racist.</headline>
+<dateline>CANBERRA 1996-09-19</dateline>
+<text>
+<p>A leading aboriginal rights official on Thursday condemned the Australian government's planned reforms of native land rights as racist and unfair.</p>
+<p>Aboriginal social justice commissioner Mick Dodson warned the planned changes would effectively wipe out native land title laws.</p>
+<p>&quot;The government is proposing racially discriminatory legislation,&quot; said Dodson, a member of the government's human rights commission.</p>
+<p>The Liberal-National government, elected in March, plans to reform laws covering land rights for Australia's 260,000 native Aborigines and Torres Strait Islanders.</p>
+<p>The reforms remove aboriginal rights to negotiate with mining companies over exploration and prospecting activity, set tough conditions for eligibility to negotiate and extend some existing leases.</p>
+<p>&quot;We insist that our property rights are given the same protection as the property rights of other Australians -- that's just plain fair,&quot; Dodson said.</p>
+<p>He also said the changes would force aboriginal groups to use courts more frequently and create uncertainty and delays for industry.</p>
+<p>&quot;It's not good for indigenous people, it's not good for industry and it's not good for the community as a whole,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="68513" id="root" date="1996-09-20" xml:lang="en">
+<title>BELGIUM: Santer says EU sticks to position on BSE.</title>
+<headline>Santer says EU sticks to position on BSE.</headline>
+<dateline>BRUSSELS 1996-09-20</dateline>
+<text>
+<p>European Commission President Jacques Santer said on Friday that Britain's decision to hold up a planned cull of cattle at risk from mad cow disease had not influenced Europe's view of the issue.</p>
+<p>&quot;The position of the Commission has not changed,&quot; he told a Reuters Television reporter at the Commission's Brussels headquarters.  </p>
+<p>The British government on Thursday said it was putting a full-scale cull of beef cattle most at risk from bovine spongiform encephalopathy (BSE) on hold because of evidence from researchers that the disease would die out in five years.</p>
+<p>The European Union, however, has rejected such a move saying Britain should carry out a plan to slaughter up to 147,000 as part of an agreement that would eventually lead to the lifting of its worldwide ban on British beef exports.</p>
+<p>Santer declined to comment further on the British move.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="G152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="G155">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

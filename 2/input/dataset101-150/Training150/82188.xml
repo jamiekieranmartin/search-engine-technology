@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="82188" id="root" date="1996-09-27" xml:lang="en">
+<title>ISRAEL: Israeli border policeman killed in West Bank.</title>
+<headline>Israeli border policeman killed in West Bank.</headline>
+<dateline>JERUSALEM 1996-09-27</dateline>
+<text>
+<p>An Israeli paramilitary policeman was shot dead in an exchange of fire with Palestinians near the West Bank town of Tulkarm on Friday, Israeli security sources said.</p>
+<p>The policeman was the 12th Israeli killed since Israeli-Palestinian violence erupted in the aftermath of Israel's opening on Tuesday of a tunnel near Moslem holy sites in Jerusalem.  </p>
+<p>On Jerusalem's Temple Mount, Islam's third holiest shrine, paramilitary police shot dead two Palestinians during protests after Moslem prayers on Friday, hospital sources said.</p>
+<p>More than 50 Arabs were wounded in the Temple Mount violence, during which Israeli security forces also fired tear gas and clubbed demonstrators, the sources said.</p>
+<p>Some 12,000 Palestinians marched on the settlement of Ginat in the West Bank and Israeli soldiers shot and wounded six Arabs, witnesses said. Palestinian police then shot back.</p>
+<p>Prime Minister Benjamin Netanyahu has appealed to Palestinian President Yassser Arafat to meet him to try to defuse the worst Israeli-Palestinian violence since Israel and the PLO signed an interim peace deal in 1993.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERUSALEM"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="37101" id="root" date="1996-09-06" xml:lang="en">
+<title>ESTONIA: PRESS DIGEST - Estonia - September 6.</title>
+<headline>PRESS DIGEST - Estonia - September 6.</headline>
+<dateline>TALLINN 1996-09-06</dateline>
+<text>
+<p>The following are reports carried by Estonia's newspapers on Friday. Reuters has not verified these reports and does not vouch for their accuracy:</p>
+<p>POSTIMEES</p>
+<p>- Contradictory opinions have been expressed by Finnish ministry officials over the possible deadline for visa free travel with Estonia.</p>
+<p>SONUMILEHT</p>
+<p>- UNHCR regional representative in the Baltics, Hans Thoolen, is not satisfied with Estonia's slow approach to developing a refugee policy.</p>
+<p>- September 6 marks the fifth anniversary of the Soviet Union's formal recognition of the independence of the three Baltic states, Estonia, Latvia and Lithuania.</p>
+<p>EESTI PAEVALEHT</p>
+<p>- The reorganisation of government institutions would cut 1,133 jobs from the public service by July 1997.</p>
+<p>- Coalition Party MP Ulo Vooglaid intends to leave parliament to write a book.</p>
+<p>- Three current cabinet members and one former minister are on the list of candidates for the local council elections in October.</p>
+<p>-- Riga newsroom +371 7226693</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ESTNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TALLINN"/>
+<dc element="dc.creator.location.country.name" value="ESTONIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

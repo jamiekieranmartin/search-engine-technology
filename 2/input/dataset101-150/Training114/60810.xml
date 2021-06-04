@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="60810" id="root" date="1996-09-18" xml:lang="en">
+<title>UK: Research shows balance of atmosphere has changed.</title>
+<headline>Research shows balance of atmosphere has changed.</headline>
+<dateline>LONDON 1996-09-18</dateline>
+<text>
+<p>Air trapped in packed snow in the Antarctic shows there have been clear changes in the balance of so-called greenhouse gases that affect global warming, a team of U.S. scientists reported on Wednesday.</p>
+<p>The measurements show that the trees and other plants on the Earth's surface are absorbing carbon dioxide at a different rate than they used to.</p>
+<p>The findings could help scientists predict the scale of global warming in the future, said Mark Battle of the University of Rhode Island, who headed the work.</p>
+<p>Scientists know that the planet is getting warmer, and this is due in part to a build-up of carbon dioxide and other greenhouse gases from human activities such as burning fuel.</p>
+<p>But the effects are not easy to predict.</p>
+<p>Some scientists point out that plants like both warmth and carbon dioxide, so a cycle could be starting in which a warmer atmosphere with more carbon dioxide stimulates plant growth. The plants would use up carbon dioxide, moderating global warming.</p>
+<p>Reporting in the science journal Nature, Battle's group said there was some indication this might have happened -- at least for a little while.</p>
+<p>From 1977 to 1985, they said, carbon dioxide stayed in balance versus oxygen. &quot;The biosphere -- land plants -- were taking up about as much carbon dioxide as they were releasing,&quot; Battle said in a telephone interview.</p>
+<p>This was significant, he said, because later measurements showed that plants were absorbing more carbon dioxide than they were releasing. But even later studies show the rate has changed yet again, and the plants are now using less carbon dioxide. &quot;It's a complicated picture and the jury is a long way from coming back in on this one,&quot; Battle, a geochemist, said.</p>
+<p>Battle's group measured air trapped in the fluffy top layer of snow at the Antarctic, known as the firn. As snow falls there it packs down and eventually becomes ice, but gases percolate up through the snow and can be measured.</p>
+<p>Because the Antarctic air is so pristine, and the snow is barely disturbed, some of the trapped air has been unchanged since the beginning of the century, Battle said.</p>
+<p>The method allows a more precise measurement of gases, especially oxygen, than do measurements of air trapped in ice.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

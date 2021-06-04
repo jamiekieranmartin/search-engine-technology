@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="57753" id="root" date="1996-09-17" xml:lang="en">
+<title>USA: Lucent in plan to make Internet phones mainsteam.</title>
+<headline>Lucent in plan to make Internet phones mainsteam.</headline>
+<byline>Eric Auchard</byline>
+<dateline>NEW YORK 1996-09-17</dateline>
+<text>
+<p>Lucent Technologies Inc., vowing to make voice and video communication over the Internet as easy-to-use and accessible as the telephone, unveiled Tuesday a new business venture and several products designed to bring Internet communication into the mainstream.</p>
+<p>Lucent, the former equipment arm of AT&amp;T Corp., said it will offer a set of products that enables high-quality voice, music and video communications over the Internet to become move widely available to businesses and consumers.</p>
+<p>The equipment maker was recently spun off from parent AT&amp;T in a three-way split of the giant telecommunications company.</p>
+<p>Lucent's embrace of the Internet could have vast financial consequences for the phone industry -- by allowing customers with access to internal corporate computer networks or Internet links from home to bypass public phone networks.</p>
+<p>This would allow callers to place overseas calls at local telephone rates by taking advantage of the global nature of the Internet.</p>
+<p>In a conference call with reporters, Carl Pavarini, vice president of Lucent's multimedia group, said, &quot;We believe the Internet will not be successful unless the technology is an intergral part of the networks (people) use everyday.&quot;</p>
+<p>&quot;This software will help move voice, music and video over the Internet beyond the current base of technologists and hobbyists and into the mainstream,&quot; added Joe Mele, president of the newly formed marketing venture to be called Elemedia, short for elements of multimedia.</p>
+<p>The venture is charged with commercializing several ground-breaking Internet software commpression technologies developed at Lucent's Bell Laboratories research unit. Such technology shrinks the capacity required to transmit information over communications networks.</p>
+<p>Internet-based communications typically requires access to a personal computer, but Lucent envisions using the telephone or other consumer electronics device for the same purpose.</p>
+<p>Murray Hill, N.J.-based Lucent said its new Elemedia Internet business is now offering software that allows callers to hold &quot;telephone-quality&quot; conversations over the Internet.</p>
+<p>Numerous start-up firms as well as computer industry giants already offer such two-way communications software, but users complain that the audio quality is inferior and operation far more complex than simply picking up a phone.</p>
+<p>Lucent said its strategy was to capitalise on software component technology developed by Bell Labs by licensing it to other Internet phone makers and established telephone carriers for use in their own products. Lucent does not intend to sell its products directly to the public.</p>
+<p>It said its products would be compatible with all major computer operating systems and Internet browsers software.</p>
+<p>Lucent's Business Communications unit also will offer five new products including Internet-based voice mail, a &quot;yellow pages&quot; directory service, and software to reduce congestion on the Internet.</p>
+<p>Lucent will introduce a means for callers using standard telephones to place calls via the Internet to callers at conventional phones or to newer PC-based phones.</p>
+<p>&quot;We believe voice communications between Internet PCs is much more valuable if those voice conversations can happen with people who have telephones,&quot; Pavarini said.</p>
+<p>Lucent officials said these new business-oriented products will become commercially available beginning in the first quarter of 1997 in the United States and be rolled out to selected overseas markets through the second quarter of 1997.</p>
+<p>Although Lucent's embrace of the Internet may eventually spell trouble for the established telephone industry -- which represents the vast bulk of the equipment's makers customers -- its officials said the rapid convergence of computer and telephone technology made its move inevitable.</p>
+<p>&quot;The more agressive service providers are looking for opportunities in this new medium,&quot; one Lucent executive noted, in response to a reporter's question about the possible cannibalization of its core telephone equipment business.</p>
+<p>Besides phone software, the Elemedia venture will offer stereo-quality audio software to enable music-on-demand and real-time audio broadcasting over the Internet and business quality video-conferencing to home and business users.</p>
+<p>Initial Elemedia customers include Dallas-based Camelot Corp., maker of the DigiPhone Internet telephone software.</p>
+<p>Under terms of its spinoff, Lucent retained control of Bell Laboratories, AT&amp;T's research arm, which has been responsible for many of the key innovations that form the core of both the modern telephone system and the Internet.</p>
+<p>Lucent's stock closed up 87.5 cents to $40.375 on the New York Stock Exchange.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="49617" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: N.Y. firm settles SEC suit charging short-sale violations.</title>
+<headline>N.Y. firm settles SEC suit charging short-sale violations.</headline>
+<byline>Gene Ramos</byline>
+<dateline>WASHINGTON 1996-09-12</dateline>
+<text>
+<p>A New York-based securities trading adviser agreed Thursday to pay $800,000 to settle charges that it violated the rule governing short sales on stocks, federal regulators said.</p>
+<p>Tudor Investment Corp., which advises a number of investment funds, agreed to pay the civil penalty and not to violate the rule in the future. It settled without admitting or denying any wrongdoing, the Securities and Exchange Commission said.</p>
+<p>The SEC said the firm's short-sale violations were a &quot;significant factor&quot; in a 16-point drop on March 16, 1994, of the Dow Jones industrials average, a very closely watched barometer of the market to which Tudor's trading strategy was tied.</p>
+<p>The rule the firm allegedly broke requires that short sales -- selling borrowed stock -- be made on a rising market. The rule aims to prevent abuses by traders intent on driving down the price of a stock by heavy short-sellling and then covering later by picking up shares at handsome profits.</p>
+<p>The rule allows short sales only if the last sale was at a higher price than the sale preceding it, or if the last sale price is unchanged but higher than the last preceding different sale.</p>
+<p>Mark Dalton, president of the firm, said, &quot;We regret the circumstances that led to the SEC action.&quot; He added that the settlement will not affect investment funds managed by Tudor or the firm's business or financial condition.</p>
+<p>In a statement, Tudor said that its trading desk mistakenly relied upon advice from a New York investment bank that structured the strategy on whether the short sale rule applied to the trades.</p>
+<p>Paul Gerlach, SEC associate director of enforcement, said the case does not involve any allegation of fraud. He said the penalty is one of the largest the SEC has won in a non-fraud case.</p>
+<p>According to the SEC's civil complaint, filed in federal court here, on March 15 and 16, 1994, Tudor sold short over 1.74 million shares of 27 stocks of the 30 stocks comprising the Dow index. The stocks were sold in 174 separate trades and had a market value of about $98 million.</p>
+<p>The sales were part of the firm's strategy involving the purchase of $350 million of the Dow stocks and options designed to gain profits from both near-term stock price rises and subsequent price declines in certain Dow index stocks.</p>
+<p>The SEC said Tudor failed to make a tally of its long and short positions on the 27 stocks that would have shown it had a net short position and thus should follow the short-sale rule. Instead, the firm continued to make sales, disregarding restrictions under the rule, the SEC said.</p>
+<p>While the strategy produced a $1.5 million gain on paper for Tudor, it did not attempt to cash in but instead closed out its position months later, the SEC said.</p>
+<p>Ultimately, the firm suffered a loss of $3.3 million on those positions, it said.</p>
+<p>A Tudor spokeswoman would not explain why the firm allowed the losses to take place, saying the firm does not comment on its trading positions.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

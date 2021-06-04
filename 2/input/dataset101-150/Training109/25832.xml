@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="25832" id="root" date="1996-08-31" xml:lang="en">
+<title>UK: Escaped British paedophile recaptured.</title>
+<headline>Escaped British paedophile recaptured.</headline>
+<dateline>LONDON 1996-08-31</dateline>
+<text>
+<p>A convicted British paedophile was arrested on Saturday, two days after escaping from custody during a supervised day trip to a zoo, police said.</p>
+<p>Trevor Holland, a 52 year-old with who has been convicted twice of gross indecency with children, was captured after being spotted in Worthing, a town on England's southern coast.</p>
+<p>&quot;A member of the public recognised Holland in a newsagent shop as he was reading the headlines about himself,&quot; a police spokesman said.</p>
+<p>Police launched a nationwide search on Thursday after he disappeared during an unsupervised trip to the toilet while visiting a popular zoo and theme park south of London.</p>
+<p>Holland was moved to a more secure centre earlier this year after a similar incident.</p>
+<p>His escape at the zoo caused outrage in Britain.</p>
+<p>A child sex scandal in Belgium in which two eight-year-old girls were murdered and two other sexually abused girls were rescued has focused new attention on the problem.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="22862" id="root" date="1996-08-29" xml:lang="en">
+<title>NORWAY: Russian plane missing on Norway's Spitzbergen.</title>
+<headline>Russian plane missing on Norway's Spitzbergen.</headline>
+<dateline>OSLO 1996-08-29</dateline>
+<text>
+<p>A Russian airliner carrying 129 passengers and a crew of 12 was reporting missing on Thursday on Norway's Arctic island of Spitzbergen, the national news agency NTB said.</p>
+<p>It quoted a north Norway rescue centre official at Bodoe as saying the Spitzbergen airport at Longyearbyen lost contact with the Vnukovo Airlines Tupolev 154 as it was due to land.  </p>
+<p>NTB said three Norwegian helicopters and an aircraft were searching for the missing plane on the barren island, but it said visibility was poor and that no distress signals had been received from the aircraft.</p>
+<p>&quot;We don't know what the status for the plane is,&quot; spokesman Finn Bjoernar Hansen at the Bodoe centre told Norwegian radio. &quot;We know nothing about what has happened to the passengers.</p>
+<p>He said the plane came from Moscow. &quot;The flight probably had something to do with the Russian coal mining at Spitzbergen.&quot;</p>
+<p>Russia runs a coal mine near the town of Barentsburg under an agreement dating back to the 1920s which granted Norway sovereignty over Spitzbergen.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OSLO"/>
+<dc element="dc.creator.location.country.name" value="NORWAY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

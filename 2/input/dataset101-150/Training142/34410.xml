@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="34410" id="root" date="1996-09-05" xml:lang="en">
+<title>BRAZIL: Brazil illiteracy rate falls.</title>
+<headline>Brazil illiteracy rate falls.</headline>
+<dateline>RIO DE JANEIRO, Brazil 1996-09-05</dateline>
+<text>
+<p>Brazil's illiteracy rate has dropped in the last five years, a survey published on Thursday by the National Statistics Institute (IBGE) said.</p>
+<p>The survey said the illiteracy rate among Brazilians aged 10 years or older fell to 14.8 percent in 1995, compared with 17.8 percent in 1990. Among children aged 10 to 14, illiteracy fell to 10 percent from 14.4 percent.</p>
+<p>&quot;These figures show the advances which have been made and the intense efforts which are still being made to eradicate illiteracy,&quot; the IBGE said in a statement.</p>
+<p>It said 15.4 percent of the population had completed high school in 1995, compared with 14.1 percent in 1992.</p>
+<p>About 3.3 million children aged between 10 to 14 years were working last year, even though the Brazilian constitution prohibits children younger than 14 from working.</p>
+<p>However, the proportion of children working decreased to 4.7 percent in 1995 from 5.3 percent in 1992. Sixty percent of these children were working in the agricultural sector, the IBGE said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RIO DE JANEIRO, Brazil"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

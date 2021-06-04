@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="56511" id="root" date="1996-09-16" xml:lang="en">
+<title>USA: Agouron to give away AIDS drug - WSJ.</title>
+<headline>Agouron to give away AIDS drug - WSJ.</headline>
+<dateline>NEW YORK 1996-09-16</dateline>
+<text>
+<p>Agouron Pharmaceuticals Inc plans to announce Monday that it will give away its experimental Viracept AIDS drug to patients who have run out of options after unsuccessful treatment with other, similar protease inhibitors, the Wall Street Journal reported Monday.</p>
+<p>The program will be launched in New Orleans at the Conference on Antimicrobial Agents and Chemotherapy, and will involve anywhere between several hundred and several thousand patients, the article quoted Agouron President Peter Johnson as saying.</p>
+<p>The drug has not yet been approved by the U.S. Food and Drug Administration. It will be given away under the FDA's &quot;expanded-access&quot; program.</p>
+<p>--New York Newsdesk  (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

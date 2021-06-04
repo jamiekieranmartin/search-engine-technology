@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="58507" id="root" date="1996-09-17" xml:lang="en">
+<title>USA: Scientists turn to nature to beat diseases.</title>
+<headline>Scientists turn to nature to beat diseases.</headline>
+<dateline>NEW ORLEANS 1996-09-17</dateline>
+<text>
+<p>Faced with increasing numbers of drug-resistant diseases, scientists are turning to nature for cures, researchers reported on Tuesday.</p>
+<p>Three papers presented at the Interscience Conference on Antimicrobial Agents and Chemotherapy in New Orleans focused on new antibiotics from marine microorganisms, a plant substance that may control diarrhoea in AIDS patients and a peptide from pig blood that fights ulcers.</p>
+<p>&quot;Bacteria are increasingly becoming resistant to antibiotics that have been used effectively for many years,&quot; said Dr. Michael Kelly, president of SeaTek Marine Biotechnology Inc.</p>
+<p>&quot;Bladder, ear, skin and intestinal infections, as well as more serious hospital-associated infections, are now often difficult to cure because mainstay antibiotics are no longer working ...(creating) an urgent need to find new antibiotics,&quot; he said.</p>
+<p>A new family of antibiotics, called loloatins, were isolated from a marine microbe in a sample taken from the Great Barrier Reef near Loloata Island in the South Pacific, he reported.</p>
+<p>Very low concentrations of the new antibiotic inhibit drug-resistant staphylococus aureus, enterococus faecium, streptococus pneumoniae and other organisms, suggesting that marine antibiotics may have potential to treat drug-resistant pathogens, he said.</p>
+<p>Berberine, a plant alkaloid isolated from the root and bark or several plant families, may help AIDS patients suffering from microsporidia, a protozoal infection that causes debilitating chronic diarrhoea -- without the systemic side effects caused by many current drugs, Diane Schneider, scientific affairs director for PRM Pharmaceuticals reported.</p>
+<p>An initial trial in HIV positive patients will start this year. Berberine has been used in India, China and Japan to treat a variety of medical conditions, including diarrhoea.</p>
+<p>Published accounts of clinical trials conducted outside the United States with more than 900 patients suffering from various gastrointestinal conditions indicate the plant substance is effective in children and adults and has virtually no side effects, the report said.</p>
+<p>Researchers from IntraBiotics Pharmaceuticals Inc presented three studies showing the potential of antimicrobial peptides called protegrins.</p>
+<p>First discovered in pig white blood cells, the protegrins were reported to rapidly kill a wide range of organisms, including bacteria associated with gastric ulcers, bacteria that can cause life-threatening lung infections in cystic fibrosis patients and bacteria that cause serious hospital-acquired infections.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW ORLEANS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

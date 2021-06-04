@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="52661" id="root" date="1996-09-13" xml:lang="en">
+<title>MEXICO: Mexico's Inverlat to close London offices.</title>
+<headline>Mexico's Inverlat to close London offices.</headline>
+<dateline>MEXICO CITY 1996-09-13</dateline>
+<text>
+<p>Grupo Financiero Inverlat said it planned to close the London offices of its subsidiaries Banco Inverlat and Casa de Bolsa Inverlat by January 1997.</p>
+<p>The bank said it had asked the respective authorities for permission to close the London offices, adding that all its international clients would henceforth be served from New York.</p>
+<p>Inverlat said it would intensify efforts to serve markets within the North American Free Trade Agreement (NAFTA) area.</p>
+<p>-- Michael Stott, Mexico City newsroom +525 728 9551</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

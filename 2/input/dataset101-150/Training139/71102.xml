@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="71102" id="root" date="1996-09-23" xml:lang="en">
+<title>UK: PPL Therapeutics studies animal transplants.</title>
+<headline>PPL Therapeutics studies animal transplants.</headline>
+<dateline>LONDON 1996-09-23</dateline>
+<text>
+<p>A research programme aimed at improving prospects for transplanting animal organs into humans was unveiled on Monday by Scottish genetics and proteins specialist PPL Therapeutics Plc.</p>
+<p>Research will focus initially on heart transplants using genetically-modified pig organs. Shortages of human donors, with many patients dying before suitable organs are found, have led scientists to look at animals as an alternative.</p>
+<p>PPL said in a statement it will invest at least 1.5 million pounds in a joint research effort with RPMS Technology Ltd, an arm of London's Royal Postgraduate Medical School.</p>
+<p>Areas to be studied include molecular engineering of pig cells to reduce the likelihood of organ rejection by patients and the creation of genetically-altered animals suitable for providing transplant organs.</p>
+<p>&quot;Such use of organs on demand could have major impact in treating end-stage kidney and heart failure,&quot; said PPL, which specialises in producing human proteins for use in diseases like cystic fibrosis.</p>
+<p>PPL managing director Ron James said &quot;we are convinced that this is the way forward to make effective transplant therapies available to the largest number of patients needing them.&quot;</p>
+<p>Scientists in the USA and elsewhere are working to solve a number of potential problems before animal-to-human transplants, know as xenotransplants, can become a reality. These include trying to stop animal diseases from being spread through the human population.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

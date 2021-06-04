@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="57569" id="root" date="1996-09-17" xml:lang="en">
+<title>USA: Isis drug has potential to treat cancer.</title>
+<headline>Isis drug has potential to treat cancer.</headline>
+<dateline>CARLSBAD, Calif. 1996-09-17</dateline>
+<text>
+<p>Isis Pharmaceuticals said Tuesday a compound it has developed with Ciba-Geigy AG has shown potential to treat cancer.</p>
+<p>Isis said the compound, ISIS 5132/CGP69846A, inhibited the growth of human tumors in animals. Human tumors were transplanted subcutaneously into mice and the drug was administered intravenously in various doses.</p>
+<p>The compound was tested alone and also in conjunction with traditional cancer chemotherapeutics.  </p>
+<p>Isis said in a statement some combinations of the drug with traditional cancer therapies resulted in complete cures of the animals treated.</p>
+<p>The company said the results suggest the compound has significant potential as a treatment for cancer used either alone or in combination chemotherapy regimens.</p>
+<p>The compound is a selective antisense inhibitor. It binds to a messenger RNA sequence and inhibits the production of the C-raf kianse protein. The company said the compound is in a Phase I clinical trial on cancer patients. Results of that trial are expected by the end of the year.</p>
+<p>The company said scientists are continuing to refine the compound to enhance safety and efficiacy.</p>
+<p>Shares of Isis were 7/8 higher at 16-1/8 in afternoon trading on Nasdaq.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARLSBAD, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

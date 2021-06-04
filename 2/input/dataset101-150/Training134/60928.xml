@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="60928" id="root" date="1996-09-18" xml:lang="en">
+<title>SOUTH AFRICA: German tourist killed by S.African robbers.</title>
+<headline>German tourist killed by S.African robbers.</headline>
+<dateline>JOHANNESBURG 1996-09-18</dateline>
+<text>
+<p>A German tourist in South Africa died on Wednesday after being stabbed by four robbers while sightseeing in Pretoria at the weekend.</p>
+<p>&quot;Eckard Franz, 55...was stabbed twice in the back with a sharp object,&quot; police spokesman Captain Morne van Wyk said. He died in hospital. His wife was unharmed.</p>
+<p>Van Wyk said police did not know where the couple's hometown was, and no arrests had been made for the attack in which Franz was robbed of his belongings.</p>
+<p>Last month German business leaders based in South Africa called on the government to crack down on violent crime or risk losing future investment.</p>
+<p>They spoke up after car hijackers shot dead Erich Ellmer, German financial director of the AEG electronics group in South Africa, outside his Johannesburg home.</p>
+<p>&quot;The level of personal danger endured by managers and the community at large is totally unacceptable,&quot; the South African-German Chamber of Commerce and Industry said.</p>
+<p>It said 16 of the 30 chief executives of German subsidiaries in the country had been victims of violent crime.</p>
+<p>Germany, Britain and the United States are South Africa's three biggest trading partners and most tourists also come from these countries.</p>
+<p>South Africa is one of the world's most crime-ridden societies. Nearly two million serious crimes were reported last year, including 36,888 rapes, 18,983 murders and 66,838 armed robberies. Only half were solved.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

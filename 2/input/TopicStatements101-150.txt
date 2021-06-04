@@ -1,0 +1,902 @@
+<top>
+
+<num> Number: R101
+<title> Economic espionage
+
+<desc> Description:
+What is being done to counter economic espionage internationally?
+
+<narr> Narrative:
+Documents which identify economic espionage cases and provide action(s)
+taken to reprimand offenders or terminate their behavior are relevant.
+Economic espionage would encompass commercial, technical, industrial or
+corporate types of espionage.  Documents about military or political
+espionage would be irrelevant.
+
+</top>
+
+
+<top>
+
+<num> Number: R102
+<title>Convicts, repeat offenders
+
+<desc> Description:
+Search for information pertaining to crimes committed by people who
+have been previously convicted and later released or paroled from
+prison.
+
+<narr> Narrative:
+Relevant documents are those which cite actual crimes committed by
+"repeat offenders" or ex-convicts.  Documents which only generally
+discuss the topic or efforts to prevent its occurrence with no
+specific cases cited are irrelevant.
+
+</top>
+
+
+<top>
+
+<num> Number: R103
+<title> Ferry Boat sinkings
+
+<desc> Description:
+Documents will report on any sinkings of Ferry Boats throughout
+the world.
+
+<narr> Narrative:
+Documents that identify any instances where a ferry boat has sunk
+or capsized are relevant; only boats identified as ferries should be
+considered relevant.
+
+</top>
+
+
+<top>
+
+<num> Number: R104
+
+<title> Rescue of kidnapped children
+
+<desc> Description:
+Identify a kidnapping of a child or children when the child or children have
+been rescued or released.
+
+<narr> Narrative:
+Documents discussing abducted or kidnapped children are
+relevant. Documents referring to abuse of children without reference
+to kidnapping or abduction are irrelevant.  Cases of kidnapping where
+some children are murdered or not found while others are rescued are
+relevant.
+
+</top>
+
+
+<top>
+
+<num> Number: R105
+
+<title> Sport Utility Vehicles U.S.
+
+<desc> Description:
+Find documents that will illustrate the phenomenal growth in the number
+of SUV's owned by Americans, and concerns about their safety and
+environmental impact.
+
+<narr> Narrative:
+Documents that discuss the growth in ownership of Sport Utility
+Vehicles in the United States are relevant.  Documents including
+sales reports and projections by manufacturers are relevant.  Documents
+about Consumer groups identification of potential problems would be
+relevant. Documents about light trucks are not relevant. 
+
+</top>
+
+
+<top>
+
+<num> Number: R106
+<title> Government supported school vouchers
+
+<desc> Description:
+Research documents on the pros/cons of government supported school vouchers for
+private or religious schools.
+
+<narr> Narrative:
+Documents containing statements by elected officials, civic groups or
+clergy on the use of public funds in support of private and religious
+schools for tuition, books, building maintenance and busing are
+relevant.  Documents that include state or local ballot initiatives
+and the result on the use of public monies toward this end are
+relevant.  Documents about lawsuits addressing this subject regardless
+of the court level are relevant.
+
+</top>
+
+
+<top>
+
+<num> Number: R107 
+<title> Tourism Great Britain
+
+<desc> Description:
+Retrieve documents pertaining to tourism into Great Britain and
+the efforts being undertaken to increase it.
+
+<narr> Narrative:
+Documents about Scotland, Wales and only Northern Ireland are 
+relevant as well as documents about many offshore islands which may be
+mentioned without specifically being identified as part of Great Britain.
+
+</top>
+
+
+<top>
+
+<num> Number: R108
+<title> Harmful weight-loss drugs
+
+<desc> Description:
+Identify medicines used for obesity or weight-loss that have harmful
+side effects.
+
+<narr> Narrative:
+Relevant documents will show specific, harmful side effects.
+
+</top>
+
+
+<top>
+
+<num> Number: R109
+<title> Child custody cases
+
+<desc> Description:
+Research reports on child custody cases.
+
+<narr> Narrative:
+Relevant documents concentrate on custody cases between blood relatives
+such as parents or, grandparents and parents. Children being held in
+custody by police or social services due to family problems are
+irrelevant.
+
+</top>
+
+
+<top>
+
+<num> Number: R110
+<title> Terrorism Middle East tourism
+
+<desc> Description:
+What effect has Middle East terrorism had on tourism in the area?
+
+<narr> Narrative:
+Relevant documents directly correlate terrorism with its effect on
+tourism in the Middle East.  Documents reflecting either terrorism or
+tourism in the area but not associating the effect of one or the other are 
+irrelevant.
+
+</top>
+
+
+<top>
+
+<num> Number: R111
+<title> Telemarketing practices U.S.
+
+<desc> Description:
+Find documents which reflect telemarketing practices in the U.S. which are
+intrusive or deceptive and any efforts to control or regulate against them.
+
+<narr> Narrative:
+Telemarketing practices found to be abusive, intrusive, evasive,
+deceptive, fraudulent, or in any way unwanted by persons contacted are
+relevant.  Only such practices in the U.S. are relevant.  All efforts
+to halt these practices, including lawsuits, legislation or regulation
+are also relevant.
+
+</top>
+
+
+<top>
+
+<num> Number: R112
+<title> School bus accidents
+
+<desc> Description:
+Identify any documents noting school bus accidents that resulted in the death
+of a student.
+
+<narr> Narrative:
+Relevant documents will identify any instances where a school bus
+accident has resulted in the death of a student.  Documents specifying
+location and number of deaths are relevant.  Buses carrying children
+on school sponsored trips are relevant.
+
+</top>
+
+
+<top>
+
+<num> Number: R113
+<title> Ford foreign ventures
+
+<desc> Description:
+Track joint ventures, partnerships and cooperative alliances between the Ford
+Motor Co. and foreign entities.
+
+<narr> Narrative:
+Current, intact ventures are the only ones relevant.  Ventures planned for,
+hoped for or being explored, as well as past ventures which have broken up are
+irrelevant.  Ford Motor Co., and at least one other foreign entity must
+be named in the document.  Units of Ford which are involved in alliances
+with foreign entities are relevant.
+
+</top>
+
+
+<top>
+
+<num> Number: R114
+<title>Effects of global warming
+
+<desc> Description:
+Evidence of effects of global warming or the greenhouse effect on climate and
+environment
+
+<narr> Narrative:
+Only articles that describe actual changes due to global warming or
+the greenhouse effect are relevant.  Current evidence that points to
+future effects is relevant.
+
+</top>
+
+
+<top>
+
+<num> Number: R115
+<title> Indian casino laws
+
+<desc> Description:
+Research the state laws regarding the construction, operation, and distribution
+of profits of the gambling casinos on U.S. Indian Reservations
+
+<narr> Narrative:
+Documents that show laws and ballot initiatives pertaining to the
+operation of gambling casinos on U.S. Indian Reservations are relevant.
+Documents about ballot initiatives are relevant, whether or not passed
+by the voters.  Documents about negotiations with companies that
+provide casino operations are irrelevant.  Negotiations between states
+and the tribes are relevant.  Documents about riverboat casinos are
+irrelevant.  
+
+</top>
+
+
+<top>
+
+<num> Number: R116
+
+<title> Archaeology discoveries
+
+<desc> Description:
+Find current documents on new archaeological discoveries in the world.
+
+<narr> Narrative:
+Documents interpreting former discoveries should be excluded.
+
+</top>
+
+
+<top>
+
+<num> Number: R117
+
+<title> Organ transplants in the UK
+
+<desc> Description:
+Research reports on organ transplantation in the United Kingdom
+
+<narr> Narrative:
+Reports on actual organ transplant cases are relevant. Also
+relevant are research programs in the UK and elsewhere that
+are developing drugs to enhance the transplant acceptance rate.
+
+</top>
+
+
+<top>
+
+<num> Number: R118
+<title> Progress in treatment of schizophrenia
+
+<desc> Description:
+Provide documents reflecting any progress in medical research for the
+treatment of schizophrenia.
+
+<narr> Narrative:
+Documents providing the names of drugs used as treatment of schizophrenia
+are relevant.  Documents that described drugs that showed
+an improvement in the severity of schizophrenia are relevant.
+
+</top>
+
+
+<top>
+
+<num> Number: R119
+
+<title> U.S. gas prices
+
+<desc> Description:
+Find documents discussing possible reasons for the wide fluctuation in
+U.S. automobile gasoline prices
+
+<narr> Narrative:
+Documents that provide reasons why U.S. gasoline prices fluctuate are
+relevant.  Documents concerning gas prices in other countries are not
+relevant.
+
+</top>
+
+
+<top>
+
+<num> Number: R120
+
+<title> Deaths mining accidents
+
+<desc> Description:
+Identify any documents mentioning deaths in mining accidents.
+
+<narr> Narrative:
+Documents listing statistics on number of mining deaths are relevant.
+Documents about ethnic clashes, and resultant deaths of mine workers
+near a mine are not relevant.
+
+</top>
+
+
+<top>
+
+<num> Number: R121
+
+<title> China Pakistan nuclear missile
+
+<desc> Description:
+Search for evidence of whether or not China is aiding Pakistan in developing
+military nuclear or missile capabilities.
+
+<narr> Narrative:
+Documents which contain information confirming or denying China's
+aiding Pakistan in developing military nuclear and missile
+capabilities are relevant.  General references to the subject with no
+details are irrelevant.
+
+</top>
+
+
+<top>
+
+<num> Number: R122
+
+<title> Symptoms Parkinson's disease
+
+<desc> Description:
+Find early symptoms of diagnosing Parkinson's disease.  What changes take
+place indicating that one has the early stages of the disease?
+
+<narr> Narrative:
+Documents discussing people with Parkinsons without giving the
+symptoms are irrelevant.  If a document gave known symptoms, but does
+not identify them as Parkinsons it is irrelevant.
+
+</top>
+
+
+<top>
+
+<num> Number: R123
+
+<title> Newspaper circulation decline
+
+<desc> 
+Collect documents which address the decline of newspaper circulation
+and the reasons for its occurrence.
+
+<narr> Narrative:
+Documents which cite both circulation decline and reasons for the
+decline are relevant.  Documents showing circulation decline without
+attribution for cause are irrelevant.
+
+</top>
+
+
+<top>
+
+<num> Number: R124
+
+<title> Aborigine health
+
+<desc> Description:
+Research reports on the health of aborigine peoples.
+
+<narr> Narrative:
+Relevant documents will address current attempts to improve the health of
+the aborigine peoples in Australia.
+
+</top>
+
+
+<top>
+
+<num> Number: R125
+
+<title>  Scottish Independence
+
+<desc> Description:
+The Scottish people have been pushing for independence from Great
+Britain.  What is being reported on their progress?
+
+<narr> Narrative:
+Documents that only discuss creation of a Scottish Parliament without
+full independence are not relevant. Documents reporting support for an
+independent Scottish Parliament are relevant.
+
+</top>
+
+
+<top>
+
+<num> Number: R126
+
+<title> Nuclear plants U.S. 
+
+<desc> Description:
+Find the location and status of United States nuclear power plants.
+
+<narr> Narrative: 
+Documents giving a specific location of a nuclear power plant regardless of
+status are relevant. 
+
+</top>
+
+
+<top>
+
+<num> Number: R127
+
+<title> U.S. automobile seat belt
+
+<desc> Description:
+Find documents concerning the use of automobile seat belts by the U.S. population.
+
+<narr> Narrative:
+Relevant documents show the use of seat belts by the
+U.S. population. Documents encouraging the use of seat belts and/or
+describe the proper use of seat belts, especially for children, are
+relevant.
+
+</top>
+
+
+<top>
+
+<num> Number: R128
+
+<title> Child labor laws
+
+<desc> Description:
+Research documents covering the current state of child labor laws.
+
+<narr> Narrative:
+Relevant documents discuss the creation of laws to establish the base
+age for children to work, the hours they can work and the conditions
+under which they may work.
+
+</top>
+
+
+<top>
+
+<num> Number: R129
+
+<title>Problems illegal aliens U.S.
+
+<desc> Description:
+Find documents referencing problems resulting from illegal aliens
+residing in the U.S.
+
+<narr> Narrative: 
+Documents that mention illegal alien activity without citing
+difficulties caused by illegal aliens are irrelevant, as are
+references to illegal alien problems in countries other than the U.S.
+
+</top>
+
+
+<top>
+
+<num> Number: R130
+
+<title> College tuition planning
+
+<desc> Description:
+Find documents discussing the spiraling cost of college tuition and
+what families are doing to prepare for it.
+
+<narr> Narrative:
+Documents that describe a plan where parents can contribute to offset
+expensive tuition costs are relevant. Documents that discuss saving
+money by pre-planning for college expenses are relevant.
+
+</top>
+
+
+<top>
+
+<num> Number: R131
+
+<title> television U.S. children
+
+<desc> Description:
+Produce documents reflecting actions taken to improve the quality of
+children's television  in the U.S.
+
+
+<narr> Narrative:
+Documents discussing actions taken in the U.S. to provide better
+quality television programs for children are relevant.
+
+</top>
+
+
+<top>
+
+<num> Number: R132
+
+<title> Friendly fire deaths
+
+<desc> Description:
+Identify any instances where death has resulted due to "Friendly Fire"
+or military training accidents.
+
+<narr> Narrative:
+Relevant documents describe death occurring during performance of
+official duty.  Civilian deaths occurring as a result of official
+military duty are relevant.  Suspected "Friendly Fire" are irrelevant.
+
+</top>
+
+
+<top>
+
+<num> Number: R133
+
+<title> Anti-rejection transplant drugs
+
+<desc> Description:
+Identify immune-suppressing drugs that are used or being studied to prevent
+rejection of organ transplants in humans or animals.
+
+<narr> Narrative:
+Research using human stem cell cultures are irrelevant.  Documents referring to
+transplant medicine without identifying it as anti-rejection are irrelevant.
+
+</top>
+
+
+<top>
+
+<num> Number: R134
+
+<title> Crime Statistics Great Britain
+
+<desc> Description:
+Find all documents relating to the increase or decrease of crime in
+Great Britain.
+
+<narr> Narrative:
+Parliamentary debate, political speeches, calls by citizen groups and
+clergy for government action against crime are considered relevant
+only if statistics are included.  Reports on individual crimes and war
+crime tribunals are not relevant.
+
+</top>
+
+
+<top>
+
+<num> Number: R135
+
+<title> WTO trade debates
+
+<desc> Description:
+The WTO has had an impact upon world trade. What are the current trade
+issues being debated by the WTO?
+
+<narr> Narrative:
+Relevant documents will contain information pertaining to an issue
+between two or more members of the WTO such as tariff rates imposed by
+one entity against others for a specific commodity.
+
+</top>
+
+
+<top>
+
+<num> Number: R136
+
+<title> Substance abuse crime
+
+<desc> Description:
+Find documents linking substance abuse to other criminal behavior.
+
+<narr> Narrative:
+Relevant documents directly associated substance abuse (e.g. drugs, alcohol)
+with criminal activity.  Crime committed while under the influence of a drug
+is relevant.  Documents referring to drugs and/or crime without providing
+a direct relationship between the two are not relevant.  Drug crimes such as
+smuggling and trafficking are not relevant.
+
+</top>
+
+
+<top>
+
+<num> Number: R137
+
+<title> Sea turtle deaths
+
+<desc> Description:
+Identify any information relevant to the deaths of sea turtles.
+
+<narr> Narrative:
+Relevant documents will provide any information with information
+on the deaths of sea turtles including where and reasons for their
+death.
+
+</top>
+
+
+<top>
+
+<num> Number: R138
+
+<title> Creutzfeldt-Jakob, mad cow disease
+
+<desc> Description:
+Find documents which contain information on cases of Creutzfeldt-Jakob
+disease (CJD) in humans attributable to contact with or the consumption of
+beef products from cattle infected with Bovine Spongiform Encephalopathy
+(BSE) also known as mad cow disease.
+
+<narr> Narrative:
+Relevant documents cite specific cases or the current tally of cases
+of CJD believed to have been caused by contact with or ingestion of BSE-
+infected cattle, beef, or related products.  General discussion of the
+possibility or likelihood of its occurrence is irrelevant.
+
+</top>
+
+
+<top>
+
+<num> Number: R139
+
+<title> Pig organ transplants
+
+<desc> Description:
+Research reports on the use of pigs for organ transplants in humans.
+
+<narr> Narrative:
+Relevant documents show the development of pigs for organ transplants
+and the actual use of pig organs for transplants. Development of drugs
+to assist organ transplants are not relevant.
+
+</top>
+
+
+<top>
+
+<num> Number: R140
+
+<title> computer simulation
+
+<desc> Description:
+Reports on how computer simulation and modeling techniques are being used by
+business and government.
+
+<narr> Narrative:
+Documents reporting the use of simulation and modeling techniques to improve
+business and to understand and predict happenings in the real world
+(such as weather predictions) are relevant.
+
+</top>
+
+
+<top>
+
+<num> Number: R141
+
+<title> Environment National Park
+
+<desc> Description:
+Find documents relating to environmental problems in U.S. National
+Parks and any Congressional actions which address these problems
+
+<narr> Narrative:
+Documents addressing National Forests problems, individual hiker
+accidents not caused by an environmental problem and park improvement
+documents not directly related to the environment are not relevant.
+Congressional debate over monies to support acquisition and clean-up
+are relevant if deemed a result of an environmental issue impacting
+the park.
+
+</top>
+
+
+<top>
+
+<num> Number: R142
+
+<title> Illiteracy Arab Africa
+
+<desc> Description:
+Research reports on the illiteracy rates in African and Arab countries.
+
+<narr> Narrative: 
+Relevant documents discuss illiteracy in Africa and the Arab world, or
+indicate the percentage of African and Arab people that are
+illiterate.
+
+</top>
+
+
+<top>
+
+<num> Number: R143
+
+<title>  Improving aircraft safety
+
+<desc> Description:
+What is being done by U.S. airplane manufacturers to improve the safety of
+their passenger aircraft?
+
+<narr> Narrative:
+Relevant documents reflect independent actions taken by airlines,
+under their own initiative, to improve the safety of their passenger
+aircraft.  Documents citing actions taken by the manufacturers as a
+result of safety mandates imposed by Federal regulations are not
+relevant.
+
+</top>
+
+
+<top>
+
+<num> Number: R144
+
+<title> Mountain climbing deaths
+
+<desc> Description:
+Identify any information where mountain climbing has resulted in death of an
+individual.
+
+<narr> Narrative:
+Relevant documents identify any instance of death due to mountain
+climbing.  Documents that provide information on where the accident
+occurred, the cause such as avalanche, falling or victim freezing to
+death are relevant.
+
+</top>
+
+
+<top>
+
+<num> Number: R145
+
+<title> Airline passenger disruptions
+
+<desc> Description:
+Identify any disruptions brought about by unruly airline passengers.
+
+<narr> Narrative:
+Documents that identify any instance where a disruption to normal
+operation of an aircraft has been brought about by the unruly behavior
+of a passenger are relevant.  Hijacking, or attempts to hijack a plane
+by a passenger are not relevant.
+
+</top>
+
+
+<top>
+
+<num> Number: R146
+
+<title> Germ warfare
+
+<desc> Description: 
+Research reports on germ warfare. Including development of germ
+warfare weapons and the use of germ warfare tactics.
+
+<narr> Narrative:
+Reports on the use or development of germ or biological weapons are relevant.
+Reports on the use or development of chemical warfare weapons (i.e. gases) are
+not relevant. Delivery systems for mass destruction weapons are not relevant.
+
+</top>
+
+
+<top>
+
+<num> Number: R147
+
+<title> Natural gas vehicles
+
+<desc> Description:
+What are the pros and cons regarding the use of natural gas vehicles.
+
+<narr> Narrative:
+Documents that are indicative of the pro's and con's of natural gas vehicles
+are relevant.  Only the use of natural gas as applied to vehicles should be
+considered relevant.
+
+</top>
+
+
+<top>
+
+<num> Number: R148
+
+<title> NAFTA
+
+<desc> Description:
+The NAFTA was created in the 90s. What are the current issues?
+
+<narr> Narrative:
+Documents containing information about current issues that are being
+considered by NAFTA such as: raising tariffs without approval of the
+NAFTA members; breaking agreements on production quotas; and
+production of items when specifically prohibited by NAFTA agreement
+would all be relevant.  Considerations for new members are not
+relevant.
+
+</top>
+
+
+<top>
+
+<num> Number: R149
+
+<title> Aid to handicapped people
+
+<desc> Description:
+Find documents reflecting actions to aid handicapped
+people.
+
+<narr> Narrative:
+Relevant documents clearly demonstrate efforts undertaken to improve
+conditions for handicapped people.  Documents mentioning handicapped
+people and problems associated with their handicap without actions
+taken to improve or correct these problems are not relevant.
+
+</top>
+
+
+<top>
+
+<num> Number: R150
+
+<title> Drive-by shootings
+
+<desc> Description:
+Research documents on drive-by shootings.
+
+<narr> Narrative:
+Documents indicating shots fired from a passing car are
+relevant.  Documents about shots fired at a passing car are not
+relevant.
+
+</top>

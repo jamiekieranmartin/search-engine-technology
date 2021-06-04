@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="38191" id="root" date="1996-09-06" xml:lang="en">
+<title>USA: Illinois Power shutting Clinton power plant.</title>
+<headline>Illinois Power shutting Clinton power plant.</headline>
+<dateline>NEW YORK 1996-09-06</dateline>
+<text>
+<p>Illinois Power Co, a unit of Illinova Corp, is shutting down its 930 megawatt (MW) Clinton nuclear power plant following an unidentified leak, the Nuclear Regulatory Commission (NRC) said Friday.  </p>
+<p>The plant was producing at 39 percent of its rated capacity early Friday. It had been at full power on Thursday, the NRC said.</p>
+<p>The power station is in Clinton, Ill.</p>
+<p>Company officials were not immediately available for comment.</p>
+<p>--New York Power Desk + 1 212 859 1627</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="I1610109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

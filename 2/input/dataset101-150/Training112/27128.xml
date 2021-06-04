@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="27128" id="root" date="1996-09-02" xml:lang="en">
+<title>MEXICO: Twenty die in Mexico bus crash.</title>
+<headline>Twenty die in Mexico bus crash.</headline>
+<dateline>CUAUTLA, Mexico 1996-09-02</dateline>
+<text>
+<p>Twenty people died and another 19 were injured, many of them seriously, when a bus swerved off a country road outside Mexico City and crashed into a parked truck and a pickup, police said.</p>
+<p>The bus, which was carrying poor Mexican workers and students from the capital to the town of Cuautla 45 miles (70 km) to the south, was destroyed.</p>
+<p>&quot;It left the road and on tipping over crashed into the parked vehicles,&quot; Federal Highway Police commander Marco Antonio Vargas Rodriguez told Reuters Television. &quot;Evidently it was travelling at excessive speed.&quot;</p>
+<p>The crash tore off the roof and cabin of the bus, hurling passengers, possessions and seats over a wide area.</p>
+<p>Red Cross workers recovered bodies and body parts with stretchers from the grass, tipping the corpses in a heap inside a local forensic medicine van. Women and children were among the dead.</p>
+<p>The truck and the pickup, which were parked off the road while their owners harvested tomatoes and cucumbers from a nearby field, were also destroyed.</p>
+<p>&quot;It is terrible. I have seen a lot of tragedies in my life but this is one of the worst,&quot; a reporter for Radio Red, a private radio network, said from the crash scene.</p>
+<p>Relatives of the victims, however, displayed characteristic Mexican fatalism. &quot;I think it was bad luck. When death comes it can strike anywhere, even at home,&quot; Maria de la Luz Sanchez told reporters.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CUAUTLA, Mexico"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

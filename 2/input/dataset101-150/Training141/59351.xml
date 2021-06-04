@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="59351" id="root" date="1996-09-17" xml:lang="en">
+<title>USA: Elderly woman found dead in California's Yosemite.</title>
+<headline>Elderly woman found dead in California's Yosemite.</headline>
+<dateline>SAN FRANCISCO 1996-09-16</dateline>
+<text>
+<p>A 74-year-old woman suffering from Alzheimer's Disease was found dead Monday in a wilderness area in California's Yosemite National Park, park officials said.</p>
+<p>The body of Ruth Carr McIntosh of Gardnerville, Nevada, was found by search teams in Paiute Canyon. Park officials said the cause of death would not be available until an autopsy was completed.</p>
+<p>She had been travelling up Slide Canyon in northeastern Yosemite with her husband and a friend when she became separated from the rest of her party. She was last seen Saturday afternoon. A missing persons report was received by the local sheriff's department on Sunday night.</p>
+<p>McIntosh had hiked in the area a dozen times before and was reported to be in good physical condition, park officials said. The National Park Service, the U.S. Forest Service, the Mono County Sheriff's Department and the California Association of Rescue Dogs assisted in the search.</p>
+<p>Yosemite National Park is located about 150 miles southeast of San Francisco.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

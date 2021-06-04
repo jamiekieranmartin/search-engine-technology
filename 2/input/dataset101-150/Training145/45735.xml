@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="45735" id="root" date="1996-09-11" xml:lang="en">
+<title>UK: U.S. airliner diverted after security scare.</title>
+<headline>U.S. airliner diverted after security scare.</headline>
+<dateline>LONDON 1996-09-11</dateline>
+<text>
+<p>A U.S. airliner with 193 people on board landed safely at Glasgow airport on Wednesday after a security scare forced it to divert in mid-Atlantic.</p>
+<p>The American Airlines' Boeing 767, on a flight from London to Chicago, was 500 miles (800 km) west of Ireland when it diverted to Glasgow. &quot;It is a security matter,&quot; an airline official said.</p>
+<p>Fire engines and police gathered by the plane, which was being searched for a possible suspect package, official sources said.</p>
+<p>For the last leg of its journey, the airliner's progress was monitored by a British Royal Air Force Boeing Sentry radar surveillance aircraft.</p>
+<p>Rescue helicopters stood by, but the plane landed safely without them needing to be called on, officials said.</p>
+<p>The 179 passengers and 14 crew gathered in the terminal building while American decided how they could continue their journey.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

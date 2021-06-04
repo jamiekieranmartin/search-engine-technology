@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="83336" id="root" date="1996-09-28" xml:lang="en">
+<title>USA: Disputed parts stripped from U.S. immigration bill.</title>
+<headline>Disputed parts stripped from U.S. immigration bill.</headline>
+<byline>William Scally</byline>
+<dateline>WASHINGTON 1996-09-28</dateline>
+<text>
+<p>The White House and congressional negotiators have agreed to eliminate the most controversial provisions of a bill clamping down on illegal immigration, a key member of Congress said on Saturday.</p>
+<p>The accord was part of a deal reached on a bill funding much of the government for the next fiscal year and was expected to be voted on by the House of Representatives later on Saturday.</p>
+<p>The White House had balked at provisions imposing strict limitations on welfare benefits for legal immigrants that congressional Democrats called &quot;mean-spirited.&quot; They were contained in a section of the bill known as Title 5.</p>
+<p>But Representative Howard Berman, a California Democrat and one of the bill's critics who has served on the congressional negotiating team, said although he had not seen the language of the agreement: &quot;Basically all the worst provisions of Title 5 are out.&quot;</p>
+<p>He said a provision setting income requirements for sponsors of close family immigrants had been modified.</p>
+<p>Under the revised bill the sponsors would have to show an income at 125 percent of poverty level, compared to 140 percent or 200 percent in the earlier version. Also, Berman said, the agreement included Senate-approved language allowing more flexibility.</p>
+<p>Critics of the bill had attacked provisions that had provided for deportation of legal immmigrants who used any of dozens of government means tested services for one year out of seven.</p>
+<p>Republicans earlier accused the administration of not negotiating in good faith.</p>
+<p>An early draft of the bill included a provision allowing states to bar illegal alien children from public education.</p>
+<p>This was stripped from the bill in the face of a threatened presidential veto and Republicans then said they had expected White House approval of the bill.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

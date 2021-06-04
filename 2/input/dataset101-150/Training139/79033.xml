@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="79033" id="root" date="1996-09-26" xml:lang="en">
+<title>FRANCE: Council of Europe approves bioethics code.</title>
+<headline>Council of Europe approves bioethics code.</headline>
+<dateline>STRASBOURG, France 1996-09-26</dateline>
+<text>
+<p>The Council of Europe's parliamentary assembly approved on Thursday a landmark code of ethics governing genetic engineering, test-tube babies and other thorny moral questions posed by modern science.</p>
+<p>The international convention on the ethics of medical and biological research was adopted on a show of hands, ending a six-year drafting process marked by vigorous debate over how to best balance scientific goals and moral concerns.</p>
+<p>To take effect, the convention must now be approved by the council's executive council, uniting the ambassadors of all 39 member states, and then ratified by the parliaments of at least five member states.</p>
+<p>The council was set up after World War Two to promote democracy and human rights across Europe.</p>
+<p>The parliamentary assembly gave its approval over the objection of German Christian Democrats, who said they feared the convention was too weak, though it had been strengthened since June to reflect their concerns.</p>
+<p>Scarred by Germany's advocacy of genetic superiority and its medical experiments on human subjects during the World War Two era, German deputies had blocked the convention earlier this year, saying controls on research on human embryos and mentally deficient individuals were insufficient.</p>
+<p>As approved by the parliamentary assembly, the code would ban discrimination based on an individual's genetic makeup and would forbid choosing the sex of one's baby.</p>
+<p>It would allow organ and tissue transplants only with the donor's consent and solely for therapeutic purposes.</p>
+<p>Research on human subjects could be conducted only with the subject's consent and if an experiment promised a greater benefit than its risks, as determined by outsiders.</p>
+<p>Studies on individuals with a diminished capacity to provide their informed consent, such as minors or the mentally ill, would be subject to even stricter limitations under the code.</p>
+<p>The code also would impose restrictions on test-tube babies and research on human embryos.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EUR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STRASBOURG, France"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

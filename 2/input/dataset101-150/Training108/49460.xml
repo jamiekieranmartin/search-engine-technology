@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="49460" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: Hormone cuts rats' appetite without stress - study.</title>
+<headline>Hormone cuts rats' appetite without stress - study.</headline>
+<byline>Joanne Kenen</byline>
+<dateline>WASHINGTON 1996-09-12</dateline>
+<text>
+<p>In the latest glimpse into the basic biology of hunger, scientists have learned that a brain hormone identified less than a year ago can suppress the appetite without causing stress or similar side effects.</p>
+<p>The research, by scientists at the Salk Institute of Biological Studies and the Scripps Research Institute in La Jolla, California, will appear on Friday in the journal Science.</p>
+<p>The experiments with the hormone, called urocortin, were performed on rats. But much more research needs to be done before scientists can know if the discovery holds out hope for controlling  human obesity or treating eating disorders like anorexia. About one in three Americans is overweight.</p>
+<p>One problem is that urocortin cannot be taken in pill form because it cannot get from the bloodstream to the brain. The lab rats had it injected into their their cerebrospinal fluid.</p>
+<p>Drug development for humans will focus on finding a small molecule that will mimic this hormone or developing ways of blocking receptors for urocortin in the brain, said Salk scientist Wylie Vale, an expert on brain hormones.</p>
+<p>&quot;Hunger and appetite aren't a one-step process. It's complicated,&quot; he said.</p>
+<p>&quot;The brain is integrating information about temperature, body fat levels, messages from the stomach and intestines, blood sugar, how much light is outside, what clothing you are wearing, whether you've exercised, are you under stress ... ,&quot; he said.</p>
+<p>Urocortin, discovered by Vale's Salk team last November, appears related to another hormone, corticotropin releasing factor, or CRF, which plays a role in stress and in the relationship between stress and appetite loss.</p>
+<p>But according to the new rat research, urocortin has a stronger effect on hunger and appetite than CRF does, without triggering stress reactions. Whether the rats were stressed could be seen by measuring hormones and movement and observing behaviour.</p>
+<p>In one experiment, the rats were not fed for 24 hours. Then one group of rats was injected with urocortin, and a control group was not. The rats that had the injection ate much less than those that did not receive the hormone. And the bigger the dose of urocortin the bigger the drop in food consumption.</p>
+<p>The effect of the hormone was also studied on rats that were not deprived of food all day.</p>
+<p>Those that had the injection of the hormone ate the same number of meals as those that did not get the treatment. But their meals were smaller.</p>
+<p>That result is similar to the pattern seen in humans taking the new drug Redux, strengthening the evidence that urocortin is an anti-appetite agent. Redux works on a neurotransmitter, serotonin, that also plays a central role in clinical depression.</p>
+<p>Vale, whose research is backed by the U.S. National Institutes of Health, said several pharmaceutical companies were already doing related research on receptors for brain hormones. A colleague is also working on animal models in which the receptors for urocortin and CRF are knocked out.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

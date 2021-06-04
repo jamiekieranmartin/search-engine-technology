@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="54065" id="root" date="1996-09-14" xml:lang="en">
+<title>JAPAN: Japan food poison victims may sue for damages.</title>
+<headline>Japan food poison victims may sue for damages.</headline>
+<dateline>TOKYO 1996-09-14</dateline>
+<text>
+<p>The parents of schoolchildren affected by the mass outbreak of food poisoning in Japan's western city of Sakai this summer said on Saturday they plan to sue the city for damages.</p>
+<p>More than 6,500 people in the city, mainly schoolchildren, were affected by the outbreak which also hit other parts of Japan.</p>
+<p>Experts believe the 0-157 colon bacillus in school lunches caused the poisoning. But they have been unable to trace the original source of the bacillus which has killed 11 people in Japan and made more than 9,500 ill this year.</p>
+<p>&quot;Children are saying they don't want to eat school lunches any more. The families are worn out from taking care of the sick,&quot; Takayoshi Matsubara, who heads a group of the victims' parents, told a news conference.</p>
+<p>The group claims the food poisoning was due to negligence by municipal authorities who used substantial amounts of taxpayers' money to deal with the results of that negligence.</p>
+<p>Takahashi's daughter left hospital in early September after recovering from a serious bout of food poisoning.</p>
+<p>The central government said late last month that the threat from the germ appeared to be receding in Sakai but that vigilance was still needed.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-14"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-14"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="85553" id="root" date="1996-09-30" xml:lang="en">
+<title>INDIA: Six children burnt to death in India bus fire.</title>
+<headline>Six children burnt to death in India bus fire.</headline>
+<dateline>NEW DELHI 1996-09-30</dateline>
+<text>
+<p>Six children were burnt to death and 17 injured when a school bus caught fire in the northern Indian state of Haryana, the Press Trust of India (PTI) said on Monday.</p>
+<p>The news agency said the accident occurred at a village near Mahendragarh, some 100 km (62 miles) from Delhi, on Sunday when a can of petrol kept near the driver's seat spilled over and caught fire.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

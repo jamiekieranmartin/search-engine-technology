@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="49288" id="root" date="1996-09-12" xml:lang="en">
+<title>PHILIPPINES: Three dead, four injured in Philippine mine blast.</title>
+<headline>Three dead, four injured in Philippine mine blast.</headline>
+<dateline>CEBU, Philippines 1996-09-12</dateline>
+<text>
+<p>Three people were killed and four injured in a coal mine explosion near Cebu city in the central Philippines on Thursday, a mining company official said.</p>
+<p>Nine other miners working in a mine shaft at the time of the blast scrambled out to safety, Roque Medalle, manager of the Manguerra Mining and Development Corp, which owns the mine, said in a radio interview.</p>
+<p>&quot;A spark might have triggered the explosion. What we are trying to establish now is what caused the spark,&quot; Medalle told private radio station DYDD.</p>
+<p>Medalle said he was making the rounds of the mine site when &quot;I heard an explosion&quot; from the mouth of the shaft.</p>
+<p>He said the blast appeared to have come from a depth of some 400 metres (about 1,300 feet) inside the mine.</p>
+<p>The mine, owned by a Filipina businesswoman, is located in Dalaguete municipality, about 85 km (55 miles) southeast of Cebu city.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CEBU, Philippines"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="59521" id="root" date="1996-09-17" xml:lang="en">
+<title>REPUBLIC OF IRELAND: Irish politicians fight threat to oust shamrock.</title>
+<headline>Irish politicians fight threat to oust shamrock.</headline>
+<dateline>DUBLIN 1996-09-17</dateline>
+<text>
+<p>Irish politicians rushed to the defence of the shamrock on Tuesday after reports that the country's tourist board was planning to ditch the three-leafed plant as Ireland's national symbol.</p>
+<p>Ireland's state-sponsored tourist authority Bord Failte is planning a major revamp of marketing strategy and considering dropping the shamrock in the new campaign.</p>
+<p>A Bord Failte survey found that in some countries the plant was not recognised as a symbol of Ireland.</p>
+<p>Opposition tourism spokesman David Andrews said he would be organising a &quot;Save the Shamrock&quot; campaign in parliament.</p>
+<p>&quot;The shamrock image has served us very well,&quot; he told the Irish Times newspaper. &quot;St Patrick got the snakes out of Ireland and now it looks like Bord Failte are going to get the shamrock out of Ireland.&quot;</p>
+<p>Ireland's patron saint is said to have banished snakes from the country and, according to legend, the shamrock became the national symbol after St Patrick used it to illustrate the theological concept of the holy trinity when converting the country to Christianity.</p>
+<p>Bord Failte said no decision had yet been made on the fate of the shamrock. The new design of its advertising is due to be unveiled in mid-November.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="GTOUR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBLIN"/>
+<dc element="dc.creator.location.country.name" value="REPUBLIC OF IRELAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

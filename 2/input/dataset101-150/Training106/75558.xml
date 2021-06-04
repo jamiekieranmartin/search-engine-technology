@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="75558" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: Calif Gov seeks $100 mln of bond funds for schools.</title>
+<headline>Calif Gov seeks $100 mln of bond funds for schools.</headline>
+<dateline>SACRAMENTO, Calif. 1996-09-25</dateline>
+<text>
+<p>California Gov. Pete Wilson on Wednesday urged a state panel to allocate $100 million from a $3 billion school bond measure to reduce public school class sizes.</p>
+<p>In a letter to the State Allocation Board, which was to meet later on Wednesday, Wilson said an allocation of $100 million from March's Proposition 203 could allow for the purchase of 2,500 portable classrooms.</p>
+<p>California voters in March approved Proposition 203, a $3 billion bond to upgrade and construct classrooms and other school facilities.</p>
+<p>&quot;While I realize that there are competing demands on these funds, I strongly urge you to allocate $100 million to further enhance our initiative to reduce class sizes from 30 to 20 students in kindergarten through third grade,&quot; Wilson said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SACRAMENTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

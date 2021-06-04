@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="41792" id="root" date="1996-09-09" xml:lang="en">
+<title>TUNISIA: Tunisia raises bread price and minimum wage.</title>
+<headline>Tunisia raises bread price and minimum wage.</headline>
+<dateline>TUNIS 1996-09-09</dateline>
+<text>
+<p>The prices of bread, semolina, and pasta inched up in Tunisia on Monday after a government decision to raise the cost of some subsidised foodstuffs.</p>
+<p>But to soften the blow, the government also announced an increase in minimum wage and bonus payments to more than 100,000 poor families and 50,000 workers in federal assistance programmes.</p>
+<p>The commerce ministry said the price of a small loaf of bread (250 grammes) rose 10 millimes to 140 millimes (0.14 dinar), while semolina and flour were up 20 millimes per kg to 255 millimes and 325 millimes respectively.</p>
+<p>The price of pasta and couscous, part of Tunisia's staple diet, increased by 40 millimes per kg to 385 millimes and 425 millimes respectively, the ministry said in a statement.</p>
+<p>The government simultaneously raised minimum monthly wage in non-agricultural sectors for the second time this year, pushing the so-called SMIG monthly salary up by two dinars to 162.16 dinars for a 48-hour-week and 142.051 dinars for a 40-hour-week.</p>
+<p>The government last raised the minimum wage in May.</p>
+<p>The quarterly bonus for each of more than 100,000 low-income families and 6,000 elderly and handicapped citizens increased by 2.5 dinars, the Commerce Ministry said. The daily bonus to non-skilled workers in state-funded assistance programmes rose by 0.150 millimes, it added.</p>
+<p>The government said it had increased the price of the foodstuffs to narrow the increasing gap between the cost of purchasing the products on international or domestic markets and the income from local sales.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TUNIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TUNIS"/>
+<dc element="dc.creator.location.country.name" value="TUNISIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

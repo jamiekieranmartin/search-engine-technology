@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="72468" id="root" date="1996-09-24" xml:lang="en">
+<title>ESTONIA: Estonia names new head for ferry disaster panel.</title>
+<headline>Estonia names new head for ferry disaster panel.</headline>
+<dateline>TALLINN 1996-09-24</dateline>
+<text>
+<p>The Estonian government on Tuesday approved a new head for the three-nation commitee investigating the Estonia ferry disaster, after the previous chairman quit, the Baltic News Service (BNS) said.</p>
+<p>Some 852 people died when the Estonia sank in heavy seas in September 1994 en route from Tallinn to Stockholm.</p>
+<p>BNS quoted Prime Minister Tiit Vaehi as saying the government approved Uno Laur, an Estonian member of the commission, to replace Andi Meister, who resigned after a row over video footage of the wreck.</p>
+<p>Meister accused Swedish investigators of concealing video evidence which allegedly showed who was on the bridge of the vessel when it sank in heavy seas, some 20 miles (32 km) from the Finnish island of Utoe.</p>
+<p>It is still unclear whether Estonian captain Arvo Andresson was on the Estonia's bridge when it went down.</p>
+<p>The Swedish and Finnish members of the commission have said that Meister's accusations were based on a misunderstanding and that there is no missing video material.</p>
+<p>BNS said Laur previously worked as a captain for the Estonian Shipping Company.</p>
+<p>The agency said he had been reluctant to be the chairman of the commission but would accept the offer.</p>
+<p>&quot;There was no other way,&quot; BNS quoted him as saying.</p>
+<p>The commission, which is to meet on Thursday in Stockholm, must now approve Laur's appointment.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ESTNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TALLINN"/>
+<dc element="dc.creator.location.country.name" value="ESTONIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

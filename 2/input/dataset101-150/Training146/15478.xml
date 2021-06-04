@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="15478" id="root" date="1996-08-26" xml:lang="en">
+<title>BAHRAIN: U.N. official Ekeus heads for Baghdad.</title>
+<headline>U.N. official Ekeus heads for Baghdad.</headline>
+<dateline>MANAMA 1996-08-26</dateline>
+<text>
+<p>Senior United Nations arms official Rolf Ekeus left Bahrain for Baghdad on Monday for talks with Iraqi officials, a U.N. spokesman said.</p>
+<p>The spokesman said Ekeus, chairman of the United Nations Special Commission (UNSCOM), would spend two or three days in Iraq but declined to give further details.</p>
+<p>U.N. oficials have said Ekeus would hold talks with Iraqi Deputy Prime Minister Tareq Aziz and other officials as part of an agreement Iraq reached with the United Nations in June to hold higher level political talks with Ekeus.</p>
+<p>The Security Council on Friday asked Iraq to stop blocking arms inspectors search for concealed weapons or materials they believe were being shuttled around to avoid detection.</p>
+<p>Disarming Iraq of weapons of mass destruction under 1991 Gulf War ceasefire terms is a prerequisite before the lifting of crippling sanctions imposed on Iraq in 1990 for invading Kuwait.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BAHRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANAMA"/>
+<dc element="dc.creator.location.country.name" value="BAHRAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="34793" id="root" date="1996-09-05" xml:lang="en">
+<title>HONG KONG: Hong Kong Ferry interim net up 20.8 pct.</title>
+<headline>Hong Kong Ferry interim net up 20.8 pct.</headline>
+<dateline>HONG KONG 1996-09-05</dateline>
+<text>
+<p>Six months ended June 30</p>
+<p>(in million HK$ unless stated)</p>
+<p>    Shr (H.K. cents)	   24.2   vs 20.0</p>
+<p>    Dividend (H.K. cents)    8.0    vs 8.0</p>
+<p>    Exceptional items	  nil    vs nil</p>
+<p>    Net			    86.07  vs 71.25</p>
+<p>    Turnover		     613.61 vs 563.32</p>
+<p>    Company name		 Hong Kong Ferry (Holdings) Co Ltd</p>
+<p>    Books close		  September 30 to October 2</p>
+<p>    Dividend payable	   October 4</p>
+<p>NOTE - A ferry services operator.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

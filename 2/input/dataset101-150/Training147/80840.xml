@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="80840" id="root" date="1996-09-27" xml:lang="en">
+<title>USA: SoCalGas sees problems in power deregulation.</title>
+<headline>SoCalGas sees problems in power deregulation.</headline>
+<dateline>LOS ANGELES 1996-09-27</dateline>
+<text>
+<p>Pacific Enterprise's Southern California Gas Co said Friday it approves of state legislation aimed at lower consumer electric rates, but said the changes may harm electric generators in California.</p>
+<p>The company said it remains concerned about regulations still under review at the federal level which address the price paid for transmission service.</p>
+<p>SoCalGas supplies natural gas to electric utilities in southern California for power generation. Electric utilities use almost 25 percent of the natural gas delivered in the region, the company said.</p>
+<p>Under the pricing proposal submitted to federal regulators by California's electric investor-owned utilities, many electric generation plants in the southern part of the state may be under-utilized or even shut down, said Lee Stewart, senior vice president of SoCalGas.</p>
+<p>&quot;This is because transmitting electricity over long distances from remote coal facilities in New Mexico and Arizona is proposed to be priced the same as transmitting over short distances, from perhaps Oxnard or Long Beach,&quot; Stewart explained.</p>
+<p>The gas company said the southern California cities of Long Beach, El Segundo and Oxnard have written to the Federal Energy Regulatory Commission to express opposition to, or concerns over, pricing electric transmission as a single access fee for all users.</p>
+<p>&quot;This will also mean higher costs for natural gas consumers,&quot; said Stewart, explaining that the gas system that was built to service these electric plants would become under-utilized and be paid for by everyone else.</p>
+<p>&quot;We don't think it is in the public interest to transfer some of the costs of electric restructuring to natural gas consumers over the long term,&quot; he added.</p>
+<p>--Los Angeles bureau, + 1 213 955 6761</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

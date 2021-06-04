@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="83965" id="root" date="1996-09-29" xml:lang="en">
+<title>USA: U.S. House passes scaled down national parks bill.</title>
+<headline>U.S. House passes scaled down national parks bill.</headline>
+<byline>Sue Kirchhoff</byline>
+<dateline>WASHINGTON 1996-09-28</dateline>
+<text>
+<p>The House Saturday passed legislation to expand the national parks system after lawmakers dropped a controversial plan to let corporations become official parks sponsors.</p>
+<p>The measure was passed 404-4 in a rare Saturday session just before the House hoped to adjourn for the year. It must now be considered by the Senate, which meets Monday, but the outlook is unclear.</p>
+<p>President Clinton had threatened to veto the measure creating or enhancing parks in 37 states, citing the corporate sponsorship plan and other provisions.</p>
+<p>To meet White House objections, the final bill deletes a plan to increase park entrance fees. Lawmakers also eliminated a section that would have continued a logging company's exclusive contract for timber in Alaska's Tongass National Forest.</p>
+<p>&quot;This is a product of bipartisan negotiations throughout many months, although it came down to the 11th hour today,&quot; said California Democratic Rep. George Miller.</p>
+<p>&quot;I think this will turn out to be a major gift in lands management to the people of this nation,&quot; he said.</p>
+<p>House Resources Committee Chairman Don Young, an Alaska Republican who lost some key projects in his state, said the bill was &quot;not everything I wanted&quot; but praised the agreement and vowed to try again next year.</p>
+<p>The wide-ranging legislation would establish a trust to manage the former Presidio military installation as a park in San Francisco, protect the Sterling Forest on the New York-New Jersey border and establish a tallgrass prairie reserve in Kansas.</p>
+<p>&quot;This bill is exactly what the American people want ... a parks bill that will ensure future generations will have pristine areas to enjoy,&quot; said New York Republican Rep. Sherwood Boehlert.</p>
+<p>Despite the popular projects in the bill, it had became a political hot potato as environmental groups blasted its plan to let the government license corporations to be national park sponsors and use that in their advertising.</p>
+<p>The White House, which had backed a corporate sponsorship plan to help finance the ailing parks, cited other objections to the bill earlier this week in its veto threat.</p>
+<p>Lawmakers said they had made most of the changes the White House wanted, including eliminating boundary reductions at two Virginia parks.</p>
+<p>The final measure does allow national flood insurance for Florida barrier islands to allow increased development, which the White House opposed.</p>
+<p>Republicans have accused Clinton of trying to use the bill to punish his opponents.</p>
+<p>&quot;They gave us two days ago ... a list of 44 items that would result in a presidential veto. Every single one was in a Republican member's district,&quot; a Republican aide said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

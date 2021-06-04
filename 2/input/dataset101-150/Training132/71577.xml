@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="71577" id="root" date="1996-09-23" xml:lang="en">
+<title>SOUTH KOREA: South Korea dismisses Pyongyang story on submarine.</title>
+<headline>South Korea dismisses Pyongyang story on submarine.</headline>
+<dateline>SEOUL 1996-09-23</dateline>
+<text>
+<p>South Korea on Monday dismissed North Korea's explanation for the infiltration of a submarine last week as &quot;not worthy of consideration&quot;.</p>
+<p>A defence ministry spokesman told a news conference that Pyongyang was simply trying to defuse criticism by saying the vessel had drifted into Southern waters as a result of engine failure.  </p>
+<p>The North Korean explanation came in a statement carried by its official Korea Central News Agency. Pyongyang also demanded the return of the submarine and its crew, including the bodies of those killed.</p>
+<p>&quot;The North Korean explanation about the ship is nonsense. It is not worthy of consideration,&quot; the South Koran spokesman said. &quot;It is nothing but North Korea's habitual, deceitful policy aimed at defusing criticism.</p>
+<p>&quot;The intrusion was a carefully planned infiltration,&quot; the spokesman added.</p>
+<p>South Korean authorities believe 26 North Koreans came ashore from the submarine on Wednesday. Twenty have been shot and killed and one captured alive. A hunt is on for the remaining agents.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

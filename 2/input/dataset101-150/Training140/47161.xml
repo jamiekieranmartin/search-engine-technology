@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="47161" id="root" date="1996-09-11" xml:lang="en">
+<title>USA: US panel votes to continue computer dumping probe.</title>
+<headline>US panel votes to continue computer dumping probe.</headline>
+<dateline>WASHINGTON 1996-09-11</dateline>
+<text>
+<p>The U.S. International Trade Commission voted Wednesday to continue an investigation into allegations by Cray Research Inc that NEC Corp was dumping supercomputers in the U.S. market.</p>
+<p>In a vote of 3-1 the commission ruled that there was a &quot;reasonable indication&quot; that the U.S. industry was being hurt by the imports. The vote means the Commerce Department will continue an investigation into Cray's dumping allegation.</p>
+<p>The case stems from a July 29 complaint by Cray, a unit of Silicon Graphics Inc., that its Japanese rival was taking an estimated $65 million loss to supply supercomputers to the U.S. National Center for Atomospheric research.</p>
+<p>NEC has called the Cray allegations a total fabrication, saying its U.S. competitor overestimated NEC's research and development costs, while understimating its revenues. NEC has said revenues from the deal would be $30 million.</p>
+<p>Cray also charged that NEC sold supercomputers in Japan at much higher prices than in the United States. But NEC has said the comparison was not accurate because NEC prices cited by Cray included charges for maintenance and other services.  </p>
+<p>Under U.S. law, if NEC is found to have &quot;dumped&quot; the computers at less than fair price and if sales caused injury to Cray, the Commerce Department can impose anti-dumping duties on the computer imports.</p>
+<p>The National Center for Atmospheric Research tentatively agreed on May 20 to buy four NEC supercomputer systems. But last month the U.S. National Science Foundation, the funding agency, said it was withholding approval of the supercomputer purchase until the dumping allegations were resolved.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

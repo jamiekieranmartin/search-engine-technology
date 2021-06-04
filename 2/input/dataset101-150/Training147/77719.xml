@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="77719" id="root" date="1996-09-26" xml:lang="en">
+<title>USA: PG&amp;E to sell $57 mln stake in gas pipeline.</title>
+<headline>PG&amp;E to sell $57 mln stake in gas pipeline.</headline>
+<dateline>LOS ANGELES 1996-09-26</dateline>
+<text>
+<p>Pacific Gas and Electric Company said on Thursday it agreed to sell the Sacramento Municipal Utility District (SMUD) a portion of PG&amp;E's natural gas pipeline transmission system for $57 million.</p>
+<p>PG&amp;E plans to sell SMUD about 80 million cubic feet (MMcf) of natural gas a day in two PG&amp;E lines with an option for an additional 10 MMcf per day on each line.</p>
+<p>One line, dubbed 300, is a main transmission line delivering gas from the California/Arizona border, and the second, line 401, is a main line delivering gas from the California/Oregon border.  </p>
+<p>&quot;This partnership will reduce our investment costs as well as our overhead costs, which will mean savings for our natural gas customers in the future,&quot; said Jack Jenkins-Stark, PG&amp;E senior vice president and general manager of gas supply.</p>
+<p>SMUD will use the natural gas to power three cogeneration electric power plants it currently operates or has under construction.</p>
+<p>Under the plan, PG&amp;E will continue to operate and maintain the jointly owned pipelines.</p>
+<p>SMUD will pay PG&amp;E an annual fee for these services.</p>
+<p>&quot;This purchase assures SMUD reliable deliveries of natural gas from both the Northern and Southern California borders,&quot; said Jan Schori, SMUD general manager.</p>
+<p>&quot;Up to 100 million cubic feet per day of natural gas can be transported under this purchase, which takes advantage of SMUD's new local transmission pipeline here in Sacramento,&quot; Schori added.</p>
+<p>The agreement is subject to approval by the California Public Utilities Commission.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

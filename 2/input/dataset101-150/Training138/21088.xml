@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="21088" id="root" date="1996-08-29" xml:lang="en">
+<title>UK: Fourth British farmer gets human mad cow disease.</title>
+<headline>Fourth British farmer gets human mad cow disease.</headline>
+<dateline>LONDON 1996-08-30</dateline>
+<text>
+<p>A fourth British cattle farmer has died from the human version of mad cow disease, raising fears that it may be possible to get the disease from simple contact with infected animals or feed, scientists said on Friday.</p>
+<p>Experts who monitor Creutzfeldt-Jakob Disease (CJD) in Britain said the case of the farmer, who died last year, had concerned them.</p>
+<p>The British government said in March it had identified a new strain of CJD in 12 victims and said they probably caught it from eating beef infected with Bovine Spongiform Encephalopathy (BSE or mad cow disease).</p>
+<p>The 59-year-old farmer evidently did not have this new strain, James Ironside and colleagues at the National CJD Surveillance Unit in Edinburgh said.</p>
+<p>In a letter to the Lancet medical journal they said he seemed to have succumbed to &quot;sporadic&quot; CJD, which naturally kills about one in a million people per year, and which has an incubation period of around 30 years.</p>
+<p>Yet they said four cases of cattle farmers with CJD in Britain made them suspicious.</p>
+<p>&quot;The apparent excess of recent cases of CJD in the U.K. occurring in people exposed to cattle affected with BSE has increased speculation that CJD may result from the transmission of BSE to human beings,&quot; they wrote.</p>
+<p>They noted that other countries, which do not have BSE epidemics, have the same rate of CJD in dairy farmers. They said it could be that doctors are aware of BSE fears and thus look harder for CJD symptoms in dairy farmers.</p>
+<p>Scientists say the current epidemic of BSE was started when cows were fed the rendered remains of sheep infected with scrapie, their own version of the disease. Such feed has been banned, and slaughterhouses are told to remove all tissue known to carry BSE infection, such as brains.</p>
+<p>Ironside's group said they did not know how the farmer could have become infected by BSE, if he had.</p>
+<p>&quot;He was not known to have had contact with meat and bonemeal and denied ever having tasted animal feed. He had not drunk unpasteurised milk since 1972,&quot; they wrote.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

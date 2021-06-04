@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="58343" id="root" date="1996-09-17" xml:lang="en">
+<title>TAIWAN: Game maker offers virtual war in Taiwan-Japan row.</title>
+<headline>Game maker offers virtual war in Taiwan-Japan row.</headline>
+<dateline>TAIPEI 1996-09-17</dateline>
+<text>
+<p>Taiwanese eager to challenge Tokyo's controversial claim to a chain of islands in the East China Sea now can take matters in their own hands -- by waging war with Japan in a virtual-reality computer game.</p>
+<p>&quot;The game starts with a small clash between Taiwan and Japan over the Diaoyu islands and China joins in as tensions escalate,&quot; Liu Chao-yi, programme designer at Taiwan's Software World, said on Tuesday.</p>
+<p>&quot;Whoever wins the game gets sovereignty in the Diaoyus.&quot;</p>
+<p>Taiwan, China and Japan all claim the uninhabited islands, called the Diaoyus in Chinese and the Senkakus in Japanese.</p>
+<p>A long-dormant dispute over them flared up in July when Japanese rightists built a lighthouse on one of the islands to assert Tokyo's claim.</p>
+<p>The computer game will retail for T$300 (US$11) when it is launched next week in Taiwan.</p>
+<p>Sensing a business opportunity on the other side of the dispute, Software World will market the game in Japan as well.</p>
+<p>It is not the company's first foray into simulation of Taiwan's real-life diplomatic crises. The south Taiwan firm has already marketed a game that simulated a Taiwan-China missile crisis based on intimidating war games mounted by Beijing in waters near Taiwan in late 1995 and early 1996.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

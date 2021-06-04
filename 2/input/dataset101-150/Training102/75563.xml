@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="75563" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: U.S. male nanny pleads guilty to sex charges.</title>
+<headline>U.S. male nanny pleads guilty to sex charges.</headline>
+<dateline>NEW YORK 1996-09-25</dateline>
+<text>
+<p>A 24-year-old man pleaded guilty Wednesday to federal charges of travelling interstate with intent to engage in sexual acts with a boy he had been hired to care for as a nanny.</p>
+<p>Patrick Slater of Connecticut pleaded guilty to a two-count felony in White Plains federal court and admitted he had engaged in sexual acts on more than one occassion with the 11-year-old child.</p>
+<p>Slater had been on probation at the time of the offences for a Connecticut state conviction for having sexual activity with a minor.</p>
+<p>Slater had been hired to care for the child in Armonk, New York betweeen April 1995 and June 1996.</p>
+<p>Earlier Wednesday, Slater also pleaded guilty to state charges of using a child in a sexual performance and sodomy in the second degree.</p>
+<p>Slater faces a maximum sentence of 20 years in prison and $500,000 fine on the federal charges and an indeterminate sentence of seven and a third to 20 years in prison on the state charges.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

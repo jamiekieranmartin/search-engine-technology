@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="25144" id="root" date="1996-08-30" xml:lang="en">
+<title>SWEDEN: Swedish Greenpeace activists kicked out of Siberia.</title>
+<headline>Swedish Greenpeace activists kicked out of Siberia.</headline>
+<dateline>STOCKHOLM 1996-08-30</dateline>
+<text>
+<p>Environmental watchdog Greenpeace said on Friday two Swedish activists had been thrown out of a uranium mining region in Siberia for trying to research environmental problems there.</p>
+<p>&quot;The two were interrupted in the middle of an interview with a geologist who was explaining some of the major environmental problems in the area,&quot; Greenpeace Sweden said in a statement.</p>
+<p>It said Dennis Pamlin and Dima Litvinov were deported from the Krasnokamensk region in eastern Siberia for researching problems of the area's uranium mines, which are some of the world's largest and supply the Swedish nuclear industry.</p>
+<p>&quot;At the police station we were forced to sign a document which said that we had broken the law of the former Soviet Union,&quot; Pamlin said in a statement.</p>
+<p>&quot;The rules here are dictated by powerful local men who earn their living from the uranium mining.&quot;</p>
+<p>Greenpeace Sweden spokesman Mats Holmberg said the three day study trip was its second visit to the region.</p>
+<p>Its first trip in 1994 stirred media and political interest over reports of higher incidence of cancers and birth defects due to uranium mining, Greenpeace Sweden said.</p>
+<p>&quot;Greenpeace's latest trip has, despite the interruption, resulted in new information and previously unknown environmental problems caused by the mining,&quot; the group said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="I23000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

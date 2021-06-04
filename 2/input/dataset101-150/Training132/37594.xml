@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="37594" id="root" date="1996-09-06" xml:lang="en">
+<title>USA: White House support helicopter crashes in Florida.</title>
+<headline>White House support helicopter crashes in Florida.</headline>
+<dateline>ORLANDO, Fla. 1996-09-06</dateline>
+<text>
+<p>A helicopter used in supporting the entourage of President Bill Clinton crashed in Orlando on Friday but all crew members escaped without injury, White House spokesman Mike McCurry told reporters.  </p>
+<p>Defence department officials in Washington said preliminary reports were that it was a CH-46E Seaknight Marine helicopter used in supporting presidential trips. It was landing at Orlando Executive Airport when the accident happened.</p>
+<p>&quot;It rolled over and apparently was destroyed in a fire at the Orlando Executive Airport,&quot; McCurry told reporters in Orlando. &quot;All crew members escaped without injury.&quot;</p>
+<p>Clinton, in Florida on a two-day election campaign trip, was elsewhere in Orlando when the accident happened. The helicopter was used on Thursday to transport members of the presidential party but not Clinton.</p>
+<p>It was the second air accident involving support for the president in three weeks. A C-130 Air Force cargo plane that accompanied Clinton on his vacation trip to Jackson, Wyoming, crashed on a Wyoming mountain on Aug. 17, killing all nine people aboard. Eight were crew members and one was a Secret Service agent.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ORLANDO, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

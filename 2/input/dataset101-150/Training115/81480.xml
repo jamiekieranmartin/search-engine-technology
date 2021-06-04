@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="81480" id="root" date="1996-09-27" xml:lang="en">
+<title>TURKEY: Gaming industry slams Turkish casino ban.</title>
+<headline>Gaming industry slams Turkish casino ban.</headline>
+<dateline>ISTANBUL 1996-09-27</dateline>
+<text>
+<p>Gambling industry officials Friday protested an order banning Turks from the country's casinos, which they say will lead to a huge loss of foreign investment and only benefit illegal gambling joints.</p>
+<p>&quot;I caution the government officials to reconsider their actions,&quot; Steve Karoul, manager of the five star Ciragan Palace casino in Istanbul, told reporters.</p>
+<p>The interior ministry of Turkey's Islamist-led government this week told provincial governors to exclude Turks from casinos while the industry is reorganized.</p>
+<p>The ministry says this is to prevent families being broken up amid concerns, heightened by media reports, of suicides reportedly linked to unpaid gambling debts. There are also wide concerns the gambling industry is used for money laundering.</p>
+<p>&quot;Punishing all casinos for the past abuses of the few bad operators is not the answer, and closing casinos to Turkish citizens is not the answer,&quot; Karoul said.</p>
+<p>&quot;The gambling will continue -- either in illegal underground casinos with no tax benefits to the country or in foreign casinos outside the country.&quot;</p>
+<p>The order has so far only been implemented in some parts of the country.</p>
+<p>The tourism ministry will announce a reorganization of gambling in Turkey in October, possibly limiting casinos to three regions -- Antalya, central Anatolia and the Yassiada island near Istanbul.</p>
+<p>Erhan Akbulut, chairman of the Turkish Association of Independent Gaming Operators, said about 70 percent of gaming income comes from Turks, but foreigners gamble greater sums.</p>
+<p>&quot;So foreigners lose more money as Turks only do it for entertainment,&quot; Akbulut said. &quot;The loss will be Turkey's.&quot;</p>
+<p>Casino officials said the ban added to a series of events that is leading foreign investors to shun Turkey's gambling industry, including an economic crisis in 1994.</p>
+<p>Turkey's economy is struggling under high inflation and and huge fiscal deficits, and the new government has so far failed to instill confidence that the future will be any more stable.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97912">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISTANBUL"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

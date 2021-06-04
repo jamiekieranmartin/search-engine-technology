@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="18164" id="root" date="1996-08-28" xml:lang="en">
+<title>USA: SEC adopts rules to improve investor access to best stock prices.</title>
+<headline>SEC adopts rules to improve investor access to best stock prices.</headline>
+<dateline>WASHINGTON 1996-08-28</dateline>
+<text>
+<p>The Securities and Exchange Commission Wednesday approved rules designed to give stock market investors a better chance at getting the best price available for their orders.</p>
+<p>The so-called order handling rules, which were proposed last September, were approved in a 4-0 vote.</p>
+<p>The new rules will require specialists at stock exchanges and market makers on Nasdaq to allow customers to view price quotes from other electronic trading systems that may not be readily available to them.</p>
+<p>The rules will also require that customer limit orders be displayed with prices better than those available in quotes publicly available at the time.</p>
+<p>Specialists and market makers are companies or individuals recognised as qualified to maintain an orderly market in a stock. In a limit order, investors specify the price at which they are willing to buy or sell, as opposed to a market order executed at prevailing prices.</p>
+<p>&quot;These rules are intended to empower all investors, by allowing their orders to compete on a level playing field, and by providing the disclosure they need to make informed decisions,&quot; said SEC Chairman Arthur Levitt.</p>
+<p>The SEC's goal, he added, was to create &quot;one system where one price could be available to everybody.&quot;</p>
+<p>The director of the SEC's division of market regulation, Richard Lindsey, said Wall Street firms will probably need to spend about $7 million to carry out the improvements called for by the new rules.</p>
+<p>In proposing the rules last year, the SEC noted that while technology has improved, commonplace practices still existed that worked against investors' best interests.</p>
+<p>It noted that customers whose orders were not displayed lost the chance of getting the best possible price available in the market.</p>
+<p>It also cited the potential problem of a two-tiered market in which market makers quote one price to public investors while quoting better prices in private systems, thus robbing investors without access to &quot;hidden&quot; quotes the benefit of the best available prices.</p>
+<p>Earlier this month, the SEC settled charges of alleged malpractices on Nasdaq when the parent of the Nasdaq market, the National Association of Securities Dealers, agreed to spend $100 million over five years to upgrade its oversight of brokers' trading practices.</p>
+<p>The SEC dropped a third proposal that would have allowed investors with market orders to trade at a better price if there were shifts in prices before their orders were executed.</p>
+<p>The agency said it would monitor effects of the two new rules before considering the &quot;price improvement&quot; proposal again.</p>
+<p>The agency also proposed rule changes that would require continuous &quot;bid&quot; and &quot;ask&quot; quotations from exchange specialists and market makers who trade more than 1 percent of a stock during any quarter on Nasdaq.</p>
+<p>The SEC's limit order display rule will mean a major change for Nasdaq, where such orders have never been displayed. The president of the Nasdaq, Alfred Berkeley, was to hold a news conference Wednesday afternoon to elaborate on the new rules' effects on the market, the second largest in the world.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

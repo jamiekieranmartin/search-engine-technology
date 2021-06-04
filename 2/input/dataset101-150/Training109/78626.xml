@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="78626" id="root" date="1996-09-26" xml:lang="en">
+<title>USA: Florida man holds infant hostage.</title>
+<headline>Florida man holds infant hostage.</headline>
+<dateline>DAYTONA BEACH, Fla. 1996-09-26</dateline>
+<text>
+<p>A Florida man who held his infant son hostage for more than 17 hours released the child unharmed and surrendered Thursday but not before killing the baby's uncle, police said.</p>
+<p>Ronell Baker, 23, surrendered after asking to see his girlfriend's mother, Patricia Flynn, police said. She was brought to him at about 12:15 p.m. EDT, and he handed her the child, putting down his gun and surrendering shortly afterward.</p>
+<p>&quot;We were prepared to sit here forever until that child was back in the arms of his mother,&quot; said Volusia County Sheriff Bob Vogel. He said negotiations had been difficult. &quot;Things went up and down all night. There were times when he was threatening to kill the child, threatening to kill himself, or laughing at the corpse of the man he shot.&quot;</p>
+<p>Baker was being held at Volusia County jail on a police warrant of murder and kidnapping. Police said it was expected to become a first or second-degree murder charge after a review by the state attorney's office.</p>
+<p>Police said Baker seized his five-week-old son, Emundray Taylor, late Wednesday after fighting with his girlfriend, Collona Taylor, 16, the child's mother, over custody and visitation. During the fight, police said Baker pushed the girl onto a glass coffee table, lacerating her wrist and requiring six stitches.</p>
+<p>As Baker tried to leave the apartment with Emundray, he was confronted in the doorway by her brother, Jermaine Taylor, 17. Baker shot and killed him, police said.</p>
+<p>During the standoff, Baker held his handgun to the infant's head as he wandered out of the apartment to a nearby playground and a church parking lot.</p>
+<p>&quot;It's sad. It's very sad,&quot; Angela Percell, a neighbour, said as she stood near the police barricades keeping hundreds of onlookers from the kidnapping scene. &quot;I'm just praying no one else dies. ... What's this world coming to?&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DAYTONA BEACH, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

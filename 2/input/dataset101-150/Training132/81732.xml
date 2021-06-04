@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="81732" id="root" date="1996-09-27" xml:lang="en">
+<title>UNITED NATIONS: South Korea warns of more infiltration from North.</title>
+<headline>South Korea warns of more infiltration from North.</headline>
+<dateline>UNITED NATIONS 1996-09-27</dateline>
+<text>
+<p>By Nicholas Doughty, Diplomatic Correspondent</p>
+<p>South Korea said on Friday that communist North Korea could be planning more commando-style infiltration raids following last week's crisis over a submarine from the North that foundered off the coast.</p>
+<p>But South Korean Foreign Minister Ro-Myung Gong, in a speech to the U.N. General Assembly, also repeated his appeal to North Korea to join talks that would end the state of armed truce on the Korean peninsula and establish real peace.</p>
+<p>Earlier on Friday, North Korea warned that it would exercise its &quot;right to retaliate&quot; if South Korea failed to return the submarine with its surviving and dead crew members who landed in the South last week.</p>
+<p>They were Pyongyang's sharpest comments yet on the intrusion of the submarine that put ashore an estimated 26 armed North Koreans. Seoul says it was a commando operation, possibly intended to blow up key installations, but North Korea says it was a routine training mission that went wrong.</p>
+<p>South Korean security forces have killed nine of the infiltrators, 11 were found dead -- apparently shot by their own colleagues -- one was captured alive, and five others are still believed to be on the loose.</p>
+<p>Gong denounced what he called a &quot;brazen act of military provocation&quot; that he said showed Pyongyang &quot;seeks Korean unification by any means including use of force&quot;.</p>
+<p>&quot;The investigation is still underway to find out the purpose of the infiltration ... but the findings to date present a strong possibility that last week's infiltration is part of a larger scale infiltration operation.&quot;</p>
+<p>Gong urged North Korea to accept proposals for four-party peace talks involving the two Koreas, the United States and China. An armistice agreement has remained in force on the peninsula since the 1950-53 Korean war.</p>
+<p>&quot;In the absence of Pyongyang's positive response and given this serious incident ... my country firmly believes that the armistice agreement should remain in full force,&quot; he said.</p>
+<p>North Korea's deputy foreign minister made no reference to the submarine incident in addressing the General Assembly on Thursday, but he said the United Nations should remove its name from the U.S.-led U.N. Command that oversees the armistice.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="UNITED NATIONS"/>
+<dc element="dc.creator.location.country.name" value="UNITED NATIONS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

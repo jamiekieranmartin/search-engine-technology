@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="25174" id="root" date="1996-08-30" xml:lang="en">
+<title>SWITZERLAND: Swiss say no new mad cow cases reported in August.</title>
+<headline>Swiss say no new mad cow cases reported in August.</headline>
+<dateline>BERNE 1996-08-30</dateline>
+<text>
+<p>The number of cases of mad cow disease in Switzerland, the hardest hit country after Britain, appears to be remaining stable, with no new cases reported in August, the Federal Veterinary Office said on Friday.</p>
+<p>Thirty-five new cases of Bovine Spongiform Encephalopathy (BSE), commonly known as mad cow disease, were reported for the first eight months of 1996, down from 52 during the same period last year.</p>
+<p>Switzerland has recorded a total of 220 cases of BSE since 1990, the second-highest tally after Britain, which leads all countries by far with 15,000 cases reported in 1995.</p>
+<p>Sixty-eight new cases were reported in Switzerland during 1995. Swiss veterinary officials expected the number of cases reported to be lower this year.</p>
+<p>Veterinary experts say BSE was able to spread in Switzerland because cows were given feed made with beef bone and remains until 1990, when the practice was prohibited in an effort to stamp out the disease.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="I0100105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="I41220">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BERNE"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

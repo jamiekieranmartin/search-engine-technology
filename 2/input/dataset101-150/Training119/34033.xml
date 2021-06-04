@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="34033" id="root" date="1996-09-05" xml:lang="en">
+<title>UK: NWE gasoline steadies as gas oil leads futures up.</title>
+<headline>NWE gasoline steadies as gas oil leads futures up.</headline>
+<dateline>LONDON 1996-09-05</dateline>
+<text>
+<p>NWE spot gasoline prices steadied in late trade as gas oil short covering ahead of next week's diesel specification change boosted futures, traders said.</p>
+<p>Firmer NYMEX gasoline focused trader interest on possible arbitrage options again, but traders said buying for the U.S. market was thin, despite last weeks fall in U.S. gasoline inventories as U.S. refiners shift production to more profitable distillate output at the expense of gasoline.</p>
+<p>Barge market activity was fairly brisk though with tight Rotterdam barges traded as high as $218.50 a tonne fob, $214 was done fob Antwerp and $208 traded fob ARA for regular.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="63773" id="root" date="1996-09-19" xml:lang="en">
+<title>NIGERIA: Benin deports 2,000 Nigerians.</title>
+<headline>Benin deports 2,000 Nigerians.</headline>
+<dateline>LAGOS 1996-09-19</dateline>
+<text>
+<p>At least 2,000 Nigerians have been deported from neighbouring Benin for entering the tiny French-speaking country illegally, the News Agency of Nigeria (NAN) reported on Thursday.</p>
+<p>It said the deportation exercise was carried out in batches last weekend by the local authorities following recent cases of armed robbery attacks in the capital Cotonou. Many of those deported were traders.</p>
+<p>Three people including a Lebanese trader were killed in the robberies, NAN reported.</p>
+<p>Some of those deported said they were picked up from their homes and places of business, adding that some were detained for about three days before being deported.</p>
+<p>&quot;I was one of many arrested at the Topa market in Cotonou and bundled into a waiting gendarme lorry,&quot; Jude Okoye, a trader who was deported said.</p>
+<p>The immigration controller at the Nigerian-Benin border post of Seme confirmed the deportations but said he had not been officially informed by Benin, NAN reported.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BENIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="NIGEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAGOS"/>
+<dc element="dc.creator.location.country.name" value="NIGERIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

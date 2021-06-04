@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="39658" id="root" date="1996-09-08" xml:lang="en">
+<title>TANZANIA: Inquiry blames Tanzanian railways for ship disaster.</title>
+<headline>Inquiry blames Tanzanian railways for ship disaster.</headline>
+<dateline>DAR ES SALAAM 1996-09-08</dateline>
+<text>
+<p>A Tanzanian government report has blamed the country's state-run railways for the disaster which claimed 700 lives in May when one of its ships capsized on Lake Victoria.</p>
+<p>Transport Minister William Kusila released the report by a commission of inquiry which said Tanzania Railways Corporation (TRC) had failed to appreciate the danger of operating an unstable ship.</p>
+<p>&quot;TRC marine operations were characterised by gross negligence, inefficiency, corruption and other malpractices,&quot; it said.</p>
+<p>The 195-foot Bukoba, which operated regular passenger and cargo services between Lake Victoria ports, had a capacity of 441 passengers, but was believed to be carrying more 1,000 people when it capsized near the port of Mwanza.</p>
+<p>It added: &quot;TRC, including personnel both on shore and on board the ship, must take a large share of the blame for the accident for failure to appreciate fully the gravity of the problem of a dangerous vessel, and failing to exercise the necessary caution that the operation of such a ship required at all times.&quot;</p>
+<p>After the disaster, the ship's captain was arrested but later released. Kusila said the police would decide whether any charges should be laid in light of the inquiry's report.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TANZA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DAR ES SALAAM"/>
+<dc element="dc.creator.location.country.name" value="TANZANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

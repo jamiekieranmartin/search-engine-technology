@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="60740" id="root" date="1996-09-18" xml:lang="en">
+<title>BULGARIA: BULGARIA'S OPPOSITION CHIEF SAYS CABINET INEPT.</title>
+<headline>BULGARIA'S OPPOSITION CHIEF SAYS CABINET INEPT.</headline>
+<dateline>SOFIA 1996-09-18</dateline>
+<text>
+<p>Bulgaria's anti-communist opposition leader on Wednesday accused the socialist government of incompetence and neglect in its efforts to tackle the country's acute economic crisis.</p>
+<p>&quot;Prime Minister Zhan Videnov tries to hide Bulgaria's troubles like the grain crisis and to solve them without even admitting that they exist,&quot; said Ivan Kostov of the Union of Democratic Forces (UDF) in an address on state radio.</p>
+<p>He said the government was responding to events with stopgap measures and had failed to hammer out a coherent strategy to overcome Bulgaria's economic difficulties.</p>
+<p>Kostov, a former finance minister, identified Bulgaria's grain shortage, growing school truancy and illiteracy among young people and the plight of the elderly as areas of particular concern. -- Sofia Newsroom, (++359-2) 981 4145</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BUL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SOFIA"/>
+<dc element="dc.creator.location.country.name" value="BULGARIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

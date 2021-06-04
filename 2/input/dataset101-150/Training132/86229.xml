@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="86229" id="root" date="1996-09-30" xml:lang="en">
+<title>SWITZERLAND: U.N. sees situation &quot;dire&quot; in NKorea after floods.</title>
+<headline>U.N. sees situation &quot;dire&quot; in NKorea after floods.</headline>
+<dateline>GENEVA 1996-09-30</dateline>
+<text>
+<p>United Nations Under-Secretary General Yasushi Akashi said on Monday the humanitarian situation in North Korea, hit by heavy rains and floods for the second year in a row, is &quot;very dire.&quot;</p>
+<p>He said he and his Department of Humanitarian Affairs (DHA) were discussing with Pyongyang the despatch of a U.N. team to assess aid needs in the communist state -- now in a new row with South Korea over an alleged spying mission.</p>
+<p>&quot;The situation in North Korea is very dire. A lot of people are suffering and are eating less than half their normal ration of food,&quot; Akashi told reporters in Geneva, where he is attending a conference on aid in global disasters.</p>
+<p>He said an international appeal launched by the U.N. earlier this year -- even before the latest floods -- for a total of $44 million to help North Koreans hit by last year's floods had brought in only around $18 million so far.</p>
+<p>The recent incident involving a North Korean submarine which ran aground off the coast of the South &quot;might set back our programme&quot;, Akashi added.</p>
+<p>Seoul says the submarine was on a mission to land infiltrators from the North and has reported killing 12 of the men who were on board and finding 11 more who it says were probably shot by their own comrades.</p>
+<p>Pyongyang says the submarine was on a routine training mission when it suffered an accident and accuses the South of killing all the dead men &quot;in cold blood&quot;.</p>
+<p>Akashi said the assessment mission, if given the green light by the North, would help &quot;make sure everyone knows what is happening there.</p>
+<p>&quot;International aid always has to be offered in an atmosphere of transparency,&quot; he added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GENEVA"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

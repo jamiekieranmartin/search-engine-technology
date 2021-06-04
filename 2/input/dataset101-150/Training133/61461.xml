@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="61461" id="root" date="1996-09-18" xml:lang="en">
+<title>USA: Gynecare Inc sees trials completed early.</title>
+<headline>Gynecare Inc sees trials completed early.</headline>
+<dateline>MENLO PARK, Calif. 1996-09-18</dateline>
+<text>
+<p>Gynecare Inc said Wednesday the patient treatment phase of its U.S. clinical trials of its uterine balloon therapy system will be completed earlier than expected.</p>
+<p>The company said in a statement the patient phase will be completed by late September or early October instead of at the end of the year as originally expected.</p>
+<p>Since January, Gynecare has been working with physicians in the U.S. and Canada on the randomized trials of women who suffer from menorrhagia, or excessive menstrual bleeding.</p>
+<p>Gynecare said it has begun to compile the follow-up data in anticipation of filing for U.S. Food and Drug Administration approval in 1997.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MENLO PARK, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

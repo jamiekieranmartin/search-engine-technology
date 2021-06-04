@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="47699" id="root" date="1996-09-11" xml:lang="en">
+<title>UK: UK's Mirror boosts profits despite costs.</title>
+<headline>UK's Mirror boosts profits despite costs.</headline>
+<dateline>LONDON 1996-09-11</dateline>
+<text>
+<p>British newspaper publisher Mirror Group Plc reported on Wednesday a 2.9 percent increase in pre-tax, pre-exceptional profit to 39.0 million pounds ($60.59 million) despite a large increase in costs.</p>
+<p>&quot;Mirror Group has outperformed other newspaper companies in absorbing a 35 percent increase in newsprint costs, maintaining high levels of marketing investment in the brands and still producing an increase in profits,&quot; chief executive David Montgomery said in a statement.  </p>
+<p>&quot;The quality of these results confirms Mirror Group as an efficiently run media business now capable of further expansion by deploying its core skills,&quot; Montgomery added.</p>
+<p>Mirror Group's flagship newspaper is the tabloid Daily Mirror, Britain's second newspaper in circulation terms. It also has a major stake in The Independent broadsheet and has recently branched out into cable television.</p>
+<p>Group turnover increased by 29.4 million pounds to 277.3 million pounds ($430.8 million) in the six months to June 30, thanks to higher circulation and advertising revenue.</p>
+<p>Its fledgling Mirror Television arm posted losses of 4.2 million pounds in the period but the company said cable TV revenues had exceeded initial forecasts.</p>
+<p>($1=.6436 Pound)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47510">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

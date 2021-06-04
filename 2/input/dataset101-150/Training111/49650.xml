@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="49650" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: FCC eases way for utilities to offer phone service.</title>
+<headline>FCC eases way for utilities to offer phone service.</headline>
+<dateline>WASHINGTON 1996-09-12</dateline>
+<text>
+<p>The Federal Communications Commission Thursday simplified its procedures for allowing utilities to offer phone and other telecommunications services.</p>
+<p>The rules implement the landmark telecommunications law enacted earlier this year. That law permits registered public utility holding companies to enter the telecommunications business -- without prior approval from the Securities and Exchange Commission -- by acquiring or maintaining an interest in a so-called &quot;exempt telecommunications company,&quot; or ETC.</p>
+<p>The FCC has the power to determine whether a company warrants ETC status.</p>
+<p>The agency's new rules require applicants seeking that status to file with the agency a brief description of their planned activities together with a sworn statement attesting to any facts or representations presented to demonstrate ETC status as defined in the 1996 law.</p>
+<p>Since the new law was enacted in February, the FCC has received 15 applications seeking ETC status and has approved 13 of those bids.  Two are still pending.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

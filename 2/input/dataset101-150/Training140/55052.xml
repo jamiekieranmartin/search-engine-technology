@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="55052" id="root" date="1996-09-16" xml:lang="en">
+<title>USA: Canon to use Iomega Zip in 2 models.</title>
+<headline>Canon to use Iomega Zip in 2 models.</headline>
+<dateline>ROY, Utah 1996-09-16</dateline>
+<text>
+<p>Iomega Corp said Monday Canon Inc's Computer Systems unit plans to incorporate its 100-megabyte Zip removable storage drive as a standard feature in two Canon mutltimedia home PC models.</p>
+<p>Canon is currently shipping one personal computer with the internal Zip drive and expects to ship another model by the end of September.</p>
+<p>Iomega's 100MB Zip drive is now shipping in Canon's Innova Media MT 9350 Multimedia PC, now available at some retail outlets.</p>
+<p>Canon intends to ship the Innova Media 9800 multimedia PC by the end of September with the Zip drive as a standard feature.</p>
+<p>Iomega's 100MB Zip drive and disks provide more than 70 times the capacity of traditional floppy disks, giving consumers unlimited capacity, increased flexibility, and a built-in back-up system.</p>
+<p>Iomega stock was up 3/4 of a point in mid-afternoon trading Monday to 15-1/4.</p>
+<p>-- Eric Auchard, New York Newsdesk, 212-859-1736</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="I3302019">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROY, Utah"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

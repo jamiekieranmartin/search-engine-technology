@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="18859" id="root" date="1996-08-28" xml:lang="en">
+<title>USA: SEC rules to improve access to best stock prices.</title>
+<headline>SEC rules to improve access to best stock prices.</headline>
+<dateline>WASHINGTON 1996-08-28</dateline>
+<text>
+<p>The Securities and Exchange Commission on Wednesday approved rules designed to give stock market investors a better chance at getting the best price available for their orders.</p>
+<p>The so-called order handling rules, which were proposed in September last year, were approved in a 4-0 vote.</p>
+<p>The SEC rules will:</p>
+<p>---Require specialists in exchanges and market makers on tne Nasdaq to display customer limit orders with prices better than those available in quotes currently available publicly;  </p>
+<p>---Require specialists and market makers to allow customers to view price quotes from other electronic trading systems that may not be readily available to them.</p>
+<p>The SEC dropped a third proposal that would have allowed investors with market orders to trade at a better price if there are shifts in prices before their order gets executed.</p>
+<p>Limit orders are those at which investors specify the price at which they are willing to buy or sell. It is different from market orders, in which an order is executed at prevailing prices.  </p>
+<p>Specialists are members of an exchange who execute limit orders on behalf of other brokerages or who trade for their own account to counteract temporary stock supply and demand imbalances. Market makers operate on the Nasdaq as dealers who commit their capital to make markets for certain stocks.</p>
+<p>The SEC's limit order display rule will set the display requirements for limit orders in all markets. It will mean a major change for the Nasdaq, where such orders have never been displayed. The president of the Nasdaq, Alfred Berkeley, has scheduled a press briefing at 1300 EDT to elaborate on the new rules' effects on the market, the second largest in the world.  </p>
+<p>&quot;These rules are intended to empower all investors, by allowing their orders to compete on a level playing field, and by providing the disclosure they need to make informed decisions,&quot; said SEC Chairman Arthur Levitt.</p>
+<p>The SEC's goal, he added, is to create &quot;one system where one price could be available to everybody.&quot;</p>
+<p>Richard Lindsey, director of SEC's division of market regulation, said Wall Street firms will probably need to spend about $7.0 million to carry out the improvements called for by the new rules.  </p>
+<p>In proposing the rules last year, the SEC noted that while technology has improved to a point where interaction between markets and market participants are now instantaneous, there are commonplace practices that work against investors' best interests.</p>
+<p>It noted that for customers whose orders are not displayed, they lose the chance to have their orders interact with the market.</p>
+<p>It also cited the potential problem of a two-tiered market in which market makers quote one price to public investors while quoting better prices in private systems, thus robbing investors without access to &quot;hidden&quot; quotes the benefit of the best available prices.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

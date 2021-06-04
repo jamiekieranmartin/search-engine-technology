@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="59813" id="root" date="1996-09-17" xml:lang="en">
+<title>MALAYSIA: Malaysia total vehicle sales up 6.5 pct in July.</title>
+<headline>Malaysia total vehicle sales up 6.5 pct in July.</headline>
+<dateline>KUALA LUMPUR 1996-09-17</dateline>
+<text>
+<p>Total vehicles sales in Malaysia rose 6.5 percent year-on-year in July to 29,174 units from 27,394 units, the Malaysian Motor Traders' Association (MMTA) said on Tuesday.</p>
+<p>But sales of passenger cars, including four-wheel drive vehicles, dipped 3.3 percent to 21,751 units in July 1996 from 22,501 units a year ago, the group said.  </p>
+<p>Demand for commercial vehicles, including four-by-four vehicles, grew 51.7 percent year-on-year to 7,423 units from 4,893, the statement said.</p>
+<p>Sales of passenger vehicle cars including four-by-fours totalled 21,750 units in June 1996, while commercial vehicles including four-by-fours amounted to 7,009 units in the same month.</p>
+<p>The total number of vehicles sold in Malaysia during June 1996 was 28,759, the group said.</p>
+<p>-- Kuala Lumpur newsroom (603 230 8911)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I35102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUALA LUMPUR"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

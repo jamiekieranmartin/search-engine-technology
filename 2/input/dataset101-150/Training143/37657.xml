@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="37657" id="root" date="1996-09-06" xml:lang="en">
+<title>USA: Safety board readies plan on Boeing planes - WSJ.</title>
+<headline>Safety board readies plan on Boeing planes - WSJ.</headline>
+<dateline>NEW YORK 1996-09-06</dateline>
+<text>
+<p>The staff of the National Transportation Safety Board is preparing a series of wide-ranging safety recommendations affecting Boeing Co's 757 and 737 airliners, The Wall Street Journal reported on Friday.</p>
+<p>Government and industry officials said the proposals were near completion. They would call for separate changes in both equipment and pilot training involving the two planes.</p>
+<p>If eventually mandated by the Federal Aviation Administration, the measures likely would cost the industry tens of millions of dollars, the newspaper said.</p>
+<p>As a result of last December's fatal crash of a 757 owned by AMR Corp's American Airlines into a mountain near Cali, Colombia, the board's staff is ready to recommend widespread installation of the most-advanced ground collision warning systems in large U.S. commercial aircraft, people familiar with the agency's deliberations said.</p>
+<p>The recommendations are likely to call for a gradual phase-in of the devices in the 757s, and possibly other commercial aircraft as well.</p>
+<p>The recommendations also call for changes in pilot training and operations, including for the 737.</p>
+<p>The full board is slated to take up the issue in the next few weeks.</p>
+<p>-- New York newsroom, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="I3640010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

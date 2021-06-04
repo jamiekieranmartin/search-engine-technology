@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="47516" id="root" date="1996-09-11" xml:lang="en">
+<title>USA: Menendez brothers sent to separate prisons.</title>
+<headline>Menendez brothers sent to separate prisons.</headline>
+<dateline>LOS ANGELES 1996-09-10</dateline>
+<text>
+<p>The Menendez brothers, sentenced to life in prison without parole for murdering their wealthy Beverly Hills parents, were sent to separate prisons Tuesday despite their wish to serve time together.</p>
+<p>Lyle Menendez, 28, was taken to the California Correctional Institution at Tehachapi, near Bakersfield in south-central California, said Christine May, a spokeswoman for the California Department of Corrections.</p>
+<p>His brother Erik, 25, was taken to another maximum-security facility, the California State Prison, known as New Folsom, near Sacramento, May said.</p>
+<p>The two had been held since July in the North Kern State Prison north of Los Angeles.</p>
+<p>Asked why the brothers were separated, May cited state regulations that partners in crime are usually not allowed to serve their terms together.</p>
+<p>She also said the department's investigation yielded &quot;information&quot; indicating that the two should be separated, but declined to elaborate. She said she did not know whether the brothers were allowed to bid each other farewell before boarding buses for their transfer.</p>
+<p>Their first trial ended in mistrial in 1995 after jurors deadlocked on the charges against them.</p>
+<p>In their second trial, the two were convicted last March of shotgunning their parents to death in their Beverly Hills mansion. They were later sentenced to life in prison without chance of parole.</p>
+<p>The brothers had claimed that they acted in self-defence, fearing their parents planned to kill them to keep them from going public with the family's history of sexual and psychological abuse.</p>
+<p>But prosecutors contended that the brothers killed their parents to inherit their multimillion-dollar fortune.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

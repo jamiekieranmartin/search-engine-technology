@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="20705" id="root" date="1996-08-28" xml:lang="en">
+<title>BELGIUM: Belgian police resume digging in sex scandal case.</title>
+<headline>Belgian police resume digging in sex scandal case.</headline>
+<dateline>JUMET, Belgium 1996-08-28</dateline>
+<text>
+<p>Belgian police resumed excavations on Wednesday at a house owned by Marc Dutroux, chief suspect in a child sex and kidnapping scandal, after a delay due to heavy rain.</p>
+<p>&quot;(Digging) work has resumed in the shed and in the yard,&quot; gendarmerie spokesman Major Jean-Marie Boudin told reporters at the scene.</p>
+<p>Investigators were using an excavator in the yard -- which has been cleared of debris -- and were also digging beneath the concrete floor of a shed at three spots located by sniffer dogs on Tuesday.</p>
+<p>Nearly 20 people were involved in the search.</p>
+<p>&quot;We're looking for all possible indications, but of course primarily bodies,&quot; Boudin added. &quot;We will dig as deep as is needed&quot;.</p>
+<p>Before darkness forced police to suspend their search late on Tuesday, they had excavated to a depth of two metres (6-1/2 ft) at one of four locations indicated by specially trained dogs at the property, and to six metres (19-1/2 ft) at one spot in the garden.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JUMET, Belgium"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

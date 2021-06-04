@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="76216" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: Duke halts Oconee 2 power plant restart.</title>
+<headline>Duke halts Oconee 2 power plant restart.</headline>
+<dateline>NEW YORK 1996-09-25</dateline>
+<text>
+<p>Duke Power Co halted restart of its 846 megawatt (MW) Oconee 2 nuclear power plant after a heater drain pipe ruptured, injuring seven workers, the Nuclear Regulatory Commission (NRC) reported Wednesday.</p>
+<p>The plant, in Seneca, S.C., was being restarted at the time of the mishap after shutting Monday to repair a valve.  </p>
+<p>The plant was back on the grid and producing at about 60 percent of its rated capacity when the pipe ruptured.</p>
+<p>The NRC said the injured workers had been taken to a local medical facility for treatment but did not give the extent of their injuries.</p>
+<p>No estimated restart date was given for the unit, which was listed by the NRC as being in &quot;hot shutdown.&quot;</p>
+<p>The company was not immediately available for comment.</p>
+<p>Neigboring Oconee units 1 and 3, also rated at 846 MW, continued to operate at full capacity. All three units are fully owned by Duke.</p>
+<p>Duke Power Co is based in Charlotte, N.C.</p>
+<p>--New York Power Desk 212-859-1621</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

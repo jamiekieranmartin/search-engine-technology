@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="27209" id="root" date="1996-09-02" xml:lang="en">
+<title>MEXICO: Mexican bus crash kills at least 20 - reports.</title>
+<headline>Mexican bus crash kills at least 20 - reports.</headline>
+<dateline>MEXICO CITY 1996-09-02</dateline>
+<text>
+<p>At least 20 people died when a bus and a truck collided early on Monday just outside Mexico City, news reports said.</p>
+<p>TV network Televisa showed the local bus on its side around 55 miles (88 km) south of Mexico City with debris and luggage strewn over a wide area. Radio Red network quoted a local official in the town of Cuautla as saying 20 people died and another 15 were injured. Televisa said 23 had died.</p>
+<p>&quot;It is terrible. I have seen a lot of tragedies in my life but this is one of the worst,&quot; Radio Red's local reporter said from the crash scene. Women and children were among the dead, he added.</p>
+<p>Reports said the bus hit the truck at around 9:10 a.m. CDT (1410 GMT) on its way to Cuautla in the state of Morelos from Mexico City. There was no immediate indication that any foreigners were aboard the bus.</p>
+<p>Local officials were not immediately available to comment.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

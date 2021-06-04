@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="39258" id="root" date="1996-09-07" xml:lang="en">
+<title>MOROCCO: PRESS DIGEST - Morocco - Sept 7.</title>
+<headline>PRESS DIGEST - Morocco - Sept 7.</headline>
+<dateline>RABAT 1996-09-07</dateline>
+<text>
+<p>These are the leading stories in the Moroccan press on Saturday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>LE MATIN DU SAHARA</p>
+<p>- Political parties and social organisations back constitutional reforms.</p>
+<p>- British national Derek Russel Powell was arrested in the Moroccan port of Tangier on a charge of smuggling drugs.</p>
+<p>- South Korean group Daewoo and Moroccan construction federation held talks over partnership construction projects.</p>
+<p>ALMAGHRIB</p>
+<p>- Tunisia and Morocco set joint committees to boost bilateral cooperation. Tunisian Prime Minister Hamed Karoui visited Morocco this week.</p>
+<p>AL BAYANE</p>
+<p>- King Hassan met visiting Tunisian Prime Minister Hamed Karoui.</p>
+<p>- National federation of petrol station operators cancels strike planned for September 23.</p>
+<p>L'OPINION</p>
+<p>- Istiqlal party says vote 'Yes' for constitutional reforms on September 13.</p>
+<p>- NATO naval force visit Morocco on September 12.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RABAT"/>
+<dc element="dc.creator.location.country.name" value="MOROCCO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

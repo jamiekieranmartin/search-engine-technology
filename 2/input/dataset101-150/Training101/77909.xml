@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="77909" id="root" date="1996-09-26" xml:lang="en">
+<title>UK: London stocks edge lower, Tokyo posts gains.</title>
+<headline>London stocks edge lower, Tokyo posts gains.</headline>
+<dateline>LONDON</dateline>
+<text>
+<p>Here is how major stock markets outside the United States ended Thursday.</p>
+<p>LONDON - British shares closed little changed, struggling for direction in thin end-of-quarter trading. The market got some support from higher bonds after further signs the U.S. economy was not as strong as thought. The FTSE 100 ended down 2.5 points at 3,933.2.</p>
+<p>FRANKFURT - Positive market signals and a smattering of good corporate news sent shares to new records in bourse trade, but dealings were marked by selective buying interest and weak volumes. The 30-share DAX index continued its bull run to end the floor session up 7.58 at 2,666.55 points. In post-bourse trade the index rose 1.86 to 2,664.96.</p>
+<p>PARIS - French shares closed slightly higher after a series of disappointing first half results and a weaker start at Wall Street eroded initial gains. The market jumped after the news of a 3.1 percent fall in U.S. August durable goods, which could indicate a slowdown in U.S. activity, but the gains were short-lived. The blue-chip CAC-40 index was up 0.73 points at 2,104.14.</p>
+<p>ZURICH - Swiss shares ended slightly higher in moderate volume but below a barrier of 3,700 points on the blue-chip Swiss Market Index (SMI), despite edging over the line during the day. Profit taking and a weak Wall Street opening led to late losses. The all-share Swiss Performance Index (SPI) firmed 3.86 points to 2,374.65 points.</p>
+<p>TOKYO - Stocks closed higher, marking the third straight day of gains on the back of rising high-tech shares. Brokers said the stock average was likely to keep its firm tone at least until the end of September, but the 22,000 level would be temporary resistance. The key Nikkei 225 average was up 110.70 points to end at 21,461.37.</p>
+<p>HONG KONG - Stocks ended slightly firmer, after a mixed session with selective interest in blue chip issues. The Hang Seng index closed up 32.60 points at 11,636.13.</p>
+<p>SYDNEY - The stock market closed higher, keeping a firm grasp on early gains as the major miners and the big banks led the way higher. By the close, the All Ordinaries index added 20.6 points to 2,273.4. Turnover was strong, driven by September series options expiry, several large companies going ex-dividend, and some position shuffling ahead of the September share price index futures close-out on Monday.</p>
+<p>JOHANNESBURG - South African industrial shares closed softer after making modest gains in early trade and gold shares reversed Wednesday's gains on an ailing bullion price, dealers said. The overall index shed 25.3 points to 6,934.5 points, the industrial index was down 10.5 points to 8,193.5 points and the gold index shed 36.1 points to 1,714.9 points.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

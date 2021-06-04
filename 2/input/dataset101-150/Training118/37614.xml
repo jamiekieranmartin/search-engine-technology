@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="37614" id="root" date="1996-09-06" xml:lang="en">
+<title>USA: U.S. Senate clears housing, veterans' funds.</title>
+<headline>U.S. Senate clears housing, veterans' funds.</headline>
+<dateline>WASHINGTON 1996-09-06</dateline>
+<text>
+<p>The Senate approved late Thursday $84 billion in spending for 1997 housing and veterans' health benefits, environmental protection and science and space programs -- $3 billion less than President Clinton had requested.</p>
+<p>The measure cleared on a vote of 95-2 after a day-long debate on ways to give patients more health insurance coverage for mental illness, maternity stays in hospitals and coverage for children of Vietnam War veterans born with spina bifida.  </p>
+<p>Republican Sen. Pete Domenici and Democratic Sen. Paul Wellstone joined forces to win broader coverage for mental illness by requiring insurers to put the same dollar limit on lifetime payments for mental care as they do on physical ailments.</p>
+<p>Typically, mental coverage is limited to a few thousand dollars while insurers will often pay up to a million dollars over a lifetime for treatment of physical conditions.  </p>
+<p>Domenici, Wellstone and other key senators lost earlier this year in an effort to attach the mental health rules to a separate health insurance reform bill recently signed into law by the president and had vowed to attach them to spending bills that must pass this year.</p>
+<p>Opponents argued that the cost of providing more mental health coverage would be prohibitively expensive.</p>
+<p>For veterans, the Senate agreed that a possible link between exposure to Agent Orange in Vietnam and birth defects such as spina bifida in their children qualified these military personnel for benefits to pay for treatment.  </p>
+<p>The Senate also agreed to require insurers to offer new mothers and their infants at least 48 hours in the hospital after a normal delivery and 96 hours after a Caesarean birth.</p>
+<p>This politically-popular measure addressed directly public concerns about so-called &quot;drive-thru deliveries&quot; in which insurers pay for only one night's hospital stay for the mother and child.</p>
+<p>While Clinton has objected to the lower level of funding in the bill for several programs, the Senate addressed his chief concern by restoring $402.5 million for the AmeriCorps youth service program. The House had cut the program entirely.</p>
+<p>The Senate cleared three of 13 appropriations bills that must pass and be signed into law before the Oct. 1 start of the new fiscal year.</p>
+<p>Earlier in the day, they passed a $10 billion bill to pay for construction of military facilities and passed funding for the city of Washington, D.C.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

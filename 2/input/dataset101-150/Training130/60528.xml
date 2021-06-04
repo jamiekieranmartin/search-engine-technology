@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="60528" id="root" date="1996-09-18" xml:lang="en">
+<title>USA: UAW-Ford workers win child tuition aid.</title>
+<headline>UAW-Ford workers win child tuition aid.</headline>
+<dateline>DETROIT 1996-09-18</dateline>
+<text>
+<p>The United Auto Workers union said its new labor agreement with Ford Motor Co provides new breakthroughs in tuition assistance for the children of active and retired workers and for retirees.</p>
+<p>In a document distributed Wednesday, the UAW disclosed that the pact provides direct aid to children for the first time -- up to $1,000 annually for college tuition or other accredited training for each child or step child under age 25 of active, retired and deceased Ford-UAW workers.</p>
+<p>In addition, retired workers will now be eligible for up to $1,000 per calendar year for the prepayment of tuition and compulsory fees for approved courses, including those leading to credits or degrees at approved educational institiutions.</p>
+<p>In addition, tuition and training grants for active Ford workers increase by $700 over the old contract to $3,800 annually.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

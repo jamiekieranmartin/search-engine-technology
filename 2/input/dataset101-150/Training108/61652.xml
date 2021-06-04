@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="61652" id="root" date="1996-09-18" xml:lang="en">
+<title>USA: Abortion drug gets conditional approval in U.S.</title>
+<headline>Abortion drug gets conditional approval in U.S.</headline>
+<dateline>NEW YORK 1996-09-18</dateline>
+<text>
+<p>The U.S. Food and Drug Administration on Wednesday conditionally approved the controversial RU-486 abortion drug for use by American women, the group sponsoring the drug in the United States said.</p>
+<p>The New York-based non-profit Population Council said in a statement the FDA had granted conditional approval pending further work on labeling and manufacturing of the drug, which will give women an alternative to surgical abortion during the first seven weeks of pregnancy. </p>
+<p>As abortion is so controversial in the United States, and clinics have been targets of violence, the drug approval followed an unconventional process, backed by the Clinton administration.</p>
+<p>Normally, the company that develops a drug sponsors it before the FDA, but Roussel Uclaf, a French subsidiary of the German company Hoechst AG, faced boycotts or the threat of reprisals. Therefore, an arrangement was worked out where the nonprofit Population Council became the U.S. sponsor.</p>
+<p>The Population Council in its statement did not outline all the details of the FDA conditions, but the drug must be administered by a physician trained in the two-step, two drug process and there have been concerns about labeling and manufacturing.</p>
+<p>The council said: &quot;We are sure we will be able to provide the FDA the outstanding information necessary for approval.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

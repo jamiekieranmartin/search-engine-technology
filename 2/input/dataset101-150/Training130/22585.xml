@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="22585" id="root" date="1996-08-29" xml:lang="en">
+<title>USA: BALANCE - Stonehill College, Mass., at $430,000.</title>
+<headline>BALANCE - Stonehill College, Mass., at $430,000.</headline>
+<text>
+<p>MASSACHUSETTS HEALTH AND EDUCATIONAL FACILITIES  AUTHORITY</p>
+<p>RE: $7,495,000</p>
+<p>REVENUE BONDS, STONEHILL COLLEGE ISSUE, SERIES F</p>
+<p>    MOODY'S: Aaa		   S&amp;P: AAA</p>
+<p>		 (NR)			 (NR)</p>
+<p>Delivery Date: 09/12/1996 Expected</p>
+<p>AMBAC INSURED</p>
+<p>Maturity	   Balance     Coupon    List</p>
+<p>07/01/2011	     125M    5.50	  5.55</p>
+<p>07/01/2013	     230M    5.60	  5.65</p>
+<p>07/01/2014		 5M    5.625	 5.70</p>
+<p>07/01/2015		70M    5.70	  5.75</p>
+<p>  Total:		 430M</p>
+<p>Merrill Lynch &amp; Co.</p>
+<p>Advest, Inc.</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="58301" id="root" date="1996-09-17" xml:lang="en">
+<title>SOUTH KOREA: S.Korean troops seek North Korean infiltrators.</title>
+<headline>S.Korean troops seek North Korean infiltrators.</headline>
+<dateline>SEOUL 1996-09-18</dateline>
+<text>
+<p>South Korean troops and helicopters launched a hunt on Wednesday for suspected North Korean infiltrators after an abandoned boat was found on the east coast, state television reported.</p>
+<p>It said authorities suspected five or six North Koreans infiltrated into the south during the early hours of Wednesday.  </p>
+<p>The television said the boat was found grounded near a beach close to the the border with North Korea.</p>
+<p>Witnesses were quoted as saying they had seen five or six men dressed in military uniforms heading inland.</p>
+<p>South Korean troops have set up checkpoints along all roads in the area.</p>
+<p>North and South Korea have been technically at war since their 1950-53 conflict ended in a truce.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

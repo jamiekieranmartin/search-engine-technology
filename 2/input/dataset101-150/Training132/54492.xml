@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="54492" id="root" date="1996-09-15" xml:lang="en">
+<title>BANGLADESH: Bangladesh orders probe into deadly train accident.</title>
+<headline>Bangladesh orders probe into deadly train accident.</headline>
+<dateline>DHAKA 1996-09-15</dateline>
+<text>
+<p>Bangladesh has ordered an official enquiry into Saturday's train accident near Dhaka that killed at least seven people and injured more than 100 others, railway officials said.</p>
+<p>&quot;A high-level investigation commitee with senior officials has been formed to probe the accident, a railway official said on Sunday.</p>
+<p>The committee will report within five days, he said.</p>
+<p>Sunday newspapers reported nine casualties in the accident. But the official said only seven deaths had been confirmed.</p>
+<p>The cause of the accident was not immediately known.</p>
+<p>Five coaches of the Mahanagar Express jumped the tracks and plunged into a ditch at Khilkhet on the northern outskirts of Dhaka around 1 p.m. (0700 GMT) on Saturday.</p>
+<p>The train runs runs between Dhaka and Chittagong port city.</p>
+<p>Officials said the partially-submerged coaches were lifted back on track with the help of cranes on Saturday night.</p>
+<p>&quot;I was surprised to see fewer bodies inside the coaches. We earlier thought several had been trapped in the wreckage,&quot; one official said.</p>
+<p>He said many people could have leapt from the train which had been slowing as it neared the station.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BANDH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-15"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DHAKA"/>
+<dc element="dc.creator.location.country.name" value="BANGLADESH"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

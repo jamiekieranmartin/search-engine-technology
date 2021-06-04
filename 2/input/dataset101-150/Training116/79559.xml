@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="79559" id="root" date="1996-09-26" xml:lang="en">
+<title>EGYPT: Egypt Brotherhood calls for holy war on Israel.</title>
+<headline>Egypt Brotherhood calls for holy war on Israel.</headline>
+<dateline>CAIRO 1996-09-26</dateline>
+<text>
+<p>Egypt's Moslem Brotherhood called on Thursday for Arabs to wage a holy war against Israel and accused the Jewish state of trying to tighten its grip on a Moslem shrine in Jerusalem.</p>
+<p>&quot;Only jihad can uproot the soldiers of the Zionist enemy and retrieve all Arab rights and make us live in peace and dignity,&quot; the outlawed Islamist group said in a statement.</p>
+<p>&quot;What is happening on occupied Palestinian land is not a suprise...because the Zionist enemy has long been plotting a tight grip on Palestine and the al-Aqsa mosque,&quot; the group said.</p>
+<p>Thirty-three Palestinians and five Israelis have been killed in two days of violent clashes sparked by Israel's decision to open an archaeological tunnel near the mosque, Islam's third holiest site.</p>
+<p>Israel has said the tunnel does not affect the mosque and was opened to allow more tourists to view the archaeological site.</p>
+<p>The Brotherhood, unlike the Moslem militant groups fighting to overthrow the Egyptian government since 1992, has repeatedly said it wants to tranform Egypt into a strict Moslem state through politics and not violence.</p>
+<p>&quot;They (the Moslem Brotherhood) also ask the Arab nation to redraw its policies on the lines of jihad and the confrontation that Allah has ordained. The issue is ours, the al-Aqsa mosque our mosque,&quot; the group added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAIRO"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

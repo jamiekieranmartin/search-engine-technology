@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="47225" id="root" date="1996-09-11" xml:lang="en">
+<title>USA: Calif. county to help immigrants become citizens.</title>
+<headline>Calif. county to help immigrants become citizens.</headline>
+<dateline>SAN JOSE, Calif. 1996-09-10</dateline>
+<text>
+<p>Santa Clara County, Calif., supervisors voted on Tuesday to help legal immigrants in the county become U.S. citizens in a bid to keep them from losing federal benefits and turning to the county for support.</p>
+<p>About 17,000 legal immigrants in the county are eligible to become U.S. citizens, supervisor Jim Beall said.</p>
+<p>If they remain non-citizens, county officials fear they will turn to county programmes for support after losing federal assistance under the new federal welfare reform act.  </p>
+<p>Beall said the county-funded aid program, known as general assistance, could take a $34 million hit due to the shift from federal to county programs.</p>
+<p>In a bid to save the county money, the county's five-member Board of Supervisors voted unanimously Tuesday for a proposal designed to streamline and speed the immigration and naturalization process.</p>
+<p>The proposal allows the county to hire a coordinator and administrative staff to coordinate the efforts of community-based organizations, businesses, and volunteers that are helping legal immigrants to become citizens.  </p>
+<p>&quot;We have to make sure that the federal government knows we are willing to take matters into our own hands by moving those who can work into jobs and allowing those who are frail, disabled, and elderly to exercise their right to citizenship,&quot; Beall said in a statement.</p>
+<p>Under federal welfare reform, federal spending would be reduced by $54 billion over six years, mainly by cutting food stamps nutrition aid and denying federal benefits to most legal immigrants.</p>
+<p>California counties, like Santa Clara, would be hard hit by the changes because state law requires them to pick up the tab for financial aid and indigent health care for those that have no other means of support.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="GWELF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

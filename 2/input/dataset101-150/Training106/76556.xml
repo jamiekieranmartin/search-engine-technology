@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="76556" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: California school officials back tax initiative.</title>
+<headline>California school officials back tax initiative.</headline>
+<dateline>SACRAMENTO, Calif. 1996-09-24</dateline>
+<text>
+<p>The Association of California School Administrators said on Tuesday it supports a measure that would keep the top state income tax brackets in place for the wealthiest one percent of California taxpayers.</p>
+<p>Proposition 217 would provide schools and communities with $860 million in the first year and $700 million in each following year, without cutting other state or local programs and without new taxes, the association said.</p>
+<p>The proposition, which will appear on the November 5 ballot, would continue the highest tax rates of 10 percent and 11 percent.</p>
+<p>The association is one of the state's largest organizations of school officials.</p>
+<p>&quot;Proposition 217 provides new possibilities for schools by fairly generating needed revenues,&quot; said Bob Wells, assistant executive director of the 14,000-member association.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SACRAMENTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

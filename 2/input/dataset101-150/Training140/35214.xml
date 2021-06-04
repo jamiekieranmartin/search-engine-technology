@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="35214" id="root" date="1996-09-05" xml:lang="en">
+<title>USA: IBM unveils network computer.</title>
+<headline>IBM unveils network computer.</headline>
+<dateline>NEW YORK 1996-09-05</dateline>
+<text>
+<p>International Business Machines Corp. Thursday unveiled its first network computer, a scaled-down personal computer for corporate networks, priced at under $700.</p>
+<p>IBM said the new computer, called the Network Station, is the first in a series of network devices it plans and will be out by the end of the year.</p>
+<p>It will put IBM among the first computer companies to offer an inexpensive device that will link people to the Internet as well as provide typical applications such as word processing and spreadsheets.</p>
+<p>The computer is eight by 10 inches by 1-1/4 inches and weighs 2.5 pounds. It has an IBM PowerPC microprocessor, varying amounts of memory, a network adaptor card, keyboard and mouse, with the monitor optional.</p>
+<p>The machine will be manufactured by IBM and Network Computing Devices of Mountain View, Calif.</p>
+<p>IBM's model is aimed at the business market, which is now building intranets -- networks that allow employees connected to a network to communicate with each other, receive e-mail and have access to the Internet.</p>
+<p>The Network Station will support network access via corporate intranets using Ethernet and Token Ring technology connections.</p>
+<p>The system can access Sun Microsystems' Java language, Microsoft Corp.'s Windows NT software, UNIX, IBM's OS/2 operating system, and IBM's AS/400 minicomputers, RS/6000 workstations and System 390 mainframe computers.</p>
+<p>IBM said the Network Station will be the first network computer to use Netscape Corp.'s new updated World Wide Web browser, Navigator 3.0, which will be customised for the network computer by NAVIO, the new unit created by Netscape to develop a Web browser for network computers and consumer devices.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

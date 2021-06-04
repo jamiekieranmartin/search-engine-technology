@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="16767" id="root" date="1996-08-27" xml:lang="en">
+<title>USA: Computer Associates, Silicon Graphics in pact.</title>
+<headline>Computer Associates, Silicon Graphics in pact.</headline>
+<dateline>NEW ORLEANS 1996-08-27</dateline>
+<text>
+<p>Computer Associates International Inc and Silicon Graphics Inc said they had agreed to a marketing and development deal in which CA's Unicenter systems management software will be made to run on Silicon Graphics IRIX 6.2 operating system.</p>
+<p>The companies said they will also develop a CA-Unicenter software agent that allows network systems administrators to remotely manage any Silicon Graphics computer with CA's software.</p>
+<p>They said the agent will be available by the end of this year.</p>
+<p>IRIX is Silicon Graphics flavor of the UNIX operating system. It runs on all computers manufactured by the company.</p>
+<p>Computer Associates' Unicenter is software that is designed to recognize all the equipment and software operating on large corporate networks and is compatible with all leading software operating systems including Microsoft Corp Windows NT and various versions of UNIX and mainframe systems.</p>
+<p>The software agent development plan extends the existing systems managment arragement between the two companies.</p>
+<p>CA and Silicon Graphics said they will jointly promote the new CA-Unicenter platform through a worldwide seminar series, in trade shows and industry conferences.</p>
+<p>In addition, Silicon Graphics will join CA's Strategic Business Alliance Program.</p>
+<p>-- E. Auchard, Wall Street bureau, 212-859-1736</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW ORLEANS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

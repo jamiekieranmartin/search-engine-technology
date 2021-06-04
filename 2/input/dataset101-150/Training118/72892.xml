@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="72892" id="root" date="1996-09-24" xml:lang="en">
+<title>USA: U.S. judge rules du Pont incompetent for trial.</title>
+<headline>U.S. judge rules du Pont incompetent for trial.</headline>
+<dateline>MEDIA, Pa. 1996-09-24</dateline>
+<text>
+<p>A Pennsylvania judge on Tuesday declared millionaire murder suspect John du Pont mentally incompetent to stand trial in the killing of Olympic champion wrestler David Schultz.</p>
+<p>Judge Patricia Jenkins announced her decision after 2-1/2 days of hearings into the mental state of du Pont, an heir to the du Pont family chemical fortune.</p>
+<p>On the first day of the hearings last week, two of du Pont's former lawyers testified he had claimed at different times to be the Dalai Lama, the crown prince of Russia and the Christ child and had threatened to hire a plane to fly over the White House and drop eggs on it if President Bill Clinton did not help him with bail.</p>
+<p>The lawyers had withdrawn from representing du Pont this month after he accused them of conspiring against him with the Central Intelligence Agency.</p>
+<p>But prosecutors said du Pont was using the appearance of mental illness to avoid a trial.</p>
+<p>&quot;The scales tipped in favour, that he is not presently competent to assist counsel in his defence,&quot; Jenkins said.</p>
+<p>She ordered that du Pont be sent to Norristown State Hospital for treatment and that a state psychiatrist report in 60 days on his condition. Another examination was to be given in 90 days by a court-appointed psychiatrist.</p>
+<p>Under the incompetency standard, defendants cannot face trial if they are incapable of understanding the charges against them or assisting in their defence.</p>
+<p>Delaware County District Attorney Patrick Meehan said the decision had been a close one and he was confident du Pont would eventually stand trial in the case. Psychiatrists who testified at the competency hearing also said they believed he would, after treatment, become competent within a few months.</p>
+<p>He was charged with the Jan. 26 gunshot slaying of Schultz outside a home where the wrestler lived on du Pont's Foxcatcher estate in a Philadelphia suburb. The killing was followed by a 48-hour standoff before du Pont surrendered.</p>
+<p>Du Pont's relatives this month petitioned to take control of his estate, saying he was incapable of managing it.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEDIA, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

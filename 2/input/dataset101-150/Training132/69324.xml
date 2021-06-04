@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="69324" id="root" date="1996-09-22" xml:lang="en">
+<title>SOUTH KOREA: Second S.Korean soldier dead in clash with agents.</title>
+<headline>Second S.Korean soldier dead in clash with agents.</headline>
+<dateline>SEOUL 1996-09-22</dateline>
+<text>
+<p>A second South Korean soldier died of his wounds after a shootout with North Korean infiltrators on Sunday in which two communist agents were also killed, a defence ministry spokesman said.  </p>
+<p>The gunbattle broke out at dawn as Southern security forces pursued the remnants of a group of around 26 agents who landed by submarine on a beach near the east cost city of Kangnung on Wednesday.</p>
+<p>South Korean forces have now killed nine of the agents and captured one alive, while the bodies of 11 others were found, possibly shot by their colleagues.</p>
+<p>Three South Korean troops have been reported killed during a deadly game of cat-and-mouse.</p>
+<p>A Southern paratrooper was shot and killed on Saturday. According to some media reports he was shot while dangling on a winch line from a helicopter that was lowering him to the ground.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-22"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-22"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

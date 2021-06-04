@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="23165" id="root" date="1996-08-29" xml:lang="en">
+<title>CHINA: China labourers feast on swan eggs.</title>
+<headline>China labourers feast on swan eggs.</headline>
+<dateline>BEIJING 1996-08-29</dateline>
+<text>
+<p>Construction workers building a road through marshland in China's northwestern Qinghai province have been feasting on the eggs of several endangered species of wild birds, the China Youth Daily said on Thursday.</p>
+<p>In May and June every year, labourers wade through marshland in Maduo county, loading hand-held tractors with the eggs of swans, grey cranes, wild geese and other endangered species, which they fry up for dinner, the newspaper said.</p>
+<p>The marshland, near the source of the Yellow River, is a breeding ground for over 30 types of waterfowl.</p>
+<p>Swans and grey cranes are protected species in China but most people consider it acceptable to eat their eggs, it said.</p>
+<p>&quot;The situation might improve but ultimately it depends on people's own awareness,&quot; the newspaper quoted a local wildlife official as saying.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIJING"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

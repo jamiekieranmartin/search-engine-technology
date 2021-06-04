@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="16921" id="root" date="1996-08-27" xml:lang="en">
+<title>NORWAY: Norway's Brundtland counters environmental critics.</title>
+<headline>Norway's Brundtland counters environmental critics.</headline>
+<dateline>STAVANGER, Norway 1996-08-27</dateline>
+<text>
+<p>Norwegian Prime Minister Gro Harlem Brundtland on Tuesday discounted environmentalist criticism of Norway's oil and gas industry, saying the responsibility for dealing with climatic change lay with the international community.</p>
+<p>Norway would remain a large energy exporter while continuing to strive for environmental excellence, she said.</p>
+<p>&quot;Some critics argue Norway is a serious part of the (environmental) problem since we produce oil and gas. And the hard core of our critics even argue that we stand on a weak footing, exactly because we produce oil and gas,&quot; Brundtland told delegates at the opening of the 1996 Offshore Northern Seas conference.</p>
+<p>&quot;The threat of climate change has been known to the world for 10 years, and still we have not yet worked out legally binding commitments, procedures, time tables and targets that work.&quot;</p>
+<p>Harsh measures to reduce emissions in some countries would be nullified if other nations pursued laissez-faire policies.</p>
+<p>&quot;This is the intrinsic global nature of the climate threat,&quot; Brundtland said.</p>
+<p>International pressure to implement a partial solution in which developed nations agreed to make equal percentage reductions in emissions did not take into consideration measures already introduced in some countries, such as Norway which has already imposed duties on the use of fossil fuels, she added.</p>
+<p>&quot;If we agree now on equal percentage reductions, those of us who have done a lot will be penalised, while those who have done little so far will look real good,&quot; she said.</p>
+<p>Norway produces around 3.2 million barrels per day of oil, making it the world's second largest crude exporter after Saudi Arabia. It will become among the top five gas suppliers to continental Europe from October when it opens the giant Troll gas field.</p>
+<p>Brundtland said per capita emissions in Norway amounted to 8.2 tonnes per year, lower than the European Union average.</p>
+<p>&quot;An agreement based on equal percentage reductions among developed countries would require us to take measures that other countries would not dream of, such as restricting the use of cars, or closing down competitive and comparably clean industries,&quot; she added.</p>
+<p>Emissions from the offshore sector made up about 22 percent of the national total. In Britain and the United States, the discharge of climatic gas per unit of oil produced was around three to 12 times respectively that of Norwegian emissions, she said.</p>
+<p>If Norway reduced exports of gas the gap would be filled by Russia or some other country, increasing global emissions by a factor of eight or nine, Brundtland said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STAVANGER, Norway"/>
+<dc element="dc.creator.location.country.name" value="NORWAY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

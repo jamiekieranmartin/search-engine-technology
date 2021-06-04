@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="75770" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: Four U.S. nuclear plant workers critically burned.</title>
+<headline>Four U.S. nuclear plant workers critically burned.</headline>
+<dateline>NEW YORK 1996-09-25</dateline>
+<text>
+<p>Seven workers were burned, four critically, when a steam pipe burst at a South Carolina nuclear power plant, Duke Power Co. said Wednesday.</p>
+<p>&quot;All seven were taken to off-site hospitals,&quot; Rick Zuercher, a spokesman for the utility, said by telephone. &quot;We are not going to return the unit to service until we know what happened.&quot;</p>
+<p>Staff at the burn unit of the Columbia-Augusta Regional Medical Centre in Augusta, Georgia, confirmed they had admitted four of the workers, all men. &quot;They are all in critical condition,&quot; a nurse told Reuters, saying they had second- and third-degree burns.</p>
+<p>The remaining workers, two men and a woman, were in less serious condition at hospitals in Seneca and Greenville, South Carolina.</p>
+<p>The pipe burst late Tuesday at one of three nuclear power generators in Duke Power Co.'s Oconee facility in Seneca, in the northwest corner of the state. The plant was returning to service after a leaking valve forced it to shut down Monday.</p>
+<p>The accident was not in the nuclear part of the plant and no radioactivity was released, the company said.</p>
+<p>The last serious injury to a worker at Oconee occurred in the 1970s. He too was scalded when a steam pipe burst.</p>
+<p>The Oconee generators each have a generating capacity of 846 megawatts. Duke Power Co. is headquartered in Charlotte, North Carolina.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="22662" id="root" date="1996-08-29" xml:lang="en">
+<title>USA: PRESS DIGEST - New York Times business - Aug 29.</title>
+<headline>PRESS DIGEST - New York Times business - Aug 29.</headline>
+<dateline>NEW YORK 1996-08-29</dateline>
+<text>
+<p>The New York Times reported the following business stories on Thursday:</p>
+<p>* Stock funds see cash pour in again in July.</p>
+<p>* Real estate feeding frenzy may be in store for Europe.</p>
+<p>* Canada's United Auto Workers union chooses to bargain first with Chrysler Corp.</p>
+<p>* Securities and Exchange Commission acts to improve stock-trade prices for investors.</p>
+<p>* Target stores, a unit of Dayton Hudson Corp, plans to stop sales of tobacco, citing costs.</p>
+<p>* H&amp;R Block Inc delays spinoff of its stake in CompuServe Corp.</p>
+<p>* The Federal Trade Commission and Justice Department issue new guidelines for the formation of doctors' networks.</p>
+<p>* Ciba-Geigy AG and Sandoz AG, head towards a merger, report earnings that disappoint analysts.</p>
+<p>* Bank of Japan survey shows Japan's economy remains weak.</p>
+<p>* Lloyd's of London says more of its investors have agreed to its rescue plan.</p>
+<p>* The Netherlands' Wolters Kluwer plans to buy a unit of Time Warner Inc's Little, Brown.</p>
+<p>* Questions arise over working conditions at Maine's DeCoster Egg Farms.</p>
+<p>* Controversy arises over New England Journal of Medicine editorial favourable to a weight-loss drug that was written by authors paid by the drug's maker, Interneuron Pharmaceutical Inc.</p>
+<p>* Not since the mid-1980s have so many companies tinkered with their icons.</p>
+<p>-- New York newsroom, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

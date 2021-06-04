@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="68825" id="root" date="1996-09-21" xml:lang="en">
+<title>USA: Clinton administration defends auto-safety record.</title>
+<headline>Clinton administration defends auto-safety record.</headline>
+<dateline>WASHINGTON 1996-09-21</dateline>
+<text>
+<p>The Clinton administration defended its auto-safety record Saturday after consumer advocate Ralph Nader called on top officials to quit, charging the government had weakened its tough safety stance.</p>
+<p>Nader, who issued a report on auto safety and is running for president as the Green Party candidate, said Friday the steep drop in deaths and injuries from highway crashes since 1966 had &quot;lulled the current administration into dangerous inactivity.&quot;</p>
+<p>But the Transportation Department, in response, said the administration's top safety officials had demanded the two biggest auto recalls in history, enacted a &quot;zero-tolerance law,&quot; beefed up the nation's anti-drunk driving campaigns, and set new truck anti-lock brake and auto passenger head-protection standards.</p>
+<p>&quot;As a result, the vehicle-mile highway fatality rate is the lowest in our nation's history, our automobiles are safer than ever, and we are proud that our roads are among the safest in the world,&quot; the department said in a statement.</p>
+<p>&quot;But we will not stop there as we continue to seek additional ways to improve safety and decrease the number of highway deaths and injuries in our country.&quot;</p>
+<p>Nader called on Transportation Secretary Federico Pena and other top transportation officials in the administration to resign, saying they had &quot;betrayed their oaths of office, turned their backs on millions of trusting Americans and prostrated themselves in ignominious kowtows to greedy industry lobbies.&quot;</p>
+<p>In his report, entitled &quot;Driving in Reverse,&quot; Nader alleged that regulators have failed to carry out expectations laid out by Congress, issuing watered-down standards in some cases or dragging its feet on reforms.</p>
+<p>The report tracks progress made since creation of the National Highway Traffic Safety Administration 30 years ago.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

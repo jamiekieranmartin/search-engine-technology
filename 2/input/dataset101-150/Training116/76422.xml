@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="76422" id="root" date="1996-09-25" xml:lang="en">
+<title>EGYPT: Arab League to meet over Israel tunnel row.</title>
+<headline>Arab League to meet over Israel tunnel row.</headline>
+<dateline>CAIRO 1996-09-25</dateline>
+<text>
+<p>The Arab League will meet in Cairo on Thursday at the request of the Palestinians to discuss Israel's decision to reopen a tunnel in Jerusalem close to the Aqsa mosque, Islam's third holiest site.</p>
+<p>The one-day extraordinary session will be at the level of permanent representatives -- the ambassadors of the 22 member states -- said a spokesman for the league on Wednesday.</p>
+<p>The tunnel has angered Palestinians and other Arabs, who believe Israel is trying to turn Jerusalem into a wholly Jewish city and obliterate sites of importance to Moslems.</p>
+<p>Israel says the tunnel, which runs under the Western Wall of the Temple Mount, is meant to give tourists easier access to archaeological sites under the wall.</p>
+<p>Outside Jerusalem on Wednesday Israeli troops wounded 130 Palestinians, five seriously, when they dispersed people throwing stones in protests related to the tunnel.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAIRO"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

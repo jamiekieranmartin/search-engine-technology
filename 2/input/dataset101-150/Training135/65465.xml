@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="65465" id="root" date="1996-09-19" xml:lang="en">
+<title>REPUBLIC OF IRELAND: WTO is right forum for Helms-Burton row - Ruggiero.</title>
+<headline>WTO is right forum for Helms-Burton row - Ruggiero.</headline>
+<dateline>DUBLIN 1996-09-19</dateline>
+<text>
+<p>The head of the World trade Organisation said on Thursday that the WTO was prepared to step into an international row over U.S. trade legislation, but added he hoped the issue never made it that far.</p>
+<p>WTO Director-General Renato Ruggiero told a news conference that the row over Washington's Helms-Burton Act and D'Amato Bill -- which seek to quash trade with Cuba and Iran and Libya respectively -- was likely to go to WTO arbitration.</p>
+<p>&quot;I don't want to see it ... I don't like to see it, but I think it will happen,&quot; he said.</p>
+<p>Ruggiero, attending a meeting of European Union Trade Ministers, said the settling of disputes was precisely what the WTO was for.</p>
+<p>&quot;Some think that if there is a dispute, you should blame the WTO. But the fact that the WTO is where the disputes are heard shows that it is working,&quot; he said.</p>
+<p>The EU and U.S. have been at odds for months over the Helms-Burton Act and D'Amato Bill, and the European Commission is considering escalating its complaint on the matter with the WTO.</p>
+<p>If this happens, a WTO disputes settlement panel would decide whether the EU's complaints that the laws were extra-territorial are justified.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CUBA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="LIBYA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBLIN"/>
+<dc element="dc.creator.location.country.name" value="REPUBLIC OF IRELAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

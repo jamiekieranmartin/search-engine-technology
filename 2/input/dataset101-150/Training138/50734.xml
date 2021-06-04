@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="50734" id="root" date="1996-09-12" xml:lang="en">
+<title>SWITZERLAND: Three more mad cow cases reported in Switzerland.</title>
+<headline>Three more mad cow cases reported in Switzerland.</headline>
+<dateline>BERNE 1996-09-12</dateline>
+<text>
+<p>Three new cases of mad cow disease have been reported in Switzerland, including two animals born after the 1990 ban on using animal meal that may help spread the disease, veterinary officials said on Thursday.</p>
+<p>The Federal Veterinary Agency said it was still checking whether the two animals were sickened by eating illegal animal meal or whether some other cause was to blame.</p>
+<p>The mad cow cases reported for August and September bring the total to 223, of which more than 10 followed the ban.</p>
+<p>Switzerland trails only Britain in the number of cases of Bovine Spongiform Encephalopathy (BSE), the brain-wasting disease that scientists say may be linked to a human equivalent, Creutzfeldt-Jakob Disease.</p>
+<p>But the number of cases has been falling. In the first eight months of 1996, Swiss authorities recorded 36 cases, down from 52 in the same period of 1995. The number of cases doubled between 1991 and 1994 until stabilising at 68 in 1995.</p>
+<p>Switzerland banned the import of potentially contaminated animal meal in 1988, but allowed farmerS to use existing stocks until 1990.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I0100105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BERNE"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

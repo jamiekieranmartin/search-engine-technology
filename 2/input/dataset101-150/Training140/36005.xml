@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="36005" id="root" date="1996-09-05" xml:lang="en">
+<title>USA: IBM to launch &quot;network&quot; computer - WSJ.</title>
+<headline>IBM to launch &quot;network&quot; computer - WSJ.</headline>
+<dateline>NEW YORK 1996-09-05</dateline>
+<text>
+<p>International Business Machines Corp plans to announce its first &quot;network&quot; computer, a low-cost device aimed at replacing personal computers in corporate settings, The Wall Street Journal reported on Thursday.</p>
+<p>The announcement is expected on Thursday. It will put IBM among the first computer companies to offer an inexpensive device that would link people to the Internet as well as provide typical applications such as word processing and spreadsheets.</p>
+<p>But unlike the network or Internet computers envisioned by many companies, IBM's model is aimed at the business market, not consumers.</p>
+<p>The new IBM machine is due out this year. It is expected to be priced below $700 without a monitor, compared with $2,000 and up for typical business personal computers, industry executives told the newspaper.</p>
+<p>The devices are also expected to be cheaper than personal computers to maintain, since they contain fewer parts and software can be updated centrally instead of manually on each desktop.</p>
+<p>-- New York newsroom, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

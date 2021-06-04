@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="59349" id="root" date="1996-09-17" xml:lang="en">
+<title>USA: PRESS DIGEST - Washington Post business - Sept 17.</title>
+<headline>PRESS DIGEST - Washington Post business - Sept 17.</headline>
+<dateline>WASHINGTON 1996-09-17</dateline>
+<text>
+<p>The Washington Post carried the following items on the front page of its business section on Sept. 17:</p>
+<p>---</p>
+<p>WASHINGTON - Crestar Financial Corp. of Richmond agreed to acquire Citizens Bancorp of Laurel for $774 million.</p>
+<p>---</p>
+<p>WASHINGTON - Income and interests make seniors and soon-to-be-seniors a force to be reckoned with in the marketplace.</p>
+<p>---</p>
+<p>WASHINGTON - The United Auto Workers union and Ford Motor Co. reached tenative agreement on a new three-year contract establishing the first minimum staffing requirements in auto industry history.</p>
+<p>---</p>
+<p>WASHINGTON - The National Transportation Safety Board will recommend that passenger-side airbags deploy at a slower speed, in light of growing evidence that airbags can inflate with enough force to kill small children and some adults.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

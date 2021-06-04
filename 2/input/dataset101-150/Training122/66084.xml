@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="66084" id="root" date="1996-09-19" xml:lang="en">
+<title>ITALY: Pope leaves Rome for busy four-day trip to France.</title>
+<headline>Pope leaves Rome for busy four-day trip to France.</headline>
+<dateline>ROME 1996-09-19</dateline>
+<text>
+<p>Pope John Paul left Italy on Thursday for a busy four-day trip to France amid fears about his health.</p>
+<p>The visit is the Pope's final foreign trip of the year before he enters hospital in Rome for surgery to remove his appendix, probably in the second week of October.</p>
+<p>The 76-year-old Pontiff departed from Rome's Fiumicino airport on a special Alitalia flight bound for Tours airport in western France. He wil be met by French President Jacques Chirac.</p>
+<p>Tours is the first stop of a visit that will take him to Brittany, Vendee and the eastern city of Reims.</p>
+<p>The operation was announced by the Vatican last weekend when it finally said that an inflammation of the appendix was the cause of three fevers which have struck the Polish-born Pope since last Christmas.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="GREL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROME"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

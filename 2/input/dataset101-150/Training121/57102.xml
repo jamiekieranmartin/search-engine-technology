@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="57102" id="root" date="1996-09-16" xml:lang="en">
+<title>CHINA: PRESS DIGEST - Chinese newspapers - Sept 16.</title>
+<headline>PRESS DIGEST - Chinese newspapers - Sept 16.</headline>
+<text>
+<p>Following is a summary of major Chinese political and business stories in leading newspapers, prepared by Reuters in Beijing. Reuters has not checked the stories and does not guarantee their accuracy. Telephone: (8610) 6532-1921. Fax: (8610) 6532-4978.</p>
+<p>- - - -</p>
+<p>PEOPLE'S DAILY</p>
+<p>A meeting of cotton industry officials said the state should retain control over the national cotton industry while working to speed up technical reform.</p>
+<p>- - - -</p>
+<p>CHINA DAILY</p>
+<p>A commentary said Taiwan's effort to win a seat in the United Nations was wrong and the island's attempts to split the motherland did not have support of the Chinese people.</p>
+<p>- - - -</p>
+<p>CHINA SECURITIES</p>
+<p>A second Tibet company, Tibet Jinzhu Co Ltd, is to issue 13.5 million A shares in Shanghai.</p>
+<p>State Council issues new guidelines on fixed asset investment, saying that financing must be arranged before investment projects will be allowed to proceed.</p>
+<p>- - - -</p>
+<p>FINANCIAL NEWS</p>
+<p>Chinese Vice Premier Zhu Rongji said the Chinese economy was performing at its best since 1993.</p>
+<p>- - - -</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

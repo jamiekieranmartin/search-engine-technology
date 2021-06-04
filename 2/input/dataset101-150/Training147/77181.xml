@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="77181" id="root" date="1996-09-25" xml:lang="en">
+<title>JAPAN: JAPEX Hokkaido wildcat produces natural gas.</title>
+<headline>JAPEX Hokkaido wildcat produces natural gas.</headline>
+<dateline>TOKYO 1996-09-25</dateline>
+<text>
+<p>The Japan Petroleum Exploration Co Ltd (JAPEX) said on Wednesday that it had extracted natural gas and condensate from a test well at the Yufutsu gas field on Hokkaido, Japan's northernmost island.</p>
+<p>The well produced natural gas equivalent to a daily output of 253,000 cubic metres and 173 kilolitres of condensate, a JAPEX spokesman said.</p>
+<p>JAPEX, which started supplying natural gas produced in the field to Hokkaido Gas Co Ltd this spring, sank the test well, the third wildcat in Yufutsu, as part of its effort to examine potential gas reserves in the field, he said.  </p>
+<p>The firm would provide Hokkaido Gas with a total of 1.7 billion cubic metres of natural gas over a period of 10 years, he said.</p>
+<p>JAPEX sells condensate from the field to Idemitsu Kosan Co Ltd, which runs a 130,000 barrel-per-day refinery in Hokkaido, he added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

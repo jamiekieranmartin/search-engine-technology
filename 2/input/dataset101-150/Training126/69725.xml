@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="69725" id="root" date="1996-09-23" xml:lang="en">
+<title>USA: U.S. Northeast spot power firms amid nuke outages.</title>
+<headline>U.S. Northeast spot power firms amid nuke outages.</headline>
+<dateline>NEW YORK 1996-09-23</dateline>
+<text>
+<p>Spot electricity values in the northeast U.S. firmed Monday amid ongoing outages of two nuclear power plants in the region, market sources said.</p>
+<p>New York Power Authority's 780 megawatt (MW) Fitzpatrick 1 nuclear unit in Scriba, N.Y., was still shut after being expected to restart this past weekend after being tripped off line a week ago.</p>
+<p>Boston Edison Co's 670 MW Pilgrim plant in Plymouth, Mass., was scheduled to return to service later this week to correct problems with a set of its heat exchangers.</p>
+<p>In the New York Power Pool (NYPP), non-firm electricity for peak load hours on Tuesday was assessed near $20.00 in the western part of the state and $22.00 in the eastern part, up from Friday's $18.00 and $20.00, respectively.</p>
+<p>In the New England Power Pool (NEPOOL), peak, non-firm electricity prices for Tuesday was pegged $29.25-$29.75 at Northeast Utilities's territory border, up from Friday's assessment of $27.25-$27.75.</p>
+<p>--R Leong, New York Power Desk +1 212 859 1622</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

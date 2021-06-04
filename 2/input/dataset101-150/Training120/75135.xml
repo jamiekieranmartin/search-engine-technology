@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="75135" id="root" date="1996-09-25" xml:lang="en">
+<title>CHILE: Falconbridge CEO received medical help.</title>
+<headline>Falconbridge CEO received medical help.</headline>
+<dateline>SANTIAGO 1996-09-25</dateline>
+<text>
+<p>Falconbridge Ltd's CEO Frank Pickard received medical attention at Collahuasi mine, high in the thin oxygen of the Chilean Andes, but too late to save him from death early Wednesday, a spokesman said.</p>
+<p>Pickard's body has been carried down from the mine to be handed over to family members, said Collahuasi's spokesman in Santiago, Jose Arellano.</p>
+<p>Pickard, 63, died of natural causes while visiting the mining project, which is owned by Canadian firm Falconbridge and Luxembourg-based Minorco SA and due to come into operation in 1998.  </p>
+<p>&quot;There was medical attention on hand,&quot; said Arellano, communications director at Compaa Minera Doa Ins de Collahuasi SA. &quot;Naturally it's a great human loss and a great loss to our company.&quot;</p>
+<p>He had no information yet on the exact causes of Pickard's death, except that it was natural. Pickard had worked for Falconbridge since 1957, said a statement issued by Collahuasi.</p>
+<p>Collahuasi, one of the world's largest copper projects, is being built amid extremely tough climate and geographical conditions on a parched, remote plateau in northern Chile.</p>
+<p>It lies at about 4,300 metres (14,100 feet) above sea level, a height at which breathing is difficult for anyone, old or young, who isn't used to it. Symptoms like nausea and dizziness are common, and the weather varies from frigid to frying.</p>
+<p>Arellano said the altitude often has ill effects on people's health, but added, &quot;I'm not a doctor to interpret whether that was the case here.&quot;</p>
+<p>Pickard's death was first announced by Falconbridge's home office in Toronto.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

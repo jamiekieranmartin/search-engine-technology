@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="64966" id="root" date="1996-09-19" xml:lang="en">
+<title>USA: Mitsubishi Motors recalls 93,000 cars.</title>
+<headline>Mitsubishi Motors recalls 93,000 cars.</headline>
+<dateline>CYPRESS, Calif. 1996-09-19</dateline>
+<text>
+<p>Mitsubishi Motors Corp's Mitsubishi Motor Sales of America Inc said on Thursday it was recalling several models of its Diamante sedan, 3000GT sports car and Montero sport utility vehicle due to brake problems.</p>
+<p>The recall affects about 93,000 vehicles in the United States, the company said.</p>
+<p>In certain cases, brake fluid can leak through the front brake hoses, leading to a reduction in braking efficiency, it said.  </p>
+<p>Cars affected are the 1992-1994 Diamante luxury sedan, 1993-1995 Diamante Wagon equipped with anti-lock brakes, 1991-1994 3000GT grand touring sports car equipped with anti-lock brakes, and 1992-1994 Montero sport utility vehicle.</p>
+<p>Correcting the problem involves replacing the left and right front wheel-side brake hoses.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CYPRESS, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

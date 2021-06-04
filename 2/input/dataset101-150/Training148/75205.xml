@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="75205" id="root" date="1996-09-25" xml:lang="en">
+<title>MEXICO: Mexico ups '96 barley import quota to 545,000 T.</title>
+<headline>Mexico ups '96 barley import quota to 545,000 T.</headline>
+<dateline>MEXICO CITY 1996-09-25</dateline>
+<text>
+<p>Mexico increased its quota for imported barley under North American Free Trade Agreement (NAFTA) to 545,000 tonnes for 1996, U.S. Feed Grains Council said in a report obtained Wednesday.</p>
+<p>&quot;This burst in imports is due to increased demand in the brewing industry and the livestock sector and poor crop conditions,&quot; the council said.</p>
+<p>Mexico already exceeded its NAFTA commitment of 132,000 tonnes by importing 312,000 tonnes so far this year, the council added.</p>
+<p>Government sources were not immediately available to confirm the information.</p>
+<p>--Chris Aspin, Mexico City newsroom (525) 7289530</p>
+<p>E-mail at chris.aspin@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="37711" id="root" date="1996-09-06" xml:lang="en">
+<title>FRANCE: France shuts down nuclear missile base this month.</title>
+<headline>France shuts down nuclear missile base this month.</headline>
+<dateline>PARIS 1996-09-06</dateline>
+<text>
+<p>Eighteen ageing nuclear missiles based in silos in southern France and ordered scrapped by President Jacques Chirac are to be deactivated on September 16, the air force announced on Friday.</p>
+<p>The missiles, based on the Plateau d'Albion, will remain on 24-hour alert until the night of September 15, as they have been for the past 25 years, air force officials said.</p>
+<p>Dismantling the missiles will take two years, they said.</p>
+<p>The move is part of a wide-ranging reform of France's nuclear deterrent ordered by Chirac earlier this year.</p>
+<p>After the missiles' deactivation, France will rely on four new missile-firing submarines and on aircraft for any future nuclear attack.</p>
+<p>Chirac announced his intention to shut down the land-based leg of France's nuclear deterrent in February after Paris completed a controversial series of nuclear tests in the South Pacific.</p>
+<p>He said then that the tests had gone so well that Paris would be able to reduce its arsenal. He also announced the closure of France's only facility producing plutonium and weapons-grade enriched uranium.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="19146" id="root" date="1996-08-28" xml:lang="en">
+<title>ESTONIA: PRESS DIGEST - Estonia - Aug 28.</title>
+<headline>PRESS DIGEST - Estonia - Aug 28.</headline>
+<dateline>TALLINN 1996-08-28</dateline>
+<text>
+<p>The following are the reports carried by Estonia's newspapers on Wednesday. Reuters has not verified these reports and does not vouch for their accuracy:</p>
+<p>ALL NEWSPAPERS</p>
+<p>- Parliament failed to elect the president in the second and third rounds of voting yesterday.</p>
+<p>SONUMILEHT</p>
+<p>- The government decided yesterday to establish the Secretariat of the Baltic Council of Ministers in Estonia.</p>
+<p>EESTI PAEVALEHT</p>
+<p>- Canadian Foreign Minister Lloyd Axworthy visited Estonia briefly yesterday and discussed relations between Canada and Estonia.</p>
+<p>- President Lennart Meri appointed several new ambassadors yesterday.</p>
+<p>POSTIMEES</p>
+<p>- Leaders of the ruling coalition parties Tiit Vahi and Siim Kallas said that their parties were not responsible for the indecisive presidential election.</p>
+<p>ARIPAEV</p>
+<p>- Five firms are competing in the privatisation of Estonia's largest chemical company RAS Kiviter.</p>
+<p>-- Riga Newsroom +371 7226693</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ESTNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TALLINN"/>
+<dc element="dc.creator.location.country.name" value="ESTONIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

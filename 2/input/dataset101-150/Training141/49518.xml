@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="49518" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: Clinton asks for $400 million to fight forest fires.</title>
+<headline>Clinton asks for $400 million to fight forest fires.</headline>
+<dateline>RANCHO CUCAMONGA, Ca. 1996-09-12</dateline>
+<text>
+<p>The White House said Thursday that President Clinton has asked Congress for $400 million in emergency funds to fight forest fires.</p>
+<p>In a statement released in California, where Clinton was campaigning for re-election, the White House also said the president has also released $50 million for temporary housing for flood victims in various parts of the country.</p>
+<p>Large wildfires struck nearly every Western state this year, while a series of floods struck much of the country, including the states of Florida, Oregon, Washington and Idaho.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RANCHO CUCAMONGA, Ca."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

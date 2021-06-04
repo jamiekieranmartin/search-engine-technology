@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="72885" id="root" date="1996-09-24" xml:lang="en">
+<title>USA: New California law makes drug dealers civilly liable.</title>
+<headline>New California law makes drug dealers civilly liable.</headline>
+<dateline>GLENDALE, Calif 1996-09-24</dateline>
+<text>
+<p>Vowing to hit drug dealers in their wallets, California Gov. Pete Wilson signed a state law Tuesday making traffickers liable for injuries caused by the drugs they sell.</p>
+<p>&quot;Drug dealers think they're in a business with no victims,&quot; Wilson said. &quot;It's obvious that any individual who sells crack to a pregnant woman, knowing what it does to her baby, has no heart -- and even less conscience.&quot;</p>
+<p>&quot;So, we're going to hit them where it really hurts -- in their wallets,&quot; he said.</p>
+<p>California already has the right to seize assets gained through criminal activity, but the new Drug Dealer Civil Liability Act allows private citizens who believe they have been injured or wronged by the actions of a drug dealer to sue the dealer for civil damages.</p>
+<p>The law, authored by state Sen. Charles Calderon, a Democrat, allows anyone harmed by the actions of a drug user to sue the person who supplied the drug user with drugs.</p>
+<p>The drug user may also sue the dealer, provided he or she has stopped using drugs for at least six months and cooperates with police.</p>
+<p>Plaintiffs can sue for economic damages including medical expenses and lost economic and educational potential and employers can sue for lost productivity.</p>
+<p>Wilson, a Republican, signed the bill in the neonatal unit at the Glendale Adventist Medical Centre in the Los Angeles suburb of Glendale.</p>
+<p>According to Wilson's office, the medical centre brings a drug-addicted baby into the world about once every 10 days and incurs costs of $200,000 to tend to each of these babies.</p>
+<p>California Attorney General Dan Lungren said the new law was a warning to all drug dealers. &quot;If you sell your illegal contraband, be prepared to pay the price. No longer will you be able to keep your fancy cars and jewelry. We will give people the power to take them from you,&quot; Lungren said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GLENDALE, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

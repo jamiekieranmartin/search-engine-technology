@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="56624" id="root" date="1996-09-16" xml:lang="en">
+<title>EGYPT: Egyptian suffocates to death while escaping Saudi.</title>
+<headline>Egyptian suffocates to death while escaping Saudi.</headline>
+<dateline>CAIRO 1996-09-16</dateline>
+<text>
+<p>A 36-year-old Egyptian man escaping his boss in Saudi Arabia died of suffocation as a stowaway in a steel trunk aboard a Red Sea ferry, Egyptian security sources said on Monday.</p>
+<p>They said Mohammed Abdel Hadi, a driver, had argued with his Saudi boss over his salary.</p>
+<p>The boss took his passport as punishment and Abdel Hadi decided to return to Egypt in the trunk, taking biscuits, water and his savings of 5,000 riyals ($1,300).</p>
+<p>Abdel Hadi's brother-in-law was waiting for him when the ferry, the Arish and Tour, arrived at the Egyptian port of Suez at the end of the 36-hour trip. He found the body in the trunk.</p>
+<p>Foreigners working in Saudi Arabia require a Saudi citizen to sponsor them. Human rights groups say these sponsors regularly mistreat the workers, denying them access to their money and travel documents.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="SAARAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAIRO"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

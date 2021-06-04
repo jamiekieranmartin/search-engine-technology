@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="66785" id="root" date="1996-09-20" xml:lang="en">
+<title>ALBANIA: Albania to step up fight against crime.</title>
+<headline>Albania to step up fight against crime.</headline>
+<dateline>TIRANA 1996-09-20</dateline>
+<text>
+<p>Albanian Interior Minister Halit Shamata said on Friday he would restructure the police force to better tackle an upsurge in organised crime in the small Balkan nation.</p>
+<p>&quot;We need to change, improve and coordinate all our structures...(to fight) organised crime,&quot; Shamata told a news conference.</p>
+<p>The minister lambasted Albania's judicial system for being too lenient towards criminals. &quot;We simply ask the courts to apply the law,&quot; Shamata said.</p>
+<p>He said that although there was a 20 percent fall in the number of crimes in the first eight months of this year from the same period a year ago the number of people killed in crime-related incidents had risen, as had the figure for those carrying weapons.</p>
+<p>&quot;The law on arms needs to be changed,&quot; he said.</p>
+<p>A series of violent crimes has shocked Albania.</p>
+<p>This month two people were killed in crossfire between rival gangsters. Last month, two policemen who were brothers were killed in an ambush. In July a police chief and a prison chief were shot dead, allegedly by gangsters.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TIRANA"/>
+<dc element="dc.creator.location.country.name" value="ALBANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

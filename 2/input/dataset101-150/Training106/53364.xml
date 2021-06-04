@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="53364" id="root" date="1996-09-13" xml:lang="en">
+<title>USA: School technology bonding proposed in Wisconsin.</title>
+<headline>School technology bonding proposed in Wisconsin.</headline>
+<dateline>CHICAGO 1996-09-13</dateline>
+<text>
+<p>Wisconsin Department of Public Instruction proposed an $87 million school technology bonding plan Friday as part of its fiscal 1998-99 budget recommendations.</p>
+<p>Steven Dold, deputy state school superintendent, said the department wants to set up a bond-financed grant program through the state's educational technology board to finance technology and technology-related infrastructure programs at schools.</p>
+<p>He said the program would total $87 million, representing expenditures of $100 per student in Wisconsin. The bonds would be issued by the state as part of its regular general obligation bonding program, Dold added.</p>
+<p>He said a state-imposed cap placed on the amount school districts can raise each year has made it impossible for some districts to take advantage of technology.</p>
+<p>&quot;It creates inequities of opportunity,&quot; he added.</p>
+<p>The cap the Wisconsin Legislature imposed three years ago restricts the amount districts can increase their budget each year to no more than $200 per student.</p>
+<p>Dold said the technology bonding proposal was to be submitted to Gov. Tommy Thompson's office Friday as part of the department's budget request for the upcoming bienium.</p>
+<p>--Karen Pierog, 312-408-8647</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

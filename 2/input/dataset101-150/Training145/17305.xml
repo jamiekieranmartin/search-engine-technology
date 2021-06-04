@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="17305" id="root" date="1996-08-27" xml:lang="en">
+<title>UK: Chronology of Sudanese plane hijacking.</title>
+<headline>Chronology of Sudanese plane hijacking.</headline>
+<dateline>LONDON 1996-08-27</dateline>
+<text>
+<p>Following is a chronology of the events surrounding the hijack of a Jordan- bound Sudanese Airways plane with 199 passengers and crew on board that was diverted to London (all times GMT):</p>
+<p>---</p>
+<p>MONDAY Aug 26, 1996 --</p>
+<p>KHARTOUM - Sudan Airways Airbus 310 Flight 150 leaves Khartoum airport with 186 passengers and 13 crew on board, bound for Amman in Jordan.</p>
+<p>CAIRO - Twenty minutes after takeoff, Cairo air traffic controllers are informed that plane has been hijacked and is now heading for Cyprus.</p>
+<p>LARNACA, Cyprus - 2000 GMT - Plane lands at Larnaca airport in Cyprus where it is allowed to refuel. Hijackers refuse Cypriot request to allow women and children off the plane and say will blow up the plane.</p>
+<p>2245 GMT - Plane takes off from Larnaca after refuelling and heads for London where hijackers intend to surrender and seek political asylum.</p>
+<p>---</p>
+<p>TUESDAY, Aug 27 1996 --</p>
+<p>STANSTED, England - 0330 GMT -- Plane lands at London's Stansted airport.</p>
+<p>0430 GMT -- Police begin negotiations with hijackers. Police say there are six or seven hijackers on board armed with grenades and possibly other explosives.</p>
+<p>0530 GMT -- First group of hostages allowed to leave plane, mostly women and children.</p>
+<p>1100 GMT - Hostages released in &quot;controlled batches&quot; of 10 at a time throughout morning. By 1100 GMT, 160 of 199 passengers and crew released.</p>
+<p>Police say some of hijackers, who have asked to speak to an Iraqi exile in London, Sadiq Sadah, may be Iraqi nationals seeking asylum in Britain.</p>
+<p>1220 GMT - Hijack ends peacefully. All hostages are released. Six Iraqi nationals, are arrested.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CYPR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="JORDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="SUDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

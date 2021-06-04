@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="25548" id="root" date="1996-08-30" xml:lang="en">
+<title>SINGAPORE: Singapore hangs Thai drug trafficker.</title>
+<headline>Singapore hangs Thai drug trafficker.</headline>
+<dateline>SINGAPORE 1996-08-30</dateline>
+<text>
+<p>Singapore hanged a Thai farmer at Changi Prison on Friday for drug trafficking, the Central Narcotics Bureau (CNB) said.</p>
+<p>Jeerasak Densakul, 24, was arrested in 1995 when he was found with 11 slabs of cannabis weighing 2.2 kg (4.8 pounds), the CNB said.</p>
+<p>Singapore has a mandatory death sentence for anyone over 18 years of age found guilty of trafficking in more than 15 grams (half an ounce) of heroin, 30 grams (an ounce) of morphine or 500 grams (18 oz) of cannabis or marijuana.</p>
+<p>Of the nearly 270 people hanged for various crimes in Singapore since 1975, almost half have been for drug-related charges.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

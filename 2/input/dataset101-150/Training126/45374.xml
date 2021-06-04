@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="45374" id="root" date="1996-09-11" xml:lang="en">
+<title>USA: U.S. Southeast spot power falls again on weather.</title>
+<headline>U.S. Southeast spot power falls again on weather.</headline>
+<dateline>NEW YORK 1996-09-11</dateline>
+<text>
+<p>Spot electricity prices in the southeastern U.S. dipped Wednesday for a second day on dampened power demand due to the effects of cool, overcast weather in the region, traders said.</p>
+<p>&quot;It continues to soften,&quot; said one East Coast trader, referring to weaker daily power prices in the Southeast from Tuesday's levels.</p>
+<p>The outlook of power usage declining further for the rest of the week as well as several nuclear units in the Carolinas returning to service pressured next-day physical prices lower, trader said.</p>
+<p>Carolina Power &amp; Light Co's (CP&amp;L) 767 megawatt (MW) Brunswick 1 nuclear power plant was at 70 percent power earlier today, with the adjoining Brunswick 2, at 754 MW, expected to resume service later this week. Both units were shut Thursday as precaution ahead of Fran.</p>
+<p>The company's 880 MW Harris nuclear power plant achieved 73 percent of capacity today after being shut Tuesday Sep 2 due to a failure of a service water pump.</p>
+<p>Furthermore, CP&amp;L's 683 MW Robinson 2 nuclear unit was taken off line Saturday to begin its 40-day refueling outage.</p>
+<p>In the Southeastern Electric Reliability Council (SERC), peak, non-firm power for Thursday was quoted at $19.00-$21.00 a megawatt hour (MWh), compared with Tuesday's range for Wednesday power in the $23.00-$25.00 area.</p>
+<p>At the Georgia/Florida border, peak, non-firm power prices for Thursday were valued in the $23.00-$24.00, compared with Tuesday's $25.00.</p>
+<p>In the Florida pennisula, non-firm, peak electricity for Thursday was offered at $24.00 level, down from Monday's $25.00-$25.50 range.</p>
+<p>--R Leong, New York Power Desk +1 212 859 1622</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="16139" id="root" date="1996-08-27" xml:lang="en">
+<title>USA: Vanstar, Computer Associates in pact.</title>
+<headline>Vanstar, Computer Associates in pact.</headline>
+<dateline>NEW ORLEANS 1996-08-27</dateline>
+<text>
+<p>Vanstar Corp and Computer Associates International Inc said they had agreed to a systems integration consulting pact in which Vanstar would support and install CA-Unicenter software running on Windows NT networks.</p>
+<p>Under terms of the deal, Vanstar said it will create a new national consulting service to provide corporate clients with complete planning, installation and technical support for CA-Unicenter.</p>
+<p>As part of the deal, they said that more than 300 Vanstar systems engineers and architects will be trained to support CA-Unicenter software over the next two years.  </p>
+<p>Vanstar has a similar strategic agreement with Microsoft, in which more than 300 Vanstar engineers are now enrolled in or have been certified by the Windows NT education program.</p>
+<p>Windows NT is Microsoft Corp's business-oriented computer operating system software designed to run in corporate offices with up to thousands of users.</p>
+<p>Vanstar agreed to expand its Network Design and Management National Consulting Practice to include network management consulting for CA-Unicenter, the companies said.  </p>
+<p>CA-Unicenter is software that manages all the computer systems, networks, databases and software applications running throughout a corporate enterprise.</p>
+<p>The CA-Unicenter software's remote management features will enable Vanstar engineers to trouble-shoot corporate network issues from afar.</p>
+<p>Using &quot;intelligent software agents&quot; installed in each desktop computer, CA-Unicenter software can alert a remote network manager to deteriorating network conditions before a problem results in a network break-down.</p>
+<p>This feature will allow Vanstar to carry out planned network maintenace shut-down before computer systems fail.</p>
+<p>While this level of management has been available on mainframe computers for decades, CA-Unicenter software allows comparable services to be the Windows NT-based networks.</p>
+<p>-- Eric Auchard, New York Newsdesk, 212-859-1736</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW ORLEANS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31530" id="root" date="1996-09-04" xml:lang="en">
+<title>SOUTH AFRICA: British tug-of-love girl to go home, S.Africa says.</title>
+<headline>British tug-of-love girl to go home, S.Africa says.</headline>
+<dateline>JOHANNESBURG 1996-09-04</dateline>
+<text>
+<p>British girl Amy Kelland, snatched by her South African mother and brought to Johannesburg last month, must go home with her father, a South African court ruled on Wednesday.</p>
+<p>Mike Kelland applied to the court after his ex-wife Susan Portsmouth flew to Britain and took her nine-year-old daughter who was holidaying with grandparents.</p>
+<p>He had won custody of Amy, who had not seen her mother since 1992, after the divorce six years ago.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="83304" id="root" date="1996-09-28" xml:lang="en">
+<title>CYPRUS: One killed, four injured in Cyprus rally crash.</title>
+<headline>One killed, four injured in Cyprus rally crash.</headline>
+<dateline>NICOSIA 1996-09-28</dateline>
+<text>
+<p>One woman was killed and four people were injured when a car ploughed into a group of spectators at the 24th Rothmans Cyprus Rally late on Friday, police said on Saturday.</p>
+<p>Police said a 24-year-old woman was killed and four people were injured, two critically, when one of the cars taking part in the 950-km (590-mile) run veered off a dirt track some 20 km (12 miles) southwest of Nicosia and plunged into them.</p>
+<p>&quot;It is the first time something like this has happened,&quot; said one of the rally organisers. The driver, Cypriot Marios Politas, dropped out of the event.</p>
+<p>The accident occurred a few hours after the rally, one of the major sporting events in Cyprus, started in the capital Nicosia. The rally is due to end on Sunday afternoon.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CYPR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NICOSIA"/>
+<dc element="dc.creator.location.country.name" value="CYPRUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

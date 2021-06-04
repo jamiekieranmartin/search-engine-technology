@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="75590" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: U.S House votes to bar schooling for illegal aliens.</title>
+<headline>U.S House votes to bar schooling for illegal aliens.</headline>
+<dateline>WASHINGTON 1996-09-25</dateline>
+<text>
+<p>The House of Representatives Wednesday approved a bill allowing states to deny a public school education to illegal immigrant children.</p>
+<p>The controversial measure had been separated from a wide-ranging illegal immigration bill because it threatened to draw a presidential veto.  </p>
+<p>The vote was 254-175. The House had previously voted 257-163 for a tougher version of the school ban, drafted by California Republican Elton Gallegly, when it was debating the immigration bill last March. As on the previous occasion, House Speaker Newt Gingrich made a rare floor speech to argue for adoption of the school ban.</p>
+<p>However, the Gallegly bill was unlikely to be adopted in the Senate and is still threatened with a veto.</p>
+<p>The earlier version would have allowed states to remove current illegal alien students from public schools. The revised version approved would allow children now in school to remain there.</p>
+<p>States would be able to charge fees to children who wanted to move up from elementary to secondary school or who moved to a school in another district. The law would require a new vote by Congress to continue it beyond two and a half years.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="75562" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: New York murder rate could be lowest in decades.</title>
+<headline>New York murder rate could be lowest in decades.</headline>
+<dateline>NEW YORK 1996-09-25</dateline>
+<text>
+<p>The number of murders in New York could fall below 1,000 this year for the first time since 1968 but rape had risen in some areas, police said on Tuesday.</p>
+<p>Mayor Rudolph Giuliani, who has made cutting crime the centrepiece of his administration, said crime statistics for the year so far were further proof that New York had changed its image.</p>
+<p>&quot;Only a few years ago we used to hear people say that New York was characterised by drugs and crime, and now we have the largest declining crime rate of any city in America and they're asking how it can be done in other cities,&quot; Giuliani said at an awards ceremony for police officers on Tuesday.</p>
+<p>Police statistics showed that from Jan. 1 to Sept. 22 this year 728 people were murdered, 174 fewer than the same period last year or a drop of 19.2 percent. In 1968 there were 986 murders and at the current pace, the final figure for 1996 could be as low as 950, according to police.</p>
+<p>Major crime except rape has been declining for three years, but reports of alleged police brutality have increased, according to a major human rights group and the city's own Civilian Complaint Review Board.</p>
+<p>In June Amnesty International alleged that the biggest police department in the United States was responsible for a significant increase in beatings, unjustified shootings and deaths in custody during the past decade. Giuliani said the report was slander.</p>
+<p>The latest numbers showed the number of rapes jumped 25 percent in Queens North and four percent in Manhattan, but major crime overall was down 14.6 percent from the same period last year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

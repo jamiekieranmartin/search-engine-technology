@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="39883" id="root" date="1996-09-08" xml:lang="en">
+<title>USA: Washington area awaits flood crest after hurricane.</title>
+<headline>Washington area awaits flood crest after hurricane.</headline>
+<dateline>WASHINGTON 1996-09-08</dateline>
+<text>
+<p>Rising floodwaters along the Potomac River threatened communities in the Washington D.C. area on Sunday as the region continued to recover from Hurricane Fran.</p>
+<p>Electric service had been restored in most of Washington, Maryland and Virginia, after being out for nearly 24 hours for thousands of customers, but some roadways remained blocked by the swollen Potomac, which is expected to crest Sunday evening.</p>
+<p>Potomac Electric Power Co. reported 2,400 customers were still without electricity on Sunday afternoon.</p>
+<p>After Fran dumped 4 inches (10 cm) of rain in the capital city and up to 14 inches (36 cm) in outlying areas, forecasters predicted the Potomac would rise 13 feet (four metres) to 15 feet (five metres) where it passes the Georgetown section of Washington and up to 34 feet (10 metres) at Harpers Ferry, West Virginia.</p>
+<p>Thousands were forced out of their homes in the Shenandoah Valley region of Virginia over the weekend as that river rose 20 feet (six metres) above flood level.</p>
+<p>Rising floodwaters threatened the George Washington Parkway, a key route to National Airport on the west banks of the Potomac. Portions of other highways were already closed at midday.</p>
+<p>Several national parks in the area remained closed on Sunday, the National Parks Service said.</p>
+<p>&quot;We're expecting flooding from Theodore Roosevelt Island all the way down the river,&quot; Parks Service spokesman Earle Kittleman said. &quot;We also have high tide tonight at six o'clock and the high tide is going to make it worse.&quot;</p>
+<p>The Parks Service said it expected heavy damage at the C&amp;O Canal National Historic Park, which reopened in August after $25 million of flood damage from snow storms in January was repaired.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="43605" id="root" date="1996-09-10" xml:lang="en">
+<title>CHILE: Chile markets closed Wednesday for holiday.</title>
+<headline>Chile markets closed Wednesday for holiday.</headline>
+<dateline>SANTIAGO 1996-09-10</dateline>
+<text>
+<p>Chile's financial markets are closed Wednesday for a public holiday to commemorate the 1973 military coup.</p>
+<p>The markets will re-open as usual Thursday.</p>
+<p>-- Santiago newsroom, 562-699-5595 x212</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

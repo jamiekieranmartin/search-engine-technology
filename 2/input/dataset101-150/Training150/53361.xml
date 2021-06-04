@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="53361" id="root" date="1996-09-13" xml:lang="en">
+<title>USA: Crime triggers state of emergency in Gary, Indiana.</title>
+<headline>Crime triggers state of emergency in Gary, Indiana.</headline>
+<dateline>GARY, Ind. 1996-09-13</dateline>
+<text>
+<p>City officials operating under an emergency order cracked down on violent crime in Gary Friday with beefed-up police patrols and strict curfew enforcement.</p>
+<p>Police reported no major criminal activity in the 24 hours since Mayor Scott King declared a state of emergency Thursday and ordered the tightened security measures.</p>
+<p>He acted after incidents earlier in the week in which a high school was hit by a drive-by shooting and a public housing project was torn apart by an apparent gang-related gun battle.</p>
+<p>No one was injured in the shootings but King said he was putting more police on the streets and ordering security measures at high schools.</p>
+<p>&quot;The line is drawn and it's not happening in this city any more,&quot; he said.</p>
+<p>Gary has one of the highest murder rates per-capita in the United States. Last year Indiana state police were sent in to try to restore order.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GARY, Ind."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

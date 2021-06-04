@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="21791" id="root" date="1996-08-29" xml:lang="en">
+<title>USA: U.S. deportation of illegal immigrants increased.</title>
+<headline>U.S. deportation of illegal immigrants increased.</headline>
+<dateline>WASHINGTON 1996-08-29</dateline>
+<text>
+<p>The United States has already ejected more illegal immigrants so far this year than it did in all of fiscal 1995, the government said on Thursday.</p>
+<p>The United States evicted 54,362 illegal immigrants in the first 10 months of fiscal year 1996, which started last October, compared with nearly 50,200 in all of fiscal 1995, the Immigration and Naturalisation Service said.</p>
+<p>The removals include deportations, which are aliens ejected from inside the country, and &quot;exclusions,&quot; which are aliens turned away at the port of entry.</p>
+<p>In July, the United States removed 4,687 illegal aliens, up 17 percent from the same month last year, according to preliminary figures.</p>
+<p>The INS attributed the increased removals to stepped-up efforts by the government.</p>
+<p>&quot;The steady increase in these numbers clearly demonstrates that our alien removal strategy is working,&quot; David Martin, INS general counsel, told a news briefing.</p>
+<p>The figures reflected only cases that involved an immigration judge's order, and did not include immigrants who agreed to leave the country.</p>
+<p>The July figures brought the total number of removals to about 90 percent of the 62,000 target set for this fiscal year, INS said.</p>
+<p>Illegal aliens ousted for criminal activities numbered 29,207 so far this fiscal year, while non-criminal removals were 25,155, the INS said. Criminal offences ranged from murder to drugs, Martin said.</p>
+<p>By country, Mexican nationals topped the list comprising 74 percent or 40,344 of the total removals for this fiscal year. Honduras and El Salvador were second, each with four percent of the total, the INS said.</p>
+<p>California had the highest number of removals from a single state so far this year, 24,748, followed by Texas with 9,326 and then Arizona with 7,661, the INS said.</p>
+<p>Stepped-up efforts along the borders have increased the border component of removals as the fraudulent use of documents at entry points has risen, Martin said.</p>
+<p>The July report showed deportations up three percent and exclusions up 70 percent from July 1995, the INS said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

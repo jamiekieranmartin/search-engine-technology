@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="37330" id="root" date="1996-09-06" xml:lang="en">
+<title>TUNISIA: Tunisia's tourism earnings up.</title>
+<headline>Tunisia's tourism earnings up.</headline>
+<dateline>TUNIS 1996-09-06</dateline>
+<text>
+<p>Tunisia said on Friday it earned 763 million dinars ($795 million) from tourism between January 1 and August 10, an increase of nine percent over the 700 million dinars it earned during the same period last year.</p>
+<p>Tourism and Handicrafts Minister Slaheddine Maaoui also told journalists that the number of tourists from the European Union had increased by 3.8 percent from January to July this year compared to same period last year.</p>
+<p>He would not give details on figures.</p>
+<p>With these results &quot;the Tunisian tourism showed that it is dynamic while tourism is in crisis in other Mediterranean countries,&quot; Maaoui said.</p>
+<p>More than four million tourists visited the North African country last year.</p>
+<p>Tourism, Tunisia's main source of hard currency, earned the country 1.322 million dinars in 1995 and 1.317 million in 1994.</p>
+<p>($1 = 0.96 dinar)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TUNIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="E511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="GTOUR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TUNIS"/>
+<dc element="dc.creator.location.country.name" value="TUNISIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

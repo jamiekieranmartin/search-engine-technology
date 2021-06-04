@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="23398" id="root" date="1996-08-29" xml:lang="en">
+<title>AUSTRIA: Austrian police make more child porn arrests.</title>
+<headline>Austrian police make more child porn arrests.</headline>
+<dateline>VIENNA 1996-08-29</dateline>
+<text>
+<p>Austrian police said on Thursday they had made two further arrests in a child pornography investigation, taking the number of people held to three.</p>
+<p>In a statement, police said the men, aged 40 to 51, were being held on suspicion of producing pornographic material and sexually abusing children. Officers had seized a large quantity of video material from the Vienna home of one of the suspects.</p>
+<p>Police arrested a 45-year-old Austrian man on Tuesday and took the other two into custody on Wednesday night. All three live in the capital but police said one was a Polish citizen.</p>
+<p>Austrian weekly News magazine reported that the first man belonged to a pornography ring which provided clients in Vienna with a choice of 70 girls, largely from Slovakia, aged between seven and 13.</p>
+<p>Police declined to comment on whether there was a connection with a Belgian child pornography scandal in which the chief suspect, Marc Dutroux, has been named by police in Bratislava as suspected of murdering one Slovak woman and kidnapping another.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VIENNA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

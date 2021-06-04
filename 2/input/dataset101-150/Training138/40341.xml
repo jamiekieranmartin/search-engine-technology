@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="40341" id="root" date="1996-09-09" xml:lang="en">
+<title>FRANCE: French judges sent note on madcow probes.</title>
+<headline>French judges sent note on madcow probes.</headline>
+<dateline>PARIS 1996-09-09</dateline>
+<text>
+<p>France's justice ministry said on Monday it had sent a note to public prosecutors laying down guidelines for prosecution into offences linked to the madcow disease.</p>
+<p>The daily Le Monde published a circular sent on July 30 by minister Jacques Toubon, which outlined regulations and penal sanctions.</p>
+<p>&quot;Major public health issues are at stake. It is obvious that the judiciary has an eminent role to play in this respect,&quot; Toubon was quoted as writing.</p>
+<p>The document, confirmed by a ministry spokesman, mentioned possible prosecution for violation of a French June ban on British animal feed containing bonemeal.</p>
+<p>It followed an experts' recommendation to ban feed containing animal parts from countries with a high incidence of mad cow disease, or bovine spongiform encephalopathy (BSE).</p>
+<p>Disclosure that Britain authorised massive exports of animal feed containing ground-up animal parts, after banning its use at home in 1988, provoked outrage in France.</p>
+<p>The note said there might also be grounds for prosecution if consumers were misled on the origin of meat, and if health certificates were forged, among others.</p>
+<p>Concern over the safety of animal feed has escalated since March, when Britain reported a suspected link between mad cow diseased and the deadly Creutzfeldt-Jakob disease (CJD) in humans.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="I0100105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="I41220">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="I42210">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

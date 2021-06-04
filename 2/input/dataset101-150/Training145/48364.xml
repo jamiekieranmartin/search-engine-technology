@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="48364" id="root" date="1996-09-12" xml:lang="en">
+<title>FRANCE: Strike grounds Air France Europe flights.</title>
+<headline>Strike grounds Air France Europe flights.</headline>
+<dateline>PARIS 1996-09-12</dateline>
+<text>
+<p>Air France Europe, the domestic and regional arm of state-owned Air France, was grounded on Thursday by a surprise strike after a pilot was disciplined for refusing to fly a plane in a protest over security.</p>
+<p>&quot;We are unable to guarantee service, so we are asking our customers not to come to the airport for their flights today,&quot; an Air France Europe spokesman told Reuters.</p>
+<p>In a statement, the airline said the strike began without notice at 11.30 p.m. (2130 GMT) on Wednesday when four pilots' unions walked off the job without prior notice.</p>
+<p>&quot;There were a few flights this morning, but aircraft are no longer taking off,&quot; the Air France Europe spokesman said.</p>
+<p>The airline primarily serves France but has a fledgling network of flights across Europe, which were also grounded by the strike, the spokesman said.</p>
+<p>The pilots stopped work after the company disciplined a pilot who refused to fly from Biarritz to Paris after complaining of inadequate safety checks on passengers' baggage.</p>
+<p>The airline said the pilot, identified only as Mr Le Baraillec, had been punished after refusing to take off a total of 35 times this year, always for the same reason.</p>
+<p>The airline said Le Baraillec sought a systematic inspection of all luggage in the aircraft's holds. It said a state official had concluded such checks were unjustified.</p>
+<p>The airline has been battered by strikes in recent months over plans to formally merge the airline, formerly known as Air Inter, with parent company Air France.</p>
+<p>There is widespread opposition among airline workers to a restructuring plan that would shed some 950 jobs out of 11,000 over two years.</p>
+<p>The merger is due to take place next year and is part of a plan to bring Air France Europe back to break-even within two years by axing loss-making routes and launching a shuttle service.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

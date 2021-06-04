@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="23293" id="root" date="1996-08-29" xml:lang="en">
+<title>JAPAN: Japan July vehicle production up 9.5 pct.</title>
+<headline>Japan July vehicle production up 9.5 pct.</headline>
+<dateline>TOKYO 1996-08-29</dateline>
+<text>
+<p>Japan's vehicle production rose 9.5 percent from a year earlier to 953,010 in July, the Japan Automobile Manufacturers' Association (JAMA) said on Thursday.</p>
+<p>Figures for July are in number of vehicles, with percentage change from a year earlier:   Cars				  714,875	    +11.5</p>
+<p>  Trucks				232,484	     +3.3</p>
+<p>  Buses				   5,651	    +49.9</p>
+<p>  Total				 953,010	     +9.5</p>
+<p>Production by the major manufacturers:   Toyota		   310,165	    +16.0</p>
+<p>  Nissan		   166,190	     +5.4</p>
+<p>  Honda		     94,944	    +18.5</p>
+<p>  Mitsubishi	     108,439	     +0.1</p>
+<p>  Mazda		     63,593	     +5.0</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

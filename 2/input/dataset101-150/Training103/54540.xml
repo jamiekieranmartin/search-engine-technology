@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="54540" id="root" date="1996-09-15" xml:lang="en">
+<title>CHILE: No survivors found from sinking Chilean ship.</title>
+<headline>No survivors found from sinking Chilean ship.</headline>
+<dateline>SANTIAGO, Chile 1996-09-15</dateline>
+<text>
+<p>Navy rescuers on Sunday found debris from a cargo ship that sank in rough seas off the Chilean coast but no sign of three crewmen who were missing and believed drowned, navy officers said.</p>
+<p>Air and boat searches turned up a few items from the 105-foot (32 meter) Chilean ship Praga, which capsized and sank on Friday night about 60 miles (96 km) west of the port of Valparaiso on its way to Easter Island, the officers said.</p>
+<p>But there was no sign of three missing crewmen. Five others were rescued early on Saturday by a Chilean naval vessel.</p>
+<p>&quot;We found a few items floating in the water but nothing important. On the missing sailors, there is no news to report,&quot; said an officer at naval headquarters in Valparaiso.</p>
+<p>The search continued but there was little hope for the missing crewmen, who were wearing life vests but were unlikely to survive more than a few hours in the cold South Pacific water, he said.</p>
+<p>Loaded with 263 tonnes of food and other supplies, including a car, the boat was hit on its side by a huge swell and sank about half an hour later, officers said.  It was on a routine supply journey with eight crewmen from Valparaiso to Easter Island, a remote islet 2,300 miles (3,700 km) west of the Chilean mainland.</p>
+<p>A passing Argentine freighter, the Presidente Sarmiento, tried to pick up the five survivors but rough seas made it impossible for them to climb aboard, so the freighter moved to shelter them from wind and waves until a Chilean rescue vessel could arrive.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-15"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-15"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO, Chile"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

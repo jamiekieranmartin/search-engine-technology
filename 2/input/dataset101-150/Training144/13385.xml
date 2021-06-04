@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13385" id="root" date="1996-08-25" xml:lang="en">
+<title>INDIA: Himalayan pilgrim death toll rises to 116.</title>
+<headline>Himalayan pilgrim death toll rises to 116.</headline>
+<dateline>SRINAGAR, India 1996-08-25</dateline>
+<text>
+<p>Some 116 pilgrims have died from exposure in the Himalayan mountains along a rugged route to a 3,880-metre (12,725-ft) high cave, officials said on Sunday.</p>
+<p>Nearly 70,000 pilgrims were stranded by heavy rain and snow and authorities in Kashmir have suspended the annual Hindu pilgrimage, a spokesman for Jammu and Kashmir state said.  </p>
+<p>The trek through India's only Moslem majority state began last week. It had been scheduled to end on Wednesday.</p>
+<p>&quot;At least 116 yatris (pilgrims) have died so far,&quot; spokesman K.B. Jandial told Reuters. &quot;Now there is no one left at the cave.&quot;</p>
+<p>The winds and rain lashing the exposed 50-km (30-mile) route had dropped during the night, the spokesman said. &quot;We may be able to step up rescue operations today,&quot; he said.</p>
+<p>Officials said some 112,000 Hindus had arrived in Kashmir this year to visit the Amarnath cave, where devotees worship an ice stalagmite believed to be a manifestation of the &quot;lingam&quot;, or phallus, of the Hindu god Shiva.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GREL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SRINAGAR, India"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

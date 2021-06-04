@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="43200" id="root" date="1996-09-10" xml:lang="en">
+<title>USA: INTERVIEW - Ford sees Latam loss, UAW pact.</title>
+<headline>INTERVIEW - Ford sees Latam loss, UAW pact.</headline>
+<byline>David Lawder</byline>
+<dateline>DETROIT 1996-09-10</dateline>
+<text>
+<p>Ford Motor Co Chief Financial Officer John Devine said he expects the automaker's second-half loss in Latin America to be roughly twice as large as its first-half loss of about $130 million in the region.</p>
+<p>In a telephone interview with Reuters, Devine also said he expects Ford to reach a tentative labor contract settlement that benefits both it and the United Auto Workers union by a September 14 deadline.  </p>
+<p>&quot;I see a very positive tone on both sides,&quot; Devine said of the UAW talks, but added that &quot;the issues are still tough and large and a lot of things have to be discussed yet.&quot;</p>
+<p>The union last week decided to focus its major high-level bargaining efforts at Ford but has not broken off lower-level talks with General Motors Corp and Chrysler Corp.</p>
+<p>Ford is aiming to tailor the pact to its needs while addressing the UAW's concerns -- but not necessarily those of GM and Chrysler.  &quot;Our first priority is Ford Motor Co.  Make something that works for Ford Motor Co and works for the UAW. That's our clear number-one focus,&quot; he said.  </p>
+<p>Asked if the resulting pact also would likely benefit GM and Chrysler, he said, &quot;They're going to have to worry about that.&quot;</p>
+<p>Devine declined to comment about specific issues being discussed in the negotiations.</p>
+<p>People familiar with the talks have said the UAW has asked for a base wage increase of two percent per year over the life of the contract, guarantees of specific employment levels and elimination of a lower starting wage rate for new hires.</p>
+<p>Regarding Latin America, Devine said more than half of the second-half loss is expected to come in the third quarter.  </p>
+<p>The losses will include some restructuring and severance charges for the company's Brazilian operations, but Devine declined to discuss specific actions.</p>
+<p>&quot;We'll contain it in the numbers that we've put on the table,&quot; he said.</p>
+<p>He said the problems in Brazil and Argentina are due largely to the slower- and costlier-than-expected launch of new small-car production following the breakup of the Autolatina joint venture with Volkswagen AG in 1995.</p>
+<p>&quot;Effectively, we've had to re-launch the company in Brazil and Argentina,&quot; Devine said.  It's going to take us longer and it's tougher, but that's the car business these days.&quot;</p>
+<p>He also said the losses are compounded by a shift away from trucks, where Ford has stronger entries, to small cars, where Ford was caught without an entry.  In addition, the market has become much more competitive in the past year, with more new vehicle entries and increased incentives.</p>
+<p>He said Ford hopes to turn the Brazilian operation around within the next year.  &quot;We're not going to fix it overnight. It's going to take longer than that,&quot; he said.</p>
+<p>Devine said Ford's new product launches, including the Expedition full-size sport/utility vehicle, the Ka minicar in Europe and Jaguar's XK8 coupe and convertible in Britain, are meeting the company's objectives.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LAM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

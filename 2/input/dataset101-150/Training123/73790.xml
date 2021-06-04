@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="73790" id="root" date="1996-09-24" xml:lang="en">
+<title>UK: Audit groups set to agree global Website tracking.</title>
+<headline>Audit groups set to agree global Website tracking.</headline>
+<dateline>LONDON 1996-09-24</dateline>
+<text>
+<p>Audit groups that track the circulation of different publications in countries around the world expect to agree this week on a standard for monitoring how busy the various Internet Websites are, a representative said on Tuesday.</p>
+<p>Simon Sabel from the Audit Bureau of Circulations (ABC) in Britain said the International Federation of Audit Bureaux (IFABC) was grouping scores of audit bodies from the United States, Europe and Asia in Washington.</p>
+<p>He told Reuters there was an urgent need for members of the IFABC to agree on a common standard, since advertisers and ad agencies needed an impartial body to tell them how busy particular Websites were.</p>
+<p>Advertisers and ad agencies use statistics from audit bodies like ABC in Britain to decide whether to advertise in specific publications, depending on their circulation and the types of readers they reach.</p>
+<p>Sabel said there was a danger in leaving big software companies, including those that provide Internet browsing programmes, to tell consumers how many visitors viewed particular sites on the Internet's World Wide Web.</p>
+<p>He said such companies were likely to be less objective and scientific than an official audit bureau.</p>
+<p>&quot;We have to be very careful. The very big players are looking to muscle in on this area,&quot; he said.</p>
+<p>Audit bureaux like ABC in Britain are funded by their publishing clients.</p>
+<p>&quot;The majority of Website owners will want to have an audit done, just to put them on the map,&quot; Sabel said.</p>
+<p>He said the audit bodies had gathered in Washington on Monday and were expected to finish their meeting on Friday.</p>
+<p>-- London Advertising Newsdesk +44 171 542 2792</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="22021" id="root" date="1996-08-29" xml:lang="en">
+<title>INDIA: At least 24 drown in Indian boat accident.</title>
+<headline>At least 24 drown in Indian boat accident.</headline>
+<dateline>NEW DELHI 1996-08-29</dateline>
+<text>
+<p>At least 24 people drowned after an overcrowded boat carrying 50 passengers on a pleasure cruise capsized in a river in eastern India, the Press Trust of India (PTI) reported on Thursday.</p>
+<p>The news agency said six more people were feared dead in the accident on the Sone river on Wednesday night in Jehanabad district, some 100 km (62.5 miles) from Patna, capital of the eastern state of Bihar.</p>
+<p>It quoted government sources as saying rescuers had recovered 24 bodies. Twenty passengers swam to safety, it said.</p>
+<p>The accident took place during the monsoon, when most Indian rivers are in flood.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

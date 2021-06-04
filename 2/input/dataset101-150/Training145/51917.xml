@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="51917" id="root" date="1996-09-13" xml:lang="en">
+<title>USA: U.S. airlines moving toward passenger bag matching.</title>
+<headline>U.S. airlines moving toward passenger bag matching.</headline>
+<dateline>WASHINGTON 1996-09-13</dateline>
+<text>
+<p>U.S. airlines are moving ahead with a White House recommendation calling for passenger baggage matching on domestic flights, an industry group said.</p>
+<p>&quot;The logistics of matching up one half billion passengers with close to one billion pieces of luggage is a Herculean task...but we'll get it done on time,&quot; said Carol Hallett, president of the Air Transport Association.</p>
+<p>As part of a broader push to tighten security, the Clinton administration said on Monday it wants airlines to match luggage with passengers to ensure no unaccompanied bags remain on flights. It called for full implementation within 60 days.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

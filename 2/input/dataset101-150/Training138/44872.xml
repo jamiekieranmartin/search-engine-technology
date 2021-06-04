@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="44872" id="root" date="1996-09-10" xml:lang="en">
+<title>BELGIUM: EU vets start animal health review.</title>
+<headline>EU vets start animal health review.</headline>
+<dateline>BRUSSELS 1996-09-10</dateline>
+<text>
+<p>European Union veterinary officials started a regular two-day meeting on Tuesday to discuss the latest data on mad cow disease and a long list of animal health issues.</p>
+<p>EU officials said that with more than thirty points on the agenda, mad cow disease, known as Bovine Spongiform Encephalopathy (BSE), would not be discussed until Wednesday.</p>
+<p>&quot;No decisions or conclusions are expected on BSE,&quot; a European Commission spokesman said.</p>
+<p>The EU's Standing Veterinary Committee was due to discuss a recent British study which found that BSE could be passed to calves and what impact this would have on selective slaughter programmes and the safety of milk.</p>
+<p>The study raised the possibility that more animals would have to be slaughtered to stamp out BSE even though it found that only one percent of British cows passed on the disease to their calves.</p>
+<p>Independent veterinary scientists, who discussed maternal transmission of BSE on Friday, said they would examine the issues further.</p>
+<p>But a Commission spokesman said the general view was that BSE was transmitted through the placenta and milk was safe.</p>
+<p>The veterinary officials will also discuss reports on the Commission's latest BSE inspection visits to Britain and Portugal as well as a French plan to eradicate the disease.</p>
+<p>Measures to stop the fatal brain wasting disease spreading to sheep will also be considered.</p>
+<p>On Friday, veterinary scientists rejected a proposal from Farm Commissioner Franz Fischler for EU-wide action after laboratory tests in Britain and France found that sheep could catch the disease.</p>
+<p>Fischler proposed that suspect tissue, such as sheep brains and spinal cords, should be removed from lamb and mutton but countries which had escaped BSE said such costly EU action was unnecessary given the low disease risk.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="I0100105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="I41220">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="G153">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

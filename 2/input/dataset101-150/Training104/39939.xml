@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="39939" id="root" date="1996-09-08" xml:lang="en">
+<title>BELGIUM: Former Belgian minister detained in Cools murder.</title>
+<headline>Former Belgian minister detained in Cools murder.</headline>
+<dateline>BRUSSELS 1996-09-08</dateline>
+<text>
+<p>The Belgian judiciary has arrested former regional minister Alain Van der Biest after a night of questioning, Belgian radio said on Sunday.</p>
+<p>The radio quoted his lawyer as saying that Van der Biest had been detained in connection with the unsolved murder of Belgian politician Andre Cools in 1991.  </p>
+<p>On Friday Belgian police arrested Van Der Biest's former secretary, Richard Taxquet, along with three others, also in connection with the murder investigation.</p>
+<p>The radio said Van Der Biest's arrest stemmed from testimony given by Taxquet under interrogation.</p>
+<p>Belgian Justice Minister Stefaan De Clerck said on Friday that &quot;an important breakthrough&quot; had been made in the five-year-old investigation, which has uncovered a massive corruption scandal in connection with purchases of army helicopters.</p>
+<p>That scandal brought down former Belgian NATO Secretary-General Willy Claes and four Belgian federal government ministers, and led to the suicide of a Belgian general.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

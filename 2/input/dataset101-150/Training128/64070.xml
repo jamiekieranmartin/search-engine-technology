@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="64070" id="root" date="1996-09-19" xml:lang="en">
+<title>ARGENTINA: Argentine jobless could drop below 10 pct - W.Bank.</title>
+<headline>Argentine jobless could drop below 10 pct - W.Bank.</headline>
+<dateline>BUENOS AIRES 1996-09-19</dateline>
+<text>
+<p>Argentine unemployment could fall below 10 percent from its current 17.1 percent if the government implements its planned labor market reforms, according to a World Bank report published in the Clarin newspaper on Thursday.</p>
+<p>&quot;Unemployment in Argentina could fall eight percentage points...if the government moves ahead with a reduction in labor costs and new compensation schemes that are included in the latest government labor (law) flexibility plan,&quot; it said.  </p>
+<p>The World Bank also said a 10 percent reduction in labor costs could foster five percent growth in jobs, and different, less costly compensation legislation could help employment grow by three percent.</p>
+<p>Labor law flexibility has become one of President Carlos Menem's top policy priorities. Labor Minister Armando Caro Figueroa is working on legislation that includes new pay schemes.</p>
+<p>Caro Figueroa said on Wednesday he wants future pay deals to make a proportion of workers' wages variable according to economic conditions.</p>
+<p>Menem said his reforms will soon go to Congress. He said he would resort to presidential decrees if Congress dragged its feet.</p>
+<p>-- Daniel Helft, Buenos Aires Newsroom 541 318 0663</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="E411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUENOS AIRES"/>
+<dc element="dc.creator.location.country.name" value="ARGENTINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

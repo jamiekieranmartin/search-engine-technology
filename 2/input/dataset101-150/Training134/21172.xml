@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="21172" id="root" date="1996-08-29" xml:lang="en">
+<title>SOUTH AFRICA: S.African commercial centre gets 1,000 more police.</title>
+<headline>S.African commercial centre gets 1,000 more police.</headline>
+<dateline>JOHANNESBURG 1996-08-29</dateline>
+<text>
+<p>South Africa's fight against violent crime in its commercial heartland gained new impetus on Thursday with the announcement that an extra 1,000 officers were to be moved to the region.</p>
+<p>Police Commissioner George Fivaz told a news conference in Pretoria that the redeployment formed part of emergency steps by police to crack down on car hijackings at knife- or gun-point.</p>
+<p>Fivaz, who announced the additional officers would be on the streets by Friday, added the police service would now adopt a &quot;gloves off&quot; approach to try to stem spiralling crime in Gauteng province which encompasses both Pretoria and Johannesburg.</p>
+<p>Police statistics show at least 12 murders, 21 hijackings and 26 rapes a day were reported in Gauteng so far this year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

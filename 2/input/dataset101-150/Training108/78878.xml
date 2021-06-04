@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="78878" id="root" date="1996-09-26" xml:lang="en">
+<title>USA: Farm groups welcome animal drug act passage.</title>
+<headline>Farm groups welcome animal drug act passage.</headline>
+<dateline>WASHINGTON 1996-09-26</dateline>
+<text>
+<p>Farm and livestock groups Thursday welcomed passage of a bill to speed up the approval of veterinary drugs for poultry, hogs and livestock.</p>
+<p>The bill would cut the length of time required for Food and Drug Administration (FDA) approval of animal drugs, and will increase the options available to treat livestock and poultry, the groups said.</p>
+<p>&quot;There is no piece of legislation enacted this year by Congress that will help the turkey industry more than the animal drug availability bill,&quot; said National Turkey Federation Chairman Jim Cooper.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

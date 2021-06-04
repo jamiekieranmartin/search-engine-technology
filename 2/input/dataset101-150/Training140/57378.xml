@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="57378" id="root" date="1996-09-17" xml:lang="en">
+<title>USA: Small firm to introduce mind-controlled computer.</title>
+<headline>Small firm to introduce mind-controlled computer.</headline>
+<dateline>NEW YORK 1996-09-17</dateline>
+<text>
+<p>A little-known privately-held company in Northern California will introduce what it says is the first computer to be operated by human thought on Wednesday and available in retail stores at the same time.</p>
+<p>&quot;It's for real and it's going into stores,&quot; said a spokesman for the company, which calls itself The Other 90 Percent Technologies, which will unveil the brain-controlled computer device at a press conference here on Wednesday morning. The spokesman said the company has distribution deals to sell the product at more than 400 computer retail outlets, including CompUSA and New York's Nobody Beat's the Wiz stores.  </p>
+<p>He said initial applications for the admittedly rudimentary product include simple video games. The Easter Seal Society is using the product as an aid for disabled persons to manipulate computers.</p>
+<p>Miramax Films has signed up to use the technology in a promotional campaign for an upcoming film release.</p>
+<p>Tiny Other 90 Percent is based in San Rafael, Calif.</p>
+<p>Giving credence to the company's claims is the fact that Ron Gordon, its founder, was the original president at Atari Corp, makers of Pong, the world's first commercial computer video game, which was introduced in the early 1970s.</p>
+<p>The device relies on a sensor that is placed around a computer user's finger. The sensor plugs in to a black box, containing specialized software which, in turn, is connected to the back of a personal computer.</p>
+<p>The product uses proprietary filtering technology to decipher signals given off by human skin. It differs from other efforts to acheive mind-control over computers using bio-feedback or lie-detector testing techniques.</p>
+<p>The product relies on the end result of a person's thought-process to deduce such simple computer commands as &quot;Yes&quot; or &quot;no,&quot; &quot;up&quot; or &quot;down.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

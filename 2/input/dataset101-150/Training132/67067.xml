@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="67067" id="root" date="1996-09-20" xml:lang="en">
+<title>JAPAN: Japan says N.Korea submarine incident 'deplorable'.</title>
+<headline>Japan says N.Korea submarine incident 'deplorable'.</headline>
+<dateline>TOKYO 1996-09-20</dateline>
+<text>
+<p>Japan on Friday said it deplored North Korea's infiltration into South Korea and called on the communist state to halt such provocations.</p>
+<p>&quot;We have an interest in peace and stability on the Korean Peninsula and it is deplorable that North Korea has brought about this incident,&quot; government spokesman Seiroku Kajiyama told a news conference.</p>
+<p>&quot;The international community will not accept it.  We call on North Korea to immediately end these kinds of actions,&quot; he said.</p>
+<p>South Korea has said it has so far shot and killed 18 North Koreans from a larger squad of heavily armed infiltrators that landed from a submarine on Wednesday near the east coast city of Kangnung.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="NKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

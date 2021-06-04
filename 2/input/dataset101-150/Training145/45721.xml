@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="45721" id="root" date="1996-09-11" xml:lang="en">
+<title>UK: Airline pilot &quot;scared of heights&quot;.</title>
+<headline>Airline pilot &quot;scared of heights&quot;.</headline>
+<dateline>LONDON 1996-09-11</dateline>
+<text>
+<p>An airliner flying 49 passengers from Britain to Italy had to divert to a French airport after the co-pilot told the pilot he was &quot;frightened of the altitude&quot;, an official accident report said on Wednesday.</p>
+<p>The co-pilot had said he felt unwell as the Maersk Air Ltd BAC 1-11 flight flew over Moulins, France, to Milan.</p>
+<p>As the co-pilot continued &quot;to show symptoms of anxiety and stress&quot;, the pilot asked for permission to land at Lyon, said the report from the Air Accidents Investigation Branch.</p>
+<p>The co-pilot's condition later improved and he was able to help the pilot as the plane landed safely.</p>
+<p>But he was suspended from duty, subsequently failed the required medical tests and later left the airline, said a spokeswoman for Maersk, a British Airways franchise operator owned by Norwegian company Maersk Air.</p>
+<p>The incident happened on May 9, just under a year after the co-pilot joined Maersk, having worked as a commercial pilot for two other airlines since 1989.</p>
+<p>&quot;The co-pilot had been with us for just under a year and there had been no problem before,&quot; Maersk spokeswoman Roseanne Crossey said. &quot;I don't believe he is flying any more and I'm not sure what work he is now involved in.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

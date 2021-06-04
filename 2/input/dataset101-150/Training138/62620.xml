@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="62620" id="root" date="1996-09-18" xml:lang="en">
+<title>UK: No decision yet on mad cow cull - Major.</title>
+<headline>No decision yet on mad cow cull - Major.</headline>
+<dateline>LONDON 1996-09-18</dateline>
+<text>
+<p>Prime Minister John Major said on Wednesday Britain had made no firm decision yet about scrapping or reducing a planned cull of 147,000 cattle to eliminate the threat of mad cow disease.</p>
+<p>&quot;We are in discussions with the European Union&quot; he told BBC radio. &quot;I think the Commission and the European Union are on very shaky scientific ground in the way they are behaving at the moment.&quot;</p>
+<p>Britain failed on Tuesday to persuade its partners and the EU Commission to reduce the mass slaughter of cattle after a report by scientists from Oxford University showed Bovine Spongiform Encephalopathy (BSE) or mad cow disease would die out within five years even without a cull.</p>
+<p>Major said that since the cull had been agreed more information about maternal transmission and human health hazards had become available which could lead to reconsidering the move.</p>
+<p>&quot;I can tell you we will not delay a decision and when we take the decision we will take it on the basis of public health, on the basis of common sense and in the interests of the beef farmer but there are still discussions to be had before that decision can be finalised,&quot; Major said.</p>
+<p>Britain reluctantly agreed to the slaughter in exchange for a gradual lifting of a ban on exports of British beef and by-products imposed by the European Union.</p>
+<p>The row over mad cow disease broke out in March after Britain acknowledged there could be a link between BSE and Creutzfeldt-Jakob disease, the human equivalent of the brain-wasting illness.</p>
+<p>The ban caused a serious rift between Britain and its European partners and resulted in Britain blocking EU business for several weeks on the orders of Major until the cull agreement has been reached.</p>
+<p>Britain came under increased pressure from farmers and some politicians after the Oxford report predicted in Ausgust that BSE would die out on its own by the year 2001.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="I0100105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="I41220">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="G153">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="75032" id="root" date="1996-09-25" xml:lang="en">
+<title>POLAND: New Polish daily Zycie to be launched on Saturday.</title>
+<headline>New Polish daily Zycie to be launched on Saturday.</headline>
+<dateline>WARSAW 1996-09-25</dateline>
+<text>
+<p>Leading journalists of the Polish daily &quot;Zycie Warszawy&quot;, who quit it over its editorial line, and the axed television programme Puls Dnia are launching a new daily &quot;Zycie&quot; on Saturday, the newspaper's editor said.</p>
+<p>Tomasz Wolek told a news conference the political nation- wide daily will have a circulation of 200,000 copies and will be published by a Polish-German joint venture, but did not give any financial details of the company.</p>
+<p>&quot;I believe there is a gap on the Polish newspaper market between the (politically centre-oriented) Gazeta Wyborcza to Gazeta Polska (extreme right) and we want to fill the gap ...,&quot;Wolek said.</p>
+<p>&quot;I wouldn't call it right-wing, we will be an independent newspaper&quot;, he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47510">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

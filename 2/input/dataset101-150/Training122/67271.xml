@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="67271" id="root" date="1996-09-20" xml:lang="en">
+<title>FRANCE: Pope to inaugurate Internet site for French church.</title>
+<headline>Pope to inaugurate Internet site for French church.</headline>
+<dateline>TOURS, France 1996-09-20</dateline>
+<text>
+<p>Pope John Paul will on Saturday inaugurate an Internet site being set up by the French Catholic Church to improve communication with its flock, the French Bishops Conference said on Friday.</p>
+<p>The Pope will send a live personal message of welcome to electronic visitors to the web site at around 9 a.m. (0700 GMT) from the central city of Tours, they said.</p>
+<p>The Pontiff, on a four-day visit to France, was in Tours to mark the 1,600th anniversary of the death of Saint Martin.</p>
+<p>The Bishops Conference will use the site to disseminate extracts of the Pope's remarks during his stay in France.</p>
+<p>The site's electronic address is http://www.cef.fr.</p>
+<p>The Vatican itself is an old hand in cyberspace, having gone on-line last Christmas at the address http://www.vatican.va.</p>
+<p>The Vatican site gets frequent requests for prayers, some of which the Pope personally answers, officials say.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="GREL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOURS, France"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

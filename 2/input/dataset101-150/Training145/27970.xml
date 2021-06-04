@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="27970" id="root" date="1996-09-02" xml:lang="en">
+<title>UK: Medical groups call for smoking ban on airlines.</title>
+<headline>Medical groups call for smoking ban on airlines.</headline>
+<dateline>LONDON 1996-09-02</dateline>
+<text>
+<p>Doctors from across Europe urged airlines on Monday to ban smoking on all flights that use European airports to improve the health and safety of passengers and staff.</p>
+<p>&quot;There is no such thing as a smoke-free area on any aircraft where even one passenger is smoking, as the air is recycled,&quot; Sandy Macara, chairman of the British Medical Association, said in a statement.</p>
+<p>Macara, who heads the 47-country European Task Force of Medical Associations, said: &quot;The many airlines which have already successfully implemented smoking bans are to be congratulated for their responsible attitude to the safety and well-being of their passengers and staff.&quot;</p>
+<p>The European group is fighting a smoking ban on flights in conjunction with the World Health Organisation.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42900">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

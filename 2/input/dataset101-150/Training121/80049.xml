@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="80049" id="root" date="1996-09-26" xml:lang="en">
+<title>CHINA: PRESS DIGEST - Chinese newspapers - Sept 26.</title>
+<headline>PRESS DIGEST - Chinese newspapers - Sept 26.</headline>
+<text>
+<p>Following is a summary of major Chinese political and business stories in leading newspapers, prepared by Reuters in Beijing. Reuters has not checked the stories and does not guarantee their accuracy. Telephone: (8610) 6532-1921. Fax: (8610) 6532-4978.</p>
+<p>- - - -</p>
+<p>PEOPLE'S DAILY</p>
+<p>China's economic tsar Zhu Rongji said the selection of quality leaders was essential to win the battle against poverty.</p>
+<p>- - - -</p>
+<p>CHINA DAILY</p>
+<p>Chinese and Japanese foreign ministers met in New York and pledged to maintain friendly ties despite recent diplomatic skirmishes.</p>
+<p>A commentary accused some people of using human rights as a cloak for power politics and said the concept of human rights differed between cultures.</p>
+<p>- - - -</p>
+<p>CHINA SECURITIES</p>
+<p>China began issuing 4.0 billion yuan worth of non-tradable bonds from September 3.</p>
+<p>All large-scale state-owned enterprises are to start employing legal advisers.</p>
+<p>China will build 1.2 billion square metres of residential housing by the year 2000.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

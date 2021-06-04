@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="61683" id="root" date="1996-09-18" xml:lang="en">
+<title>ITALY: Surgeon says no firm date yet for Pope's operation.</title>
+<headline>Surgeon says no firm date yet for Pope's operation.</headline>
+<dateline>ROME 1996-09-18</dateline>
+<text>
+<p>The surgeon who will lead the hospital team in an operation on Pope John Paul to remove his appendix denied on Wednesday that a date had been set for the Pontiff to enter hospital.</p>
+<p>The weekly magazine Oggi earlier quoted Professor Francesco Crucitti as saying the Pope, 76, would enter Rome's Gemelli hospital on the evening of October 6, a Sunday, and that he might stay less than a week.</p>
+<p>But Crucitti later said he had been misquoted and told the Italian news agency ANSA that no date had yet been set.</p>
+<p>&quot;I would not want to be misunderstood,&quot; he said.</p>
+<p>&quot;I don't yet know when the Pope will enter hospital and be operated on. I know only that he definitely has engagements up to October 6 and therefore it is very likely it could not possibly be before then.&quot;</p>
+<p>He added that October 6 was &quot;possible but nothing has yet been decided.&quot;</p>
+<p>The Pope, who will begin a four-day visit to France on Thursday, is due to hold a beatification ceremony at St Peter's Basilica on the morning of October 6.</p>
+<p>The Vatican announced last Saturday that he would enter hospital after that date for the removal of his appendix. It said then that an inflammation of the appendix was the cause of a fever the Pope has had three times since Christmas.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="VCAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GREL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROME"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

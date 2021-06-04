@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="81237" id="root" date="1996-09-27" xml:lang="en">
+<title>DOMINICAN REPUBLIC: Dominican authorities investigate death of Israeli.</title>
+<headline>Dominican authorities investigate death of Israeli.</headline>
+<dateline>SANTO DOMINGO, Dominican Republic 1996-09-27</dateline>
+<text>
+<p>Authorities investigating the shooting death of an Israeli diplomat said on Friday that robbery may have been the motive for the attack, instead of politics as had first been suspected.</p>
+<p>Aviv Cohen, first secretary at the Israeli Embassy in Santo Domingo for only about two weeks, was shot on Thursday evening as he left a supermarket with his wife and two children, who were not hurt.</p>
+<p>Dominican authorities originally said they suspected the assault in central Santo Domingo had been planned.</p>
+<p>But Police Chief Mayor General Camilo Nazir Tejada said on Friday police had come to suspect the motivation was robbery, as investigation had shown that the assault was by an assailant on a motorcycle who had attempted to steal a necklace from Cohen's wife.</p>
+<p>He said Cohen was killed after struggling with the attacker, adding there was a good chance the assailant would be arrested soon. He gave no further details.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DOMR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTO DOMINGO, Dominican Republic"/>
+<dc element="dc.creator.location.country.name" value="DOMINICAN REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

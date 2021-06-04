@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="16727" id="root" date="1996-08-27" xml:lang="en">
+<title>USA: Wilson orders state to move quickly on welfare law.</title>
+<headline>Wilson orders state to move quickly on welfare law.</headline>
+<dateline>SACRAMENTO, Calif 1996-08-27</dateline>
+<text>
+<p>California Gov. Pete Wilson signed an order on Tuesday asking state agencies to implement quickly provisions in the new federal welfare reform act that cuts off aid to illegal immigrants, his office said.</p>
+<p>With the executive order, Wilson seized on a way to put into action measures similar to those of California's Proposition 187, the controversial law that would bar illegal immigrants from state welfare programmes.</p>
+<p>The law was approved by the voters in 1994 but is tied up in constitutional challenges.</p>
+<p>Wilson's executive order asked all state agencies, departments, boards and commissions to implement &quot;as expeditously as reasonably practicable&quot; the parts of the federal law pertaining to illegal immigrants.</p>
+<p>The federal welfare bill signed by President Bill Clinton into law this month allows states to exclude illegal immigrants from most benefit programmes, including Medicaid, Aid to Families of Dependent Children and Food Stamps.</p>
+<p>Wilson's order requires the state departments, agencies and boards to advise the governor of any action that can be taken to implement the federal welform reform act.</p>
+<p>Wilson, who made a short-lived bid for the Republican presendential nomination, has repeatedly criticised the Clinton administration for not doing more to stem the flow of illegal immigrants and attempted to get the federal government to reimburse California for his spending on immigrants.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="GWELF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SACRAMENTO, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

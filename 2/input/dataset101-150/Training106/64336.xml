@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="64336" id="root" date="1996-09-19" xml:lang="en">
+<title>USA: BALANCE - Tenn. School Bond Authority at $17.1 mln.</title>
+<headline>BALANCE - Tenn. School Bond Authority at $17.1 mln.</headline>
+<text>
+<p>TENNESSEE STATE SCHOOL BOND AUTHORITY</p>
+<p>RE: $102,710,000</p>
+<p>HIGHER EDUCATIONAL FACILTIES BONDS 1996</p>
+<p>					   102,100,000.00</p>
+<p>		 HIGHER EDUCATIONAL FACILITES BONDS, 1996 SERIES A</p>
+<p>    MOODY'S: A1		    S&amp;P: AA</p>
+<p>Delivery Date: 10/01/1996 Expected</p>
+<p>Maturity	   Balance     Coupon    List</p>
+<p>05/01/1999A	  3,665M    5.00	  4.30</p>
+<p>05/01/2000A	  2,565M    5.00	  4.45</p>
+<p>05/01/2007A	  2,080M    5.20	  5.20</p>
+<p>05/01/2008A	  3,115M    5.30	  5.30</p>
+<p>05/01/2009A	  2,705M    5.40	  5.40</p>
+<p>05/01/2010A	  2,995M    5.40	  5.45</p>
+<p>  Total:	    17,125M</p>
+<p>Merrill Lynch &amp; Co.</p>
+<p>Dean Witter Reynolds Inc.</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

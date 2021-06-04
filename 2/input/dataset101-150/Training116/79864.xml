@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="79864" id="root" date="1996-09-26" xml:lang="en">
+<title>FRANCE: Algeria urges action against Israel on holy sites.</title>
+<headline>Algeria urges action against Israel on holy sites.</headline>
+<dateline>PARIS 1996-09-26</dateline>
+<text>
+<p>Algeria said it was deeply concerned at Israel's opening of a tunnel in Jerusalem near Islam's third holiest mosque and called for international pressure against the Jewish state.</p>
+<p>&quot;It condemns with force this action which aims to modify the status of Jerusalem in violation of international legality, notably the pertinent U.N. Security Council resolutions and the arrangements concluded between the Palestinians and Israelis,&quot; the Foreign Ministry said in a statement.</p>
+<p>&quot;Algeria calls on the whole international community to act to preserve the character of Islam's holy places and the national rights of the Palestinian people in Jerusalem.&quot;</p>
+<p>The Israeli move has sparked the bloodiest clashes in the West Bank since Palestinian self rule began two years ago.</p>
+<p>The statement, carried by the official Algerian news agency late on Wednesday, said Algeria called particularly on the co-sponsors of Middle East peace -- the United States and Russia -- and on Security Council members &quot;to take the necessary measure to lead Israel to conform to international legality.&quot;</p>
+<p>Israel says that opening of a second entrance to the tunnel beside the Dome of the Rock and al-Aqsa mosque complex makes an important archaeological site more accessible to tourists.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

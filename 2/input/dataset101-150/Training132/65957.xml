@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="65957" id="root" date="1996-09-19" xml:lang="en">
+<title>SOUTH KOREA: One North Korean killed, three captured - police.</title>
+<headline>One North Korean killed, three captured - police.</headline>
+<dateline>KANGNUNG, South Korea 1996-09-19</dateline>
+<text>
+<p>One North Korean was killed and three were captured alive on Thursday during a massive manhunt for infiltrators who landed in South Korea by submarine on Wednesday, a police spokesman in the east coast city of Kangnung said.  </p>
+<p>Television reports said three infiltrators were killed and four captured.</p>
+<p>A defence ministry spokesman said he could not confirm the reports.</p>
+<p>Troops and helicopters have been hunting for eight North Koreans believed to be still at large. Eleven were shot and killed on Wednesday, apparently in a mass suicide, and one was captured alive.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KANGNUNG, South Korea"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

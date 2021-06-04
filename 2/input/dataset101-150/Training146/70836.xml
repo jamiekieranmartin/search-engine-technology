@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="70836" id="root" date="1996-09-23" xml:lang="en">
+<title>NEPAL: Encephalitis disease kills at least 115 in Nepal.</title>
+<headline>Encephalitis disease kills at least 115 in Nepal.</headline>
+<dateline>KATHMANDU 1996-09-23</dateline>
+<text>
+<p>An outbreak of encephalitis has killed at least 115 people in 15 districts in Nepal in last five months, a government official said on Monday.</p>
+<p>&quot;A total of 624 people have been affected by the disease,&quot; Benu Bahadur Karki, head of Nepal's epidemiology department told Reuters while confirming a report published in the state-owned daily Gorkhapatra.</p>
+<p>The newspaper said the disease was caused by mosquitoes and had mainly affected districts of Jhapa, Morang, Rupandehi and Banke, all bordering with India.</p>
+<p>Banke in west Nepal with 25 victims was worst hit.</p>
+<p>A patient affected by encephalitis germs usually suffers from high fever, severe headaches and drowsiness and dies in five days, doctors said.</p>
+<p>Karki said the authorities were helpless as there was no special drug for the disease and hospitals outside the capital, Kathmandu, were ill-equipped to counter the epidemic.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NEPAL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KATHMANDU"/>
+<dc element="dc.creator.location.country.name" value="NEPAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

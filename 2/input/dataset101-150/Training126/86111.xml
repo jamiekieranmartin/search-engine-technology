@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="86111" id="root" date="1996-09-30" xml:lang="en">
+<title>USA: Carolina Power Brunswick nuke cuts power.</title>
+<headline>Carolina Power Brunswick nuke cuts power.</headline>
+<dateline>NEW YORK 1996-09-30</dateline>
+<text>
+<p>Carolina Power &amp; Light Co's 754 megawatt Brunswick nuclear power unit 2 in Southport, N.C., has reduced power to about 62 percent of capacity for repairs, the Nuclear Regulatory Commission (NRC) said Monday.</p>
+<p>The unit reduced power over the weekend to repair a reactor feed pump, the NRC said in its daily plant status report.</p>
+<p>Company officials were not immediately available for comment, and it was not known how long the unit would operate at the reduced level or if it would be shut completely.</p>
+<p>Carolina Power's 767 megawatt Brunswick nuclear power unit 1 at the same Southport site, was reducing power ahead of a scheduled maintenance and refueling shutdown set to begin October 5 and last for 35 days.</p>
+<p>The Brunswick 1 unit was operating at 91 percent of capacity as of early Monday morning, the NRC said.</p>
+<p>-- Chris Reese, New York Power Desk 212-859-1627</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

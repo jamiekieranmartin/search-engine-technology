@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="50264" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: Ligand tests show more uses for Targetrin.</title>
+<headline>Ligand tests show more uses for Targetrin.</headline>
+<dateline>SAN DIEGO 1996-09-12</dateline>
+<text>
+<p>Ligand Pharmaceuticals Inc said Thursday preclinical test results of its Targretin drug, a retinoid, may have some impact treating human type II diabetes and treating or even preventing breast cancer.</p>
+<p>Preclinical results showed Targretin, also known as LGD1069, can decrease blood glucose, triglyceride and insulin levels in mice with human type II diabetes and human obesity.</p>
+<p>Moreover, in a rat model of mammary carcinoma, Targretin reduced incidence and tumor frequency without a reduction in body weight that is often associated with other treatments.  </p>
+<p>In a statement, Ligand said the test results &quot;reinforce the concept that retinoid-based drugs may play a major role in treating a variety of diseases.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN DIEGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

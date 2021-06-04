@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33285" id="root" date="1996-09-04" xml:lang="en">
+<title>SPAIN: Gas Natural dives on gas price hike talk.</title>
+<headline>Gas Natural dives on gas price hike talk.</headline>
+<dateline>MADRID 1996-09-04</dateline>
+<text>
+<p>Shares in Spain's Gas Natural were sharply lower on Wednesday on press reports that the price of gas will rise by less than analysts originally anticipated next year, analysts said.</p>
+<p>At 0925 GMT Gas Natural was down 1,460 pesetas, or 6.09 percent, to 22,500 while the Ibex-35 index was up 15.15 points, 0.38 percent to 4,019.15.</p>
+<p>A report in Expansion today said the price of gas for domestic and commercial use will rise by 1.5 percent next year, and will fall by 0.5 percent in 1998.</p>
+<p>This is less than financial analysts anticipated, they said.</p>
+<p>&quot;The hike is less than expected so profits estimates for next year will have to be revised down,&quot; said an analyst at Ibersecurities brokerage in Madrid.</p>
+<p>But a spokesman for the Industry Ministry told Reuters that the hike only affected the distribution sale price of gas while the price of gas more broadly speaking depended on the international energy market.</p>
+<p>&quot;The government has approved a hike next year and a fall the year after for the distribution price of the product,&quot; a spokesman said.</p>
+<p>-- Madrid newsroom +341 585 2160</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

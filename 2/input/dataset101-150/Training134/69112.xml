@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="69112" id="root" date="1996-09-22" xml:lang="en">
+<title>SOUTH AFRICA: TEN CARS HIJACKED A DAY IN S.AFRICA'S CRIME CAPITAL.</title>
+<headline>TEN CARS HIJACKED A DAY IN S.AFRICA'S CRIME CAPITAL.</headline>
+<dateline>JOHANNESBURG 1996-09-22</dateline>
+<text>
+<p>About 10 cars are hijacked at gunpoint each day in South Africa's crime capital Johannesburg, but fewer drivers are being shot dead, latest figures showed on Sunday.</p>
+<p>The National Crime Information Centre said that in the first half of the year, an average of 21 cars a day were hijacked in Gauteng province, home to the conurbation linking Soweto, Pretoria and Johannesburg.</p>
+<p>The total was marginally down on the first six months of last year. Half of the incidents were in Johannesburg.</p>
+<p>&quot;The terrifying aspect of hijack statistics is that in 94 percent of the incidents, firearms were used, leading to 18 deaths and 43 injuries,&quot; said the Sunday Times.</p>
+<p>&quot;The comparison for last year was 43 people dead and 87 wounded.&quot; </p>
+<p>The newspaper said the high levels of violent crime in South Africa were having a serious negative effect on potential foreign investment in the country.</p>
+<p>According to a Nissan survey, police said there was evidence of collusion by the driver in 90 percent of truck hijackings.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

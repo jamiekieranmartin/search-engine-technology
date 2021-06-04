@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="50314" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: Housecall Medical Q4 net loss widens.</title>
+<headline>Housecall Medical Q4 net loss widens.</headline>
+<dateline>ATLANTA 1996-09-12</dateline>
+<text>
+<p>Housecall Medical Resources, Inc.</p>
+<p>			    Statement of Operations Data</p>
+<p>	     (all amounts in thousands, except per share data)</p>
+<p>			    Three Months Ended  Twelve Months Ended</p>
+<p>					  June 30,	   June 30,</p>
+<p>				  1996	1995	 1996	1995</p>
+<p> Net revenues	     $47,083  $27,884   $205,389   $84,219</p>
+<p>  Net income (Loss)     (2,060)    (164)	  199	 697</p>
+<p>Cumulative dividends</p>
+<p>and accretion on Series A</p>
+<p>Preferred Stock</p>
+<p>    (redeemable)	    (348)    (331)    (2,006)   (1,327)</p>
+<p>Net Income (Loss) attributable</p>
+<p>to Common</p>
+<p>     Stockholders	 (2,408)    (495)    (1,807)     (630)</p>
+<p>Net income (Loss) per</p>
+<p>  Common Share	     (0.24)   (0.08)     (0.24)    (0.10)</p>
+<p>Weighted Average Common and</p>
+<p>Common Equivalent</p>
+<p>     Shares		  10,106    6,287	7,425     6,283</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="83810" id="root" date="1996-09-29" xml:lang="en">
+<title>ISRAEL: Three Israelis, two Arabs wounded in clashes.</title>
+<headline>Three Israelis, two Arabs wounded in clashes.</headline>
+<dateline>JERUSALEM 1996-09-29</dateline>
+<text>
+<p>Two Israeli soldiers and a policeman and two Palestinians were wounded on Sunday in fresh clashes, Israeli and Palestinian sources said.</p>
+<p>In Jerusalem, Palestinians hurled stones at Israeli policemen at the reopening on Sunday of the controversial tourist tunnel which triggered gun battles last week. One policeman was lightly injured, Israel Radio said.</p>
+<p>Nearly 70 people, mostly Palestinians, were killed last week in clashes prompted by the opening of the tunnel in Arab East Jerusalem. The tunnel was closed temporarily on Friday and Saturday for the Jewish Sabbath.</p>
+<p>At al-Arroub refugee camp in the West Bank near Hebron, Israeli troops shooting tear gas and rubber bullets wounded one Arab on Sunday, Palestinian sources said.</p>
+<p>At the Palestinian self-rule enclave of Bethlehem, some 200 Palestinians demonstrated but PLO police prevented them from reaching an Israeli army post at the tomb of the biblical Rachel at the entrance to the enclave, Palestinian sources said.</p>
+<p>In the Gaza Strip, stones hurled from the Egyptian side of the border with the Palestinian self-rule enclave lightly wounded two Israeli soldiers, the army said. It said Palestinian forces reinforced the site and all was now quiet.</p>
+<p>The army did not say exactly where on the border, which Israel controls, the incident took place.</p>
+<p>Also in Gaza, Israeli troops before dawn shot and wounded a Palestinian policeman who was patrolling a PLO police training camp on the beach near a Jewish settlement block, PLO Brigadier-General Samih Nasr told reporters.</p>
+<p>The Israeli army said on Sunday that its troops killed a Palestinian they saw carrying a hand grenade on Saturday in the Gaza Strip. Palestinian security officials could not confirm the fatality, the only one reported from Saturday.</p>
+<p>Palestinian police kept a lid on protests in most of the West Bank and Gaza on Saturday. On Wednesday, Thursday and Friday Israeli and Palestinian forces fought fierce gun battles.</p>
+<p>Palestinians call the tunnel opening punched through a wall in the Moslem Quarter of Jerusalem's Old City an attempt to Judaise Jerusalem and therefore a flagrant breach of interim peace deals. The Israeli move evoked international condemnation.</p>
+<p>U.S. President Bill Clinton has invited Israeli Prime Minister Benjamin Netanyahu, Palestinian President Yasser Arafat, Jordan's King Hussein and Egyptian leader Hosni Mubarak to the White House early next week to try to defuse the crisis.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERUSALEM"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

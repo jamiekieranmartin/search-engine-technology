@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="68909" id="root" date="1996-09-21" xml:lang="en">
+<title>FRANCE: French sex killer leads police to third victim.</title>
+<headline>French sex killer leads police to third victim.</headline>
+<dateline>TOULOUSE, France 1996-09-21</dateline>
+<text>
+<p>Killer and rapist Patrick Tissier has led police to a bricked-up well concealing a skeleton he says is the body of his third victim, justice sources disclosed on Saturday.</p>
+<p>The case has stirred debate over the early release of sex criminals, which was already under discussion in France because of horrific child killings in neighbouring Belgium.</p>
+<p>Tissier, 44, has a record for rape and murder that stretches back to 1971. He is now awaiting trial after confessing to raping and killing the 10-year-old daughter of his companion three years ago.</p>
+<p>The skeleton in the well near the southern town of Perpignan he identified as 46-year-old Concetta Lema who also disappeared three years ago.</p>
+<p>Police scientists were trying to confirm the identity. The body of the 10-year-old, known as Karine, was found in another well in the same region.</p>
+<p>Tissier was jailed for 20 years in 1971 for raping and killing a 18-year-old girl. He was released after 12 years, and jailed again within months for rape and armed robbery.</p>
+<p>He was released in 1992 before serving out his 10-year term and arrested a year later for the murder of Karine.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOULOUSE, France"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

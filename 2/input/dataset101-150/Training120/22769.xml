@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="22769" id="root" date="1996-08-29" xml:lang="en">
+<title>NORWAY: Spitzbergen plane crash kills 141 Russians.</title>
+<headline>Spitzbergen plane crash kills 141 Russians.</headline>
+<dateline>OSLO 1996-08-29</dateline>
+<text>
+<p>An airliner carrying Russian coal miners to the remote Arctic island of Spitzbergen crashed on Thursday, killing all 141 passengers and crew, Norwegian officials and the Russian airline said.</p>
+<p>Spitzbergen is a Norwegian coal-mining settlement. The only other community is in the Russian village of Barentsburg. Russia and Norway share the island's resources under a treaty dating back to the 1920s.</p>
+<p>The crash took place in bad weather 10 km (six miles) east of Longyearbyen, the island's only airstrip.</p>
+<p>&quot;No survivors have been found and our first aid staff are returning from the crash site,&quot; local government official Kjetil Hansen told reporters. The Norwegian news agency NTB quoted a Vnukovo Airlines official as saying no one appeared to have survived</p>
+<p>The Tupolev 154, chartered by the Russian mining company Trust Arktik Ugol, left Moscow with 129 passengers and a crew of 12.</p>
+<p>It carried miners, who were travelling to work in one of the island's two open cast coal mines, and their familes, Russian officials told the Norwegian news agency.</p>
+<p>Air traffic officials said they had lost contact with the flight, scheduled to arrive at around 10.15 a.m. (0815 GMT), shortly before it was due to land.</p>
+<p>First rescuers arrived shortly after 1 p.m. and reported that most of the three-engine jet's wreckage was scattered around the top of the small Opera mountain while the rest had slid down the mountainside.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OSLO"/>
+<dc element="dc.creator.location.country.name" value="NORWAY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

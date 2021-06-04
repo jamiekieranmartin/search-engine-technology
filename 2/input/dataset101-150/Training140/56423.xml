@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="56423" id="root" date="1996-09-16" xml:lang="en">
+<title>USA: FULL TEXT - Microsoft unveils Windows CE.</title>
+<headline>FULL TEXT - Microsoft unveils Windows CE.</headline>
+<dateline>REDMOND, Wash. 1996-09-16</dateline>
+<text>
+<p>Microsoft Corp Monday unveiled a new operating system called Windows CE for non-personal computer devices. The following is a copy of the company's statement.</p>
+<p>-------------- PRESS RELEASE --------------------</p>
+<p>REDMOND, Wash., Sept. 16 /PRNewswire/ -- Microsoft Corp. (Nasdaq: MSFT) today announced Microsoft(R) Windows(R) CE, an open, scalable Windows operating system platform for a broad range of communications, entertainment and mobile computing devices.  The standards-based Windows CE platform will make possible new categories of non-PC business and consumer devices that can communicate with each other, share information with Windows-based PCs, and connect to the Internet.  In a related announcement today, Microsoft announced that the first products based on Windows CE, a new category of mobile companion devices for Windows-based PCs called handheld PCs, or HPCs, are anticipated to begin shipping before the end of the year from leading personal computer and consumer electronics OEMs.</p>
+<p>Formerly known by the code name &quot;Pegasus,&quot; Windows CE is an entirely new compact and portable operating system built from the ground up to be appropriate for a broad range of business and consumer devices.  Categories of devices for which Windows CE would be suitable include small form-factor mobile-computing devices such as the new handheld PCs, &quot;wallet&quot; PCs, wireless- communication devices such as digital information pagers and cellular smart phones, next-generation entertainment and multimedia consoles including  DVD players, and purpose-built Internet access devices such as Internet TVs, digital set-top boxes and Internet &quot;Web phones.&quot;</p>
+<p>&quot;Windows CE extends our vision of Information at Your Fingertips' beyond the PC to a variety of computer-based devices for customers, whether they are at home, in the office, at school or on the road,&quot; said Bill Gates, chairman and CEO of Microsoft.  &quot;Windows CE makes possible new categories of products that can talk' to each other, share and exchange information with Windows- based PCs, and provide access to the Internet for e-mail connections or browsing the World Wide Web.&quot;</p>
+<p>Broad Industry Support</p>
+<p>Today, Microsoft also announced that over 40 leading hardware and software companies have committed to developing products for the new category of Windows CE-based handheld PCs. &quot;We are excited to announce today's broad industry support for HPCs based on the Windows CE platform,&quot; said Paul Maritz, group vice president of the platforms division at Microsoft. &quot;We will continue to work with many of our existing partners and will be creating new relationships to extend the benefits of the Windows CE platform across additional products and solutions.&quot;</p>
+<p>The Windows CE Environment</p>
+<p>Windows CE is the cornerstone of a complete, standards-based operating environment designed to significantly lower the barriers for OEMs, hardware manufacturers and software developers to create Windows-based communications, entertainment and mobile-computing devices.  The complete Windows CE environment includes the following:</p>
+<p>-- The Windows CE operating system.  The Windows CE operating system is a 32-bit, multitasking, multithreaded operating system that has an open architecture design, providing support for a variety of devices.  Windows CE is compact, providing high performance in limited memory configurations and is scalable, supporting a range of embedded, mobile or multimedia product lines. Windows CE also has the advantage of being portable, providing choice in microprocessors and has integrated power management, enabling long battery life on mobile devices.  Standard communications support is built into Windows CE, enabling access to the Internet for sending and receiving e-mail or browsing the Web. In addition, a graphical user interface, incorporating many elements of the familiar Windows user interface, will be available on certain devices, facilitating ease of use for end users.</p>
+<p>-- Built-in hardware, multimedia and communications support.  Support for hardware, multimedia and communications standards means that a broad range of Windows CE-based mobile-companion, information-access, and entertainment devices can be created that communicate with each other, integrate with Windows-based PCs, and access the Internet.</p>
+<p>-- Companion applications.  The Windows CE operating system supports Windows CE-based companion applications that share or synchronize information with their counterparts for Windows.</p>
+<p>-- Microsoft Internet Explorer.  Windows CE includes a version of Microsoft Internet Explorer, offering built-in Web access to new and existing categories of communications, entertainment and mobile-computing devices.</p>
+<p>-- Familiar Windows development environment.  The Windows CE development environment supports a comprehensive, expandable subset of Win32r APIs and uses familiar off-the-shelf tools, building on the experience of thousands of developers and ensuring that a strong aftermarket for applications for Windows CE will emerge.</p>
+<p>-- Synergy with Windows-based PCs.  Windows CE will be able to seamlessly synchronize, communicate and exchange information with Windows-based PCs.</p>
+<p>Founded in 1975, Microsoft is the worldwide leader in software for personal computers.  The company offers a wide range of products and services for business and personal use, each designed with the mission of making it easier and more enjoyable for people to take advantage of the full power of personal computing every day.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDMOND, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

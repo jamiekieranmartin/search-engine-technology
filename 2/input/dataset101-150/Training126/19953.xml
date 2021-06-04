@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="19953" id="root" date="1996-08-28" xml:lang="en">
+<title>USA: Duke sees S.C. nuke at 100 pct by late week.</title>
+<headline>Duke sees S.C. nuke at 100 pct by late week.</headline>
+<dateline>NEW YORK 1996-08-28</dateline>
+<text>
+<p>Duke Power Co's 846 megawatt (MW) Oconee nuclear power unit 3 in Seneca, S.C., is expected to return to full power later this week after operating at a reduced level since Sunday, the company said Wednesday.</p>
+<p>&quot;Oconee 3 is at 62 percent to allow for repairs to an oil pump. It's expected to be back up late this week,&quot; said company spokesman Guynn Savage.</p>
+<p>Power at the unit was reduced Sunday evening after a feedwater pump tripped off line.</p>
+<p>Duke's 1,129 MW Catawba 1 nuclear unit in Clover, South Carolina, is expected to restart in mid-to-late September following a refueling outage, she added.</p>
+<p>-- New York Power Desk +212-859-1628</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="I1610109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

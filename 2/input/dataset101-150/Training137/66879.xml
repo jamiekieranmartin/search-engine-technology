@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="66879" id="root" date="1996-09-20" xml:lang="en">
+<title>MEXICO: Mexico rebel violence said to threaten sea turtles.</title>
+<headline>Mexico rebel violence said to threaten sea turtles.</headline>
+<dateline>MEXICO CITY 1996-09-20</dateline>
+<text>
+<p>Guerrilla violence in southern Mexico has led indirectly to the looting of up to 1 million eggs of an endangered sea turtle in Oaxaca state, an environmental group said Friday.</p>
+<p>Sailors at a navy base at Huatulco once charged with guarding a beach where the Golfina sea turtles lay their eggs have since been redeployed elsewhere because of the emergence of the Popular Revolutionary Army (EPR), the Group of 100 environmental organisation said.</p>
+<p>As a result, Mexicans have looted more than 10,000 turtle nests containing an estimated 800,000 to 1 million eggs, the Group of 100 said.</p>
+<p>&quot;This massive depredation will have an enormous impact on the future populations of the Golfina turtle,&quot; the group said, adding that the Golfina turtle predated the dinosaurs.</p>
+<p>Sea turtle eggs are a part of the diet for poor coastal communities in much of southern Mexico and Central America. In 1990 the Mexican government ordered the protection of nesting grounds near Huatulco.</p>
+<p>The navy will have no immediate comment, a spokeswoman told Reuters.</p>
+<p>The Group of 100 said the Escobilla beach in Oaxaca state had gone unprotected by the Navy ever since the EPR attacked the Huatulco base June 28, resulting in nine deaths and about a dozen injuries.</p>
+<p>&quot;As a result ... more than 200 pillagers, some armed with machetes, invaded the beach to dedicate themselves to sacking the nests and killing female turtles that were laying eggs,&quot; the group said.</p>
+<p>Authorities have arrested three people carrying more than 1,000 eggs each and have confiscated more than 16,000 eggs in all, it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

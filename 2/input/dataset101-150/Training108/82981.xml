@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="82981" id="root" date="1996-09-27" xml:lang="en">
+<title>GERMANY: BASF shares dip after negative drug news.</title>
+<headline>BASF shares dip after negative drug news.</headline>
+<dateline>FRANKFURT 1996-09-27</dateline>
+<text>
+<p>Shares in German chemicals group BASF AG fell 2.25 percent in pre-bourse trade on Friday after a U.S. drug regulatory group recommended that approval for one of the group's new products should be withheld.</p>
+<p>BASF shares fell 1.10 marks to 47.90 marks after a U.S. advisory committee on Thursday recommended that the Food and Drug Administration should withold approval for a new BASF drug called Meridia, used in treating obesity.</p>
+<p>The broader market was also down, slipping 0.28 percent to 2,657.53 points.</p>
+<p>BASF management board member Dieter Stein in April predicted Meridia would be a very successful new product, posting sales somewhere between $200 and $400 million annually.</p>
+<p>Members of the Endocrinologic and Metabolic Drugs Advisory Committee agreed that the one-a-day anti-obesity capsules were effective but said they still had a number of questions about its safety.</p>
+<p>The FDA is not bound by the recommendations of its advisory committees, but usually accepts them.</p>
+<p>--Svea Herbst-Bayliss, Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

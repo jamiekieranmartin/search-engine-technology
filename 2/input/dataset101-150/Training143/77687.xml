@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="77687" id="root" date="1996-09-26" xml:lang="en">
+<title>USA: FAA rates Indonesia air safety in U.S. conditional.</title>
+<headline>FAA rates Indonesia air safety in U.S. conditional.</headline>
+<dateline>WASHINGTON 1996-09-26</dateline>
+<text>
+<p>The Federal Aviation Administration on Thursday said it rated Indonesia as &quot;conditional&quot; in its ability to assure the safety of its air carriers operating in the United States.</p>
+<p>The FAA said the term &quot;conditional&quot; indicates that its inspectors found areas in Indonesia's civil aviation authority that did not meet international aviation safety standards.</p>
+<p>Countries whose air carriers fly to the United States must adhere to the safety guidelines of the U.N.'s International Civil Aviation Organization's aviation safety standards.  </p>
+<p>The FAA assessment determines whether a country has a civil aviation authority in place and the extent to which that authority ensures that operational and safety procedures are maintained by its air carriers while operating in the U.S.</p>
+<p>The FAA, with the cooperation of the host country, only assesses countries whose airlines have operating rights to or from the United States, or have requested such rights.</p>
+<p>When a country is assessed as &quot;conditional,&quot; the FAA negotiates with the country's civil aviation authority to implement corrective measures. During the negotiations, the FAA permits limited operations by the country's air carriers to the U.S. under heightened FAA operations inspections and surveillance.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

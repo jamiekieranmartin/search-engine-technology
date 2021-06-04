@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="85535" id="root" date="1996-09-30" xml:lang="en">
+<title>India: Revised Indian bank prime lending rates.</title>
+<headline>Revised Indian bank prime lending rates.</headline>
+<text>
+<p>Bank		 With effect	   Prime-lending rate</p>
+<p>				from</p>
+<p>--------------------------------------------------------------</p>
+<p>						  Mar 96  Dec 95  Nov 95</p>
+<p>						   (pct)  (pct)   (pct)</p>
+<p>ABN Amro Bank		Jul --  18.5  19.0   17.0     17.0</p>
+<p>Abu Dhabi Comm. Bank			 19.0</p>
+<p>Allahabad Bank				 15.5</p>
+<p>American Express	   Jul 18  18.0  20.0   18.0     16.5</p>
+<p>ANZ Grindlays Bank	 Jul 15  18.5  19.5		17.0</p>
+<p>				 Sep 17  17.5</p>
+<p>Bank of America	    Jul 22  18.75 19.5		17.5</p>
+<p>Bank of Baroda	     Jul 15  16.0  16.5		16.5</p>
+<p>				 Oct  1  15.5</p>
+<p>Bank of India				  16.5		16.5</p>
+<p>Bank Indosuez		Aug 03  19.0  20.0   18.0     17.0</p>
+<p>Bank of Tokyo				  20.0   18.00</p>
+<p>Bank of Maharashtra			  17.25	     14.5</p>
+<p>Bank Nationale de Paris		    19.5		17.5</p>
+<p>Bank of Nova Scotia	Jul 15  18.5  19.5   18.0     17.0</p>
+<p>Barclays Bank		Jul 24  18.5  19.5   18.0	17.0</p>
+<p>Canara Bank		  Jul 15  16.0  16.5</p>
+<p>Central Bank of India			17.0		16.5</p>
+<p>Citibank					 19.5   18.0     17.0</p>
+<p>Corporation Bank			     16.5		16.5</p>
+<p>Credit Lyonnais				19.5		17.0</p>
+<p>Dena Bank					16.5</p>
+<p>Deutsche Bank		Jul 17  18.75 19.5</p>
+<p>Dresdner Bank		Jul 15  18.75 19.5   18.00    17.0</p>
+<p>Hongkong Bank		Jul 23  18.0  19.5		17.0</p>
+<p>HDFC Bank		    Aug 01  18.5  19.5		17.0</p>
+<p>ICICI Bank				     17.0		17.0</p>
+<p>IndusInd Bank				  20.0   18.0     17.0</p>
+<p>ING Bank					 20.0   18.0     17.5</p>
+<p>Oman International Bank		    20.0   17.0</p>
+<p>SBICI					    16.5		16.5</p>
+<p>Societe Generale	  Jul 23   18.75 20.0		17.0</p>
+<p>Standard Chartered Bank Jul 15   18.5  19.5   18.0     17.0</p>
+<p>				Sept 30  18.0</p>
+<p>State Bank of India     Jul 16   16.0  16.5		16.5</p>
+<p>				Sept 6   15.5</p>
+<p>State Bank of Mauritius		    19.0   18.0</p>
+<p>Syndicate Bank				 16.5</p>
+<p>Union Bank of India	Jul 15  16.0  16.5		16.5</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

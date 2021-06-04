@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13065" id="root" date="1996-08-25" xml:lang="en">
+<title>USA: Internet Startup funded to develop Java software.</title>
+<headline>Internet Startup funded to develop Java software.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1996-08-25</dateline>
+<text>
+<p>A small team of engineers from Sun Microsystems Inc's JavaSoft unit announced on Sunday they have formed a new company, dubbed Internet Startup, to build Java infrastructure software.</p>
+<p>The fledgling company, established in a ground-floor office here over the last two weeks, has received venture financing from Bessemer Venture Partners of Menlo Park.  </p>
+<p>David Cowan, Internet Startup founder and acting chief executive, is a general partner of Bessemer. The startup company's acting chairman is Jim Bidzos, the president of RSA Data Security, a unit of Security Dynamics Technologies Inc as well as chairman of VeriSign.</p>
+<p>Internet Startup, which opened its doors with around half a dozen initial employees, combines experience at JavaSoft, Apple Computer Inc, and Oracle Systems.</p>
+<p>&quot;Java portends dramatic changes in the way we use the Internet,&quot; said Hong Bui, vice president of engineering of the new company after serving as a senior engineer at JavaSoft.  </p>
+<p>Java is a computer programming language introduced by Sun Microsystems in mid-1995 which has captured the attention of the industry for its ability to operate across virtually all computer systems in a relatively secure manner.</p>
+<p>Just last week, Sun Microsystems and the Silicon Valley venture capital giant Kleiner Perkins Caufield &amp; Byers said they had completed financing of a $100 million fund managed by Kleiner Perkins to fund startups developing Java technologies.</p>
+<p>Java has been licensed by nearly 50 organizations, ranging from Microsoft Corp and International Business Machines Corp to the Taiwan government.  </p>
+<p>Prasad Wagle, another former senior JavaSoft engineer who is among the founding engineers at Internet Startup, said the new company aims to build software infrastructure using Java to make networked applications ubiquitious.</p>
+<p>One feature of the Java language is that small software programs, known as &quot;applets&quot; because they are small applications, can be downloaded from the server computers at the center of networks onto individual computers for use.</p>
+<p>In this model, individual computer users can always gain access to the latest programs and do not need to store more software than they are currently using on their computers at any one time, also saving costs of memory and storage.</p>
+<p>Chris Zuleeg, a veteran of Apple and a former JavaSoft marketing manager, is vice president of marketing at Internet Startup, whose Web site is www.internetstartup.com.</p>
+<p>&quot;The company name may need some work,&quot; Bidzos said in a statement. &quot;But we are confident that our products will integrate and simplify for end-users some major breakthrough technologies, including VeriSign Digital IDs.&quot;</p>
+<p>Bessemer has funded numerous Internet pioneers, including PSI Net, VeriSign, and Individual.</p>
+<p>-sam.perry@reuters.com, Palo Alto Bureau, +1 415 846 5400</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

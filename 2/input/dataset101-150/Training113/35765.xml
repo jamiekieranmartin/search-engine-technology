@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="35765" id="root" date="1996-09-05" xml:lang="en">
+<title>USA: Ford sees Q4 N. American output up 5 percent.</title>
+<headline>Ford sees Q4 N. American output up 5 percent.</headline>
+<dateline>DETROIT 1996-09-05</dateline>
+<text>
+<p>Ford Motor Co said it set its initial North American production schedule for the fourth quarter at a level about five percent higher than its output for the same period last year.  </p>
+<p>Ford spokesman Joel Pitcoff said the automaker has scheduled production of 1,063,000 cars and trucks in the United States, Canada and Mexico during the fourth quarter, up from about 1,009,000 built in the same period of 1995.</p>
+<p>Ford's fourth-quarter North American truck production is scheduled to increase by about 13.9 percent, to 632,000 units from 555,000 a year ago. The automaker's North American car production for the period is scheduled to fall by about 4 percent, to 431,000 from 449,000 a year ago.  </p>
+<p>Ford's truck production in the fourth quarter of 1995 was reduced by the extensive model changeover for the F-Series pickup truck.</p>
+<p>The planned production increase was announced as Ford reported a 6.5 percent drop in August U.S. vehicle sales to 301,306 units from 322,141 in the year-ago month. Ford's domestic car sales fell 6.8 percent, while its light truck sales fell 4.4 percent.</p>
+<p>&quot;As anticipated, the automotive market has slowed somewhat since earlier this year,&quot; Robert Rewey, Ford's group vice president of marketing and sales, said in a statement.  </p>
+<p>&quot;In recent months, we've seen interest rate increases for automotive financing that clearly have influenced industrywide vehicle demand,&quot; he said.</p>
+<p>Rewey said the industry's annualized sales pace has slowed from 15.8 million units during the first five months of the year to a more sustanable 15.2 million rate.</p>
+<p>&quot;Ford still projects that full-year industry sales will be in the range of 15.4 to 15.5 million units, up from the 15.1 million total for all of 1995,&quot; Rewey said.</p>
+<p>He said the truck production increase in the fourth quarter should help Ford meet dealer order backlogs for its F-150 pickup trucks and its new Expedition full-size sport/utility vehicle.</p>
+<p>Ford has received dealer orders for a total of 60,000 Expeditions -- enough to utilize its entire production capacity until December at maximum overtime.</p>
+<p>He said sales of the 1997 F-150 also should improve, now that four assembly plants are building the new truck, up from just two in late June.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="14502" id="root" date="1996-08-26" xml:lang="en">
+<title>CYPRUS: Hijacked Sudanese plane leaves Cyprus for London.</title>
+<headline>Hijacked Sudanese plane leaves Cyprus for London.</headline>
+<dateline>LARNACA, Cyprus 1996-08-27</dateline>
+<text>
+<p>A Sudan Airways plane with 199 passengers and crew which was hijacked to Cyprus took off from Larnaca airport after refuelling and headed to Britain early on Tuesday, witnesses said.</p>
+<p>Cypriot police said an unknown number of hijackers were on board the Airbus 310 Flight 150 which was hijacked on its way from Khartoum to Amman in Jordan on Monday evening.</p>
+<p>One was apparently armed with grenades and explosives and had threatened to blow it up unless it was refuelled and they were taken to London where they intended to surrender and seek political asylum, police spokesman Glafcos Xenos said.</p>
+<p>He said the foreign minister of Cyprus had contacted the British High Commission in Nicosia to inform British authorities that the plane would be heading to London.</p>
+<p>Police said the plane was bound for London's Heathrow airport, but other airport sources said it would fly to Stansted airport in Essex.</p>
+<p>Cypriot authorities negotiated through the pilot with one of the hijackers for him to release all women and children on board before refuelling but he refused and was quoted as saying:</p>
+<p>&quot;I will blow the plane up.&quot;</p>
+<p>The identity of the hijackers was not known. One of them negotiated through the pilot in English, police said.</p>
+<p>The pilot said several hijackers appeared to be scattered throughout the plane.</p>
+<p>Cyprus initially refused permission for the plane to land but allowed it to touch down when the pilot said he was running out of fuel, Cypriot officials said.</p>
+<p>It was the second hijacking this year involving a Sudanese airliner.</p>
+<p>On March 24, a Sudan Airways Airbus A320 plane carrying 40 passengers and crew was hijacked to Eritrea.</p>
+<p>The two Sudanese hijackers who seized the plane on an internal flight sought political asylum in Eritrea. They surrendered to Eritrean authorities immediately after reaching Asmara, the Eritrean capital.</p>
+<p>Sudan's Islamist military government has a broad array of political opponents and is waging a bitter war against separatist rebels in the mainly Christian and animist south</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CYPR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="JORDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="SUDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LARNACA, Cyprus"/>
+<dc element="dc.creator.location.country.name" value="CYPRUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="46402" id="root" date="1996-09-11" xml:lang="en">
+<title>USA: U.S. panel votes to continue computer dumping probe.</title>
+<headline>U.S. panel votes to continue computer dumping probe.</headline>
+<dateline>WASHINGTON 1996-09-11</dateline>
+<text>
+<p>The U.S. International Trade Commission voted Wednesday to continue an investigation into allegations by Cray Research Inc. that Japan's NEC Corp. was dumping supercomputers in the United States.</p>
+<p>In a vote of 3-1 the commission ruled that there was a &quot;reasonable indication&quot; that the U.S. industry was being hurt by the imports. The vote means the Commerce Department will continue an investigation into Cray's dumping allegation.</p>
+<p>NEC said it was disappointed that the probe was not terminated.</p>
+<p>The case stems from a July 29 complaint by the Minnesota-based Cray, a unit of Silicon Graphics Inc., that its Japanese rival was taking an estimated $65 million loss to supply supercomputers to the U.S. National Centre for Atomospheric Research.</p>
+<p>In a statement, Cray President Robert Ewald said he was pleased with the ITC vote.</p>
+<p>&quot;We believe NEC clearly has broken U.S. law -- dumping supercomputers in the U.S. to unfairly gain market share and squeeze out competition,&quot; he said. &quot;NEC's behaviour undermines open competition and could permanently distort pricing in the limited and strategically important supercomputer market.&quot;</p>
+<p>NEC has called the Cray allegations a total fabrication, saying its U.S. competitor overestimated NEC's research and development costs, while understimating its revenues. NEC has said revenues from the deal would be $30 million.</p>
+<p>In a statement responding to the ITC vote, Masao Toka, NEC executive vice president, said Cray failed to win the contract because it failed to meet the purchaser's technical requirements.</p>
+<p>&quot;Cray's failure to win the UCAR contract was thus due to serious deficiencies in the equipment offered by Cray, and not to unfair competition from NEC,&quot; NEC said in a statement.</p>
+<p>Toka said Cray's anti-dumping petition was &quot;unjust&quot; and that it was obstructing the sale.</p>
+<p>The National Centre for Atmospheric Research tentatively agreed on May 20 to buy four NEC supercomputer systems. But last month the U.S. National Science Foundation, the funding agency, said it was withholding approval of the supercomputer purchase until the dumping allegations were resolved.</p>
+<p>Cray also has charged that NEC sold supercomputers in Japan at much higher prices than in the United States. But NEC has said the comparison was not accurate because the NEC prices cited by Cray included charges for maintenance and other services.</p>
+<p>Under U.S. law, if NEC is found to have &quot;dumped&quot; the computers at less than fair price and if sales caused injury to Cray, the Commerce Department can impose anti-dumping duties on the computers.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

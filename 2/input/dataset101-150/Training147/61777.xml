@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="61777" id="root" date="1996-09-18" xml:lang="en">
+<title>SPAIN: Pipeline to supply 40 pct Gas Natural gas.</title>
+<headline>Pipeline to supply 40 pct Gas Natural gas.</headline>
+<dateline>MADRID 1996-09-18</dateline>
+<text>
+<p>Spanish gas company Gas Natural said on Wednesday it expected that the new pipeline from North Africa to Europe would supply 40 percent of its distribution in Spain by the year 2000.</p>
+<p>The pipeline, which delivered Algerian gas to Tangier for the first time on Wednesday, will have an initial capacity of 10 billion cubic metres a year.</p>
+<p>Gas Natural expects that 6.0 billion of the 15 billion cubic metres of gas it will distribute in Spain in 2000 will be supplied from North Africa.</p>
+<p>The state-owned company, which has a 73 percent stake through its Enagas subsidiary in the firm building the pipeline, said it should be delivering gas to customers by October 1, a month earlier than forecast.</p>
+<p>Gas Natural shares took a beating earlier this month when the government raised gas prices by a much smaller amount than expected, but the company said profits would not be hit because supply costs would drop once the pipeline was running.</p>
+<p>The shares were down 200 pesetas at 21,400 at the close.</p>
+<p>-- Madrid Newsroom +34 585 2151</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

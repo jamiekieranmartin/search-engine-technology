@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="53354" id="root" date="1996-09-13" xml:lang="en">
+<title>USA: Alabama housing bonds rated Aa3/VMIG-1 by Moody's.</title>
+<headline>Alabama housing bonds rated Aa3/VMIG-1 by Moody's.</headline>
+<text>
+<p>NEW YORK, Sept 13 - Moody's Investors Service - Rating</p>
+<p>Announcement As of 09/13/96.</p>
+<p>Issuer		: Alabama Hsg. Finance Auth. Multi-family</p>
+<p>			  hsg. rfd. rev. (Turtle Lake Proj.) Series</p>
+<p>			  1996F</p>
+<p>State		 : AL</p>
+<p>Rating		: Aa3/VMIG 1</p>
+<p>Sale Amount	 : 6,000,000</p>
+<p>Expected Sale Date: 09/17/96</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="C174">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

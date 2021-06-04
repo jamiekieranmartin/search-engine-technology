@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="76835" id="root" date="1996-09-25" xml:lang="en">
+<title>UK: UK TV watchdog eyes planned Caledonian acquisition.</title>
+<headline>UK TV watchdog eyes planned Caledonian acquisition.</headline>
+<dateline>LONDON 1996-09-25</dateline>
+<text>
+<p>Britain's Independent Television Commission (ITC) on Wednesday said it is reviewing the proposed acquisition of Caledonian Publishing Plc by Scottish Television Plc.</p>
+<p>The ITC, the main television watchdog, said it is considering the proposed move under the public interest test of the Broadcasting Act 1996.</p>
+<p>The new rules in the Broadcasting Act remove some previous restrictions on cross-media ownership of newspaper publishers and terrestrial television licensees.</p>
+<p>The ITC, however, is required in some circumstances to consider whether such cross holdings operate, or could be expected to operate, against the public interest.</p>
+<p>-- London Newsroom +44 171 542 7717</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

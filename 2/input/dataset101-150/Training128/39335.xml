@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="39335" id="root" date="1996-09-07" xml:lang="en">
+<title>REPUBLIC OF IRELAND: EU ministers back calls to fight child sex abuse.</title>
+<headline>EU ministers back calls to fight child sex abuse.</headline>
+<dateline>TRALEE, Ireland 1996-09-07</dateline>
+<text>
+<p>European Union foreign ministers on Saturday endorsed calls for new EU-wide laws to combat the sexual abuse of children and heard a pledge for proposals on the table by the end of the month.</p>
+<p>Diplomats said Belgian Foreign Minister Erik Derycke had spoken to his colleagues at an informal meeting about the child sex and murder scandal that has shaken his country to the core in recent weeks.</p>
+<p>The ministers agreed that EU justice and home affairs ministers would discuss the issue of paedophilia at a meeting in Dublin on September 26 and 27.</p>
+<p>The European Commission said it would propose an EU-wide initiative at the meeting.</p>
+<p>On Friday, EU president Ireland said the bloc wanted harmonised laws to combat commercial child sexual abuse, which it called &quot;an evil and cruel modern-day form of slavery&quot;.</p>
+<p>Action could be taken under the Europol convention, which established an EU policy agency, or under a special cooperation accord, it said.</p>
+<p>The EU also plans to work against the trafficking of children at international level following the world congress on sexual exploitation of children, held in Stockholm in August.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+  <code code="G155">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TRALEE, Ireland"/>
+<dc element="dc.creator.location.country.name" value="REPUBLIC OF IRELAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

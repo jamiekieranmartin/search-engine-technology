@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="14069" id="root" date="1996-08-26" xml:lang="en">
+<title>UK: Passengers rescued from blazing ferry off France.</title>
+<headline>Passengers rescued from blazing ferry off France.</headline>
+<dateline>LONDON 1996-08-26</dateline>
+<text>
+<p>More than 100 people were safely evacuated on Monday from a ferry that caught fire soon after leaving Guernsey in Britain's Channel Islands, police said.</p>
+<p>Police said the 111 passengers and six crew on board the ferry Trident Seven, owned by France's Emeraud line, were rescued by a variety of private and commercial boats after fire broke out in the engine room soon after it left port.</p>
+<p>An 88-year-old woman was taken to hospital with leg injuries, according to a spokesman for Guernsey police.</p>
+<p>The ferry, which was towed into port, had been bound for Jersey, another in a cluster of small British-ruled islands off north-west France.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

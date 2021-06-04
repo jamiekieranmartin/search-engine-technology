@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="23436" id="root" date="1996-08-29" xml:lang="en">
+<title>ITALY: PRESS DIGEST - Italy - Thursday August 29.</title>
+<headline>PRESS DIGEST - Italy - Thursday August 29.</headline>
+<dateline>ROME 1996-08-29</dateline>
+<text>
+<p>The following are some of the top headlines in leading Italian newspapers.</p>
+<p>----------</p>
+<p>TOP POLITICAL STORIES</p>
+<p>* Prosecutors in Palermo interrogating mafia boss Giovanni Brusca say that he has confessed to plotting against ex-magistrate Luciano Violante. (All)</p>
+<p>----------</p>
+<p>TOP BUSINESS STORIES</p>
+<p>* With unemployment on the rise, public works minister Antonio di Pietro says he will generate new jobs from the public sector. (La Stampa, Il Sole)</p>
+<p>* Italy grows rich from her exports. Bank of Italy says it has 113,536 billion lire in reserves. (Repubblica)</p>
+<p>* Industry Minister Pierluigi Bersani says his first concern are contracts, then incentives. (Corriere)</p>
+<p>* Treasury officals say that as of November, 40,000 war pensions will be stopped. (Il Sole)</p>
+<p>* Television director Michele Santoro leaves state television RAI for entertainment giant Mediaset (La Stampa, Corriere)</p>
+<p>* TV channels may continue to broadcast under present legislation until January 31 1997. (Il Sole)</p>
+<p>------------</p>
+<p>Reuters has not verified these stories and can not vouch for their accuracy.</p>
+<p>-- Rome bureau ++396 6782501</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROME"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

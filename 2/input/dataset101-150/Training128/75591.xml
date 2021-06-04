@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="75591" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: NY Pataki says childcare funding will rise $86 mln.</title>
+<headline>NY Pataki says childcare funding will rise $86 mln.</headline>
+<dateline>NEW YORK 1996-09-25</dateline>
+<text>
+<p>New York State Gov. George Pataki on Wednesday said that the state, which helps pay the costs of child care for about 100,000 children, will get more than $86 million in extra Federal aid over the next 18 months.</p>
+<p>New York expects to spend a total of $312.6 million, including almost $154 million of federal money and state and local contributions, to pay for child care for welfare recipients and low-income families during 1996-97.</p>
+<p>New York could draw an extra $26.5 million during that fiscal year, which ends on March 31, and obtain another $60.2 million in the 1997-98 fiscal year.</p>
+<p>By March 1998, New York anticipates that it will have $400 million to spend on child care, a 20 percent increase, which includes about $241 million in federal money.</p>
+<p>Pataki said increasing funding for child care programs should help the state continue to shift people from welfare to work.</p>
+<p>&quot;It will also help keep people who may be at risk of going on welfare off the rolls and help them remain independent.&quot;</p>
+<p>About 60,000 low-income families benefit from the child care program.</p>
+<p>--Joan Gralla, 212-859-1654</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="GWELF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

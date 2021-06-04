@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="54126" id="root" date="1996-09-14" xml:lang="en">
+<title>MOROCCO: PRESS DIGEST - Morocco - Sept 14.</title>
+<headline>PRESS DIGEST - Morocco - Sept 14.</headline>
+<dateline>RABAT 1996-09-14</dateline>
+<text>
+<p>These are the leading stories in the Moroccan press on Saturday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>LE QUOTIDIEN</p>
+<p>- Congo withdrew its diplomatic recognition of Polisario's self-proclaimed Democratic Sahraoui Arab Republic.</p>
+<p>ALMAGHRIB - Moroccan people gives huge &quot;yes&quot; for constitutional reforms called by King Hassan.</p>
+<p>- Interior Minister Driss Basri says U.N. referendum in Western Sahara must be held.</p>
+<p>- World Bank lends Morocco $28 million.</p>
+<p>L'OPINION</p>
+<p>- Moroccan officials had contacts with Polisario in Rabat. Any solution must be set in framework of Moroccan territorial integrity and sovereignty.</p>
+<p>LE MATIN</p>
+<p>- More than 99 percent vote &quot;Yes&quot; for constitutional referendum.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RABAT"/>
+<dc element="dc.creator.location.country.name" value="MOROCCO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

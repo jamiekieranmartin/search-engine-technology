@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="26947" id="root" date="1996-09-02" xml:lang="en">
+<title>SOUTH AFRICA: Majority of East Dries miners back at work.</title>
+<headline>Majority of East Dries miners back at work.</headline>
+<dateline>JOHANNESBURG 1996-09-02</dateline>
+<text>
+<p>The majority of workers at Driefontein Consolidated Ltd's east gold mine reported for work on Monday after staying away since last Wednesday, mine managers Gold Fields of South Africa Ltd said.</p>
+<p>Employees began returning to work on Sunday night, the company said in a statement.</p>
+<p>&quot;Discussions with employee and union representatives to effect a return to work by those who have not yet done so are continuing,&quot; the company said.</p>
+<p>It gave no further details.</p>
+<p>At least 17 miners were killed in labour unrest -- sparked by ethnic differences -- at Dries and Gold Fields' Kloof Gold Mining Co last month.</p>
+<p>Dries produced 11,680.6 kg of gold in the three months to end-June. Kloof produced 9,877.7 kg of gold in the June quarter.</p>
+<p>-- Johannesburg newsroom, +27-11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

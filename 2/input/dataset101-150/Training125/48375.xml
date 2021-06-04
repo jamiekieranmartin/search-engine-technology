@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="48375" id="root" date="1996-09-12" xml:lang="en">
+<title>UK: Labour widens gap over British Conservatives-poll.</title>
+<headline>Labour widens gap over British Conservatives-poll.</headline>
+<dateline>LONDON 1996-09-12</dateline>
+<text>
+<p>Britain's opposition Labour Party has widened its substantial lead over the ruling Conservatives with eight months at most to go before a general election, according to an opinion poll to be published on Friday.</p>
+<p>The poll, whose details were released by the Guardian newspaper ahead of publication, suggests Labour is now 15 points ahead of the Conservatives even after the adjustment of raw data to reflect polling biases.</p>
+<p>It gives Labour 47 percent support, up two points from last month, the Conservatives 32 percent, down one, and the minority Liberal Democrats 16 percent, down three.</p>
+<p>The poll will make encouraging reading for Labour leader Tony Blair, who is preparing for the final party conference ahead of the election. It starts on September 30.</p>
+<p>The poll suggests that a hard-hitting Conservative advertising campaign portraying Blair with red &quot;demon eyes&quot; under the slogan &quot;New Labour, New Danger&quot; failed to impress voters.</p>
+<p>The poll was conducted by the ICM organisation, who interviewed 1,200 voters on September 6 and 7.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

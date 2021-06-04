@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="28202" id="root" date="1996-09-02" xml:lang="en">
+<title>JAPAN: N.Korea urges U.S. to withdraw troops from S.Korea.</title>
+<headline>N.Korea urges U.S. to withdraw troops from S.Korea.</headline>
+<dateline>TOKYO 1996-09-02</dateline>
+<text>
+<p>North Korea said on Monday that an immediate withdrawal of U.S. troops from South Korea should be discussed at proposed four-nation negotiations for peace on the Korean peninsula.</p>
+<p>&quot;If the U.S. is not interested in discussing an immediate withdrawal of the U.S. troops from South Korea at the talks, such talks are undesirable,&quot; a spokesman for the North Korean Foreign Ministry said in a statement.</p>
+<p>The statement was carried by the official Korean Central News Agency (KCNA) which was monitored in Tokyo.</p>
+<p>In April, U.S. President Bill Clinton and South Korean President Kim Young-sam proposed at a bilateral meeting on Cheju Island off South Korea that Washington, Seoul, Beijing and Pyongyang hold talks to work out a lasting peace on the Korean peninsula.</p>
+<p>Communist North Korea, suffering severe food shortages after floods destroyed its crops for two years in a row, has yet to give a formal reply on whether it is ready to hold such talks.</p>
+<p>&quot;The U.S. said in the 'Cheju Island declaration' on April 16 that the purpose of the 'four-way talks' is to launch a 'process of a durable peace agreement',&quot; the North Korean spokesman said.</p>
+<p>&quot;If true, a main point of discussion at the talks should be the U.S. military pullout. The U.S. must make clear its position concerning it,&quot; he added.</p>
+<p>About 37,000 U.S. troops are stationed in South Korea. North and South Korea have technically remained at war since the 1950-53 Korean War ended with a truce agreement but not a formal peace treaty.</p>
+<p>&quot;The U.S. military occupation of South Korea divided the Korean nation and, though the cold war was terminated, it has still posed a major stumbling block to peace and reunification of the Korean Peninsula,&quot; the North Korean spokesman said.</p>
+<p>&quot;The time is now opportune for the U.S. to make an 'honourable pullout of troops'. Nevertheless, the U.S. has still kept its troops in South korea, expressing no willingness to withdraw them,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

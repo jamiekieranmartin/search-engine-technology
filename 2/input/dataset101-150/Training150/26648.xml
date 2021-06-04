@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="26648" id="root" date="1996-09-01" xml:lang="en">
+<title>CANADA: Shooting Star financial deal suspended.</title>
+<headline>Shooting Star financial deal suspended.</headline>
+<dateline>CALGARY, Alberta 1996-09-01</dateline>
+<text>
+<p>Shooting Star Technologies Inc said its financial arrangement with First Centennial Securities Laser Corp had been suspended.</p>
+<p>It said First Centennial had allowed it to pursue other arrangements.</p>
+<p>Shooting Star, which develops and operates refractive surgery centers throughout the world, did not elaborate.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CALGARY, Alberta"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

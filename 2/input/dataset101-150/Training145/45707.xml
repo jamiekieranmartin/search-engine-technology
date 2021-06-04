@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="45707" id="root" date="1996-09-11" xml:lang="en">
+<title>UK: U.S. airliner diverted after bomb scare.</title>
+<headline>U.S. airliner diverted after bomb scare.</headline>
+<dateline>LONDON 1996-09-11</dateline>
+<text>
+<p>A U.S. airliner landed safely at Glasgow airport on Wednesday after a bomb scare forced it to divert in mid-Atlantic.</p>
+<p>The American Airlines' Boeing 767, on a flight from London to Chicago with 193 people on board, was 500 miles (800 km) west of Ireland when it diverted to the Scottish city of Glasgow.</p>
+<p>Fire engines and police gathered by the plane, which was searched for a possible suspect package.</p>
+<p>But police said later the airliner had been diverted because of a &quot;malicious&quot; hoaxer.</p>
+<p>A scribbled note found in a seat pocket of the airliner was drawn to the attention of a flight attendant and the captain decided to turn back to Glasgow, the nearest airport.</p>
+<p>It was the hoax that prompted a major security operation. For the last leg of its journey, the airliner was shadowed by a British air force Boeing Sentry radar surveillance aircraft.</p>
+<p>Rescue helicopters stood by, but the plane landed safely without them needing to be called on, officials said.</p>
+<p>American said the 179 passengers and 14 crew would continue their journey on the airliner once it was given clearance.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

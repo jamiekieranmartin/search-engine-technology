@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="34010" id="root" date="1996-09-05" xml:lang="en">
+<title>UK: Britain's Major rules out election this year.</title>
+<headline>Britain's Major rules out election this year.</headline>
+<dateline>LONDON 1996-09-05</dateline>
+<text>
+<p>British Prime Minister John Major on Thursday ruled out calling a general election this year, dashing opposition Labour Party hopes for an early poll.</p>
+<p>&quot;I am not going to call an election this year. I don't intend to call an election this year. The election will be next year,&quot; Major said in an interview prepared for a radio broadcast on Friday.</p>
+<p>Major, who must call an election by May 1997, is clearly hoping that his Conservative Party can reverse Labour's 20-point opinion poll lead in the next eight months.</p>
+<p>Both parties have already launched poster campaigns and announced new policies. Major and his rival, Labour leader Tony Blair, are both currently on tours of Britain meeting potential voters.</p>
+<p>The prime minister has said previously that he would hold out until the last moment before calling an election, but some analysts believed that signs of an economic recovery in Britain might boost the Conservatives' poll standing and encourage Major to go to the polls earlier.</p>
+<p>Major has only a one seat majority in parliament and if he loses this, he will be forced to call an election ahead of time.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

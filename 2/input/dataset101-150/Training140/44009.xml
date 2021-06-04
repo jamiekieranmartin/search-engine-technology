@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="44009" id="root" date="1996-09-10" xml:lang="en">
+<title>USA: Computer Associates new products available.</title>
+<headline>Computer Associates new products available.</headline>
+<dateline>ISLANDIA, N.Y. 1996-09-10</dateline>
+<text>
+<p>Computer Associates International Inc said on Tuesday its new client/server extensions for its CA-PRMS and CA-Quick Response Engine platforms are now available.</p>
+<p>The CA-PRMS is a manufacturing software platform for International Business Machines Corp's AS/400 client/servers, Computer Associates said.</p>
+<p>The CA-Quick Response Engine is a $40,000 platform that is designed to run with CA-PRMS.</p>
+<p>The extensions for engineering data management and BuyerCenter, a purchasing management tool, are free under Computer Associates contract maintenance and the graphical user interface carries a $3,000 one-time charge for unlimited use, a company spokesman said.</p>
+<p>The price on the graphical user interface that is applicable for all CA-PRMS applications is expected to increase to $5,000 in 1997, the spokesman said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISLANDIA, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

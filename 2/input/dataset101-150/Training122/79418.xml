@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="79418" id="root" date="1996-09-26" xml:lang="en">
+<title>USA: Genzyme, Diacrin speed Parkinson's study.</title>
+<headline>Genzyme, Diacrin speed Parkinson's study.</headline>
+<dateline>CAMBRIDGE, Mass. 1996-09-26</dateline>
+<text>
+<p>Genzyme Corp said Thursday that it and Diacrin Inc have formed a 50-50 joint venture to speed development and commercialization of two NeuroCell porcine neural cell products for treating people with advanced Parkinson's or Huntington's disease.</p>
+<p>Both products are in Diacrin-sponsored phase I clinical trials. They are NeuroCell-PD for Parkinson's disease and NeuroCell-HD for Huntington's disease.</p>
+<p>Genzyme Tissue Repair will fund 80 percent of the next $50 million for the two products; after that, all costs and profits will be shared equally, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAMBRIDGE, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

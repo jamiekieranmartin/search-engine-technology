@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="25824" id="root" date="1996-08-31" xml:lang="en">
+<title>BELGIUM: TWO TEENAGERS SAID MISSING IN BELGIUM.</title>
+<headline>TWO TEENAGERS SAID MISSING IN BELGIUM.</headline>
+<dateline>BRUSSELS 1996-08-31</dateline>
+<text>
+<p>Two teenage girls have been reported missing in Belgium after failing to return home from a shopping trip in the town of Liege, Belga news agency said early on Saturday.</p>
+<p>The agency said the girls, Rachel Legeard, 18, and Severine Potty, 19, had boarded a bus home on Thursday afternoon but apparently got off before their stop. There has been no word of them since, it said.</p>
+<p>Gendarmes in Liege posted the two as missing late on Friday and have set up a coordination centre to work on the case, Belga said.</p>
+<p>Belgium has been shaken by the uncovering of a paedophile ring linked to a number of missing children, two of whom were found dead.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

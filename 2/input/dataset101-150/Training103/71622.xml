@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="71622" id="root" date="1996-09-23" xml:lang="en">
+<title>HONG KONG: Hongkong Ferry up on redevelopment plan.</title>
+<headline>Hongkong Ferry up on redevelopment plan.</headline>
+<dateline>HONG KONG 1996-09-23</dateline>
+<text>
+<p>Shares of ferry operator Hongkong Ferry (Holdings) Ltd surged on renewed speculation of strong earnings from the redevelopment of its old shipyard site into a comprehensive complex, brokers said on Monday.</p>
+<p>The stock jumped HK$1.85, or 15.41 percent, to HK$13.80 in afternoon trade on volume of 4.78 million shares.</p>
+<p>&quot;Hopes that the company may distribute a higher dividend and even a special dividend in view of the development fuelled fund buying,&quot; said a sales manager at a regional brokerage.</p>
+<p>&quot;A possible increase in net asset value also aided demand, especially since it is still a laggard,&quot; said one analyst.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

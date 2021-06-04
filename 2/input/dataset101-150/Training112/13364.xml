@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13364" id="root" date="1996-08-25" xml:lang="en">
+<title>PAKISTAN: 16 die as bus crashes in Pakistani Kashmir.</title>
+<headline>16 die as bus crashes in Pakistani Kashmir.</headline>
+<dateline>MUZAFFARABAD, Pakistan 1996-08-25</dateline>
+<text>
+<p>At least 16 people were killed and several injured on Sunday when a bus fell from a mountain road into a ravine on a river bank in Pakistan-ruled Azad (free) Kashmir, police said.</p>
+<p>They said 14 out of 45 passengers on the bus died instantly when the vehicle fell from the narrow road while on its way from the state capital Muzaffarabad to the nearby Pakistani town of Garhi Habibullah in the northwest. Two died later in hospital.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MUZAFFARABAD, Pakistan"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

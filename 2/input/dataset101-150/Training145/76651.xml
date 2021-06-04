@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="76651" id="root" date="1996-09-25" xml:lang="en">
+<title>FRANCE: Nice says Jan-Aug air cargo traffic down 12.8 pct.</title>
+<headline>Nice says Jan-Aug air cargo traffic down 12.8 pct.</headline>
+<dateline>PARIS 1996-09-25</dateline>
+<text>
+<p>Nice-Cote d'Azur airport recorded a 12.8 percent fall in freight traffic in the first eight months of 1996, on the same period last year, airport authority figures showed.</p>
+<p>The airport's January-August 1996 cargo throughput totalled 11,381 tonnes with international traffic falling by 13.5 percent on 1995 levels to 3,958 tonnes, the airport authority said.</p>
+<p>Cargo traffic transported to and from Nice on domestic routes declined by 12.3 percent on January-August 1995 to 7,423 tonnes.</p>
+<p>The Air France group generates the major part of cargo traffic handled at Nice airport.</p>
+<p>The only all-cargo service at the airport currently is DHL Worldwide Express weeknight schedule to and from Nice as part of its intra-European air cargo network.</p>
+<p>Postal traffic handled at the Airport in the first eight months of the year was up 10.8 percent on 1995 levels at 5,862 tonnes.</p>
+<p>French airline, L'Aeropostale, carries overnight mail between its Paris-Charles de Gaulle hub and Nice on a regular basis using Boeing 737QC aircraft. --Air Cargo Newsroom Tel+44 171 542 8982 Fax +44 171 542 5017</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="19420" id="root" date="1996-08-28" xml:lang="en">
+<title>ISRAEL: Israeli wounded in shooting on bus in West Bank.</title>
+<headline>Israeli wounded in shooting on bus in West Bank.</headline>
+<dateline>JERUSALEM 1996-08-28</dateline>
+<text>
+<p>Israel Radio said on Wednesday gunmen fired at an Israeli bus travelling near a Jewish settlement south of the West Bank town of Bethlehem, wounding one person.</p>
+<p>&quot;There is a gunshot victim near the settlement of Neve Daniel...one wounded in an Israeli bus,&quot; the radio said.  </p>
+<p>The condition of the wounded person was not immediately clear and the radio said ambulances had arrived at the scene.</p>
+<p>Israel army radio said it was unclear whether the shots were fired from a passing vehicle or in an ambush. It said searches were under way.</p>
+<p>No one has claimed responsibility for the shooting at the Israeli commuter bus.</p>
+<p>Arab guerrillas in July shot and killed three Israelis in a drive-by attack within Israel.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERUSALEM"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

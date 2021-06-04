@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="53133" id="root" date="1996-09-13" xml:lang="en">
+<title>ISRAEL: Israeli helicopters attack south Lebanon.</title>
+<headline>Israeli helicopters attack south Lebanon.</headline>
+<dateline>IQLIM AL-TOUFAH, Lebanon 1996-09-13</dateline>
+<text>
+<p>Israeli helicopters fired rockets at suspected Hizbollah bases in south Lebanon on Friday, security sources said.</p>
+<p>Earlier, Israeli security sources said Israeli soldiers ambushed a group of guerrillas who had infiltrated into Israel's south Lebanon occupation zone on Friday, killing one of them.</p>
+<p>Lebanon's pro-Iranian Hizbollah group claimed responsiblity for the infiltration and said its guerrillas ambushed an Israeli patrol, wounding several soldiers.</p>
+<p>Security sources said two Israeli helicopters fired two rockets into the Jabal al-Rafi' area in the Iqlim al-Toufah mountain ridges, a bastion of Hizbollah.</p>
+<p>There was no immediate report on any casualties in the attack which occurred at 9:50 a.m. (0650 GMT).</p>
+<p>It was the first Israeli air raid in Lebanon in more than a month. On August 8, Israeli fighter planes blasted Hizbollah targets in the Syrian-policed Bekaa Valley in east Lebanon.</p>
+<p>The Israeli sources said an Israeli patrol fired with machineguns and rocket-propelled grenades at a group of guerrillas in the Wadi Slouki valley on the edge of the western sector of the border zone.</p>
+<p>In Beirut, Hizbollah said in a statement: &quot;A group of resistance fighters infiltrated into the Wadi Slouki valley and ambushed Israeli soldiers patrolling on foot at 7:30 local time (0430 gmt) with machineguns and rocket-propelled grenades inflicting a number of injuries among them&quot;.</p>
+<p>The statement made no mention of the killing of a Hizbollah guerrilla.</p>
+<p>It was not immediately known from the Israeli security sources if the Israeli soldiers suffered any casualties in the exhange of fire.</p>
+<p>Later, Israeli gunners fired shells into Lebanese-held areas facing the valley, the sources added.</p>
+<p>There was no word on any casualties in the bombardment.</p>
+<p>Hizbollah, fighting a guerrilla war to oust Israeli troops from south Lebanon, has killed 18 Israeli soldiers so far this year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="IQLIM AL-TOUFAH, Lebanon"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="15462" id="root" date="1996-08-26" xml:lang="en">
+<title>MOROCCO: PRESS DIGEST - Morocco - Aug 26.</title>
+<headline>PRESS DIGEST - Morocco - Aug 26.</headline>
+<dateline>RABAT 1996-08-26</dateline>
+<text>
+<p>These are the leading stories in the Moroccan press on Monday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>AL-BAYANE</p>
+<p>- Morocco on verge of major political changes with referendum on constitutional reform.</p>
+<p>- Banana production dropped as consequence of GATT accord and lack of competitiveness on local market.</p>
+<p>AL-ANBAA</p>
+<p>- Moroccan delegation heads for Libya to attend session of the executive council for African parliaments.</p>
+<p>- Morocco and Belgium seek ways to expand cooperation in telecommunications and transport.</p>
+<p>AL-ALAM</p>
+<p>- Police arrests three French nationals and seven Moroccans on drug trafficking charges in Tangier.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RABAT"/>
+<dc element="dc.creator.location.country.name" value="MOROCCO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

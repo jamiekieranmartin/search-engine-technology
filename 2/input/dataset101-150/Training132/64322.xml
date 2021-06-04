@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="64322" id="root" date="1996-09-19" xml:lang="en">
+<title>USA: U.S. urges no more provocations by North Korea.</title>
+<headline>U.S. urges no more provocations by North Korea.</headline>
+<byline>Carol Giacomo</byline>
+<dateline>WASHINGTON 1996-09-19</dateline>
+<text>
+<p>Secretary of State Warren Christopher on Thursday urged North and South Korea to avoid further provocative action following an incident in which Seoul troops killed seven North Koreans who came ashore from a submarine.</p>
+<p>&quot;We wish that all parties would refrain from taking further provocative actions,&quot; Christopher told a news conference after talks involving U.S. and Japanese foreign and defence ministers.</p>
+<p>Asked if the incident could affect efforts to provide Pyongyang with nuclear technology and humanitarian aid, he added: &quot;Obviously the episode is a matter of concern but the facts are so murky ... it's impossible to assess&quot; what the long-term impact of the incident might be.</p>
+<p>Later, State Department spokesman Nicholas Burns said Christopher did not intend to criticise South Korea but only meant to warn North Korea of further provocations.</p>
+<p>&quot;The secretary was certainly referring to North Korea,&quot; the spokesman insisted.</p>
+<p>South Korean troops killed seven North Koreans on Thursday as one of the deadliest infiltration dramas since the start of the Cold War drew to a close in a hail of bullets.</p>
+<p>They were among an estimated 20 North Koreans who came ashore on a beach from a submarine on Wednesday, authorities in Seoul said. Eleven died in an apparent mass suicide, and one was captured after a manhunt by thousands of troops and police. One more is still on the loose.</p>
+<p>South Korean troops mounted a massive manhunt for the North Koreans who landed after their submarine went aground on a beach south of the border between the two hostile states. A taxi driver spotted the submarine stranded on some rocks.</p>
+<p>South Korean President Kim Young-sam declared the submarine intrusion an act of military provocation, but Pyongyang was unrepentant and refused to accept a protest note on the heavily fortified border.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

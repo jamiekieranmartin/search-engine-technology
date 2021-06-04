@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="62213" id="root" date="1996-09-18" xml:lang="en">
+<title>USA: U.S. reaches deal with 15 firms on timber sales.</title>
+<headline>U.S. reaches deal with 15 firms on timber sales.</headline>
+<byline>Andrea Shalal-Esa</byline>
+<dateline>WASHINGTON 1996-09-17</dateline>
+<text>
+<p>The federal government on Tuesday reached a landmark deal with 15 timber companies that averts the sale of old-growth forests in the Pacific Northwest and ensures that alternative timber sales must meet federal environmental laws, the Justice Department said.</p>
+<p>The deal came on the eve of President Clinton's visit to the Grand Canyon, where he will stress his record on the environment and unveil a plan to protect nearly two million acres of Utah redrock canyons from mining and development.</p>
+<p>The agreement partially settles an August 1995 timber industry lawsuit and resolves a conflict created by a rider to a broad 1995 budget bill, which forced the government to proceed with sales of old-growth trees that had been halted because they were deemed environmentally damaging. Clinton was criticized by environmentalists for those sales.</p>
+<p>&quot;We are pleased to bring this chapter of the old-growth debate to a close,&quot; Agriculture Secretary Dan Glickman said. &quot;With this behind us, we will be able to get back to an environmentally sound timber sale program.&quot;</p>
+<p>The agreement, filed in U.S. District Court in Eugene, Oregon, stipulates that all U.S. environmental laws, including a requirement for environmental impact statements, will apply to the timber sales used to replace the old-growth timber sales.</p>
+<p>The timber industry had sued the federal government in August 1995 seeking to exempt the replacement sales from the environmental standards and laws.</p>
+<p>The original sales were for old-growth trees in national forests in Washington and Oregon, but they were suspended in 1992 to protect wildlife habitat, particularly that of the marbled murrelet, a threatened seabird.</p>
+<p>Clinton signed a logging rider to the 1995 Rescissions bill, a measure pushed by the timber industry to increase cutting of salvage timber, or sick and dead trees.</p>
+<p>But the language was broad enough that it allowed logging of green trees, and forced the government to let the timber industry cut ancient trees in the Pacific Northwest that previously had been blocked to protect endangered species.</p>
+<p>Only timber sales that threatened the endangered murrelet were to be deferred under the 1995 provision. The bill also barred citizen challenges of the logging.</p>
+<p>Clinton later said he regretted signing the measure, which was part of a broad spending bill, and called for its partial repeal.</p>
+<p>A U.S. appeals court in June backed the administration's bid to block timber sales in areas inhabited by the marbled murrelet, saying the federal government had proven its claim that the seabird lived in those forests.</p>
+<p>&quot;We look forward to the expiration of the timber provisions in the Recissions Act so that timber harvesting in the Pacific Northwest can proceed in an environmentally sound manner under the president's Forest Plan,&quot; said Lois Schiffer, assistant attorney general in charge of the Justice Department's environment division.</p>
+<p>The replacement timber, the location of which will be determined at a later date, totals about 176 million board feet -- enough timber to build more than 17,000 new homes, according to the Justice Department.</p>
+<p>Some of the timber provisions of the budget bill will expire Oct. 1, with the rest due to expire Dec. 31.</p>
+<p>Under the terms of the agreement, the Forest Service will provide alternative timber to the companies over a three-year period, from 1997 to 1999, allowing ample time to satisfy the terms of the sales in an environmentally responsible manner, the Justice Department said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I02000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="I46000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

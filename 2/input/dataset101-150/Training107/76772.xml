@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="76772" id="root" date="1996-09-25" xml:lang="en">
+<title>REPUBLIC OF IRELAND: Ireland Funds says over $10 raised in U.S. in 1995.</title>
+<headline>Ireland Funds says over $10 raised in U.S. in 1995.</headline>
+<dateline>DUBLIN 1996-09-25</dateline>
+<text>
+<p>Over $10 million was raised by Irish benevolent trust, The Ireland Funds, in the U.S in 1995, and over half of this was paid in grants to over 280 projects in Ireland.</p>
+<p>&quot;The 1995 performance brings the total raised for projects in Ireland by the Ireland Funds to date to almost $70 million,&quot; the trust said in a statement.</p>
+<p>The Ireland Funds have become one of the world's largest private-sector foundations, channelling money to projects throughout the island of Ireland.</p>
+<p>Founded in 1976, Ireland Funds is chaired by Irish businessman Tony O'Reilly and it supports projects throughout Ireland that encourage peace, culture and community development.</p>
+<p>--Dublin Newsroom +353 1 676 9779</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="E511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBLIN"/>
+<dc element="dc.creator.location.country.name" value="REPUBLIC OF IRELAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="72354" id="root" date="1996-09-24" xml:lang="en">
+<title>UK: OPEC face $600 bln CO2 tax bill by 2020 - official.</title>
+<headline>OPEC face $600 bln CO2 tax bill by 2020 - official.</headline>
+<dateline>LONDON 1996-09-24</dateline>
+<text>
+<p>OPEC members could lose nearly $600 billion in cumulative revenues by the year 2020 if a tax on carbon dioxide emissions is implemented, an OPEC official said.</p>
+<p>According to the OPEC News Agency, Stefan Balabanoff, head of the economics section in OPEC's economics and finance department, told an industry seminar that global warming was at this stage &quot;just a theory.&quot;</p>
+<p>To blame the burning of fossil fuels for global warming &quot;constitutes a clear misrepresentation of the state of the global warming debate,&quot; he said.</p>
+<p>In most OPEC member countries, oil exports made up more than 80 percent of total exports, with the OPEC average being 68 percent, Balabanoff said.</p>
+<p>A carbon tax would cause a &quot;dramatic fall in future OPEC production levels,&quot; he said.</p>
+<p>&quot;The higher the carbon tax imposed, the greater the loss in OPEC revenues, with the maximum loss occurring under the $300 per tonne tax, with a weak price and oil tariff scenario, under which OPEC members would lose about $250 billion by 2010 and almost $600 billion by 2020.&quot;</p>
+<p>-- London newsroom +44 171 542 6280</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="OPEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

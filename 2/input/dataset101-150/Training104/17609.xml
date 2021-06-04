@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="17609" id="root" date="1996-08-27" xml:lang="en">
+<title>BELGIUM: Belgian police intensify dig at sex-scandal house.</title>
+<headline>Belgian police intensify dig at sex-scandal house.</headline>
+<dateline>JUMET, Belgium 1996-08-27</dateline>
+<text>
+<p>Police on Tuesday intensified digging at a house owned by Marc Dutroux, chief suspect in Belgium's child-murder and sex-abuse scandal.</p>
+<p>Neighbours told Reuters they saw a handcuffed Dutroux brought to the house late on Monday, where he stayed until about 1 a.m. on Tuesday. The house was inhabited at one time by Dutroux' accused accomplice Bernard Weinstein.  </p>
+<p>Early on Tuesday, about 30 police officers brought an excavator and what looked like high-tech search equipment to the house, neighbours said.</p>
+<p>The entire area was cordoned off, while two police helicopters hovered overhead.</p>
+<p>Dutroux has been charged with abduction and illegal imprisonment.</p>
+<p>Just over a week ago, the bodies of eight-year-olds Melissa Russo and Julie Lejeune, and of Bernard Weinstein himself were found buried in the garden of another house belonging to Dutroux.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JUMET, Belgium"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="69511" id="root" date="1996-09-22" xml:lang="en">
+<title>NEPAL: Three die in avalanche on Mount Everest.</title>
+<headline>Three die in avalanche on Mount Everest.</headline>
+<dateline>KATHMANDU 1996-09-22</dateline>
+<text>
+<p>Two Nepalis and a French climber died on Mount Everest in an avalanche, a spokesman for Nepal's Tourism Ministry said on Sunday.</p>
+<p>The official said the bodies of Yves Bouchon, a 47-year old surgeon from Nancy, France, and Dawa Sherpa, a local Nepali mountain guide, were recovered from the world's tallest mountain on Saturday. Rescue teams were still searching for the body of the third person, Lobsang Jangbu Sherpa.</p>
+<p>The three were caught by the avalanche at an altitude of 7,800 metres (25,584 ft) while climbing along the normal south-east ridge route to Everest's summit, the spokesman said.</p>
+<p>They were members of three different expeditions attempting to conquer the 8,848-metre high (29,028 ft) mountain from the Nepali side in the autumn season, which began early in September.</p>
+<p>Bouchon, part of a French expedition to Everest, is the third Frenchman to die on the mountain's slopes since the first successful ascent in 1953. He is survived by his wife and two daughters, the official said.</p>
+<p>Each of the two sherpas was climbing separately -- one with a South Korean expedition, and the other with a German team.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-22"/>
+  </code>
+  <code code="NEPAL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-22"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KATHMANDU"/>
+<dc element="dc.creator.location.country.name" value="NEPAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

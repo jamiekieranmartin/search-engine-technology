@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="81347" id="root" date="1996-09-27" xml:lang="en">
+<title>AUSTRALIA: Death toll rises to 9 in Australian cliff collapse.</title>
+<headline>Death toll rises to 9 in Australian cliff collapse.</headline>
+<dateline>PERTH, Australia 1996-09-27</dateline>
+<text>
+<p>Nine people, four adults, four children and one person of undetermined age, were killed on Friday when a 10-metre (30-foot) cliff collapsed on a school group at a beach in Western Australia, police said.</p>
+<p>Police said rescue work was continuing under special lighting with heavy duty earthmoving equipment but it was not known if others were buried in the rubble.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PERTH, Australia"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="82440" id="root" date="1996-09-27" xml:lang="en">
+<title>SPAIN: Repsol, Gas Natural in Latam deal.</title>
+<headline>Repsol, Gas Natural in Latam deal.</headline>
+<dateline>MADRID 1996-09-27</dateline>
+<text>
+<p>Spanish energy groups Repsol and Gas Natural formed a 50-50 joint venture called Gas Natural Latinoamericana SA, aimed at developing Latin American gas projects, Gas Natural said on Friday.</p>
+<p>The new company will focus on all areas related to natural gas in the area, including transport and industrial distribution and electricity generation. The main objective is to compete for natural gas concessions in Mexico, a statement said.</p>
+<p>Gas Natural Latinoamericana S.A. is also studying projects in Colombia, Argentina, Uruguay and Brazil.</p>
+<p>Repsol has a direct 45 percent stake in Gas Natural.</p>
+<p>-- Madrid newsroom +341 585 2160</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

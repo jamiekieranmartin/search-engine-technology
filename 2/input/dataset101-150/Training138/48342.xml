@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="48342" id="root" date="1996-09-12" xml:lang="en">
+<title>UK: Britain to talk to Brussels on mad cow evidence.</title>
+<headline>Britain to talk to Brussels on mad cow evidence.</headline>
+<byline>Gerrard Raven</byline>
+<dateline>LONDON 1996-09-12</dateline>
+<text>
+<p>Britain agreed on Thursday to review new scientific findings on &quot;mad cow disease&quot; with the EU Commission, stepping aside from a widely predicted clash with Brussels over a massive slaughter programme for its cattle.</p>
+<p>The decision, taken at a meeting of cabinet ministers, ended speculation that London might be about unilaterally to scale down the cull which it had agreed with its EU partners as the price of a gradual ending of a ban on its beef exports.</p>
+<p>&quot;Ministers noted that the scientific findings represent new factors which must be reviewed with the Commission,&quot; said a statement issued by Prime Minister John Major's office.</p>
+<p>The meeting looked at new scientific evidence suggesting that transmission of Bovine Spongiform Encephalopathy from cow to calf was likely to be extremely rare and analysis suggesting BSE, or mad cow disease, could die out in Britain in five years.</p>
+<p>It said the new evidence should be evaluated in the light of the agreement at the EU summit in Florence in June that a ban on British beef exports should be gradually lifted &quot;on the basis of objective scientific criteria&quot;.</p>
+<p>Britain is committed to slaughter 147,000 cattle in order to eliminate BSE, after fears in continental Europe that the disease could be passed on to humans.</p>
+<p>The government came under pressure from farmers and some Conservatives to reconsider the size of the cull after an Oxford University report predicted last month that the mad cow epidemic would be over by the year 2001.</p>
+<p>Scientists claimed that if no cattle were slaughtered there would be an estimated 7,000 cases of BSE in the next five years. The cull would reduce it by only 23 percent.</p>
+<p>But the European Commission said earlier on Thursday that, although it would consider changing its approach to dealing with the crisis, it would not interested in talking cull numbers.</p>
+<p>&quot;We consider that all measures necessary should be taken to protect human health, and that's why we have agreed with the British government a selective slaughter policy,&quot; Commission spokesman Gerry Keily told BBC radio.</p>
+<p>&quot;We haven't said it can't be changed. If there is a better approach, we will talk about changing it. But we will not talk on the basis of numbers of cattle to be slaughtered. That's not our priority. The protection of human health is our priority.&quot;</p>
+<p>Keily added a 23 percent reduction in cases of the disease was &quot;not insignificant&quot;.</p>
+<p>Britain reluctantly agreed to the slaughter in exchange for a gradual lifting of a ban on exports of British beef and by-products imposed by the European Union.</p>
+<p>The row over mad cow disease broke out in March after Britain acknowledged there could be a link between mad cow disease and Creutzfeldt-Jakob Disease, its brain-wasting human equivalent.</p>
+<p>The export ban caused a serious rift between London and its European neighbours and resulted in British ministers blocking EU business for several weeks on the orders of Major until the cull agreement was reached.</p>
+<p>British Agriculture Minister Douglas Hogg is due to meet European Farm Minister Franz Fischler on Monday to discuss BSE.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I0100105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I41220">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="G153">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

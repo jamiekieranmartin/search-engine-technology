@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="45740" id="root" date="1996-09-11" xml:lang="en">
+<title>UK: Hybrid car may help polluted city centres.</title>
+<headline>Hybrid car may help polluted city centres.</headline>
+<dateline>BIRMINGHAM, England 1996-09-11</dateline>
+<text>
+<p>Roadside radio beacons could be used to enforce pollution-free zones in city centres by automatically switching specially-designed cars to battery power, a British engineer said on Wednesday.</p>
+<p>Hybrid taxis could run on relatively pollution-free natural gas outside smog black spots, using batteries in designated zero- emission zones, James Randle of the University of Birmingham told a scientific conference.</p>
+<p>Randle also presented plans for a small, sporty car that could run on similar lines.</p>
+<p>He had based his designs on the assumption that cities and towns would soon impose &quot;zero-emission&quot; zones.</p>
+<p>The beacons could be designed like road-pricing schemes, which use kerbside sensors to read bar codes on passing cars.</p>
+<p>Both vehicles were a far cry from the slow and easily exhausted cars that often come to mind when environmentally correct motor design is discussed. &quot;The performance can be quite remarkable,&quot; said Randle, a former engineer at Jaguar Cars.</p>
+<p>The taxi could run for as long as three hours on its 370 kg (816 lb) of batteries before needing a re-charge.</p>
+<p>&quot;You just want it to stop the engine running in areas where it is not running efficiently,&quot; he said -- for example in a traffic jam. It would automatically recognise when it was time to run off the battery.</p>
+<p>Batteries would be charged by a generator while the car was running, so there would be no need to plug it into the mains.</p>
+<p>But he doubted manufacturers would make such a car unless they were forced to by new legislation.</p>
+<p>Many companies have been working on hybrid-type engines but Randle said he thought his design was especially efficient.</p>
+<p>&quot;It's actually quite quick,&quot; he said. &quot;It goes from zero to 60 miles (96.56 km) per hour in 12 seconds without the battery.&quot;</p>
+<p>With the battery it could get to 60 mph in 10 seconds.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BIRMINGHAM, England"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

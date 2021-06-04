@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="82290" id="root" date="1996-09-27" xml:lang="en">
+<title>USA: U.S. FDA body rejects BASF weight loss drug.</title>
+<headline>U.S. FDA body rejects BASF weight loss drug.</headline>
+<dateline>WASHINGTON 1996-09-26</dateline>
+<text>
+<p>A U.S. advisory committee on Thursday recommended that the Food and Drug Administration should withould approval for a new BASF AG treatment called Meridia for weight loss and maintenance of loss for the medically obese.</p>
+<p>Members of the Endocrinologic and Metabolic Drugs Advisory Committee agreed that the one-a-day anti-obesity capsules were effective but said they still had a number of questions about its safety.</p>
+<p>The FDA is not bound by the recommendations of its advisory committees, but usually accepts them.</p>
+<p>Doctors involved in trials of the drug, made by BASF's Knoll Pharmaceutical Co., said it had been shown to reduce patient weight by at least five to 10 percent. Meridia, which acts to depress appetite, should be used in conjuction with increased exercise and a modified diet, they said.</p>
+<p>Scientists said that according to the last census, some one-third of American adults are medically overweight, up from 25 percent 10 years before.</p>
+<p>The drug is not for cosmetic weight loss, they added.  </p>
+<p>The drug was described as the first in a new class of drugs -- serotonin and norepinephrine reuptake inhibitors, or SNRIs -- intented for obesity treatment.</p>
+<p>The only drug now on the market for long-term weight loss is Redux, made by Wyeth-Ayerst Laboratories, a unit of American Home Products Corp.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

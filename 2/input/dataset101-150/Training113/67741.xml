@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="67741" id="root" date="1996-09-20" xml:lang="en">
+<title>USA: Ford Motor offers to buy or sell odd lots.</title>
+<headline>Ford Motor offers to buy or sell odd lots.</headline>
+<dateline>DEARBORN, Mich. 1996-09-20</dateline>
+<text>
+<p>Ford Motor Co said Friday it is offering a plan through which shareholders owning fewer than 100 shares may either sell their holdings or purchase additional shares to bring them up to an even 100.</p>
+<p>There are about 1.1 billion shares of Ford common stock outstanding, including more than 277,000 individual shareholder accounts.</p>
+<p>About 121,000 shareholder accounts, or about 44 percent of the total, own fewer than 100 shares of Ford common stock. More than 74,000 shareholder accounts, or about 27 percent, own 25 shares or less, according to Ford.</p>
+<p>The program is voluntary.  Participants will pay a fee of $0.75 a share, up to a maximum of $50 per account.  Shares will be bought or sold on the open market through a broker.</p>
+<p>Ford will not be buying or selling any of the shares.</p>
+<p>Many shareholders continue to hold their shares because of the cost of brokerage commissions or because of the inconvenience of buying or selling in small amounts. Ford said this buy-sell program is conducted through the mail at a cost below standard brokerage commissions.</p>
+<p>Those eligible are being notified by mail and will have until October 21, 1996, to participate.</p>
+<p>	     Chicago newsdesk 312 408 8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DEARBORN, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

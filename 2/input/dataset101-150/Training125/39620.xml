@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="39620" id="root" date="1996-09-08" xml:lang="en">
+<title>UK: British Labour &quot;converts&quot; fear taxes - poll.</title>
+<headline>British Labour &quot;converts&quot; fear taxes - poll.</headline>
+<dateline>LONDON 1996-09-09</dateline>
+<text>
+<p>One in three British voters who have transferred their loyalties to the opposition Labour Party is worried about paying more taxes if it wins the next election, according to an opinion poll published on Monday.</p>
+<p>The Gallup Poll in the Daily Telegraph distinguishes between Labour voters who backed the party in the 1992 election and will do so again, and those who have switched to &quot;New Labour,&quot; as the leader Tony Blair styles the party.</p>
+<p>The poll shows that 29 percent of traditional Labour supporters fear a tax squeeze, while among New Labour voters, the figure rises to 38 percent.  </p>
+<p>The Telegraph, which traditionally backs the ruling Conservatives, said: &quot;It turns out that many New Labour voters are, at best, tepid in their support and even among Labour loyalists there are widespread doubts about what a Labour government could mean in practice.&quot;</p>
+<p>Amongs Labour loyalists, 22 percent worried that &quot;no-one really knows what Labour stands for,&quot; while among New Labour voters, the figure rose to 32 percent.</p>
+<p>Thirty-one percent of old Labour voters feared inflation might rise sharply under a Labour government, while 43 percent of New Labour converts voiced the same fear.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

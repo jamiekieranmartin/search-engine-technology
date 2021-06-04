@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="71368" id="root" date="1996-09-23" xml:lang="en">
+<title>GERMANY: German police investigate murder of 7-year-old.</title>
+<headline>German police investigate murder of 7-year-old.</headline>
+<dateline>AUGSBURG, Germany 1996-09-23</dateline>
+<text>
+<p>German police were on Monday investigating whether a seven-year-old girl found dead in a river had been raped by her kidnapper, a man freed a year ago after serving three years of a five-year term for child abuse.</p>
+<p>Natalie Astner was kidnapped on her way to school last Friday just 70 yards (metres) from her home in the southern German village of Epfach. Police divers found her naked body in a nearby river on Sunday.</p>
+<p>A 27-year-old electrician detained by police confessed to the abduction and told police where to find the body.</p>
+<p>The man denied having raped the girl but admitted abducting her and forcing her into the boot of his car.</p>
+<p>Investigators disclosed he had been released from prison early last year after serving just over three years for sexually abusing children.</p>
+<p>Europeans were shocked this summer when investigators discovered a paedophile gang had been responsible for the deaths of four girls and named the chief suspect as Belgian convicted child rapist Marc Dutroux.</p>
+<p>German police said they were treating Natalie Astner's death as an isolated incident and that there was no evidence of a link to other disappearances.</p>
+<p>They said the suspect said he was in financial trouble and decided on the spur of the moment to kidnap a child. To stop her screams for help, he pressed her mouth and nose with his hand until she lost consciousness.</p>
+<p>He said he did not know whether she was alive or dead when he stripped her clothes off and threw her body into the river.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AUGSBURG, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

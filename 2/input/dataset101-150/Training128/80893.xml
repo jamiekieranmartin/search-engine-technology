@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="80893" id="root" date="1996-09-27" xml:lang="en">
+<title>USA: Children's Broadcasting seeks more shares.</title>
+<headline>Children's Broadcasting seeks more shares.</headline>
+<dateline>CHICAGO 1996-09-27</dateline>
+<text>
+<p>Children's Broadcasting Corp in a proxy for its September 30 annual meeting said it seeks shareholder approval to increase the number of authorized shares to 50 million from 12.5 million.</p>
+<p>It also seeks approval to amend its 1994 Stock Option Plan by increasing the number of shares reserved under that plan to one million from 250,000.</p>
+<p>At August 15, 1996, there were 5.6 million shares of common stock outstanding and 2.7 million shares reserved for use with stock options, warrants or conversion of convertible debt.</p>
+<p>Children's Broadcasting, a children's radio programming network headquartered in Minneapolis, said it has no specific plans to use the additional authorized shares it seeks.</p>
+<p>	   -- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

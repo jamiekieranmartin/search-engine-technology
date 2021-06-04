@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="22407" id="root" date="1996-08-29" xml:lang="en">
+<title>UK: Britain hails report mad cow crisis over by 2001.</title>
+<headline>Britain hails report mad cow crisis over by 2001.</headline>
+<byline>Patricia Reaney</byline>
+<dateline>LONDON 1996-08-29</dateline>
+<text>
+<p>Britain on Thursday welcomed a report predicting the mad cow epidemic will be over by 2001 and agreed to discuss farmers' demands for an end to a mass cattle slaughter, at a meeting next week.</p>
+<p>But the government did not plan any immediate action following the prediction by Oxford University scientists that mad cow disease would decline naturally without the planned slaughter of 147,000 cattle.</p>
+<p>The scientists' report said 700,000 cattle infected with mad cow disease had been eaten, raising fears that an epidemic of Creutzfeldt-Jakob Diease, the human form of the fatal brain-wasting ailment, could follow.</p>
+<p>Agriculture Minister Angela Browning said the government was already rethinking its culling policy following information announced earlier this month that the disease can be passed on from cows to their calves.</p>
+<p>&quot;This report will have to be taken in account. We will obviously want to talk not only to the (European) commission, but domestically as well to the farmers' organisation about this new information,&quot; she told BBC television.</p>
+<p>A spokesman for the British Agriculture Ministry said it would be happy to dissus the report in the scientific journal Nature with members of the National Farmers Union.</p>
+<p>&quot;There is a meeting (with the NFU) next week,&quot; he told Reuters, adding that it had been planned before the latest news broke. &quot;We are not having any special meetings. They will address the issue there.&quot;</p>
+<p>NFU president Sir David Naish, citing the Nature report, called for an urgent meeting and said the government should reconsider its strategy.</p>
+<p>&quot;The new evidence to me means some of that proposal should be re-examined because we could get away with considerably less animals being culled if in fact scientists throughout Europe accepted this evidence,&quot; he told BBC radio.</p>
+<p>The row over mad cow disease broke out in March after the government acknowledged there could be a link between Bovine Spongiform Encephalopathy (BSE) or mad cow and Creutzfeldt-Jakob Disease, the human form of the disease.</p>
+<p>The European Union issued a ban on British beef and by-products which caused a serious rift with London and resulted in British ministers blocking EU business on the orders of Prime Minister John Major.</p>
+<p>Britain reluctantly agreed to the mass cull in exchange for EU ministers agreeing to a step-by-step lifting of the ban.</p>
+<p>&quot;I have been saying consistently since the selective cull was proposed that we didn't believe it was scientifically based. It was a political expedient to satisfy some of the other member states in Europe, going as far as it did,&quot; said Naish.</p>
+<p>Bob Stevenson, a member of the British Veterinary Association, added its support to calls for a re-evaluation.</p>
+<p>&quot;I have every confidence in the paper. These are independent researchers at Oxford University...I think the researchers have got it right and the politicians have actually got it wrong. The politicians need to recognise that and come back with a better scheme,&quot; he told Sky Television.</p>
+<p>Despite the latest findings Brussels offered little hope that it would agree to a change in the policy for dealing with BSE.</p>
+<p>&quot;We agreed that following detailed scientific analysis using a methodology which would take out the maximum number of BSE cases possible. I think it would be very difficult to sell to the European Commission a programme which would involve the elimination of fewer BSE cases,&quot; European Commision spokesman Gerard Kiely said in Brussels.</p>
+<p>According to the Oxford scientists BSE is a self-eliminating disease. They predicted there would be 340 new infections and 14,000 new cases of BSE before 2001.</p>
+<p>They said about 446,000 infected animals were eaten before the use of infected organs was banned in 1989, and 283,000 more before restrictions were tightened last December. But they could not predict how many people would get CJD from eating infected beef.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="I0100105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="I41220">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="G153">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

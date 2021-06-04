@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="50366" id="root" date="1996-09-12" xml:lang="en">
+<title>UK: Britain to consult EU on new BSE evidence.</title>
+<headline>Britain to consult EU on new BSE evidence.</headline>
+<dateline>LONDON 1996-09-12</dateline>
+<text>
+<p>Britain agreed on Thursday that new scientific findings on &quot;mad cow disease&quot;, suggesting it is less serious than previously thought, should be reviewed with the EU Commission.</p>
+<p>The decision, taken at a meeting of cabinet ministers, ended speculation that Britain might be about to unilaterally scale down a massive cattle cull which it had agreed with Brussels as the price of a gradual ending of a ban on its beef exports.  </p>
+<p>&quot;Ministers noted that the scientific findings represent new factors which must be reviewed with the Commission,&quot; a statement issued by Prime Minister John Major's office said.</p>
+<p>The meeting looked at new scientific evidence suggesting that maternal transmission of Bovine Spongiform Encephalopathy was likely to be extremely rare and analysis suggesting BSE, or &quot;mad cow disease&quot;, could die out in Britain within five years.</p>
+<p>It said the new evidence should be evaluated in the light of the agreement at the EU summit in Florence in June that a ban on British beef exports should be gradually lifted &quot;on the basis of objective scientific criteria&quot;.</p>
+<p>Britain is at present committed to slaughter 147,000 cattle in order to eliminate BSE, after alarm in continental Europe at scientific evidence that the disease could be passed on to humans.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I0100105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I41220">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="G153">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

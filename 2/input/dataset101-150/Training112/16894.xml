@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="16894" id="root" date="1996-08-27" xml:lang="en">
+<title>USA: Amtrak train derails, three injured - officials.</title>
+<headline>Amtrak train derails, three injured - officials.</headline>
+<dateline>MONTPELIER, Vt. 1996-08-27</dateline>
+<text>
+<p>At least three people were injured when an Amtrak passenger train slammed into an empty logging truck and derailed Tuesday, officials said.</p>
+<p>The Vermonter, which runs between St. Albans, Vermont, near the Canadian border and Washington, D.C., collided with the truck at 7:51 a.m. EDT near the rural town of Roxbury some 15 miles southeast of the state capital Montpelier, Amtrak spokeswoman Maureen Garrity said.</p>
+<p>Vermont Central Hospital spokesman Dan Pudvah said two of the injured were treated there -- the truck driver, who was suffering from multiple trauma injuries, and a passenger. Pudvah said he understood other people with minor injuries were being treated at the scene. Garrity said a train conductor was also injured.</p>
+<p>The train's engine and its six cars derailed but were still standing, state police said.</p>
+<p>The exact number of passangers on the train was not known. &quot;We had 70 reservations for the train, but that doesn't mean there were 70 passengers aboard,&quot; Garrity said.</p>
+<p>Uninjured passengers were to be taken by bus to Springfield, Massachusetts, where they will be put aboard another train to continue their journey to New York City and Washington, Garrity said.</p>
+<p>She said the train was travelling at 54 mph when it crashed into the truck, which was crossing the tracks onto a dirt road in the rural area bordering the Northfield Mountains.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONTPELIER, Vt."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

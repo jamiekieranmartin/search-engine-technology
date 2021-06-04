@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="58209" id="root" date="1996-09-17" xml:lang="en">
+<title>MEXICO: Mexico says '95 tourism revenues to total $6.3 bln.</title>
+<headline>Mexico says '95 tourism revenues to total $6.3 bln.</headline>
+<dateline>MEXICO CITY 1996-09-17</dateline>
+<text>
+<p>Mexico's revenues from tourism totalled $6.3 billion in 1995, said Minister of Tourism Silvia Hernandez.</p>
+<p>&quot;Last year Mexico broke an international record by chalking up the highest growth rate world wide...in terms of visiting tourists,&quot; Hernandez said.</p>
+<p>Last year's growth allowed Mexico to climb from 18th to 10th place in the world ranking of tourist destinations, she said.</p>
+<p>Hernandez denied that the flow of tourists had been undermined by the appearance of armed groups, like the Zapatista National Liberation Army (EZLN) in 1994 and the Popular Revolutionary Army (EPR) in 1996.</p>
+<p>&quot;The last two years have seen more growth in tourism,&quot; Hernandez said.</p>
+<p>Another factor which undoubtedly contributed to a greater flow of tourists to Mexico in 1995 was that the country became a much cheaper destination following the abrupt devaluation of the peso in December 1994.</p>
+<p>-- Jacqueline Lerma, Mexico City newsroom +525 728-9593</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="E511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="GTOUR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

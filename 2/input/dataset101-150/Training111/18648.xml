@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="18648" id="root" date="1996-08-28" xml:lang="en">
+<title>USA: Group urges bigger IPO slice for small investors.</title>
+<headline>Group urges bigger IPO slice for small investors.</headline>
+<dateline>WASHINGTON 1996-08-28</dateline>
+<text>
+<p>An investor advocacy group on Wednesday urged Wall Street's largest stock underwriters to earmark up to 25 percent of initial public offerings to small investors, up from about from 10 percent currently.</p>
+<p>The National Council of Individual Investors said it is directing a petition to 25 of the nation's largest stock underwriters on behalf of tens of thousands of investors.  </p>
+<p>&quot;It's time for investors to demand an end to the unfair, two-tiered system for new stock offerings that reserves the easiest profits for institutions and the ultra-wealthy, and then leaves small investors nothing more than the scraps in the aftermarket.&quot; said Geri Detweiler, NCCI policy director.</p>
+<p>Detweiler said small investors are &quot;locked out of big returns when the IPO market is booming&quot; and &quot;let in only when new issues are at their highest price.&quot;  </p>
+<p>Based on the value of new stocks issued in 1995, NCII said if small investors had been allowed to buy at least 25 percent of those new issues, those investors could have been gained stock profits of up to $2.7 billion .</p>
+<p>But with only about 15 percent of the new stocks getting into small investors' hands, NCII said those investors were limited to a maximum possible year-end profit of $1.6 billion, thus depriving them of potential profits of $1.1 billion, NCII said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

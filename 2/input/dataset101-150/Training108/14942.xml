@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="14942" id="root" date="1996-08-26" xml:lang="en">
+<title>USA: Neurogen says trial shows obesity drug safe.</title>
+<headline>Neurogen says trial shows obesity drug safe.</headline>
+<dateline>BRANFORD, Conn. 1996-08-26</dateline>
+<text>
+<p>Neurogen Corp said on Monday that in a Phase I clinical trial, its obesity drug NGD 95-1 has proved safe and well tolerated across a broad dose range.</p>
+<p>The drug is being co-developed with Pfizer Inc. Neurogen is conducting Phase I clinical trials under Pfizer's auspices under a collaborative agreement concluded in November 1995, the company said.  </p>
+<p>Neurogen said it plans to initiate a follow on Phase I multiple dosing safety study early in 1997 and expects Pfizer to start Phase II studies to determine the drug's efficacy sometime in mid-1997.</p>
+<p>NGD 95-1 is an orally active small molecule antagonist of NPY receptors, which are strongly linked to appetite. It is used for the treatment of eating disorders, including obesity and binge eating disorders, the company said. The Phase I trial was conducted on over 75 overweight but otherwise healthy volunteers, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRANFORD, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

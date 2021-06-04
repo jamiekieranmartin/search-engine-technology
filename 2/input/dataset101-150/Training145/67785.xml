@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="67785" id="root" date="1996-09-20" xml:lang="en">
+<title>USA: Continental jetliner stuck in mud in Houston.</title>
+<headline>Continental jetliner stuck in mud in Houston.</headline>
+<dateline>HOUSTON 1996-09-19</dateline>
+<text>
+<p>A Continental Airlines DC-10 with 178 passengers and crew got stuck in the mud as it taxied to a terminal at Houston Intercontinental Airport on Thursday, an airline spokeswoman said.</p>
+<p>After landing safely following a trans-Atlantic flight from London, passengers on Continental Airlines Flight 5 were stranded briefly after the right gear assembly of the huge jetliner was steered off the taxiway and sank in mud created by heavy rains from an overnight storm, the spokeswoman said.</p>
+<p>The accident occurred after airport ground controllers asked the pilot to reposition the jetliner on a side taxiway at the north end of the airport, she said.</p>
+<p>&quot;That's a pretty narrow taxiway for a DC-10,&quot; said Continental spokeswoman Sarah Anthony.</p>
+<p>There were no injuries and the 164 passengers on board were bused to the terminal to clear U.S. Customs, she said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

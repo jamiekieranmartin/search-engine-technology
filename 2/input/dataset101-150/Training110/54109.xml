@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="54109" id="root" date="1996-09-14" xml:lang="en">
+<title>ISRAEL: Israel to demolish homes of 12 Arab families.</title>
+<headline>Israel to demolish homes of 12 Arab families.</headline>
+<dateline>JERUSALEM 1996-09-14</dateline>
+<text>
+<p>Israel has told 12 Arab families in a West Bank village on the outskirts of Jerusalem that their homes will be demolished because they were built without permits, a Palestinian human rights group said on Saturday.</p>
+<p>The Palestinian Society for the Protection of Human Rights and the Environment accused Israel of trying to &quot;eliminate the native Arab population in Jerusalem&quot;.</p>
+<p>It said the houses, located in Sur Baher village which straddles the occupied West Bank, were slated to be demolished in October.</p>
+<p>Israeli officials were unavailable for comment.</p>
+<p>&quot;Over the last month, 12 families from the village of Sur Baher in southern Jerusalem received demolition orders against their houses for having no building permits, threatening to displace some 20 people,&quot; the human rights group said.</p>
+<p>Israel captured Arab East Jerusalem in the 1967 Middle East war and annexed it. It says it will never cede any part of the city. Palestinians want East Jerusalem as capital of a future state.</p>
+<p>The status of the city is up for negotiation at final peace talks which have yet to resume since the May election of Israeli Prime Minister Benjamin Netanyahu.</p>
+<p>Israel has demolished more than 120 Arab homes in the West Bank and East Jerusalem since it signed the Oslo peace accords with the Palestine Liberation Organisation in 1993.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-14"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERUSALEM"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

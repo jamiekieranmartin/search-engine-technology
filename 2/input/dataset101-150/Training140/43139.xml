@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="43139" id="root" date="1996-09-10" xml:lang="en">
+<title>USA: Green Oasis, M&amp;K Chemical enter agreement.</title>
+<headline>Green Oasis, M&amp;K Chemical enter agreement.</headline>
+<dateline>CHARLESTON, S.C. 1996-09-10</dateline>
+<text>
+<p>Green Oasis Environmental Inc said on Tuesday that it entered into a strategic business relationship with M &amp; K Chemical Engineering Consultants Inc.</p>
+<p>M &amp; K Chemical Engineering agreed to provide the Green Oasis Environmental with its technical needs, ranging from project engineering and process modeling and simulation to environmental engineering. -- New York Newsdesk 212-859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHARLESTON, S.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

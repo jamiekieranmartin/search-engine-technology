@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="73397" id="root" date="1996-09-24" xml:lang="en">
+<title>UK: Violent crime rises in England and Wales.</title>
+<headline>Violent crime rises in England and Wales.</headline>
+<dateline>LONDON 1996-09-24</dateline>
+<text>
+<p>Crime rose in England and Wales for the first time in two years, the government reported on Tuesday, with the biggest increase in violent crimes like assault and rape.</p>
+<p>The Home Office (interior ministry) reported overall recorded crimes had risen 0.4 percent in the year to June.</p>
+<p>&quot;This compares to the 12 months to June 1995 which saw a fall of five per cent and the 12 months to June 1994 in which recorded crime fell by 5.5 per cent,&quot; it said in a statement.</p>
+<p>The rise was certain to embarrass the Conservative government of Prime Minister John Major, ahead of his party's annual conference next month. Crime has been a big issue in British politics and is likely to figure highly as a general election, due by next May, approaches.</p>
+<p>The number of violent crimes had risen 10 percent, with assaults, rapes and muggings all on the increase.</p>
+<p>But police said violent crimes are still rare in Britain, making up only six percent of all crimes.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

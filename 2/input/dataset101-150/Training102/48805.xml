@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="48805" id="root" date="1996-09-12" xml:lang="en">
+<title>UK: N.Ireland prisoners to stage play - on parole.</title>
+<headline>N.Ireland prisoners to stage play - on parole.</headline>
+<dateline>BELFAST 1996-09-12</dateline>
+<text>
+<p>Republican prisoners on parole from Northern Ireland's top-security Maze prison will take part in a play this weekend inspired by hunger-striker Bobby Sands, who starved himself to death for a united Ireland.</p>
+<p>A spokesman for the Northern Ireland prison service said the men had not been freed on parole specifically to take part in the play but had been allowed out under normal parole rules.</p>
+<p>The group timed its application for parole to coincide with the staging this weekend of &quot;The Crime of Castlereagh,&quot; a play based on poetry by Sands, who died in a hunger-strike to win political status for jailed Irish Republicans.</p>
+<p>It has already been staged inside the Maze prison by a cast of its inmates, two of whom have since been freed and will be in the cast of Saturday's performance.</p>
+<p>They will be joined by former associates from the Maze prison near Belfast where they are serving sentences for security offences linked to anti-British violence.</p>
+<p>Sands is idolised by Irish Republicans, who want an end to British rule of Northern Ireland, for his fatal fast in a vain protest to win political prisoner status.</p>
+<p>Castlereagh is the main holding station of the Royal Ulster Constabulary police force, which is despised by Republicans because they see it as a tool of continued rule by pro-British Protestants.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BELFAST"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

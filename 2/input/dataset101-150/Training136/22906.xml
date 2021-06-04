@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="22906" id="root" date="1996-08-29" xml:lang="en">
+<title>SINGAPORE: Singapore shares end flat in mixed trade.</title>
+<headline>Singapore shares end flat in mixed trade.</headline>
+<dateline>SINGAPORE 1996-08-29</dateline>
+<text>
+<p>Singapore shares finished slightly up on Thursday in mixed trading, dealers said.</p>
+<p>They said blue chips edged lower at the close with Singapore Press foreign leading the losers as the market expected its interim results to be affected by a drop in advertising volume.</p>
+<p>It dropped Singapore $0.30 to S$24.50. The UOB Blue Chip index fell 0.80 points to 938.01.</p>
+<p>But the local tranche of Singapore Press shares rose S$0.40 to S$3.40, leading the key Straits Times Industrials Index to finish up 2.77 points at 2,162.65.</p>
+<p>Market volume was a thin 81.41 million with declines ahead of advances by 183 to 111.</p>
+<p>Dealers said there was some switching of property stocks resulting in City Development and DBS Land posting marginal gains of S$0.14 and S$0.10 respectively. Singapore Land, however, eased S$0.20 to S$9.40.</p>
+<p>Property and healthcare company Parkway Holdings was the latest target of a takeover rumour. Company official declined comment on the talk.</p>
+<p>It topped the actives with 2.83 million shares traded, and rose S$0.04 to S$4.46.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

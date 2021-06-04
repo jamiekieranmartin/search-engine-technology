@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32232" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Trans World Airlines August load factor up.</title>
+<headline>Trans World Airlines August load factor up.</headline>
+<dateline>ST. LOUIS 1996-09-04</dateline>
+<text>
+<p>1996		  1995</p>
+<p> Load factor - percent     74.2		74.1</p>
+<p> Revenue passenger miles   2,965.3	   2,696.5</p>
+<p> Available seat miles	3,996.6	   3,640.8</p>
+<p>					    Year-to-date</p>
+<p> Load factor - percent     69.0		66.8</p>
+<p> Revenue passenger miles   18,833.7	  16,944.8</p>
+<p> Available seat miles	27,309.9	  25,348.1</p>
+<p>(Revenue passenger and available seat miles in 000,000s)</p>
+<p>NOTE: Full co name is Trans World Airlines Inc.</p>
+<p>--Chicago Newsdesk 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. LOUIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="85236" id="root" date="1996-09-30" xml:lang="en">
+<title>USA: Senators trying to reach deal to pass parks bill.</title>
+<headline>Senators trying to reach deal to pass parks bill.</headline>
+<dateline>WASHINGTON 1996-09-30</dateline>
+<text>
+<p>Hoping to recess for the year, lawmakers on Monday tried to cobble together a compromise plan that could clear the Senate to expand the national parks system.</p>
+<p>&quot;The negotiations are at a very delicate stage,&quot; said an aide to California Democratic Sen. Barbara Boxer, who was pushing to have the Senate pass the parks bill that the House approved over the weekend.</p>
+<p>If the Senate passed that bill -- which also had the backing of the White House -- the bill would be ready to send on to President Clinton for his signature.</p>
+<p>However, congressional sources said Senate Energy and Natural Resources Committee Chairman Frank Murkowski, who sponsored the Senate bill, was holding out for some provisions to continue a contract held by a timber company that has exclusive access to timber in Alaska's Tongass National Forest.</p>
+<p>Murkowski, an Alaska Republican, has pushed for language to continue the contract, which the administration opposes. The House bill dropped the Tongass logging contract provisions.</p>
+<p>The House over the weekend passed a stripped-down version of the parks bill that deleted almost all of the measures that had generated the earlier White House veto threat.</p>
+<p>&quot;The bill includes my top priorities for parks legislation. That is, it includes provisions to improve the management of the Presidio in San Francisco, help acquire the Sterling Forest in the New York/New Jersey Highlands region, and establish the Tallgrass Prairie National Preserve in Kansas,&quot; President Clinton said in a statement on Sunday, the day after the House vote.</p>
+<p>The House bill also deleted a controversial plan opposed by environmental groups that would have allowed corporations to become licensed sponsors of national parks to help raise money to tackle the $4 billion backlog in parks facilities repairs.</p>
+<p>Senate Majority Leader Trent Lott of Mississippi earlier told reporters the bill would be brought up with a proposal to reinstate several projects, but he said he was not sure the House, Senate Democrats or the White House would agree to it.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

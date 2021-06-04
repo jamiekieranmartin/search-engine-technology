@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="28354" id="root" date="1996-09-02" xml:lang="en">
+<title>MOROCCO: PRESS DIGEST - Morocco - Sept 2.</title>
+<headline>PRESS DIGEST - Morocco - Sept 2.</headline>
+<dateline>RABAT 1996-09-02</dateline>
+<text>
+<p>These are the leading stories in the Moroccan press on Monday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>AL-BAYANE</p>
+<p>- More than third of foreigners' requests in Spain for residence permits come from Moroccans.</p>
+<p>LIBERATION</p>
+<p>- Gas price expected to rise on world market and this could affect local businesses.</p>
+<p>AL-ALAM</p>
+<p>- World Bank report says illiteracy puts Morocco at 119th rank. The report advises the education ministry to take over building schools -- rather than local communities -- to curb corruption and embezzlement.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RABAT"/>
+<dc element="dc.creator.location.country.name" value="MOROCCO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

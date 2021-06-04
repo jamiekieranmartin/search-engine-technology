@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="73012" id="root" date="1996-09-24" xml:lang="en">
+<title>FRANCE: France to pay for calf slaughter in mad cow crisis.</title>
+<headline>France to pay for calf slaughter in mad cow crisis.</headline>
+<dateline>PARIS 1996-09-24</dateline>
+<text>
+<p>France offered on Tuesday to pay farmers to let calves be slaughtered and made into animal feed in a scheme to prop up markets hit by the mad cow crisis and overproduction of beef.</p>
+<p>&quot;This is one of the first measures to control production of beef and thereby contribute to bringing markets back into balance,&quot; the Agriculture Ministry said, euphemistically calling the slaughter a &quot;transformation process&quot;.</p>
+<p>A statement said farmers would be paid 798.5 francs ($156) for each calf up to 20 days old they decided to have &quot;transformed&quot;. Slaughtered calves would end up as feed for other farm animals such as pigs and chickens, officials said.</p>
+<p>The French meat office OFIVAL said France was the third European Union nation, after Britain and Portugal, to introduce such a slaughter, removing the calves from markets for human consumption.</p>
+<p>The agriculture ministry says it is illegal to feed the slaughtered calves' meat to cows and other ruminants, but it is allowed in the case of omnivores.</p>
+<p>France was the first foreign country to ban imports of British beef in March after London said there might be a link between mad cow disease, or bovine spongiform encephalopathy (BSE) and its human equivalent, Creutzfeldt-Jacob Disease (CJD).</p>
+<p>Britain is by far the nation hardest hit by mad cow disease.</p>
+<p>But beef consumption fell sharply around the world after the announcement.</p>
+<p>OFIVAL, in charge of carrying out the slaughter, said the measures were mainly aimed at cutting the numbers of male calves born of dairy cows.</p>
+<p>The ministry set no limit on the size of the slaughter. France has an estimated four million dairy cows and more than four million calves. ($1=5.1330 francs)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="I0100105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="I41220">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

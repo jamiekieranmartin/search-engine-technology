@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="58293" id="root" date="1996-09-17" xml:lang="en">
+<title>SOUTH KOREA: S.Korean troops exchange fire with infiltrators.</title>
+<headline>S.Korean troops exchange fire with infiltrators.</headline>
+<dateline>SEOUL 1996-09-18</dateline>
+<text>
+<p>South Korean troops exchanged gunfire on Wednesday with suspected North Korean infiltrators who sneaked into the country in a small submarine, Yonhap television reported.  </p>
+<p>The television said the clash occurred on a hill near the eastern city of Kangung. It gave no further details.</p>
+<p>A Defence Ministry spokesman said he could not confirm the report.</p>
+<p>Earlier, the spokesman said troops and helicopters were hunting for suspected North Korean infiltrators after a submarine was found grounded off a beach near the border with North Korea.</p>
+<p>State television quoted witnesses as saying five or six men dressed in military uniforms had been heading inland.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

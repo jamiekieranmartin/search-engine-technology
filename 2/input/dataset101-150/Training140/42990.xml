@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="42990" id="root" date="1996-09-10" xml:lang="en">
+<title>USA: IBM unveils next generation mainframes.</title>
+<headline>IBM unveils next generation mainframes.</headline>
+<byline>Therese Poletti</byline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>International Business Machines Corp. Tuesday introduced its next generation mainframe computer family, with systems twice as fast as currently available models, in a product launch widely anticipated by its customers.</p>
+<p>&quot;The feedback is phenomenal,&quot; said Ross Mauri, vice president of System 390 hardware developnment, in a phone interview. &quot;We have seen quite a bit of demand out there.&quot;</p>
+<p>&quot;Customers have been enthusiastic about embracing the new server,&quot; Mauri said, adding that it is likely that IBM will be &quot;sold out of what we can produce this year,&quot; based on the initial customer reaction.</p>
+<p>Mainframes are giant computers that store the data of the biggest corporations around the world. They are used by banks for transactions, by airlines for reservations systems, and by insurance companies for claims processing.</p>
+<p>While many analysts have predicted the demise of these giant computers as more companies move to PC-based networks, mainframes have staged somewhat of a comeback as huge repositories of data that is accessible via the Internet and internal networks known as intranets.</p>
+<p>The new mainframe servers use the third generation of IBM's lower-cost processor technology, called CMOS. The CMOS (complementary metal oxide semiconductor) technology is a process that uses microprocessor technology that is less costly to build and less expensive for customers to maintain.</p>
+<p>IBM introduced two new lines of System 390 servers, or computers that manage networks.</p>
+<p>One family, called the IBM S/390 Parallel Entreprise Server, has 13 models designed specifically for heavy data storage and for transaction intensive companies.</p>
+<p>The second server line, the IBM S/390 Multiprise 2000, is aimed at medium-sized customers who are currently using IBM S/390 mainframes, but wish to increase their computing power. The Multiprise is also aimed at customers who wish to buy an entire package, with software and storage systems.</p>
+<p>So far, IBM has installed about 14 of the S/390 Parallel Enterprise Servers - Generation 3 in an early customer program. IBM has also installed three of the S/390 Multiprise.</p>
+<p>IBM also said it introduced an upgrade of its mainframe operating system, called OS/390 Release 2, which provides more connectivity for customers to computer networks such as the Internet and UNIX based systems. IBM also introduced other software products for better network computing over the S/390.</p>
+<p>IBM also introduced new mainframe disk storage products for improved data reliabilty.</p>
+<p>IBM declined to give any price details on the new models, saying that it tailors each systems to unique customer needs and that customers are now familiar with the lower prices of CMOS-based mainframes.</p>
+<p>&quot;As you make the transition from bipolar to CMOS, you see a significant price reduction,&quot; said Mauri. &quot;Customers already have an understanding of that.&quot;</p>
+<p>Bipolar refers to the process technology that IBM used in its older mainframe models. Three years ago, IBM began preparing its customers for a big transition to a new, lower-cost machine, designed around microprocessors.</p>
+<p>Analysts said the new mainframes run at speeds of around 45 million instructions per second (MIPS), twice as fast as the currently available speeds of 22 million instructions per second for the fastest CMOS models, bringing the systems up to the speeds of the older bipolar machines, and at a lower cost.</p>
+<p>Even with the prices of these huge milllion dollar systems falling, mainframes are still IBM's biggest revenue producing hardware. Analysts are hoping for a big uptick in fourth quarter earnings, in part due to mainframes, because the lower-cost models are more profitable to IBM.</p>
+<p>&quot;These are all necessary announcements for IBM,&quot; said Gary Helmig, a SoundView Financial Group analyst, adding that the products are important to IBM's future earnings.</p>
+<p>IBM said the new models will be available next month.</p>
+<p>&quot;The mainframe as we once knew it, where MIPS were expensive, we are never going to see that again,&quot; said Sam Albert, an industry consultant in Scarsdale, N.Y. &quot;IBM has re-engineered the mainframe, they don't even want to call it a mainframe anymore, they call it a server.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

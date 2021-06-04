@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="38629" id="root" date="1996-09-06" xml:lang="en">
+<title>AUSTRALIA: RTRS - Australian new vehicle sales rise in August.</title>
+<headline>RTRS - Australian new vehicle sales rise in August.</headline>
+<dateline>SYDNEY 1996-09-06</dateline>
+<text>
+<p>Australian new motor vehicle sales rose 2.1 percent in August to 54,766 from 53,633 in July, the Federal Chamber of Automotive Industries (FCAI) said in its monthly VFACTS report issued on Friday.</p>
+<p>The FCAI said it had increased its 1996 sales estimate by 10,000 vehicles to 640,000, with 433,119 sold in the year to date.</p>
+<p>August 1996 sales were down 4.2 percent compared with the 57,165 vehicles sold in August 1995, while sales in the year to date were 562 vehicles or just 0.1 percent higher.  </p>
+<p>&quot;With August 1996 having the same number of selling days as August 1995 a softening in the market is obvious, however with July 1996 providing a higher than anticipated result, there could well have been some pull forward in July based on pre-budget speculation,&quot; the report said.</p>
+<p>General Motors-Holden was the market leader in August with 10,881 vehicles sold. Next was Ford Motor Co with 10,681 and Toyota Motor Co on 9,667.  </p>
+<p>Year-to-date, Ford held the top position with 20.0 percent of the total market, followed by GM with 19.9 percent and Toyota with 18.3 percent.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

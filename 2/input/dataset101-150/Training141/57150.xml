@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="57150" id="root" date="1996-09-16" xml:lang="en">
+<title>SINGAPORE: China-Singapore Suzhou Industrial Park signs loan.</title>
+<headline>China-Singapore Suzhou Industrial Park signs loan.</headline>
+<dateline>SINGAPORE 1996-09-16</dateline>
+<text>
+<p>The China-Singapore Suzhou Industrial Park Development Co Ltd has signed a US$65 million, four-year, transferable loan facility, arranger Citicorp Investment Bank (Singapore) Ltd said on Monday.</p>
+<p>The facility is guaranteed by Singapore-Suzhou Township Development Pte Ltd and proceeds will be used to part-finance the development of Districts One and Two of the industrial park.</p>
+<p>The park, in China's Jiangsu province, is being set up by Singapore and Chinese parties with backing from their respective governments.  </p>
+<p>David Lim Tik En, Chief Executive Officer of the borrower, told bankers attending the signing ceremony that to-date, 65 companies from 10 countries had committed to investing more than US$1.7 billion in the park.</p>
+<p>&quot;Judging from the type of projects which we have in our project pipeline, we are confident that many more world class multi-national corporations will announce decisions to invest in manufacturing activities (in the park) next year,&quot; he said.</p>
+<p>-- Singapore newsroom (65) 870-3080</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="C173">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

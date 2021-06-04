@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="75872" id="root" date="1996-09-25" xml:lang="en">
+<title>UNITED NATIONS: S. Korea reserves right to take incident to U.N.</title>
+<headline>S. Korea reserves right to take incident to U.N.</headline>
+<dateline>UNITED NATIONS 1996-09-25</dateline>
+<text>
+<p>South Korea reserved the right on Wednesday to raise with the Security Council last week's incursion into its waters by a North Korean submarine that put some 26 alleged infiltrators ashore.</p>
+<p>In a letter to the president of the council, South Korean U.N. envoy Park Soo Gil said so far one of the submarine's occupants had been captured alive, 11 found dead -- allegedly shot by their own leader -- and nine killed in exchanges of gunfire with South Korean troops. The rest remained at large.</p>
+<p>He called North Korea's explanation that the submarine ran aground while on routine training &quot;a pure fabrication&quot; and said the incident &quot;poses a serious threat to peace and security on and around the Korean peninsula.&quot;</p>
+<p>&quot;North Korea's dispatch of armed agents using a military submarine clearly constitutes a grave act of military provocation to the Republic of Korea,&quot; he said.</p>
+<p>&quot;In this regard I wish to reaffirm that my government reserves the right to raise this issue in the Security Council, whenever deemed necessary, upon the completion of the investigation by the authorities of the Korean government.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="UNITED NATIONS"/>
+<dc element="dc.creator.location.country.name" value="UNITED NATIONS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

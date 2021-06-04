@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="64393" id="root" date="1996-09-19" xml:lang="en">
+<title>USA: Gasoline prices drop on import talk.</title>
+<headline>Gasoline prices drop on import talk.</headline>
+<dateline>NEW YORK 1996-09-19</dateline>
+<text>
+<p>Gasoline futures prices in New York dropped sharply Thursday as talk of imports from Europe arriving on top of ample U.S. stocks fuelled concerns of oversupply, traders said.</p>
+<p>&quot;It's a combination of imports when we have ample supply, and the gasoline season being now over,&quot; said Gerald Samuels, managing director of ARB Oil.</p>
+<p>Gasoline for October delivery fell 1.74 cents to 61.32 cents a gallon on the New York Mercantile Exchange (NYMEX) after falling as low as 60.40 cents during the day.</p>
+<p>Gasoline demand traditionally peaks during the summer, and inventory draws during the season were considered lackluster by traders. Meanwhile, shipping sources have noticed a sharp increase in charters for gasoline shipments from Europe to the United States this month.</p>
+<p>But motorists may not soon see lower prices at the pump.</p>
+<p>The American Automile Association (AAA) said Tuesday that retail gasoline pump prices edged up in September, halting a three-month slide.</p>
+<p>In its Sept. 17 Fuel Gauge report, AAA said self-serve regular unleaded gasoline rose to an average $1.255 per gallon this month, up 0.2 cent from August. But the price was still 8.7 cents above year-ago levels.</p>
+<p>In other NYMEX trading on Thursday, October crude oil fell 35 cents to $23.54 a barrel and October heating oil slipped 1.10 cent to 66.77 cents a gallon on profit-taking.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

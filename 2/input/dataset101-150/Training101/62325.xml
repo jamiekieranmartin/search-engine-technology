@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="62325" id="root" date="1996-09-18" xml:lang="en">
+<title>USA: U.S. bill passed to fight economic espionage.</title>
+<headline>U.S. bill passed to fight economic espionage.</headline>
+<dateline>WASHINGTON 1996-09-17</dateline>
+<text>
+<p>The House of Representatives Tuesday voted to make the theft of U.S. trade secrets by foreign governments and companies a federal crime.</p>
+<p>Sponsors of the bill, which passed 399-3, said U.S. companies were losing $24 billion a year from the theft of computer software, technology and other intellectual property. They said current federal laws did not cover such crimes.</p>
+<p>&quot;The federal government has been frustrated in its efforts to combat these crimes because existing laws are insufficent. This bill gives federal agencies the tools they need to fight economic espionage,&quot; said Representative Stephen Buyer, an Indiana Republican.</p>
+<p>&quot;It will also send a clear message to foreign countries, including many of our allies,&quot; added Representative Charles Schumer, a New York Democrat. The FBI and CIA have said that several foreign countries, including France and Russia try to steal U.S. trade secrets.</p>
+<p>The bill now goes to the Senate.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

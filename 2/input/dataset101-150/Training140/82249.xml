@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="82249" id="root" date="1996-09-27" xml:lang="en">
+<title>USA: Computer models disagree on freeze in U.S. Midwest.</title>
+<headline>Computer models disagree on freeze in U.S. Midwest.</headline>
+<dateline>CHICAGO 1996-09-27</dateline>
+<text>
+<p>Computer forecasting models were in disagreement on whether freezing temperatures would reach the U.S. Midwest early next week, meteorologists said.</p>
+<p>&quot;Next week we have a whole bunch of question marks,&quot; said Weather Services Corp's Joel Burgio. &quot;If you believe the European model, there's a very strong cold air mass coming down&quot; across the Midwest Tuesday and Wednesday.</p>
+<p>The American model showed the cold air staying north.</p>
+<p>Burgio said he compromised and forecast freezing temperatures for areas of Wisconsin, Minnesota and northern Iowa Tuesday morning.  </p>
+<p>&quot;This particular forecaster is going with the American model,&quot; said Weather Express Chief Forecaster Fred Gesser.</p>
+<p>Over the weekend, meteorologists agreed temperatures would turn colder Saturday morning with lows in the 30s degrees Farenheit to the northwest with 40s F elsewhere.</p>
+<p>Gesser said scattered frost was possible in central Nebraska and northwest Iowa Saturday morning. Showers were expected to continue in Ohio Saturday.</p>
+<p>Sunday should be warmer and mostly dry with a few scattered showers possible, they said.  </p>
+<p>Longer-range forecasts were inconsistent as the American and European models suggested different patterns. Gesser said the American model showed another wet pattern next weekend.</p>
+<p>&quot;The American model has the potential for wetness next weekend in the western corn belt,&quot; he said.</p>
+<p>That could further delay harvest in Nebraska, he said.</p>
+<p>--Emily Kaiser 312-408-8749</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

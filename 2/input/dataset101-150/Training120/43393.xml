@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="43393" id="root" date="1996-09-10" xml:lang="en">
+<title>SOUTH AFRICA: Four workers killed in S.African mine accident.</title>
+<headline>Four workers killed in S.African mine accident.</headline>
+<dateline>JOHANNESBURG 1996-09-10</dateline>
+<text>
+<p>Four workers were killed and three injured at the Kloof Gold Mining Co Ltd's Leeudoorn division during an underground inspection on Monday night, a mine official said on Tuesday.</p>
+<p>Mine manager Willem Delport told reporters a commission of inquiry would be held into the cause of the accident after an initial examination yielded no clues.</p>
+<p>&quot;We actually couldn't find out at this stage what caused the accident,&quot; Delport said.</p>
+<p>The workers, who were employed by a company contracted by the mine, were about 2,700 metres  underground inspecting damages to an ore tunnel when a steel rope broke and a platform plunged down the shaft.</p>
+<p>Leeudoorn produced 1,544 kg of gold in the quarter to end June.</p>
+<p>-- Johannesburg newsroom, +27-11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="18879" id="root" date="1996-08-28" xml:lang="en">
+<title>UK: Butterflies flee global warming.</title>
+<headline>Butterflies flee global warming.</headline>
+<dateline>LONDON 1996-08-28</dateline>
+<text>
+<p>North American butterflies are fleeing north to escape the effects of global warming, a California ecologist reported on Wednesday.</p>
+<p>Camille Parmesan of the University of Santa Barbara examined past and present populations of Edith's checkerspot butterfly, known scientifically as Euphydryas editha.</p>
+<p>She found the insects were dying out in warmer areas and moving to cooler climes.</p>
+<p>&quot;Sites where previously recorded populations still existed were on average two degrees further north than sites where populations were extinct. Populations in Mexico were four times more likely to be extinct than those in Canada,&quot; she wrote in a letter to the scientific journal Nature.</p>
+<p>&quot;Net extinctions also significantly decreased with altitude.&quot;</p>
+<p>It would be clear whether global warming was affecting animal populations when more studies were done on different species, she said.</p>
+<p>&quot;Until this has been done, the evidence presented here provides the clearest indication to date that global climate warming is already influence species' distributions.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

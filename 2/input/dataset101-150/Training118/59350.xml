@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="59350" id="root" date="1996-09-17" xml:lang="en">
+<title>USA: Two lawyers withdraw from Dupont murder case.</title>
+<headline>Two lawyers withdraw from Dupont murder case.</headline>
+<dateline>MEDIA, Pa. 1996-09-16</dateline>
+<text>
+<p>Two defence lawyers for accused murderer and chemical heir John E. du Pont were told they could step down from the case after du Pont accussed them of plotting against him.</p>
+<p>Delaware County Judge Patricia Jenkins told lawyers Richard Sprague and William Lamb Monday they did not need her permission to withdraw from the defence after they sought it last week.</p>
+<p>Du Pont, charged with murdering Olympic champion wrestler David Schultz, had accused his lawyers of plotting against him with the Central Intelligence Agency.</p>
+<p>Authorities are deciding whether he is competent to stand trial for the murder of Schultz, who he is charged with shooting last January. Schultz was a wrestling coach.</p>
+<p>Du Pont family members also petitioned to assume control of his $80-million estate, charging he is incompetent. The relatives say du Pont has claimed to be the Dalai Lama for North America.</p>
+<p>If Sprague and Lamb leave the defence team, the trial may not start Sept. 30, as scheduled. It may also delay a hearing on du Pont's competence Friday.</p>
+<p>If the family wins its guardianship petition, they would have final say on hiring new lawyers.</p>
+<p>Du Pont, 58, remains in Delaware County Jail after defence lawyers lost an attempt to move him to a psychiatric hospital.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEDIA, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

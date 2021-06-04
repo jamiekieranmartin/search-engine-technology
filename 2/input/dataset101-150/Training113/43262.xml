@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="43262" id="root" date="1996-09-10" xml:lang="en">
+<title>USA: Ford Brazil performance to worsen in 2nd half.</title>
+<headline>Ford Brazil performance to worsen in 2nd half.</headline>
+<dateline>DETROIT 1996-09-10</dateline>
+<text>
+<p>Ford Motor Co said its financial performance in Brazil during the second half of 1996 will be &quot;substantially worse&quot; than during the first half of the year, reflecting difficulties in launching small car production in the country.</p>
+<p>Ford made the disclosure late Monday night in an 8-K filing with the Securities and Exchange Commission. The filing reverses a statement made by Ford last month that it expected production of the Ford Fiesta in Brazil to help improve the company's Brazilian performance in the second half as compared with the first half.  </p>
+<p>Although Ford does not break out separate financial results for Brazil, it posted a net loss of $129 million for all of its Latin American automotive operations in the first half of 1996. Brazil makes up the largest portion Ford's Latin American operations.</p>
+<p>The breakup of Ford's Autolatina joint venture with Volkswagen AG in 1995 left Ford without an entry in the critical Brazilian domestic small car market.  It quickly scrambled to launch production of a version of its Fiesta in Brazil but said the project has taken longer and proved more costly than expected.  </p>
+<p>The automaker also cited a lower market share as compounding its difficulties in the Brazilian market.</p>
+<p>Ford shares were down 1-1/8 to 30-3/4, following a conference call to analysts on the matter by Ford Chief Financial Officer John Devine.  Shares of General Motors Corp, which also has substantial Brazilian operations, are off 3/4 to 47-1/2. Shares of Chrysler Corp, which recently announced a $315 million plan for its first Brazilian assembly plant, were off 5/8 at 28-1/8.</p>
+<p>In its 8-K filing, Ford said:</p>
+<p>&quot;In its second quarter 10-Q Report, Ford reported that re-establishment of small car production in Brazil for production of a version of the Ford Fiesta should assist in improving Ford's performance in Brazil in the second half of 1996, compared with the first half of 1996.</p>
+<p>&quot;Because of continuing market changes including lower market share and a longer and more costly launch process in Brazil following the separation of Ford Brazil from the Autolatina joint venture with Volkswagen late last year, Ford now expects that its performance in Brazil in the second half of 1996 will be substantially worse than its performance in the first half of 1996.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

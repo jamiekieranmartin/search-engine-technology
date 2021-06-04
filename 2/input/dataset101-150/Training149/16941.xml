@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="16941" id="root" date="1996-08-27" xml:lang="en">
+<title>FRANCE: Paralympics an example for gloomy France-Juppe.</title>
+<headline>Paralympics an example for gloomy France-Juppe.</headline>
+<dateline>PARIS 1996-08-27</dateline>
+<text>
+<p>Prime Minister Alain Juppe on Tuesday hailed handicapped athletes who took part in Atlanta's Paralympic Games as an example for gloom-stricken France.</p>
+<p>&quot;What we hear every morning is gloom, resignation and scepticism...You are the opposite,&quot; Juppe told a successful French team at Paris airport as he welcomed them back from the games which followed the July-August Olympics.</p>
+<p>&quot;If you had been struck...by the disease of scepticism, gloom and resignation, you would not be here. You are a true example for the nation,&quot; he said.</p>
+<p>The French team won 95 medals in Atlanta, 35 of them gold.</p>
+<p>Opinion polls consistently show French voters pessimistic and fed up as the economy stagnates and unemployement lingers at near-record levels.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

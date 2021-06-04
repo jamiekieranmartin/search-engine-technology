@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="71223" id="root" date="1996-09-23" xml:lang="en">
+<title>USA: Duke shuts Oconee 2 S.C. power plant.</title>
+<headline>Duke shuts Oconee 2 S.C. power plant.</headline>
+<dateline>NEW YORK 1996-09-23</dateline>
+<text>
+<p>Duke Power Co shut its 846 megawatt (MW) Oconee 2 nuclear power plant in Seneca, S.C., over the weekend to repair a leaking valve, the Nuclear Regulatory Commission (NRC) said Monday.</p>
+<p>The NRC report said the unit, being kept on hot standby, was expected to begin restart operations later today.</p>
+<p>The adjacent Oconee units 1 and 3, also rated at 846 ME each, are operating at full power, the NRC said.</p>
+<p>Duke is the operator and sole owner of all three Oconee units.</p>
+<p>-- New York Power Desk + 1 212 859 1622</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

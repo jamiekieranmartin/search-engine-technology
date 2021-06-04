@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="16827" id="root" date="1996-08-27" xml:lang="en">
+<title>USA: Farrakhan seeks U.S. okay for $1 billion Libyan gift.</title>
+<headline>Farrakhan seeks U.S. okay for $1 billion Libyan gift.</headline>
+<dateline>CHICAGO 1996-08-27</dateline>
+<text>
+<p>Nation of Islam leader Louis Farrakhan, saying he will return to Libya to accept a $250,000 prize, has applied to the U.S. government for permission to receive a much larger $1 billion gift from Muammar Gaddafi.</p>
+<p>In a statement, the Chicago-based Nation of Islam said the church would answer questions about the charitable gift application to the Treasury Department.</p>
+<p>Treasury Department officials would not explicitly confirm Farrakhan's application to the department's Office of Foreign Assets Control. Permission is needed because of U.S. travel and trade restrictions to Libya, imposed in 1986 because of Libya's alleged sponsorship of international terrorism.</p>
+<p>Gaddafi made the offer to Farrakhan earlier this year when the controversial black leader visited Libya and other Middle East and African nations that have strained diplomatic ties with the United States. The State Department rebuked Farrakhan for his choice of destinations.</p>
+<p>At the time, Farrakhan said Gaddafi promised him $1 billion to help develop black communities in the United States. Farrakhan, who organised last October's Million Man March that brought thousands of black men to Washington, has said he would use the money to build schools and businesses in black communities.</p>
+<p>The church's statement said Farrakhan planned to travel to Tripoli to receive a $250,000 humanitarian award that Gaddafi gives annually. Previous winners have included South African President Nelson Mandela, the children of the Intifada (Palestinian uprising), and Native American Indians, the statement said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LIBYA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

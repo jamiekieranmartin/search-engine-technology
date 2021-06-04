@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="71406" id="root" date="1996-09-23" xml:lang="en">
+<title>SOUTH AFRICA: 18 killed as S.African mine violence spreads.</title>
+<headline>18 killed as S.African mine violence spreads.</headline>
+<byline>Juliette Saunders</byline>
+<dateline>JOHANNESBURG 1996-09-23</dateline>
+<text>
+<p>At least 18 people have been killed in two days of clashes between South African mine workers fighting with sticks, knives and blasting explosives, police said on Monday.</p>
+<p>They said the fighting, apparently sparked by ethnic rivalry between Pondo and Sotho workers, erupted at Buffelsfontein gold mine northwest of Johannesburg early on Sunday morning.</p>
+<p>Pondo workers took explosives used in underground blasting and detonated them against the shacks of Sothos, killing seven people, police said. Three people were stabbed or beaten to death while trying to flee the carnage.</p>
+<p>On Monday morning a total of eight people were killed in clashes which police attributed to revenge attacks. A crowd of 500 workers launched one of the attacks, killing six people.</p>
+<p>&quot;The reason for the attacks seem to be faction fighting between Pondos and Sothos. There is a history of this -- it's been going on here for ages,&quot; Senior Superintendent Pieter du Plessis told Reuters, adding this was the worst violence so far.</p>
+<p>&quot;The situation is very tense still... We have policemen patrolling the area and mine security is also involved,&quot; he said.</p>
+<p>Before the latest violence at least 30 workers had been killed in two months of ethnic clashes on four other mines run by Gold Fields of South Africa Ltd, prompting President Nelson Mandela to appoint a judicial commission of inquiry.</p>
+<p>The Buffelsfontein Gold Mining Company Ltd is owned by marginal mines specialist Randgold &amp; Exploration Co Ltd, which recently bought it from Gencor Ltd.</p>
+<p>South Africa's mining industry was built on a labour system under which men left their wives and families for months at a time to work on the mines. Mine hostels were largely segregated on ethnic lines.</p>
+<p>National Union of Mineworkers' President James Motlatsi, reacting last month to the mine violence, proposed that an inquiry be held into the migrant labour system and the command structure on mines.</p>
+<p>&quot;The mining industry is the founder of apartheid, was a pillar of apartheid, so we need to look at that pillar to see how we make it possible to move towards the direction of democracy,&quot; the union leader said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="35104" id="root" date="1996-09-05" xml:lang="en">
+<title>USA: U.S. says drug treatment program effective.</title>
+<headline>U.S. says drug treatment program effective.</headline>
+<dateline>WASHINGTON 1996-09-05</dateline>
+<text>
+<p>Half the people who go into federally funded drug treatment programmes remain drug-free after one year and related crime and unemployment rates drop significantly, a study showed Thursday.</p>
+<p>The results of the study were announced by Secretary of Health and Human Services Donna Shalala and White House drug policy director Gen. Barry McCaffrey.</p>
+<p>Since acknowledging last month that teenage illegal drug use had doubled in four years, the Clinton administration has been under attack by Republican presidential candidate Bob Dole, who accused the White House of neglecting the drug war.</p>
+<p>Democrats have countered by blaming congressional Republicans for trying to cut treatment funds.</p>
+<p>&quot;Drug treatment ... saves dollars across a broad spectrum of federal government programmes including housing, welfare, health care, labour and criminal justice,&quot; McCaffrey said.</p>
+<p>The National Treatment Improvement Evaluation Study (NTIES) is a five-year survey of drug and alcohol treatment of 5,388 people in federally funded programmes. It found that after one year marijuana use dropped by 50 percent, cocaine use by 55 percent, crack by 51 percent and heroin by 46 percent.</p>
+<p>The study found a large drop in drug-related crime by those having treatment -- 78 percent fewer engaged in violent crime or drug sales and 82 percent fewer shoplifted. It also reported a 19 percent increase in employment, fewer medical visits related to drug or alcohol use and a drop in sexual behaviours associated with AIDS transmission.</p>
+<p>&quot;This study shows that our federal investment in substance abuse treatment is a wise one,&quot; Shalala said as the two officials visited a drug treatment facility in suburban Virginia to mark the start of &quot;Treatment Works Month.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

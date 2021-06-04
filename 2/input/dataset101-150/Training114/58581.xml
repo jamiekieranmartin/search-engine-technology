@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="58581" id="root" date="1996-09-17" xml:lang="en">
+<title>USA: NRDC gives environment ratings for U.S. utilities.</title>
+<headline>NRDC gives environment ratings for U.S. utilities.</headline>
+<dateline>NEW YORK 1996-09-17</dateline>
+<text>
+<p>The Natural Resources Defense Council (NRDC) said it released its environmental liability rankings for U.S. utilities on Tuesday, based on reported emissions of carbon dioxide per dollar of electricity revenue in 1995.</p>
+<p>The NRDC said the Bonneville Power Administration (BPA) and Pacific Gas and Electric Co were at the top of the list of major utilities with the lowest financial risk from anticipated controls on greenhouse gas emissions.</p>
+<p>The NRDC is a national environmental advocacy group based in New York, which says it has a membership of 300,000 people.  </p>
+<p>The total exposure of U.S. electric generation companies to carbon dioxide emissions limits or taxes could surpass $60 billion annually, based on estimates from the American Petroleum Institute and the National Association of Manufacturers, the NRDC said in a statement.</p>
+<p>BPA and PG&amp;E had the lowest emisssions per dollar of revenue, followed by Northeast Utilities subsidiary Connecticut Light and Power Co, Boston Edison Co, and Enova Corp subsidiary San Diego Gas and Electric Co.  </p>
+<p>Those with the highest emissions per dollar of revenue of the 60 largest utilities were led by Cinergy Corp subsidiary PSI Energy Inc, followed by Ohio Power Co Oklahoma Gas and Electric Co, the NRDC said.</p>
+<p>The utility industry is one of the largest sources of air pollution and greenhouse gas emissions in the U.S., the NRDC said.  </p>
+<p>Hydro-generated and nuclear power carry their own environmental problems, the NRDC said, adding that it was less costly and risky to use electricity more efficiently or generate it with more forgiving renewable and natural gas-fueled technologies.</p>
+<p>-- New York Power Desk 212-859-1627</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="54609" id="root" date="1996-09-15" xml:lang="en">
+<title>CHINA: Shanghai ferries struggling to curb losses.</title>
+<headline>Shanghai ferries struggling to curb losses.</headline>
+<dateline>SHANGHAI 1996-09-15</dateline>
+<text>
+<p>Shanghai's state-run ferry services are trying to curb losses by improving their services in the face of mounting competition from buses, planes and trains, the China Daily Business Weekly said on Sunday.</p>
+<p>The newspaper said the ferry routes linking Shanghai with ports along the coast and the Yangtze River lost seven million yuan in the January-July period with passenger numbers down 13 percent from the same period last year.</p>
+<p>An official said the Yangtze River services in particular were coming under great pressure from alternative forms of transport, but that there was growth potential on the coastal routes.</p>
+<p>He said ferries would be made more comfortable and schedules made more efficient to combat the fall in business.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-15"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

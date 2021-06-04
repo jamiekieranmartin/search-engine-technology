@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="49235" id="root" date="1996-09-12" xml:lang="en">
+<title>DOMINICAN REPUBLIC: 8 dead Dominican Republic flooding - politician.</title>
+<headline>8 dead Dominican Republic flooding - politician.</headline>
+<dateline>SANTO DOMINGO 1996-09-11</dateline>
+<text>
+<p>At least eight people died on Wednesday in an eastern province of the Dominican Republic because of floodwaters unleashed by Hurricane Hortense, the president of the nation's senate said.</p>
+<p>Amable Aristy Castro, the senate leader who lives in Higuey on the eastern side of the Dominican Republic, said he was informed that several rivers had overflowed their banks, killing at least eight people. At least 20 inches (50.8 cm) of rain fell on some parts of the Dominican Republic after Hurricane Hortense skirted the coast, weather forecasters said.  </p>
+<p>Some of the victims were on the outskirts of Higuey, in the Altagracia province, about 90 miles (150 km) from the capital, he said. &quot;Entire families have disappeared&quot; in the town of Palmarito, Amable Aristy said in a telephone interview. The information was confirmed by Catholic church sources, who said that parish priests in the flooded area were seeking help.</p>
+<p>Local officials declared the area an emergency zone after Higuey was hit by winds of up to 75 mph (120 kph) and strong rain on Wednesday morning. The Duey River, on the eastern side of Higuey, destroyed houses and fields, said Catholic Bishop Ramon de la Rosa y Carpio. Among the eight victims were two Haitian nationals, he said.</p>
+<p>Tourist resorts in Bavaro and Punta Cana were cut off by flooding from the river, reported local Radio Popular. The resorts are popular among European and Canadian tourists.</p>
+<p>The total storm death toll in the Dominican Republic stood at 10, including two fishermen who were lost at sea and presumed dead.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DOMR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTO DOMINGO"/>
+<dc element="dc.creator.location.country.name" value="DOMINICAN REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

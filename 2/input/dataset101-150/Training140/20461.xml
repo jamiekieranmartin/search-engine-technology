@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="20461" id="root" date="1996-08-28" xml:lang="en">
+<title>JAPAN: Dell computer prices down about 30 pct in Japan.</title>
+<headline>Dell computer prices down about 30 pct in Japan.</headline>
+<dateline>TOKYO 1996-08-28</dateline>
+<text>
+<p>Dell Computer KK, a wholly owned subsidiary of Dell Computer Corp, said on Wednesday it will lower prices of all desktop and notebook-type computers in Japan by up to about 30 percent, to accelerate sales and increase market share in the corporate sector.</p>
+<p>The company said the biggest cut of 30.2 percent will be applied to its most prestigious model, OptiPlex GXpro, which is loaded with a Pentium Pro processor.</p>
+<p>Dell expects to lead the market in the transition from Pentium to Pentium Pro processors by initiating competitive prices even against models with the Pentium processors.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

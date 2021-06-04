@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="24107" id="root" date="1996-08-30" xml:lang="en">
+<title>ESTONIA: PRESS DIGEST - Estonia - Aug 30.</title>
+<headline>PRESS DIGEST - Estonia - Aug 30.</headline>
+<dateline>TALLINN 1996-08-30</dateline>
+<text>
+<p>The following are the reports carried by Estonia's newspapers on Friday. Reuters has not verified these reports and does not vouch for their accuracy.</p>
+<p>SONUMILEHT</p>
+<p>- Prime Minister Vahi declared in Sweden that there is no political crisis in Estonia.</p>
+<p>- The small Future Estonia Party signed a cooperation agreement with the Chechen Cultural Association.</p>
+<p>EESTI PAEVALEHT</p>
+<p>- Two citizens want to press charges against doctors who removed internal organs for transplant from the bodies of their dead relatives.</p>
+<p>- The European parliament's members backed Estonia's bid for membership in the European Union during their visit to Tallinn on Thursday.</p>
+<p>POSTIMEES</p>
+<p>- Narva mayor Raivo Murd has not ruled out the possibility of entering the September 20 presidential race.</p>
+<p>- Reform Party MP Valve Kirsipuu said that parliament's failure to elect the president was a political crisis.</p>
+<p>ARIPAEV</p>
+<p>- State-owned fuel firm Eesti Kutus will sell its share of Estonian Transoil terminal and Traffic Service fuel retail firm to Finland's Neste.</p>
+<p>-- Riga Newsroom +371 226693</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ESTNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TALLINN"/>
+<dc element="dc.creator.location.country.name" value="ESTONIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

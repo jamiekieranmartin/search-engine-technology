@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="53615" id="root" date="1996-09-13" xml:lang="en">
+<title>VATICAN: Vatican confirms Pope's trip to France still on.</title>
+<headline>Vatican confirms Pope's trip to France still on.</headline>
+<dateline>VATICAN CITY 1996-09-13</dateline>
+<text>
+<p>Renewed speculation about the state of Pope John Paul's health prompted the Vatican on Friday to issue a formal confirmation that the 76-year-old Pontiff would go ahead with a visit to France next week.</p>
+<p>&quot;There is no change in the programme in the trip to France. The trip is confirmed,&quot; the Vatican's deputy spokesman, Father Ciro Benedettini, told reporters.</p>
+<p>He made the statement after the Rome newspaper Il Tempo said the Pontiff's September 19-22 trip might be cancelled for health reasons.</p>
+<p>Media discussion about what ails the Pope, who has suffered repeated bouts of ill health in recent years, has been fired by his evident frailty and fatigue during a two-day visit to Hungary last week.</p>
+<p>The Vatican revealed during the trip that doctors had so far failed to find the cause of an intestinal infection that has twice laid the Pope low with a fever this year.</p>
+<p>It has said the Polish-born Pontiff has no plans to give up the foreign travel that has been the hallmark of his papacy.</p>
+<p>Next week's visit, which has attracted strong opposition in France from critics of the Roman Catholic Church's strict teachings on birth control, abortion and homosexuality, will be the last scheduled for the Pope this year.</p>
+<p>Four trips are planned by the Pontiff in 1997 -- to Prague, Poland, Paris and Brazil.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="VCAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="GREL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VATICAN CITY"/>
+<dc element="dc.creator.location.country.name" value="VATICAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="76669" id="root" date="1996-09-25" xml:lang="en">
+<title>ITALY: Italian coastguards capture 60 illegal immigrants.</title>
+<headline>Italian coastguards capture 60 illegal immigrants.</headline>
+<dateline>ROME 1996-09-25</dateline>
+<text>
+<p>Coastguards intercepted a Tunisian fishing boat carrying 60 illegal immigrants off the southernmost Italian island of Lampedusa, port authorities said on Wednesday.</p>
+<p>The immigrants, who were picked up late on Tuesday night, were of different nationalities and would be repatriated as soon as possible, a statement said.</p>
+<p>Illegal immigration from North Africa and Albania has become a growing problem for Italy in recent years. The statement said coastguards had caught 224 people trying to enter Italy illegally in August and September.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="TUNIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROME"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

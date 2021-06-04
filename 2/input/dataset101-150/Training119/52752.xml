@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="52752" id="root" date="1996-09-13" xml:lang="en">
+<title>AUSTRALIA: RTRS-AMLC National Weekly Report - Prices to Sept 13.</title>
+<headline>RTRS-AMLC National Weekly Report - Prices to Sept 13.</headline>
+<dateline>SYDNEY 1996-09-13</dateline>
+<text>
+<p>Prices from the Australian Meat and Livestock Corp's (AMLC) National Livestock report in Australian cents per kg.</p>
+<p>	    PRICES RECEIVED FOR STEERS TO JAPAN BY STATE:</p>
+<p>		  Estimated dressed weight price (cents/kg)</p>
+<p>		OTH prices			Saleyard prices</p>
+<p>	   N Qld  S Qld  NSW  Vic     Qld  NSW  VIC  SA   WA  TAS</p>
+<p>This wk    165   170   144  167     173  173  165  155  nq  138</p>
+<p>Last wk    148   166   168  165     176  169  165  nq   nq  142</p>
+<p>Yr ago     213   213   213  223     226  213  220  nq   nq  nq</p>
+<p>*refers to fat score 3 prices as fat score 4 not quoted.  </p>
+<p>	    PRICES RECEIVED FOR U.S. MANUFACTURING COW BY STATE</p>
+<p>		  Estimated dressed weight price (cents/kg)</p>
+<p>		OTH prices			Saleyard prices</p>
+<p>	  N Qld  S Qld  NSW  Vic     Qld  NSW  VIC  SA   WA  TAS</p>
+<p>This wk  135   140    nq   137     137  144  147* 142*  99 124</p>
+<p>Last wk  133   140    nq   129     136  144  141  142   98  nq</p>
+<p>Yr ago   165   175    nq   180     167  168  182  168  171  nq</p>
+<p>* refers to fat score 3 prices as fat score 2 prices not quoted.  </p>
+<p>	    PRICES RECEIVED FOR STEERS TO S. KOREA BY STATE</p>
+<p>		  Estimated dressed weight price (cents/kg)</p>
+<p>		OTH prices			 Saleyard prices</p>
+<p>	  N Qld  S Qld  NSW  Vic     Qld  NSW  VIC  SA   WA  TAS</p>
+<p>This wk 150    165    121  155     171  162  163  172  192 151</p>
+<p>Last wk  nq    160    nq   155     166  154  160  nq   190 151</p>
+<p>Yr ago   nq    200    nq   196     219  201  nq   nq   233 nq</p>
+<p>*refers to fat score 4 prices as fat score 3 not quoted.</p>
+<p>	    PRICES RECEIVED FOR YOUNG DOMESTIC CATTLE BY STATE</p>
+<p>		  Estimated dressed weight prices (cents/kg)</p>
+<p>	     OTH  prices			 Saleyard prices</p>
+<p>	   N Qld  S Qld  NSW  VIC     Qld NSW  VIC+ SA+  WA   TAS</p>
+<p>This wk    nq   180   188   183     196 185  200  186  269  188</p>
+<p>Last wk    nq   180   188   183     195 180  208  186  268  191</p>
+<p>Yr ago     nq   217    nq   nq	243 220  230  237  264  253</p>
+<p>+prices for 200-240 kgs.</p>
+<p>*refers to FS 2 prices as FS 3 prices not quoted.</p>
+<p>	    PRICES RECEIVED FOR LAMBS BY STATE</p>
+<p>		  Estimated dressed weight prices (cents/kg)</p>
+<p>		OTH prices		 Saleyard prices</p>
+<p>	     QLD   NSW    VIC    SA    WA    TAS</p>
+<p>This wk    nq    95     77     92*   77*   nq</p>
+<p>Last wk    nq    93     89     97    74    nq</p>
+<p>Yr ago     nq    89     85     97    88    nq</p>
+<p>*refers to fat score 2 as fat score 3 prices not quoted</p>
+<p>NOTE: OTH - Over The Hook.</p>
+<p>	     NSW   VIC    QLD   NSW    VIC+   SA+   WA   TAS</p>
+<p>This week  230   257    nq    238    268    207   200  279</p>
+<p>Last week  230   238    nq    257    284    226   225  230</p>
+<p>Yr ago     nq    nq     nq    171    191    153   157  219</p>
+<p>+=young lambs.</p>
+<p>		  PRICES RECEIVED FOR WETHERS BY STATE</p>
+<p>		   Estimated dressed weight prices (cents/kg)</p>
+<p>		 OTH			 Saleyard prices</p>
+<p>-- Sydney newsroom 61-2 373 1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

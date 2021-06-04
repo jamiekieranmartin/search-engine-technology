@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="63259" id="root" date="1996-09-19" xml:lang="en">
+<title>USA: U.S. lawakers urge halt to timber rider funding.</title>
+<headline>U.S. lawakers urge halt to timber rider funding.</headline>
+<dateline>WASHINGTON 1996-09-19</dateline>
+<text>
+<p>More than 100 members of the U.S. House of Representatives signed letters to President Clinton and House leadership calling for them to end funding for the salvage timber rider in a spending bill, Rep. Elizabeth Furse, Oregon Democrat, said Thursday.</p>
+<p>Furse said 105 congressmen signed the letter, urging that a measure to stop the salvage logging funding be included in the continuing resolution or omnibus spending bill that is expected to replace the stalled Interior spending bill.  </p>
+<p>In June the House defeated a similar measure on the salvage rider, which stepped up logging in national forests, by 211-209.</p>
+<p>The salvage logging rider, pushed by the timber industry, was passed last year as part of a broad spending bill.</p>
+<p>&quot;This measure has proven to be one of the most environmentally damaging and divisive statutes passed in recent history,&quot; Furse said in a statement.</p>
+<p>&quot;Stopping the last months of the rider will make a critical difference to our national forests and restoring the trust of the American people,&quot; she said.</p>
+<p>The letter to Clinton called on him to terminate any rider sales in ancient forests, critical fisheries and wildlife habitat, roadless areas or other environmentally sensitive areas.</p>
+<p>It also urged Clinton to negotiate with Congress to halt funding for the stepped-up salvage logging program.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I02000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

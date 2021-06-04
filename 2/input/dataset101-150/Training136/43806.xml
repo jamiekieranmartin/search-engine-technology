@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="43806" id="root" date="1996-09-10" xml:lang="en">
+<title>SINGAPORE: Singapore crime rises for first time in years.</title>
+<headline>Singapore crime rises for first time in years.</headline>
+<dateline>SINGAPORE 1996-09-10</dateline>
+<text>
+<p>Crime in tightly-controlled Singapore rose in the first half of 1996 after seven years of steady decline, police said on Tuesday.</p>
+<p>A police statement said the number of recorded cases rose by one percent between January and June compared to the first half of 1995.</p>
+<p>Rape increased by the biggest percentage, although the murder rate fell, the police statement said.</p>
+<p>It said there were 45 rapes in the country of three million people between January and June, an increase of 26.7 percent.</p>
+<p>There was also a major increase -- 25.2 percent -- in the number of foreigners arrested for overstaying their visas, mostly because of increased police raids in search of illegal foreign workers, the statement said. Immigration offences were up to 3,119 from 2,492.</p>
+<p>But it said the number of murders was almost halved to 15 from 29 in the first half of 1995. Six of the victims were foreigners, down from 15.</p>
+<p>Snatch thefts fell by nearly 36 percent to 155 from 241.</p>
+<p>Singapore imposes severe penalties like hanging for murder and drug trafficking and caning for many lesser offences.</p>
+<p>The statistics did not include drug offences, which are handled separately by the Central Narcotics Bureau.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

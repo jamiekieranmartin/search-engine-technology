@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="56318" id="root" date="1996-09-16" xml:lang="en">
+<title>SWITZERLAND: Swiss propose slaughter of up to 230,000 cattle.</title>
+<headline>Swiss propose slaughter of up to 230,000 cattle.</headline>
+<dateline>BERNE 1996-09-16</dateline>
+<text>
+<p>The Swiss cabinet said on Monday that it was proposing the slaughter of up to 230,000 cattle to eliminate the threat of mad cow disease in Switzerland. The measure must be approved by the parliament before being enacted.</p>
+<p>Switzerland trails only Britain in the number of cases of Bovine Spongiform Encephalopathy (BSE), or &quot;mad cow disease&quot;, the brain-wasting disease that scientists say may be linked to a human equivalent, Creutzfeldt-Jakob Disease.  </p>
+<p>The cabinet said in a statement that it was proposing the slaughter of cattle born before December 1, 1990, the year Switzerland initiated a ban on feeding cows with beef bone and remains which could help spread the disease. It also recommended the slaughter of direct offspring of BSE infected cows.</p>
+<p>The the measure was aimed at establishing Switzerland as a BSE-free nation, to rehabilitate the market, minimise potential risks and thus bring back consumer confidence, the Swiss Economics Ministry said in a statement.</p>
+<p>Last week the Federal Veterinary Agency reported three new cases of mad cow disease in Switzerland, including two animals born after the 1990 ban on using animal meal feed.</p>
+<p>The mad cow cases reported for August and September bring the total to 223, of which more than 10 followed the ban.</p>
+<p>In the first eight months of 1996, Swiss authorities recorded 36 BSE cases.</p>
+<p>Switzerland banned imports of British beef in March and saw its own beef barred from export to Germany and Austria.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="I0100105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="G153">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BERNE"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

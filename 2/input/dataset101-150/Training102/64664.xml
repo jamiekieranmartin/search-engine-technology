@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="64664" id="root" date="1996-09-19" xml:lang="en">
+<title>BELGIUM: Police say two Belgian girls lied about kidnapping.</title>
+<headline>Police say two Belgian girls lied about kidnapping.</headline>
+<dateline>BRUSSELS 1996-09-19</dateline>
+<text>
+<p>Belgian police said on Thursday their investigations into the alleged abduction of two teenage girls in the eastern city of Liege had found they simply ran away for the weekend.</p>
+<p>&quot;I will not comment on the motives for this trip which are private&quot;, assistant Liege Public Prosecutor Jean-Luc Lecrompe said in a statement.</p>
+<p>Rachel Legeard and Severine Potty disappeared on their way home from a shopping trip on August 29 as the country was in the grip of the so-called Dutroux affair of child kidnapping, abuse and murder.</p>
+<p>A major manhunt was launched and the girls were found asleep in a ditch near Cologne in Germany. They claimed to have no recollection of their 48-hour ordeal.</p>
+<p>But relief turned to suspicion when the girls were found not to have been sexually molested and to have German money in their pockets.</p>
+<p>&quot;The two girls are of the age of consent. All I can say is that, with the parents very anxious, the investigating magistrate launched an inquiry and the girls were found,&quot; the statement said.</p>
+<p>&quot;It seems they had some difficult moments during their absence, and the investigations need to clarify certain points, notably in Germany,&quot; it added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

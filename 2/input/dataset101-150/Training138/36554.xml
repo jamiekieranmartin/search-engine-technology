@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="36554" id="root" date="1996-09-06" xml:lang="en">
+<title>BELGIUM: EU scientists to study mad cow data further.</title>
+<headline>EU scientists to study mad cow data further.</headline>
+<dateline>BRUSSELS 1996-09-06</dateline>
+<text>
+<p>European veterinary scientists reviewed evidence on Friday that mad cow disease can be transmitted from cow to calves and decided to study the issue further, delegates said.</p>
+<p>A British study recently confirmed scientists' warnings that the fatal brain wasting disease could be passed to calves, dealing a fresh blow to the British beef industry and raising German fears about the safety of British milk.</p>
+<p>&quot;We discussed transmissibility all day and we did not reach any conclusions,&quot; a Belgian veterinary scientist said.</p>
+<p>Two sub-groups were set up to examine over the next two weeks the transmission of the disease and implications for food safety, notably milk.</p>
+<p>A German scientist hinted that more calves may have to be killed to stamp out mad cow disease, known as Bovine Spongiform Encephalopathy (BSE).</p>
+<p>&quot;Maternal transmission is a fact and in my opinion calves of all infected animals will have to be killed,&quot; said Walter Heeschen, Director of the Federal Dairy Research Centre in Keele, Germany.</p>
+<p>But he added that the human health risk from milk was remote. &quot;In my opinion milk is safe as far as our scientific knowledge goes at the moment,&quot; he said.</p>
+<p>European Commission agriculture spokesman Gerard Kiely said earlier that the transmission issue will be discussed further next week by senior veterinary officials from the 15 EU member states and the week after by a multi-disciplinary committee of experts on food, human and animal health safety.</p>
+<p>The British study on BSE transmission found that only one percent of British calves passed on the disease to their calves, but did not examine how the disease was transmitted.</p>
+<p>The Commission said on August 6 that there was no scientific evidence that milk carries mad cow disease but this could not be ruled out completely.</p>
+<p>Several member states have demanded further research.</p>
+<p>The scientists said they were handed a new report by Oxford scientists data, raising doubts about a scheme to slaughter British cattle most at risk from mad cow disease.</p>
+<p>It was not discussed on Friday.</p>
+<p>In a separate move to restore consumer confidence, the European Commission is preparing a proposal for an EU voluntary beef labelling scheme.</p>
+<p>&quot;It should be ready later this month,&quot; Kiely said, adding it would be in the interests of all member states to have labels showing where the meat came from and how it was produced.</p>
+<p>Austria, Belgium and the Netherlands already have national schemes.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="I0100105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="I41220">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

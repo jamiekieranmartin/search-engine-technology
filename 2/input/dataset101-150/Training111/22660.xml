@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="22660" id="root" date="1996-08-29" xml:lang="en">
+<title>USA: PRESS DIGEST - Washington Post business - Aug 29.</title>
+<headline>PRESS DIGEST - Washington Post business - Aug 29.</headline>
+<dateline>WASHINGTON 1996-08-29</dateline>
+<text>
+<p>The Washington Post carried the following items on the front page of its business section on Aug 29:</p>
+<p>---</p>
+<p>WASHINGTON - The Securities and Exchange Commission adopted a far-reaching package of trading rules for the Nasdaq Stock Market.</p>
+<p>---</p>
+<p>WASHINGTON - Continental Airlines and other airlines raised fares 10 percent two weeks ago in anticipation of the reinstatement Tuesday of the 10 percent federal excise tax, which had been dropped Dec. 31.</p>
+<p>---</p>
+<p>WASHINGTON - Target Stores Inc confirmed it would stop selling cigarettes at its 714 stores nationwide, winning high praise from anti-smoking activists.</p>
+<p>---</p>
+<p>WASHINGTON - The Federal Trade Commission and the Justice Department eased antitrust regulations to allow physicians to band together so they can provide stronger competition to managed care plans.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

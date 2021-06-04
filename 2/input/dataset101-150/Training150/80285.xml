@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="80285" id="root" date="1996-09-26" xml:lang="en">
+<title>ISRAEL: Palestinian killed, Israeli officer hurt in Gaza.</title>
+<headline>Palestinian killed, Israeli officer hurt in Gaza.</headline>
+<dateline>GAZA 1996-09-26</dateline>
+<text>
+<p>A Palestinian was shot dead and 15 people were wounded, including an Israeli army officer, in clashes in the Gaza Strip on Thursday, hospital sources and the Israeli army said.</p>
+<p>The death raised to six the number of Palestinians killed in two days of clashes with Israeli forces over Israeli policy in Jerusalem, holy to Moslems and Jews.</p>
+<p>Shifa hospital in Gaza said Hani Moussa was shot dead in a clash near Kfar Darom Jewish settlement. The Israeli army said the officer, a lieutenant-colonel, was moderately wounded by a gunshot.</p>
+<p>It was not immediately clear which side fired the shot that wounded the officer.</p>
+<p>Palestinian hospital sources said seven Palestinians were hurt in the Kfar Darom clash and another seven Palestinians in a clash near the Netzarim Jewish settlement, also in the Gaza Strip.</p>
+<p>About 200 Palestinians pelted Israeli soldiers with stones at a checkpoint to the entrance of Netzarim settlement in the centre of the Gaza Strip.</p>
+<p>The Israelis fired live ammunition, rubber bullets and teargas. Several Palestinian police fired back, witnesses said. Groups of demonstrators then skirted the checkpoint and threw stones at the settlement from surrounding fields.</p>
+<p>At nearby Kfar Darom settlement gunfire could be heard in the background while Israel Radio broadcast a live interview with a woman settler there. She said the gunfire was coming from the Israeli side.</p>
+<p>About 3,000 Jews live in Gaza settlements under Israeli army protection. Israel handed over most of the strip to self-rule under a peace deal in 1994. The strip is home to one million Palestinians.</p>
+<p>&quot;Stones were thrown into the settlement. What you are hearing is about 200 metres from the house. Our children are in the houses...We have two wounded. One was taken to hospital by helicopter. The second is being treated on the spot,&quot; she said.</p>
+<p>A Palestinian hospital director said on Thursday that five, not seven, Palestinians were shot dead in clashes with Israeli soldiers on Wednesday.</p>
+<p>Palestinian anger at Israeli Prime Minister Benjamin Netanyahu's failure to extend self-rule in the West Bank and Gaza boiled over after his right-wing government decided to open a tunnel beside Islam's third holiest site in Jerusalem. Security forces sealed off the West Bank and the Gaza Strip.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GAZA"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

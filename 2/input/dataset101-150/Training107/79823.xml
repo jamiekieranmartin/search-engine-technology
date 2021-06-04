@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="79823" id="root" date="1996-09-26" xml:lang="en">
+<title>REPUBLIC OF IRELAND: Irish May industrial output rises 5.4 pct m/m.</title>
+<headline>Irish May industrial output rises 5.4 pct m/m.</headline>
+<dateline>DUBLIN 1996-09-26</dateline>
+<text>
+<p>Irish industrial production rose a seasonally adjusted 5.4 percent in May and was up 9.8 percent year-on-year, Central Statistics Office (CSO) data showed on Thursday.  </p>
+<p>Manufacturing production rose 5.8 percent in May and was up 11.4 percent year-on-year.</p>
+<p>		     Manufacturing  Transportable    All industries</p>
+<p>			   (PERCENTAGE CHANGE - MONTH ON MONTH)</p>
+<p> Latest month	+5.8		+5.6		 +5.4</p>
+<p> Previous month    -0.7		-0.8		 -0.9</p>
+<p>			   (PERCENTAGE CHANGE - YEAR ON YEAR)</p>
+<p> Latest month     +11.4	     +10.0		 +9.8</p>
+<p> Previous month    +6.6		+6.5		 +6.3</p>
+<p>				     (INDEX BASE 1985)</p>
+<p> Latest month	 264.4	    259.0		247.3</p>
+<p> Previous month     249.8	    245.2		234.7</p>
+<p> Year ago month     237.5	    235.7		225.3</p>
+<p>-- Dublin newsroom 353 1 660 3377</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="E311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBLIN"/>
+<dc element="dc.creator.location.country.name" value="REPUBLIC OF IRELAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

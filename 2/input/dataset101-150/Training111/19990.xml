@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="19990" id="root" date="1996-08-28" xml:lang="en">
+<title>USA: PRESS DIGEST - Washington Post business - Aug 28.</title>
+<headline>PRESS DIGEST - Washington Post business - Aug 28.</headline>
+<dateline>WASHINGTON 1996-08-28</dateline>
+<text>
+<p>The Washington Post carried the following items on the front page of its business section:</p>
+<p>---</p>
+<p>WASHINGTON - Many Washington business leaders back a plan to appoint an outside receiver to run the city's ailing schools.</p>
+<p>---</p>
+<p>WASHINGTON - Consumer confidence rose sharply in August, its highest level in six years.</p>
+<p>---</p>
+<p>WASHINGTON - Many leaders of the high-tech community are endorsing President Clinton's reelection bid.</p>
+<p>---</p>
+<p>WASHINGTON - Aerospace Corp., a federally funded think tank, has signed a letter of intent to become a for-profit subsidiary of Science Applications International Corp.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

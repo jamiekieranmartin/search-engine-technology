@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="35258" id="root" date="1996-09-05" xml:lang="en">
+<title>FRANCE: Five dead, two missing in French Alpine accidents.</title>
+<headline>Five dead, two missing in French Alpine accidents.</headline>
+<dateline>GRENOBLE, France 1996-09-05</dateline>
+<text>
+<p>Five people were killed, seven were injured and two were missing in a series of mountain climbing accidents in the French Alps on Thursday, rescue services said.</p>
+<p>The most serious mishap was in the Haute Maurienne area near the Franco-Italian border where an avalanche hit a party of 17 French mountain troopers, killing four soldiers and injuring seven others,</p>
+<p>The avalanche swept away the climbers on the Evette glacier at an altitude of 3,200 metres (nearly 10,000 feet), rescue services said.</p>
+<p>An unidentified German woman was killed in a fall on Mont Blanc above Chamonix while two climbers went missing on the Aiguille du Glacier, also in the same area, officials said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GRENOBLE, France"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

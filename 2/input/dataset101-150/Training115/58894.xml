@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="58894" id="root" date="1996-09-17" xml:lang="en">
+<title>INDIA: Indian forex reserves rise to $22.68 bln on Sept 6.</title>
+<headline>Indian forex reserves rise to $22.68 bln on Sept 6.</headline>
+<dateline>BOMBAY 1996-09-17</dateline>
+<text>
+<p>India's foreign exchange reserves rose to $22.68 billion on September 6 from 22.39 billion the previous week, the Reserve Bank of India (RBI) said on Tuesday.</p>
+<p>	 FOREIGN EXCHANGE RESERVES (in million U.S. dollars)</p>
+<p>					  Sept 6	Aug 30	 Sept 8</p>
+<p>					    1996	  1996	   1995</p>
+<p>    Foreign currency assets     18,044	17,976	 19,029</p>
+<p>    Gold				 4,455	 4,410	  4,413</p>
+<p>    SDRs				   185	    10	     46</p>
+<p>    Total			     22,684	22,396	 23,488</p>
+<p>-- Bombay newsroom +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="E513">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

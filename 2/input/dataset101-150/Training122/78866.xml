@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="78866" id="root" date="1996-09-26" xml:lang="en">
+<title>USA: Reno wants to remain as Clinton's attorney general.</title>
+<headline>Reno wants to remain as Clinton's attorney general.</headline>
+<dateline>WASHINGTON 1996-09-26</dateline>
+<text>
+<p>Attorney General Janet Reno made clear Thursday that she wants to serve another term at the Justice Department if President Clinton wins re-election and asks her to stay on.</p>
+<p>&quot;I would be honoured and I would look forward to it,&quot; Reno said at her weekly news conference when asked if she would like to remain in her current post as the nation's chief law enforcement officer.</p>
+<p>&quot;But it would be the president's decision to make,&quot; she said. Asked if she expected to be renominated based on the job she has done, she replied, &quot;I always let the president make those kinds of decisions.&quot;</p>
+<p>There has been speculation that Reno, 58, who suffers from Parkinson's disease, a degenerative illness that causes trembling and muscular rigidity, might return to Florida after the November presidential election.</p>
+<p>Reno emphasised that her health had not become a problem, even though her left hand shakes at times. &quot;I still walk and canoe, and (am) having a fairly good time.&quot;</p>
+<p>She recounted a story from Republican Sen. Alan Simpson of Wyoming, who told her that his father had been diagnosed with Parkinson's disease at age 65 and lived for 28 more years.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

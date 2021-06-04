@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="56248" id="root" date="1996-09-16" xml:lang="en">
+<title>SWITZERLAND: Swiss call for slaughter of up to 230,000 cows.</title>
+<headline>Swiss call for slaughter of up to 230,000 cows.</headline>
+<byline>Greg Calhoun</byline>
+<dateline>ZURICH 1996-09-16</dateline>
+<text>
+<p>The Swiss cabinet on Monday proposed the slaughter of up to 230,000 cattle in a bid to eradicate mad cow disease in Switzerland once and for all and restore consumer confidence.</p>
+<p>&quot;Mad cow disease&quot;, or Bovine Spongiform Encephalopathy (BSE), is a brain-wasting disease that scientists say may be linked to a human equivalent, Creutzfeldt-Jakob Disease.</p>
+<p>Switzerland trails only Britain in the number of BSE cases.</p>
+<p>&quot;We want to restore consumers' confidence in beef and put consumers at ease in the European Union,&quot; Swiss president Jean- Pascal Delamuraz said at a news conference in Berne.</p>
+<p>Britain is considering cutting a scheme to slaughter an extra 147,000 cattle most at risk to mad cow disease. It has already slaughtered around 450,000 older cattle over 30 months old under a separate scheme.</p>
+<p>&quot;Our plan is much less ambitous than Britain's, but our problem is also much smaller,&quot; Delamuraz said.</p>
+<p>Last week the agency reported three new cases of mad cow disease in Switzerland, including two animals born after the 1990 ban on using animal meal feed.</p>
+<p>The mad cow cases reported for August and September bring the total to 223, of which more than 10 followed the ban. Some 160,000 BSE cases have been reported in Britain over the past 10 years.</p>
+<p>In the first eight months of 1996, Swiss authorities recorded 36 BSE cases.</p>
+<p>Switzerland banned imports of British beef in March and saw its own beef barred from export to Germany and Austria.</p>
+<p>The Swiss cabinet said it was proposing the slaughter of cattle born before December 1, 1990, the year Switzerland initiated a ban on feeding cows with beef bone and remains which could help spread the disease.</p>
+<p>It also recommended the slaughter of direct offspring of BSE infected cows.</p>
+<p>The measure was aimed at establishing Switzerland as a BSE-free nation, to rehabilitate the market, minimise potential risks and thus bring back consumer confidence, the Swiss Economics Ministry said in a statement.</p>
+<p>The cabinet proposal calls for the measures to be completed by end-June 1999 at a cost of a maximum 320 million Swiss francs ($257.5 million) spread over three years. It asked for an immediate 25 million to reduce an oversupply in the market.</p>
+<p>Switzerland had been suffering a steady decline in beef consumption even before the start of the mad cow scare and expects consumption to fall by some 10 percent this year, said Peter Dollenger of the Federal Veterinary Agency.</p>
+<p>The initial 25 million francs would probably be devoted to the elimination of an immediate oversupply of between 20,000 and 30,000 cattle, Dollenger said. ($1=1.2428 Swiss Franc)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="I0100105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="I41220">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

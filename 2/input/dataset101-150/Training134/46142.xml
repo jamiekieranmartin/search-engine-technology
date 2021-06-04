@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="46142" id="root" date="1996-09-11" xml:lang="en">
+<title>BRAZIL: Brazil deputies back bill to curb gun use.</title>
+<headline>Brazil deputies back bill to curb gun use.</headline>
+<dateline>BRASILIA 1996-09-11</dateline>
+<text>
+<p>The lower house of Brazil's Congress approved on Wednesday a bill outlawing the unlicensed carrying of firearms, considered a key step in curbing a rising tide of violence.</p>
+<p>The bill, which must be approved by the Senate, sets jail sentences for unauthorised carriers of weapons, who are now subject only to fines.</p>
+<p>President Fernando Henrique Cardoso urged Congress to give it speedy attention in response to concerns that Brazil's long history of violent crime is reaching unprecedented levels. Thirty-one of every 100,000 Brazilians are murdered, compared with 20 in Mexico and 10 in the United States, and murder is the leading cause of death for Brazilian men aged 20-29, according to official statistics.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRASILIA"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="75561" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: Gore calls for report card on environmental laws.</title>
+<headline>Gore calls for report card on environmental laws.</headline>
+<dateline>WASHINGTON 1996-09-25</dateline>
+<text>
+<p>Vice President Al Gore called on Wednesday for federal agencies to work with scientists and interest groups to assess whether U.S. laws to protect public health and the environment were working.</p>
+<p>Gore called for a report card to be completed by 2001 covering the state of the nation's ecosystems, including wetlands, forests and fisheries, to help policymakers.</p>
+<p>&quot;We must improve coordination of the 15,000 federal environmental monitoring sites to understand the causes and effects of environmental change,&quot; Gore said in a letter to the National Environmental Monitoring and Research Workshop at the Smithsonian Institution.</p>
+<p>&quot;We must develop an integrated and comprehensive environmental monitoring system out of the many separate networks that exist today,&quot; he said.</p>
+<p>The letter reflected criticisms of federal environmental monitoring programmes in several reports, including one released last week by the National Academy of Sciences, which called for more coordination and consistency in the reams of environmental data collected by federal and state agencies.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

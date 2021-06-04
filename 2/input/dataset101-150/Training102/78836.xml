@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="78836" id="root" date="1996-09-26" xml:lang="en">
+<title>USA: Sex offender tracking bill clears Congress.</title>
+<headline>Sex offender tracking bill clears Congress.</headline>
+<dateline>WASHINGTON 1996-09-26</dateline>
+<text>
+<p>The House voted Thursday to order a nationwide data base set up to track sex offenders released from prison after completing their sentences.</p>
+<p>The bill, adopted by a 423-1 vote, was sent to President Clinton. It builds on the existing so-called Megan's Law that requires local officials to be notified when convicted sex offenders move into their area.</p>
+<p>&quot;We need to make sure that when sexual predators move from state to state we do not lose track of them,&quot; New Jersey Republican Representative Dick Zimmer said. &quot;Unless we make this a unified, seamless national system, community notification will not be completely successful.&quot;</p>
+<p>But Representative Melvin Watt said the law trampled on privacy rights and created a permanent presumption of guilt for convicted sex offenders. &quot;If you are ever convicted of a sexual offence, for the rest of your life you are assumed guilty of some violation. You can't move into a new community and put that behind you,&quot; the North Carolina Democrat said.</p>
+<p>The act would require convicted sex offenders to register with federal officials for the rest of their lives. If an individual did not register, he or she could be subject to a year in prison or a fine of up to $100,000, with a maximum of 10 years in prison for a second offence.</p>
+<p>The FBI will keep the national data base, which will including names, addresses, fingerprints and photographs.</p>
+<p>The House move came on the day that one of the nation's most notorious rape-murder trials ended with a death sentence for Richard Davis, who was convicted in June of abducting and murdering 12-year-old Polly Klaas from her California home.</p>
+<p>Davis, a 42-year-old parolee, was sentenced to death by Santa Clara County Superior Court Judge Thomas Hastings after a trial that launched a movement for tougher sentences for repeat offenders.</p>
+<p>In a separate action in Washington, the House also voted 421-1 to approve a bill criminalizing use of a drug to commit violent sex crimes. One such drug, Rohypnol, commonly called the &quot;date rape pill,&quot; is used to treat sleep disorders but is not cleared for use in the United States.</p>
+<p>Under the bill, its use with intent to have it ingested by another person for purposes of violent crime, including sexual assault, would carry the same penalties attached to the most serious of illegal drugs. The measure was sent to the Senate.</p>
+<p>The House also approved a bill increasing penalties for trafficking in and manufacturing methamphetamine drugs.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

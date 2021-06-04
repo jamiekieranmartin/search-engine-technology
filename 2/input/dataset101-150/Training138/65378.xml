@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="65378" id="root" date="1996-09-19" xml:lang="en">
+<title>SWITZERLAND: Angry Swiss farmers protest mad cow measures.</title>
+<headline>Angry Swiss farmers protest mad cow measures.</headline>
+<dateline>ZURICH 1996-09-19</dateline>
+<text>
+<p>Around 1,000 tractors blocked a major highway in west Switzerland on Thursday as the nation's farmers protested government plans to cull 230,000 cattle.</p>
+<p>The plan, proposed by the Swiss cabinet, aims to eradicate Bovine Spongiform Encephalopathy (BSE), commonly known as &quot;mad cow disease&quot;, in the country. Scientists have linked BSE to Creutzfeldt-Jakob Disease, a disease which afflicts humans.</p>
+<p>Switzerland is second only to Britian in the number of BSE cases, with 223 reported since 1990 compared with 160,000 cases in Britian over 10 years.</p>
+<p>According to the proposal announced on Monday, 230,000 of Switzerland's cows will be culled from a total population of 1.7 million.</p>
+<p>The move also aims to reduce the nation's oversupply of beef, and its supporters say it would help to restore consumer confidence not only in Switzerland but also in neighboring countries, including Germany where Swiss beef is now banned.</p>
+<p>But farmers are angry about the prospect tht they may have to pick up some of the cost of the 320 million Swiss franc ($258.6 million) plan through cuts in milk subsidies.</p>
+<p>The farmers, from the Fribourg region, blocked a major roadway between the towns of Vaulrus and Rossens.</p>
+<p>Swiss news agency SDA said farmers also gathered on overpasses above the highway to show their support.</p>
+<p>The Swiss Farmers' Association (SBV) has said the mass slaughter was only one alternative for stamping out mad cow disease. ($1=1.2375 Swiss Franc)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="I0100105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="I41220">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

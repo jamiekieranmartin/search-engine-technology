@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="58983" id="root" date="1996-09-17" xml:lang="en">
+<title>USA: RESEARCH ALERT - Computer Science started.</title>
+<headline>RESEARCH ALERT - Computer Science started.</headline>
+<text>
+<p>-- Lehman Brothers analyst Patrick Burton confirmed he initiated coverage of Computer Sciences Corp with a buy rating and a one-year price target of $85 to $90 per share.</p>
+<p>-- &quot;The market for information technology is expected to grow at a rate of 20 percent a year, with government information technology spending to increase by five percent this year,&quot; Burton said in a research note.</p>
+<p>-- He said the company was well positioned in the right vertical markets, which it said were financial services, healthcare and the government.  </p>
+<p>-- He said that the company was growing faster than either Electronic Data Systems Corp or International Business Machines Corp services, with growth fueled by commercial outsourcing contracts and a consistent earnings growth rate over the past three years.</p>
+<p>-- Shares were up 1-1/2 at 75-1/2.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="61191" id="root" date="1996-09-18" xml:lang="en">
+<title>COLOMBIA: Brother of Cali cartel drug lords gets jail term.</title>
+<headline>Brother of Cali cartel drug lords gets jail term.</headline>
+<dateline>BOGOTA, Colombia 1996-09-18</dateline>
+<text>
+<p>A brother of the leaders of Colombia's notorious Cali drug cartel has been sentenced to seven years and two months imprisonment on narcotics charges, judicial sources said on Wednesday.</p>
+<p>They said the prison sentence for Jorge Eliecer Rodriguez Orejuela, who was arrested in February 1995, stemmed from his role in various drug-related crimes including his admission that he helped smuggle 265 pounds (120 kg) of cocaine out of Colombia between 1990 and 1991.</p>
+<p>The prosecutor general's office had asked for an 11-year jail term for Rodriguez Orejuela, but it was cut back to just over seven years as part of an elaborate plea-bargaining agreement, the judicial sources said.</p>
+<p>Brothers Gilberto and Miguel Rodriguez Orejuela, leaders of the criminal drug syndicate that once cornered 80 percent of the world's cocaine market, have been held since mid-1995 in a maximum security prison in Bogota.</p>
+<p>Both have reportedly confessed to drug trafficking but their sentences have not been announced yet.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA, Colombia"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

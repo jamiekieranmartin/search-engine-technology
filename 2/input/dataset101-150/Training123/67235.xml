@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="67235" id="root" date="1996-09-20" xml:lang="en">
+<title>USA: Thomson unit to sell 29 U.S. newspapers.</title>
+<headline>Thomson unit to sell 29 U.S. newspapers.</headline>
+<dateline>STAMFORD, Conn. 1996-09-20</dateline>
+<text>
+<p>Thomson Corp's Thompson Newspapers said on Friday it would sell 29 U.S. daily newspapers as part of its restructuring process.</p>
+<p>The newspapers had $197.3 million in revenues and $37.2 million in operating income in 1995, Thompson said.  </p>
+<p>&quot;These sales will essentially complete the company's restructuring as it repositions itself for future growth as a marketing and communications company in selected regional markets,&quot; the company said.</p>
+<p>Newspapers to be sold included California dailies Times-Standard, Pasadena Star-News and Whittier Daily, Michigan dailies Daily Telegram, Daily Press, Daily News and Herald Palladium, and Pennsylvania dailies Daily Courier, Evening Sun, Leader Times and Valley Independent.  </p>
+<p>Thompson said agreement had been reached in principle to sell the California papers, including the San Gabriel Valley Tribune and the Evening Sun, to Colorado-based Media News Inc.</p>
+<p>The company was not immediately available to comment on the value of the sale or other sale agreements.</p>
+<p>&quot;The newspapers affected by today's announcement are successful businesses that should continue to prosper under new ownership, but the markets within which they are located do not fit our strategic marketing group strategy,&quot; President and Chief Executive Officer Dick Harrington said in a statement.</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STAMFORD, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

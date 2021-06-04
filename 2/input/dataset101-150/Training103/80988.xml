@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="80988" id="root" date="1996-09-27" xml:lang="en">
+<title>CANADA: Two men die as Canadian fishing boat sinks.</title>
+<headline>Two men die as Canadian fishing boat sinks.</headline>
+<dateline>HALIFAX, Nova Scotia 1996-09-27</dateline>
+<text>
+<p>Two men died and another survived Friday after a small fishing boat sank off Canada's east coast.</p>
+<p>The 28-foot (8.5-metre) boat went down in 20-knot winds and waves of up to 10 feet (three metres) off Cape Breton, said Mike Forsythe, of the Rescue Co-ordination Centre.</p>
+<p>The survivor and two bodies were recovered by nearby fishing boats. Officials said they did not immediately know the cause of the incident.</p>
+<p>The boat was registered in Sydney, Nova Scotia, but was based in nearby Glace Bay.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HALIFAX, Nova Scotia"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="26026" id="root" date="1996-08-31" xml:lang="en">
+<title>USA: Automakers, U.S. agency plan air bag safety ads.</title>
+<headline>Automakers, U.S. agency plan air bag safety ads.</headline>
+<dateline>DETROIT 1996-08-31</dateline>
+<text>
+<p>Automakers, suppliers, insurers and the federal government's auto safety agency Saturday launched a $10 million safety awareness campaign aimed at reducing the number of children killed accidentally by air bags in cars and trucks.</p>
+<p>Officials said they will work with law enforcement agencies, pediatricians and media to warn parents about the dangers that air bags pose to children and adults not wearing seatbelts.</p>
+<p>Since 1993, 24 children have been killed by the explosive force of automotive air bags, which inflate at speeds up to 200 miles per hour.</p>
+<p>The first portion of the campaign involves pickup trucks equipped with billboards that were driving along some of the nation's busiest interstate highways during the Labor Day weekend, including Interstate 95 on the East Coast, Interstates 80 and 90 in the Midwest and Interstate 5 in California.</p>
+<p>The boards read: &quot;Air Bag Safety: Everyone Buckled, Kids in Back.&quot;</p>
+<p>Janet Dewey, executive director of the industry-funded National Automobile Occupant Protection Campaign, said most of the injuries to children occurred because they were not wearing seatbelts.</p>
+<p>A child's chances of being killed in a car accident, whether the vehicle was equipped with an air bag or not, is reduced by 29 percent when they are in the rear seat, she said.</p>
+<p>The auto industry was about three to six years away from introducing &quot;smart&quot; air bags with the ability to detect the size and position of an occupant and adjust inflation pressures accordingly.</p>
+<p>Current air bags were designed to halt the forward momentum of an average-sized, unbelted adult male, not a small child.</p>
+<p>Automakers petitioned the National Highway Traffic Safety Administration to allow them to introduce air bags that inflate less aggressively to help reduce unwanted injuries.</p>
+<p>&quot;Even if changes are made to airbags today, we'd still have 20 million vehicles on the road with current technology,&quot; Dewey said. &quot;The public hasn't been getting the message.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="C32">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

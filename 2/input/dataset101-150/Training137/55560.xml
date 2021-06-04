@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="55560" id="root" date="1996-09-16" xml:lang="en">
+<title>DOMINICAN REPUBLIC: Five killed as power line breaks in Dominican.</title>
+<headline>Five killed as power line breaks in Dominican.</headline>
+<dateline>SANTO DOMINGO, Dominican Republic 1996-09-16</dateline>
+<text>
+<p>Five people died and another four were badly burned on Monday in the northeastern Dominican Republic when volunteers cleaning up after Hurricane Hortense accidentally snapped a power line, said Eugenio Cabral, director of the nation's Civil Defence.</p>
+<p>The accident took place in Cabrera, about 180 km (112 miles) northeast of Santo Domingo. The northeastern Dominican Republic was raked by heavy rains and high winds last week when Hurricane Hortense brushed the Spanish-speaking Caribbean nation after passing over Puerto Rico.</p>
+<p>Dominican officials had put the number of dead as high as 10, with 50 people missing. Authorities in Puerto Rico blamed Hortense for at least 16 deaths. The deaths in both nations were mostly due to flooding caused by torrential rains.</p>
+<p>Cabral said the five dead were killed instantly when the volunteers tried to lift one of the power-line poles knocked down by Hortense. He said one of the four injured was in critical condition in a hospital in San Francisco de Macoris.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DOMR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTO DOMINGO, Dominican Republic"/>
+<dc element="dc.creator.location.country.name" value="DOMINICAN REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

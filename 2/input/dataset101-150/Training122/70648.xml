@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="70648" id="root" date="1996-09-23" xml:lang="en">
+<title>VATICAN: Pope &quot;very pleased&quot; with France trip.</title>
+<headline>Pope &quot;very pleased&quot; with France trip.</headline>
+<dateline>VATICAN CITY 1996-09-23</dateline>
+<text>
+<p>Pope John Paul was &quot;very pleased&quot; with his four-day trip to France, the chief Vatican spokesman Joaquin Navarro-Valls said on Monday.</p>
+<p>&quot;The Pope was very pleased, in particular yesterday at Reims, where there were 200,000 people, many of them young people,&quot; Navarro-Valls told reporters.</p>
+<p>&quot;The Holy Father was particularly struck by their seriousness and concentration in prayer, a very positive sign of faith. 'This,' the Pope commented, 'is the France of tomorrow',&quot; Navarro-Valls added.</p>
+<p>The Pontiff bore up well to the demanding trip despite frail health and won praise in France for defusing controversy on a visit when huge crowds at his masses dwarfed scattered protests.</p>
+<p>&quot;The visit surpassed our most optimistic hopes,&quot; said Bernard Lagoutte, secretary-general of the French Bishops' Conference.</p>
+<p>The trip, which culminated in a mass in Reims to honour the 1,500th anniversary of the baptism of king Clovis, the first monarch in western Europe to convert to Roman Catholicism, was the last abroad before the 76-year-old Polish Pontiff enters hospital to have his appendix removed.</p>
+<p>He is due to stay at his summer residence in Castelgandolfo, south of Rome, until the end of the month.</p>
+<p>Cardinal Camillo Ruini, president of the Italian Bishops' Conference, urged Catholics to pray for the Pope's health.</p>
+<p>&quot;Now we shall wait, without unfounded alarmism, the surgery which has been announced but let us accompany the wait with insistent prayer,&quot; Ruini said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="VCAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="GREL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VATICAN CITY"/>
+<dc element="dc.creator.location.country.name" value="VATICAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

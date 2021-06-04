@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="22382" id="root" date="1996-08-29" xml:lang="en">
+<title>USA: Creative Computers, Digital in pact.</title>
+<headline>Creative Computers, Digital in pact.</headline>
+<dateline>TORRANCE, Calif. 1996-08-29</dateline>
+<text>
+<p>Creative Computers Inc said Thursday the company has been authorized by Digital Equipment Corp to sell DEC laptop and desktop computers via direct response and mail order distribution.</p>
+<p>The company said Digital products will be marketed immediately through Creative's PC Mall catalog and other advertising programs as well as inbound and outbound telemarketing and in the company's retail stores.</p>
+<p>This is the third major computer system product line Creative has added this month. Earlier this month, Creative said it was authorized for direct sales of the Hewlett-Packard Co Vectra line and the Compaq Computer Corp consumer line.</p>
+<p>Creative has full-line Compaq authorization for its retail stores.</p>
+<p>Traditionally, Creative has been a direct marketer of personal computer hardware, software and peripheral products for users of Apple Computer Inc Macintosh and Microsoft Corp DOS/Windows-based personal computers.</p>
+<p>-- New York Newsdesk, 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="I6560003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORRANCE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="82609" id="root" date="1996-09-27" xml:lang="en">
+<title>AUSTRALIA: RTRS-Discovery says can't identify seller.</title>
+<headline>RTRS-Discovery says can't identify seller.</headline>
+<dateline>PERTH 1996-09-27</dateline>
+<text>
+<p>Discovery Petroleum NL managing director Eric Streitberg said he did not know who had sold a 10 percent stake in the takeover target earlier on Friday.</p>
+<p>Streitberg told Reuters he had not sold any of his own shares in the company, which represent about 3.2 million shares directly and another one million held by associated parties.</p>
+<p>&quot;At this point I believe there could be a statement issued later in the day&quot; about who had sold and who had bought the 13.1 million shares, he said. The stock was crossed at 75 cents each by broker James Capel, which is one of Discovery's advisers against the hostile bid by Premier Oil Plc.  </p>
+<p>Streitberg said there was no single party on the share register which held this amount of stock.</p>
+<p>Premier has offered 70 cents per share for Discovery, an oil and gas producer with interests in Indonesia and Australia.</p>
+<p>Discovery shares were at aa12 month high of 76 cents at 11.28 a.m. (0128 GMT) on turnover of 13.69 million shares.</p>
+<p>The Perth-based company has 130.26 million shares on issue.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PERTH"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="54208" id="root" date="1996-09-14" xml:lang="en">
+<title>BANGLADESH: At least nine killed in Bangladesh train crash.</title>
+<headline>At least nine killed in Bangladesh train crash.</headline>
+<dateline>DHAKA 1996-09-15</dateline>
+<text>
+<p>At least nine people were killed and rescuers were searching for more bodies after an express train was derailed and ploughed into a ditch near Dhaka on Saturday.</p>
+<p>One hundred passengers were injured in the accident in which five coaches left the railway tracks. It occured at Khilkhet on the northern outskirts of Dhaka at 1 p.m. (0700 GMT).</p>
+<p>&quot;The number of casualties will rise. I think there are many people trapped in the wreckage,&quot; an army officer supervising rescue operations told Reuters.</p>
+<p>Police and firefighters were helping rescue efforts.</p>
+<p>Railway officials said the cause of the accident, on the Mahanagar Express which runs between Dhaka and Chittagong port city, was not immediately known.</p>
+<p>A police officer on the scene said: &quot;It's difficult to say what's the exact cause but one shouldn't rule out sabotage.&quot;</p>
+<p>Communications Minister Anwar Hossain Manju and several of his cabinet colleagues visited the site of the accident. An inquiry has been ordered.</p>
+<p>&quot;Many passengers found it difficult to get out as the derailed compartments were partially submerged,&quot; one resuce official said at the scene.</p>
+<p>Passenger Shoeb Chowdhury, who escaped with minor injuries, was in tears. &quot;I am frantically looking for my brother who was also on the same train,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BANDH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-14"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DHAKA"/>
+<dc element="dc.creator.location.country.name" value="BANGLADESH"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

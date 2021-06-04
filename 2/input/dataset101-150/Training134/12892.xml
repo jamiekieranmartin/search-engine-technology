@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12892" id="root" date="1996-08-25" xml:lang="en">
+<title>UK: Caribbean gaiety in rain at London street carnival.</title>
+<headline>Caribbean gaiety in rain at London street carnival.</headline>
+<dateline>LONDON 1996-08-25</dateline>
+<text>
+<p>The largest street party in Europe, London's black community-sponsored Notting Hill Carnival expected to attract two million visitors, opened on Sunday with crowds ignoring mid-summer rainshowers.</p>
+<p>The two-day annual festival, which Britons hail as second only in the world after the Rio carnival, is best known for colourful dancing troupes and floats carrying Caribbean steel bands which compete to make the most noise.</p>
+<p>A number of European bands will play at this year's multi-cultural mix, which is dominated by West Indian migrants who settled in Notting Hill from the 1950s.</p>
+<p>Police reported no trouble during the opening hours of the event, once a byword for violence and drugs abuse.</p>
+<p>Around 400 police were wounded in riots in 1976 when the carnival acquired a reputation for trouble from which has slowly recovered.</p>
+<p>Shopkeepers still board up their windows and many residents leave town for the weekend, but for four or five years there has been no disorder and relatively little crime.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

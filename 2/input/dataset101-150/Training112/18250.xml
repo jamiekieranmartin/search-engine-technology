@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="18250" id="root" date="1996-08-28" xml:lang="en">
+<title>AUSTRIA: Passengers injured in train collision in Linz.</title>
+<headline>Passengers injured in train collision in Linz.</headline>
+<dateline>LINZ, Austria 1996-08-28</dateline>
+<text>
+<p>A passenger train collided with a locomotive at a main railway station in Linz on Wednesday and police said around 10 people were injured.</p>
+<p>Austrian television reported earlier that more than 20 had been hurt in the accident at the station in Linz, 300 km (180 miles) west of Vienna.</p>
+<p>&quot;One locomotive was stationary and the passenger train collided into the back of it,&quot; a police spokesman in Linz told Reuters by telephone.</p>
+<p>The express passenger train travelling from Steyr, southeast of Linz, with around 80 people on board, hit the back of a service locomotive used to shunt wagons into sidings.</p>
+<p>The police spokesman said he was not sure whether any more passengers were still trapped in the wreckage.</p>
+<p>Doctors and medical staff from a hospital across the road from the station were at the scene of the accident within minutes and were able to treat the injured quickly, he added.</p>
+<p>Greater damage was averted as the driver of the passenger train had time to apply his emergency brakes before the collision occurred, a state railways spokesman told Austrian news agency APA.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LINZ, Austria"/>
+<dc element="dc.creator.location.country.name" value="AUSTRIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

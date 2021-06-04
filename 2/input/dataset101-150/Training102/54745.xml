@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="54745" id="root" date="1996-09-15" xml:lang="en">
+<title>BELGIUM: Two Belgian girls found safe after kidnapping.</title>
+<headline>Two Belgian girls found safe after kidnapping.</headline>
+<dateline>BRUSSELS 1996-09-15</dateline>
+<text>
+<p>Two teenaged Belgian girls were kidnapped by two men in the southern town of Bouillon for about nine hours but found safe early on Sunday near the French border, police said.</p>
+<p>The incident came amid a child sexual abuse scandal that has rocked Belgium. Police last month rescued two young girls abducted by convicted rapist Marc Dutroux and accomplice Michel Lelievre and unearthed the bodies of four more.</p>
+<p>Police said in a statement that the girls, aged 13 and 15, had been abducted by two men in a red car at 3 p.m. on Saturday while they were walking near the centre of Bouillon.</p>
+<p>They were found shortly after midnight near the border post at Beaubru, France. The statement said the girls had been &quot;put to sleep&quot;, but gave no other details about what had happened after they were abducted nor about how they were found.</p>
+<p>It said they were seeking two white men, one about 35 with black or dark brown hair, the other between 20 and 25 with light brown hair.</p>
+<p>Police announced on September 1 that two young Belgian women who were found sleeping beside a motorway in Cologne, Germany, after having been missing for several days had apparently been the victims of a kidnapping.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-15"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

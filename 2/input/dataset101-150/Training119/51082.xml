@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="51082" id="root" date="1996-09-12" xml:lang="en">
+<title>PHILIPPINES: Philippines amends fuel prices.</title>
+<headline>Philippines amends fuel prices.</headline>
+<dateline>MANILA 1996-09-12</dateline>
+<text>
+<p>Following are the latest changes in Philippine fuel prices, announced by the state Energy Regulatory Board on Thursday.</p>
+<p>The rates are based on Singapore posted prices using a formula designed as an interim step on the way to full deregulation of the Philippine energy sector. The new prices take effect on Friday.</p>
+<p>Figures are in Philippine pesos per litre.</p>
+<p>     Fuel		   New price	Previous   Change</p>
+<p> Premium gasoline	   10.25	  10.00	 +0.25</p>
+<p> Unleaded gasoline	  10.25	  10.00	 +0.25</p>
+<p> Regular gasoline	    9.44	   9.49	 -0.05</p>
+<p> Aviation turbo		9.0243	 8.5938     +0.4305</p>
+<p> Kerosene			6.60	   6.10	 +0.50</p>
+<p> Diesel			  7.07	   7.07	 No change</p>
+<p> Fuel oil			3.5347	 3.4976     +0.0371</p>
+<p> Liquefied petroleum gas   5.8451	 5.8511     -0.0060</p>
+<p>--Manila newsroom (632) 841-8936</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

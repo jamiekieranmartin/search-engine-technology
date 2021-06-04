@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="60141" id="root" date="1996-09-17" xml:lang="en">
+<title>USA: NTSB staff to back slower airbag deployment.</title>
+<headline>NTSB staff to back slower airbag deployment.</headline>
+<dateline>WASHINGTON 1996-09-17</dateline>
+<text>
+<p>The staff of the National Transportation Safety Board (NTSB) will ask the board Tuesday to recommend that passenger-side airbags deploy at a slower speed, the Washington Post reported in Tuesday editions.</p>
+<p>The newspaper quoted government and industry sources as saying that the NTSB staff was concerned by mounting evidence that airbags inflate with enough force -- rates of up to 200 miles per hour -- to kill small children and some adults.</p>
+<p>Airbag standards were set by another federal agency, the National Highway Traffic Safety Administration (NHTSA), but the paper quoted officials there as saying they would welcome recommendations from NTSB.</p>
+<p>The staff will not ask the board to recommend that airbags be eliminated from cars and trucks since they have proven effective in reducing crash injuries and deaths.</p>
+<p>The big three automakers have petitioned the NHTSA to permit improved, slower-deploying airbags. Many auto engineers now see airbags, designed to meet standards set by the NHTSA, as being too agreesive a safety measure.</p>
+<p>The NTSB staff will also make other recommendations regarding the use of airbag technology, as well as the use of seat belts and infant seats in passenger cars and trucks, the newspaper quoted the sources as saying.</p>
+<p>Passenger side airbags have been blamed for the deaths of 24 children who were in the front passenger seats of cars that were involved in crashes.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

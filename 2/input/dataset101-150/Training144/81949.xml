@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="81949" id="root" date="1996-09-27" xml:lang="en">
+<title>CANADA: Clearly Canadian acquires  Blue Mountain.</title>
+<headline>Clearly Canadian acquires  Blue Mountain.</headline>
+<dateline>VANCOUVER 1996-09-27</dateline>
+<text>
+<p>Clearly Canadian Beverage Corp said on Friday it acquired all the shares of  Blue Mountain Springs Ltd and that the outstanding litigation between them had been settled and the appeals dismissed.</p>
+<p>Clearly Canadian said it acquired Blue Mountain for C$750,000 in cash and C$750,000 of shares on closing, making Blue Mountain a wholly owned unit of Clearly Canadian.</p>
+<p>Clearly Canadian also issued a convertible promissory note to the vendors of the Blue Mountain shares for C$3 million, for the issue of four payments of C$750,000 worth of shares at six months, 12 months, 18 months and 24 months after closing.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VANCOUVER"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

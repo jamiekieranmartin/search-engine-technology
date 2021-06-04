@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="66693" id="root" date="1996-09-20" xml:lang="en">
+<title>SOUTH AFRICA: African gas faces uphill marketing struggle.</title>
+<headline>African gas faces uphill marketing struggle.</headline>
+<dateline>CAPE TOWN 1996-09-20</dateline>
+<text>
+<p>Africa's boom in natural gas exploration and development could be hampered by the lack of adequate markets, British Gas Plc business development director Adrian Webb said on Friday.</p>
+<p>Addressing the Africa Upstream conference, Webb said there had been several major developments in gas production over the last year, increasing African output by 10 percent.</p>
+<p>In North Africa, increased production had been dominated by Algeria, but there had also been significant discoveries off Egypt and in Tunisia.</p>
+<p>This production was mainly aimed at the growing markets of Southern Europe and several new pipleines had been constructed or reinforced to transport the gas.</p>
+<p>But Webb warned that North African producers faced competition from other producers in Norway, Europe and Russia who were also targeting Southern Europe.</p>
+<p>Italy's ability to switch its power generators from fuel oil to gas would boost gas demand, but Webb said producers should be aware of a possible downside.</p>
+<p>&quot;More likely than not, this would produce a slump in Mediterranean fuel oil prices, to which gas prices in many countries are linked -- so gas prices to upstream producers would fall too,&quot; he said.</p>
+<p>He said some countries had decided to develop niche markets for their gas reserves. Ivory Coast, for example, had developed its small Panthere gas field to feed a 150 MW power plant.</p>
+<p>Nigeria, which has very large gas reserves, had decided to use it in the Bonny Island liquefied natural gas (LNG) scheme, which would supply Spain, Italy, Turkey and France.</p>
+<p>Other producers were now also considering the LNG route, even though this would not use up all their gas. The attraction of this option was that trading gas over long distances could lead to the creation of a global gas market, which was &quot;the holy grail of the gas developer&quot;.</p>
+<p>But Webb said getting there would not be simple as the economics of LNG schemes were daunting. Not only were LNG plants expensive to build but transporting the product for global delivery would be costly and complicated.</p>
+<p>In southern Africa, giant gas reserves in Namibia and Mozambique faced particular marketing challenges, he said.</p>
+<p>These included the competition posed by large amounts of cheap coal in South Africa, the most likely target market.</p>
+<p>-- Lynda Loxton, Cape Town newsroom +27 21 25 2238</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AFRICA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAPE TOWN"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

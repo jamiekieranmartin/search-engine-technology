@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="41149" id="root" date="1996-09-09" xml:lang="en">
+<title>BRAZIL: Eight dead in drug gang warfare in Brazil.</title>
+<headline>Eight dead in drug gang warfare in Brazil.</headline>
+<dateline>RIO DE JANEIRO 1996-09-08</dateline>
+<text>
+<p>Eight alleged drug traffickers were shot dead in fighting between rival gangs in mountainside shanty-towns above Rio's Ipanema and Copacabana beaches, police said on Sunday.</p>
+<p>Gunbattles in the Cantagalo and Pavao-Pavaozinho slums began on Thursday and raged for three consecutive nights, an officer at a nearby police station said.</p>
+<p>Four bodies were removed on Sunday, raising the death toll for the three nights of violence to eight, he said.</p>
+<p>Hundreds of residents of the two shanty-towns were reported to have fled their homes to avoid the shooting.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RIO DE JANEIRO"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

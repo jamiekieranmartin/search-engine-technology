@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="37672" id="root" date="1996-09-06" xml:lang="en">
+<title>USA: Experimental gene therapy may help sickle cell.</title>
+<headline>Experimental gene therapy may help sickle cell.</headline>
+<byline>Joanne Kenen</byline>
+<dateline>WASHINGTON 1996-09-05</dateline>
+<text>
+<p>A novel form of gene therapy holds out hope of treating or possibly even curing sickle cell anaemia, scientists said on Thursday.</p>
+<p>In an article appearing in Friday's edition of the journal Science, researchers outline a new gene repair technology that in laboratory experiments appears to eliminate in some cells the gene mutation that causes sickle cell anaemia.</p>
+<p>It has not yet been tested in human patients, but the team hopes to start clinical trials in a year, said biochemist Eric Kmiec at Jefferson Medical College in Philadelphia, who did the research with colleagues at Cooper Medical Centre in Camden, N.J. and Cornell University School of Medicine.</p>
+<p>So far the technique works on only about 10 to 20 percent of the cells in the culture, and Kmiec said the rate probably has to get to around 40 percent for the patient to see results. But it may be possible to reach that level by giving the patient a series of treatments.</p>
+<p>&quot;That (40 percent) is currently beyond our reach,&quot; Kmiec said in a telephone interview. &quot;But since it's noninvasive, there is the possibility of multiple treatments.&quot;</p>
+<p>This is the second recent announcement about sickle cell, which affects about one in 500 black Americans.</p>
+<p>Affected red blood cells are rigid and crescent-shaped, while healthy cells are round and flexible. Sickle cells can get stuck in small blood vessels, cutting off the blood flow to tissue.</p>
+<p>Last month doctors reported in the New England Journal of Medicine that they had cured sickle cell in certain patients with bone marrow transplant.</p>
+<p>However, that only works for patients who can get the right marrow match from a sibling who does not have sickle cell. The procedure is also invasive and sometimes risky.</p>
+<p>The gene repair is a different approach. It involves a synthetic molecule, called a chimeraplast, which includes both RNA and DNA, the two basic genetic building blocks.</p>
+<p>&quot;The bone marrow transplant is a kind of kitchen sink approach. You pull out all the bone marrow ... It's a difficult operation, it's tough on the patient,&quot; he said.</p>
+<p>If the gene repair approach lives up to hopes, &quot;it should be cheaper, less invasive&quot; and it does not require compatible donors.</p>
+<p>Simply put, the new molecule is introduced into a stem cell -- the precursor of red blood cells -- where it changes the shape of the genetic helix and essentially keeps pointing to the mutation until the cell's normal DNA repair procedures get to work and fix the defect.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

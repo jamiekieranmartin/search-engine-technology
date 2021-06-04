@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="74269" id="root" date="1996-09-24" xml:lang="en">
+<title>BAHRAIN: PRESS DIGEST - Bahrain - Sept 24.</title>
+<headline>PRESS DIGEST - Bahrain - Sept 24.</headline>
+<dateline>MANAMA 1996-09-24</dateline>
+<text>
+<p>These are some of the leading stories in the Bahraini press on Tuesday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>AL-AYAM</p>
+<p>- Cabinet Affairs and Information Minister Mutawae says the government has overcome difficulties in Bahrain's new two-year budget. Bahrain has projected a 75 million dinar deficit in the two-year 1997/1998 budget, sharply down from projected 236 million dianrs in the 1995/1996 budget.</p>
+<p>- Bahrain Monetary Agency Governor Saif affirms strength in the financial and banking sectors in Bahrain.</p>
+<p>AKHBAR AL-KHALEEJ</p>
+<p>- Emir, prime minister say Bahrain supports and encourages all financial institutions in Bahrain.</p>
+<p>- King Hussein of Jordan arrives in Bahrain on Tuesday for an official visit.</p>
+<p>GULF DAILY NEWS</p>
+<p>- An Indian worker, victim of an arson attack, died the day after his wife arrived. Davender Singh was killed when a store he was working at was torched in a Bahraini village on September 14.</p>
+<p>- The Bahrain Training Institute vows to bolster training needs. It has more than 4,700 students enrolled in more than 30 training programmes.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BAHRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANAMA"/>
+<dc element="dc.creator.location.country.name" value="BAHRAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

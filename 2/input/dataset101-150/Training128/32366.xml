@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32366" id="root" date="1996-09-04" xml:lang="en">
+<title>AUSTRIA: Austria to toughen laws on child sex abuse.</title>
+<headline>Austria to toughen laws on child sex abuse.</headline>
+<dateline>VIENNA 1996-09-04</dateline>
+<text>
+<p>The Austrian government said on Wednesday it aimed to introduce tougher laws in a major clampdown on child sex abuse following a number of arrests involving an international child pornography ring.</p>
+<p>&quot;The arrests alone show that we have not been doing enough about this sensitive issue,&quot; conservative People's Party chairman Andreas Khol told the current affairs magazine News.</p>
+<p>&quot;The problem isn't just the length of sentences but also the ineffectiveness of existing laws,&quot; he added.</p>
+<p>Austrian police over the past week have arrested four men on suspicion of producing pornography in a child prostitution ring spanning central Europe.</p>
+<p>The men were also being investigated for alleged involvement in providing children as young as seven, mostly from neighbouring Slovakia, to clients in Vienna.</p>
+<p>The People's Party and its senior coalition partner, the Social Democratic Party of Chancellor Franz Vranitzky, will submit a bill to parliament when deputies reconvene on September 19, a Social Democratic party spokesman told Reuters.</p>
+<p>He said its priorities would be cracking down on sex tourism and child pornography and tougher sentences for convicted child abusers.</p>
+<p>Other measures suggested are that offenders should lose their jobs if they are employed by the state and should have to pay for the psychological care of their victims.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VIENNA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

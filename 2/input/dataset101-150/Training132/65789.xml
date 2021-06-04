@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="65789" id="root" date="1996-09-19" xml:lang="en">
+<title>SOUTH KOREA: Seoul stocks close lower, large-caps lead falls.</title>
+<headline>Seoul stocks close lower, large-caps lead falls.</headline>
+<dateline>SEOUL 1996-09-19</dateline>
+<text>
+<p>Stocks ended lower across the board on Thursday led by falls of large-capitalised shares, brokers said.</p>
+<p>The composite index fell 8.95 points, or 1.14 percent, to provisionally end at 773.15. Losers led gainers by 610 to 277.</p>
+<p>&quot;Huge amount of margin loans depressed the underlying market sentiment and investors are increasingly selling stocks to pay back the loans,&quot; said Seoul Securities broker Kim Young-bum.</p>
+<p>News on the North Korean military infiltration and the on-going manhunt for fugitives had little direct impact on the market, brokers said.  </p>
+<p>Trade volume totalled 28.7 million shares, down from 28.96 million on Wednesday.</p>
+<p>Margin loans at brokerage houses are now estimated at about 2.7 trillion won and some 300 billion won of the total are due to be redeemed by the end of this month, brokers said.</p>
+<p>&quot;Margin loans will continue to be a major issue affecting the overall trading sentiment for the time being,&quot; a Ssangyong Investment and Securities broker said.</p>
+<p>Blue chips fell broadly. Samsung Electronics lost 1,500 won to 58,500 and Korea Electric Power was down 300 won to 26,600.  </p>
+<p>South Korean security forces on Thursday killed six of the estimated 20 North Korean infiltrators who landed in an east coast of South Korea on Wednesday after their submarine went aground. On Wedensday, one was captured alive and 11 others were found shot to death in an apparant mass suicide.</p>
+<p>The massive manhunt was still going on for the last two North Korean agents believed to be still on the run, defence officials said.</p>
+<p>The index futures December contracts closed 0.85 points lower at 81.00 while the KOSPI-200 index closed 1.26 points down to 80.69. --YOO CHOON-SIK (822) 727 5646</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

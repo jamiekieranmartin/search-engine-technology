@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="20126" id="root" date="1996-08-28" xml:lang="en">
+<title>FRANCE: Air France union tries to block African expulsions.</title>
+<headline>Air France union tries to block African expulsions.</headline>
+<dateline>PARIS 1996-08-28</dateline>
+<text>
+<p>A new controversy flared up over the French government's immigration policies on Wednesday when an Air France union said it would try to prevent the expulsion of a planeload of Africans.</p>
+<p>The CFDT union said it had learned of a government request to charter one of the state-owned airline's planes to fly illegal immigrants home to Tunisia, Niger and Zaire and called the plan &quot;a fresh violation of human rights&quot;.</p>
+<p>&quot;The CFDT's Air France branch is intervening immediately, at all levels of Air France management, to prevent the airline's planes and staff from being used in such police operations,&quot; the union said in a statement.</p>
+<p>CIMADE, an organisation looking after immigrants, said the government was planning a second flight on Wednesday to Mali and Senegal.</p>
+<p>Leading human rights activists, including dissident former bishop Jacques Gaillot, joined in, asking pilots to refuse to fly the deportees.</p>
+<p>&quot;We...solemnly ask you to uphold the dignity of French aviation by refusing to be part of this ignominy,&quot; they said.</p>
+<p>The government's handling of the illegal immigration issue has become a hot topic since last week's police raid on a Paris church that had been occupied by some 300 Africans in a protest against France's tough immigration laws.</p>
+<p>Four of the Africans were deported at the weekend aboard a previously scheduled charter flight, and 66 have received expulsion orders, some 20 of which could legally be enforced at any time.</p>
+<p>Another 49 have been promised residence permits following a review of their cases on humanitarian grounds.</p>
+<p>Supporters of the Africans scheduled a march in Paris later on Wednesday, and the immigrants have called for a second demonstration on September 18 at the Council of Europe in Strasbourg in eastern France.</p>
+<p>Human rights groups, labour unions and the opposition Left have branded last week's police raid a human rights disaster.</p>
+<p>But most of the centre-right majority has praised the action while the far-right National Front has accused the government of being too soft an the problem of illegal immigrants.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="NIGER">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="TUNIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="ZAIRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

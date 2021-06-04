@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="21738" id="root" date="1996-08-29" xml:lang="en">
+<title>USA: Pilot error cited in Clinton transport plane crash.</title>
+<headline>Pilot error cited in Clinton transport plane crash.</headline>
+<dateline>NEW YORK 1996-08-29</dateline>
+<text>
+<p>Pentagon officials have said the fatal crash of an Air Force transport plane carrying Secret Service equipment for President Bill Clinton appears to have been the result of pilot error by an inexperienced crew, CBS News reported on Thursday.</p>
+<p>&quot;I think we're going to find that there were some pilot errors that night,&quot; CBS quoted one Pentagon official as saying of the crash, which killed all nine people aboard.</p>
+<p>The flight commander was an experienced pilot, CBS said, but the co-pilot had only 70 hours flight time in a C-130 and the 22-year-old navigator had &quot;minimal&quot; flying hours.</p>
+<p>The Air Force is still investigating the crash of the C-130, which was attempting a nighttime departure from Jackson Hole, Wyoming.</p>
+<p>A pilot watching the takeoff said the plane &quot;was in the wrong place ... you don't head out anyplace other than south out of here.&quot;</p>
+<p>Officials said the plane's black boxes gave no indication of mechanical malfunction or that the crew thought anything was wrong.</p>
+<p>Defence officials said an investigation will have to look into whether it was appropriate for such an inexperienced crew to fly a presidential mission out of a mountain airport, CBS said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

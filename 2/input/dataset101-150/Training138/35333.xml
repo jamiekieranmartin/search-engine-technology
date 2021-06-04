@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="35333" id="root" date="1996-09-05" xml:lang="en">
+<title>BELGIUM: Scientists to discuss sheepmeat safety.</title>
+<headline>Scientists to discuss sheepmeat safety.</headline>
+<byline>Peter Blackburn</byline>
+<dateline>BRUSSELS 1996-09-05</dateline>
+<text>
+<p>The European Union's Scientific Veterinary Committee may recommend on Friday the removal of suspect tissue from sheepmeat in order to ease public health fears, Commission sources said.</p>
+<p>But a member state official said that a recommendation would probably be delayed until after the EU's multidisciplinary committee has discussed the issue on September 16.</p>
+<p>&quot;The aim is to avoid conflicting scientific advice being given,&quot; the official said, adding that more than one discussion would probably be needed.</p>
+<p>Farm Commissioner Franz Fischler proposed in July to ban sheep brains, spleens and spinal cords from the human and animal food chains to protect human health.</p>
+<p>Fischler proposed EU measures after reports from Britain and France that sheep could catch Bovine Spongiform Encephalopathy (BSE), or mad cow disease, under laboratory conditions.</p>
+<p>But some members of the EU's Standing Veterinary Committee questioned if such widespread and costly action was justified as there was only a slight risk to human health.</p>
+<p>Both Commission and member state sources played down the importance of Friday's meeting of the Scientific Veterinary Committee, which is made up of independent experts.</p>
+<p>They said it was only one of a series of meetings and formal recommendations were a long way off.</p>
+<p>The scientific experts will in addition to sheepmeat discuss the following issues: -  Cow to calf transmission of BSE: Britain's Spongiform Encephalopathy Advisory Committee (SEAC) said in late July that one percent of cows transmitted the fatal brain wasting disease to their calves. The study did not examine how the disease was transmitted but Germany expressed concern about the safety of British milk and cheese. The Commission said on August 6 that there was no scientific evidence that milk carries mad cow disease but this could not be ruled out completely. Several member states have demanded further research. - British selective slaughter programme: A report by Oxford scientists in the British magazine Nature that BSE would disappear by 2001 strengthened a campaign by British farmers against a cull of 147,000 animals most at risk to the disease. The Commission said on August 29 that although EU scientists would discuss the new research it was unlikely that the slaughter scheme would be changed. - Gelatine: The scientists will discuss whether new heat processing rules are adequate to eradicate mad cow disease from gelatine. This follows a report received by Farm Commissioner Franz Fischler on June 25. It criticised rules aproved by the Commission on June 11 requiring beef by-products to be heated to 138 to 140 degrees centigrade for four seconds. No British gelatine is being exported currently.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="I0100105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="I0100124">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="I41220">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="G153">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

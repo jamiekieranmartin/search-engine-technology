@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="85108" id="root" date="1996-09-30" xml:lang="en">
+<title>TAIWAN: Taiwan protesters mourn Hong Kong activist's death.</title>
+<headline>Taiwan protesters mourn Hong Kong activist's death.</headline>
+<dateline>TAIPEI 1996-09-30</dateline>
+<text>
+<p>Dozens of Taiwanese protesters burnt the Japanese flag to mourn deceased Hong Kong activist David Chan on Monday in a sombre protest against Tokyo's claim to an East China Sea archipelago.</p>
+<p>Sitting behind a giant picture of Chan, framed by banners that read &quot;Your martyrdom will be remembered for a thousand years,&quot; the demonstrators sang mourning songs outside Japan's diplomatic mission in Taipei.</p>
+<p>On September 22, Chan led an activist group that sailed from Hong Kong intending to rip down a lighthouse built by Japanese ultranationalists in July, and remove Japanese, flags on the disputed Diaoyus, or the Senkakus in Japanese.</p>
+<p>Chan drowned after jumping into the storm-whipped sea near the islands on Thursday in symbolic defiance of Japan's claim.</p>
+<p>&quot;We have to make sure that David Chan did not die in vain,&quot; one protester said.</p>
+<p>More than 200 police stood guard outside the visa office, Japan's top representative branch in Taiwan in the absence of official ties, but the demontration ended without violence.</p>
+<p>Despite Chan's death, activists from Taiwan and Hong Kong have said they will gather up to 20 boats to sail to the islands again on October 6, after a wave of protest that has swept Hong Kong, Taiwan, Macau and China since July.</p>
+<p>Japan took the disputed islands -- west of Japan's Okinawa island, northeast of Taiwan and east of China's southeastern Fujian coast -- as war booty after defeating imperial China in 1895. Tokyo refuses to acknowledge any sovereignty dispute.</p>
+<p>China and Taiwan, separated by a civil war in 1949, say the islands have been Chinese territory for centuries, and they should have been returned to Chinese rule after Japan's defeat at the end of World War Two.</p>
+<p>While private hostility towards Japan seemed to be escalating, Taiwan's government has continued to urge calm and maintains that the dispute can be resolved only through negotiation.</p>
+<p>Taipei says it plans to hold talks with Japan on October 3 or October 4, but the Japanese side has not confirmed the schedule.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

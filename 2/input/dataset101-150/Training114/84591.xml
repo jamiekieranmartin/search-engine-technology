@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="84591" id="root" date="1996-09-30" xml:lang="en">
+<title>UK: Briton to set off on solo Antarctica trek.</title>
+<headline>Briton to set off on solo Antarctica trek.</headline>
+<dateline>LONDON 1996-09-30</dateline>
+<text>
+<p>British explorer Ranulph Fiennes said on Monday he hopes to become the first man to walk solo and unaided across Antarctica.</p>
+<p>During an epic 1,800-mile (2,897-km) journey which will begin on November 1, he will drag 500 pounds (227 kilos) of equipment by sledge to raise three million pounds ($4.7 million) for the breast cancer charity Breakthrough.</p>
+<p>&quot;I have learned many lessons on previous expeditions in Antarctica. I now have the chance to return to the area to attempt to create a world record for the first solo unsupported crossing of the whole of the Antarctic,&quot; the veteran adventurer said in a statement.</p>
+<p>He will set off from Berkner Island in the north of Antarctica, travel via the South Pole and the Filchner Ice Shelf and arrive 110 days later at Scott Base in the southwest of the contingent.</p>
+<p>&quot;Speed is of the essence and with foresight and months of planning I feel confident that the endeavour can succeed,&quot; he added.</p>
+<p>Fiennes, 52, has completed several expeditions to the North and South Poles and was named the &quot;World's Greatest Living Explorer&quot; by the Guinness Book of Records in 1984.</p>
+<p>During his last trek to the South Pole with Briton Michael Stroud in 1992 the pair made the first unsupported crossing of the Antarctic continent and the longest unsupported polar journey in history.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

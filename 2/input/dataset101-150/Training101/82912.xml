@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="82912" id="root" date="1996-09-27" xml:lang="en">
+<title>EGYPT: Egypt divers find 10 bodies in ferry accident.</title>
+<headline>Egypt divers find 10 bodies in ferry accident.</headline>
+<dateline>ASSIUT, Egypt 1996-09-27</dateline>
+<text>
+<p>Divers have recovered 10 bodies from the Nile River and are looking for at least 50 more after a ferry carrying 75 people capsized off a southern Egyptian village, security sources said on Friday.</p>
+<p>Nineteen people were rescued on Thursday night after the ferry sank as it carried villagers home from a funeral.</p>
+<p>Security sources said the ferry and a barge carrying goods collided, but the Interior Ministry said the ferry should not have carried more than 50 people and was overloaded.</p>
+<p>Police have detained the ferry captain, 59-year-old Ahmed Mohammed Munir, for investigation.</p>
+<p>The accident happened near the ancient tombs at Beni Hassan, in Minya province about 260 km (160 miles) south of Cairo, after a funeral on the west bank of the river.</p>
+<p>The river is several hundred metres (yards) wide at that point and the current is strong.</p>
+<p>Divers have erected a wire net to prevent any bodies from floating downstream and the sources said the search would continue until Sunday.</p>
+<p>Distraught relatives were lining the river bank waiting for any bodies to float up or diving themselves to look for their kin, the security sources added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ASSIUT, Egypt"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

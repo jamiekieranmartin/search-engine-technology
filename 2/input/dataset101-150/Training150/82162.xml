@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="82162" id="root" date="1996-09-27" xml:lang="en">
+<title>ISRAEL: Eight dead in fresh Israeli-Palestinian violence.</title>
+<headline>Eight dead in fresh Israeli-Palestinian violence.</headline>
+<dateline>JERUSALEM 1996-09-27</dateline>
+<text>
+<p>Six Palestinians and two Israeli paramilitary policemen were killed in fresh clashes in the West Bank and Jerusalem on Friday.</p>
+<p>On Jerusalem's Temple Mount, site of al-Aqsa mosque, Israeli security forces shot dead three Palestinians during a stone-throwing protest, Arab hospital officials said.</p>
+<p>In the West Bank, three Palestinians and two Israeli paramilitary policemen were shot dead in separate clashes as violence continued to rage, hospital officials and witnesses said.</p>
+<p>Moslem Friday prayers and Palestinian protest marches were the backdrop for the latest bloodshed.</p>
+<p>On the Temple Mount, Islam's third holiest shrine, several hundred Palestinians threw stones, injuring five Israeli policemen. Israeli security forces responded with gunfire, killing the three Palestinians and wounded more than 50, the hospital officials said.</p>
+<p>&quot;There was massive stone-throwing at our forces...there was no choice but to finish dealing with the demonstrators. The truth is we didn't make any use of live ammunition. Rubber bullets were used and maybe one tear gas grenade,&quot; Israeli police commissioner Assaf Hefetz told Israel Radio.</p>
+<p>In the West Bank town of Tulkarm, two Israeli paramilitary policemen and a Palestinian were killed in clashes, Israel Radio and Arab hospital officials said. Fifteen Arabs were wounded.</p>
+<p>Just outside Jericho, also in the West Bank, two Palestinians were shot dead by Israeli gunfire and 12 Arabs were wounded when demonstrators threw stones at soldiers at a military outpost, hospital officials said.</p>
+<p>Palestinian police shot and wounded two Israeli soldiers in the Jericho incident, the Israeli security sources said, also reporting that an Israeli paramilitary policeman was wounded near the West Bank town of Qalqilya.</p>
+<p>In Gaza, two Palestinians who were shot by Israeli forces on Thursday died of their wounds on Friday, hospital sources said.</p>
+<p>Since Wednesday, 65 people -- 52 Palestinians and 13 Israelis -- have been killed in violence touched off by Israel's opening of a tunnel near Moslem holy sites in Jerusalem.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERUSALEM"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

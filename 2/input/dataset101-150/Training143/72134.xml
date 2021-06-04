@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="72134" id="root" date="1996-09-24" xml:lang="en">
+<title>USA: FAA's Hinson urges more air safety coopertion.</title>
+<headline>FAA's Hinson urges more air safety coopertion.</headline>
+<byline>Teresa Carson</byline>
+<dateline>MIAMI 1996-09-23</dateline>
+<text>
+<p>Federal Aviation Administrator David Hinson on Tuesday urged a group of aviation executives from North and South America to cooperate more closely on safety or risk stalling the rapid growth of air traffic.</p>
+<p>&quot;In three years, Latin America has become the number one destination for travelers from the United States,&quot; Hinson said. &quot;We welcome this new surge of growth and the economic opportunities it creates. But this expansion will only come if we act now to increase our ability to handle it with safety and efficiency,&quot; he told the Americas Conference on Aviation.  </p>
+<p>One way to improve safety is for all countries to adopt a new high technology satellite tracking system called the global positioning system, Hinson said. Ground stations for the system must be 500 miles (800 km) apart.</p>
+<p>&quot;The continental United States will be covered by this network,&quot; Hinson said. &quot;Now it is time to think of an expansion of this network to the south, linking Central and South America.&quot;</p>
+<p>Without improvements in the aircraft accident rate, the increased traffic will bring fatal air crashes every eight to 10 days by 2015, Hinson said.  </p>
+<p>&quot;The larger the number of states using GPS, the greater the savings in time and fuel and the greater the contribution to safety,&quot; Hinson said. About 2,500 U.S. airports are equipped to use GPS.</p>
+<p>Besides safety, the environmental and economic impact of burning less fuel by using GPS will be tremendous, Hinson said. One U.S. airline estimated it would save $200 million a year on fuel if GPS were adopted worldwide. And industry-wide, the FAA estimates $3 billion to $4 billion less fuel will be burned with the adoption of GPS.</p>
+<p>&quot;Imagine the environmental impact of not burning $3 billion of kerosene,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LAM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MIAMI"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

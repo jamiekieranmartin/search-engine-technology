@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="27106" id="root" date="1996-09-02" xml:lang="en">
+<title>ESTONIA: PRESS DIGEST - Estonia - September 2.</title>
+<headline>PRESS DIGEST - Estonia - September 2.</headline>
+<dateline>TALLINN 1996-09-02</dateline>
+<text>
+<p>The following are the main reports in Estonia's newspapers on Monday. Reuters has not verified these reports and does not vouch for their accuracy:</p>
+<p>ALL NEWSPAPERS</p>
+<p>- A new school year begins in Estonia today.</p>
+<p>- The Labour Party will back former Communist leader Vaino Viljas for president in the September 20 election.</p>
+<p>POSTIMEES</p>
+<p>- Kuressaare is the first town in Estonia to place video cameras on the main streets to help police keep law and order.</p>
+<p>EESTI PAEVALEHT</p>
+<p>- Leaders of Estline reject allegations by Meyers shipping yard that the shipping firm's failure to carry out urgent repairs was the reason for the sinking of the ferry Estonia.</p>
+<p>ARIPAEV</p>
+<p>- The Bank of Estonia will confirm the merger of Savings Bank and Industrial Bank today.</p>
+<p>-- Riga newsroom +371-7226693</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ESTNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TALLINN"/>
+<dc element="dc.creator.location.country.name" value="ESTONIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

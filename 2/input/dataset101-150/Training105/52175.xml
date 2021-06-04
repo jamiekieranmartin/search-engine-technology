@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="52175" id="root" date="1996-09-13" xml:lang="en">
+<title>USA: Weak Aug US retail sales present paradox - experts.</title>
+<headline>Weak Aug US retail sales present paradox - experts.</headline>
+<byline>George Lerner</byline>
+<dateline>NEW YORK 1996-09-13</dateline>
+<text>
+<p>Weak August U.S. retail sales activity presented a paradox that consumers are spending less as the labor market improves, and the data may up-end prospects for a Federal Reserve rate hike, economists said.</p>
+<p>Retail sales for August climbed by a surprisingly weak 0.2 percent after a revised rise of 0.1 percent in July.  U.S. economists had expected sales to rise 0.7 percent.</p>
+<p>&quot;The third quarter for consumer spending is fairly low following a very strong first half,&quot; said James Glassman, senior money market economist at Chase Securities.  </p>
+<p>&quot;This makes no sense because job growth and income growth are fairly substaintial and there is one thing you can count on -- consumers spend their income,&quot; Glassman said.</p>
+<p>Most surprising to economists was the timidity of the automotive sales, which rose only 0.1 percent, and were revised to unchanged in July.</p>
+<p>&quot;There's a compositional shift (in sales), especially in real terms,&quot; said Michael Niemira, an economist at Bank of Tokyo-Mitsubishi. &quot;You moved away from the big ticket items, like computers or cars, to apparel. Because of that shift the overall spending items went down.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="E143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="49752" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: Clean Diesel Technologies in deal.</title>
+<headline>Clean Diesel Technologies in deal.</headline>
+<dateline>STAMFORD, Conn. 1996-09-12</dateline>
+<text>
+<p>Clean Diesel Technologies Inc said Thursday it signed an agreement with Manchester, UK-based Holt Lloyd International Ltd., a supplier of automotive after-market additives, under which Holt Lloyd will market Clean Diesel Technologies' Platinum Plus fuel catalyst for diesel vehicles in Europe and the Far East.</p>
+<p>This agreement is the first industry marketing agreement for the company's Platinum Plus technology.  </p>
+<p>Developed and patented by Clean Diesel Technologies, Platinum Plus was described by the company as a new catalyst which can be used in existing diesel vehicles.</p>
+<p>With Platinum Plus, platinum is introduced into the fuel in soluble form as a fuel additive.  It works by coating the inside of an engine's combustion chambers with platinum and continually replenishing the platinum coating, resulting in improved combustion, reduced emissions and improved fuel economy, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STAMFORD, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

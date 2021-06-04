@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32034" id="root" date="1996-09-04" xml:lang="en">
+<title>EGYPT: Egypt makes two oil and gas discoveries.</title>
+<headline>Egypt makes two oil and gas discoveries.</headline>
+<dateline>CAIRO 1996-09-04</dateline>
+<text>
+<p>Egypt said it made two oil and gas discoveries on Wednesday, one in the Belayim concession in the Gulf of Suez, the other in Meliha in the Western Desert.</p>
+<p>State television said Oil Minister Hamdi el-Banbi informed the cabinet of the discoveries at a meeting on Wednesday.</p>
+<p>It said that in the northwest of the Belayim concession a well tested at 2,500 barrels a day (bpd) of crude at a depth of 3,100 metres (10,200 feet) in a layer 80 metres (260 feet) thick. It has been linked to Belayim production facilities.</p>
+<p>In Meliha, south of the northwest coastal town of Marsa Matrouh, a well produced oil in two separate layers, it said.</p>
+<p>One, at a depth of 3,663 metres (12,000 feet) tested at 5,270 bdp of oil and 22 million cubic feet of gas.</p>
+<p>The second, at a depth of 3,073 metres (10,080 feet), tested at 4,300 bpd of oil and six million cubic feet of gas, it added.</p>
+<p>The television did not name the concession holders or operators and officials were not available to give details.</p>
+<p>But Belayim is a well-established area associated with Petrobel/Belayim Petroleum, a joint venture between the state's Egyptian General Petroleum Corporation and International Egyptian Oil Company (IEOC), the Egyptian subsidiary of the Italian company Agip SpA.</p>
+<p>IEOC has also held the Meliha concession.</p>
+<p>The television quoted Prime Minister Kamal Ganzouri as saying companies in Egypt has made nine oil discoveries and 15 gas discoveries so far this year. The total test flow from the 24 discoveries is 30,500 bpd of oil and 538 million cubic feet of gas a day, he added.</p>
+<p>-- Jonathan Wright +20 2 578 3290/1</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAIRO"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

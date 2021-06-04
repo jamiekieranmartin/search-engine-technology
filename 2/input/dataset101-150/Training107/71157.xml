@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="71157" id="root" date="1996-09-23" xml:lang="en">
+<title>MOROCCO: Moroccan tourism picks up in first seven months.</title>
+<headline>Moroccan tourism picks up in first seven months.</headline>
+<dateline>RABAT 1996-09-23</dateline>
+<text>
+<p>Morocco's tourism receipts rose 21 percent during the first seven months of 1996 compared with the same period last year, a tourism ministry spokesman said on Monday.</p>
+<p>Receipts totalled 6.445 billion dirhams ($740 million) from 5.328 billion dirhams ($612 million).</p>
+<p>A total of 918,496 tourists visited the North African country from overseas, an increase of 10 percent over the previous period's 835,257.</p>
+<p>Visitors came mainly from France, Germany Spain and Britain.</p>
+<p>Tourism is the second biggest foreign currency earner after expatriate remittances which stood at 4.305 billion dirhams in the first five months of 1996.</p>
+<p>($1 = 8.7 dirhams)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="E511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="GTOUR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RABAT"/>
+<dc element="dc.creator.location.country.name" value="MOROCCO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

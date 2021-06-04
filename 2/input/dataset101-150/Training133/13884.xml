@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13884" id="root" date="1996-08-26" xml:lang="en">
+<title>USA: Laser Photonics receives FDA test OK.</title>
+<headline>Laser Photonics receives FDA test OK.</headline>
+<dateline>ORLANDO, Fla 1996-08-26</dateline>
+<text>
+<p>Laser Photonics said on Monday that it has received approval from the Food and Drug Administration to begin human clinical trials for a new procedure for patients with coronary artery disease.</p>
+<p>The procedure is AccuLase Laser, which will be used to perform transmyocardial revascularization in patients with angina and who are no longer able to undergo coronary artery bypass graft or angioplasty surgery.</p>
+<p>Thirty patients will be enrolled in the first phase of the trial, which is expected to take place in September at The New York Hospital-Cornell Medical Center.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ORLANDO, Fla"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

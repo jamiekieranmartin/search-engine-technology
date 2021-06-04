@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13285" id="root" date="1996-08-25" xml:lang="en">
+<title>ISRAEL: PRESS DIGEST - Israel - Aug 25.</title>
+<headline>PRESS DIGEST - Israel - Aug 25.</headline>
+<dateline>JERUSALEM 1996-08-25</dateline>
+<text>
+<p>These are some of the leading stories in Israeli newspapers on Sunday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>HAARETZ</p>
+<p>- Palestinian President Arafat opens civilian struggle against Israel, calls on Palestinians to build in self-rule areas.</p>
+<p>- Seven ministers and governor of Bank of Israel will visit the United States at the end of September and in October.</p>
+<p>- Israel bans plane donated by the Netherlands to Arafat to land at Gaza airport.</p>
+<p>- Former prime minister Peres to Morocco today.</p>
+<p>YEDIOTH AHRONOTH</p>
+<p>- Israeli President Weizman invited Palestinian President Arafat to meet him at his private residence.</p>
+<p>- Netanyahu opposes transit camps for foreign workers facing expulsion.</p>
+<p>- Foreign Minister Levy to visit Egypt soon.</p>
+<p>MAARIV</p>
+<p>- Palestinian Authority has taken over education in East Jerusalem.</p>
+<p>- Syrian armoured columns on the move in Lebanon.</p>
+<p>- Shimon Peres to Morocco, will stay at king's private residence.</p>
+<p>JERUSALEM POST</p>
+<p>- Palestinian Minister Erekat says Israel-PLO talks will begin by September 2.</p>
+<p>- Prime minister names former general Avraham Tamir to staff after failing to establish national security council.</p>
+<p>- Cabinet puts off decision on foreign workers.</p>
+<p>- Internal Security Minister Kahalani warns cabinet of increase in organised crime.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERUSALEM"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

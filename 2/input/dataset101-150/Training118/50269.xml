@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="50269" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: Gensia wins FDA OK for schizophrenia drug.</title>
+<headline>Gensia wins FDA OK for schizophrenia drug.</headline>
+<dateline>SAN DIEGO 1996-09-12</dateline>
+<text>
+<p>Gensia Inc said Thursday the U.S. Food and Drug Administration has given its approval to an Abbreviated New Drug Application for an injectible drug that is used to manage the effects of schizophrenia.</p>
+<p>The approval, given to unit Gensia Laboratories Ltd, covers fluphenazine decanoate injection USP.</p>
+<p>With this approval, Gensia Laboratories has 24 multisource injectable drugs in its product line and several additional new drug filings with the FDA.</p>
+<p>Gensia Laboratories also has over 40 more products in development.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN DIEGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

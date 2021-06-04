@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="72267" id="root" date="1996-09-24" xml:lang="en">
+<title>USA: Guilford Gliadel wafer cleared by FDA.</title>
+<headline>Guilford Gliadel wafer cleared by FDA.</headline>
+<dateline>COLLEGEVILLE, Pa. 1996-09-24</dateline>
+<text>
+<p>Rhone-Poulenc Rorer Inc and Guilford Pharmaceuticals Inc said Tuesday that GLIADEL Wafer, the first commercially available brain cancer treatment to deliver chemotherapy directly to the tumor site, has received clearance from the U.S. Food and Drug Administration.</p>
+<p>The companies said it has been cleared for use as an adjunct to surgery to prolong survival in patients with recurrent glioblastoma multiforme for whom surgical resection is indicated.  </p>
+<p>Glioblastoma multiforme (GBM) is one of the most rapidly progressive and universally fatal of all cancers, the companies said.</p>
+<p>There are about 20,000 primary brain tumors diagnosed in the United States each year and GBM is the most common type, the companies said.</p>
+<p>GLIADEL Wafer is expected to be available by January, 1997.</p>
+<p>Guilford Pharmeceuticals will manufacture GLIADEL Wafer.</p>
+<p>On June 14, Rhone-Poulenc Rorer and Guilford entered into a strategic agreement to develop oncology products using Guilford's proprietary biodegradable polymer implant technology.</p>
+<p>This agreement gives Rhone Rorer the rights to market GLIADEL Wafer worldwide, except in the Scandinavian countries.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLLEGEVILLE, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

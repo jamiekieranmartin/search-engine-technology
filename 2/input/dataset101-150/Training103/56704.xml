@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="56704" id="root" date="1996-09-16" xml:lang="en">
+<title>USA: TVA sees 3-day repair at Browns Ferry 3.</title>
+<headline>TVA sees 3-day repair at Browns Ferry 3.</headline>
+<dateline>NEW YORK 1996-09-16</dateline>
+<text>
+<p>Tennessee Valley Authority (TVA) said Monday it would take about three days to repair a recirculation pump at its 1,065 megawatt (MW) Browns Ferry 3 nuclear power unit.</p>
+<p>But it still does not know when the unit will be putting power back on the grid.</p>
+<p>&quot;There's a 72-hour repair time on it,&quot; said company spokesman Terry Johnson.</p>
+<p>Asked when it would again be producing power, he replied: &quot;That's an unknown...We have to determine the root cause (before restart).&quot;</p>
+<p>Browns Ferry 3 was manually shut Sunday due to an electrical fault in the recirculation pump's motor generator, Johnson said.</p>
+<p>Browns Ferry 2, the facility's unit in operation, was producing power close to its 1,065 MW capacity, he said.</p>
+<p>The Browns Ferry facility is located in Decatur, Ala and operated by TVA Nuclear.</p>
+<p>--New York Power Desk +1 212 859 1622</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

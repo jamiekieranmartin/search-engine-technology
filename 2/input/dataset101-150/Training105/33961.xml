@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33961" id="root" date="1996-09-05" xml:lang="en">
+<title>CANADA: Honda Canada says not making sport utility.</title>
+<headline>Honda Canada says not making sport utility.</headline>
+<dateline>TORONTO 1996-09-05</dateline>
+<text>
+<p>A spokesman for Honda Motor Co Ltd's Canadian unit said the recent expansion at its Alliston plant will not be increased to accommodate production of a sport utility vehicle for the North American market.</p>
+<p>Tod Fowler, supervisor of public relations for Honda Canada told Reuters on Thursday that the currrent C$300 million expansion at its plant in Alliston, Ontario is strictly for the production of Honda's minivan.</p>
+<p>&quot;There is an expansion, but it's not for a sport utility vehicle,&quot; said Fowler. &quot;It is for a full size mini-van to debut the fall of 1998.&quot;  </p>
+<p>Fowler denied a report in the Toronto Globe and Mail newspaper that it would increase the expansion of the Alliston plant to include production of a new sport utility vehicle, due to be unveiled in January 1997.</p>
+<p>&quot;At this point that SUV (sport utility vehicle) addition is pure speculation,&quot; Fowler said. &quot;It is built right now as a right hand vehicle for the market in Japan market but will be produced in a left hand drive automobile for North America.&quot;</p>
+<p>However, Fowler did not say where the North American version would be built and asked if Alliston could accommodate its production he replied: &quot;no comment&quot;.</p>
+<p>-- Paul Casciato (416) 941-8100, or e-mail: paul.casciato@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

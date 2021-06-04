@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="65757" id="root" date="1996-09-19" xml:lang="en">
+<title>SOUTH KOREA: One more N.Korean infiltrator killed, one captured.</title>
+<headline>One more N.Korean infiltrator killed, one captured.</headline>
+<dateline>KANGNUNG, South Korea 1996-09-19</dateline>
+<text>
+<p>Another North Korean infiltrator was killed by security forces in South Korea on Thursday and one captured, a defence ministry spokesman in the east coast city of Kangnung said.</p>
+<p>The latest killing brought to 18 the number shot dead since a group of around 20 North Koreans landed by submarine on Wednesday. Altogether two have been captured.  </p>
+<p>The latest infiltrator to die was killed in a shootout, the spokesman said. A companion was captured nearby.</p>
+<p>Earlier on Thursday six North Koreans were shot and killed, three of them cut down by automatic fire as they crouched by a stream to drink water.</p>
+<p>Eleven others were found dead on top of a mountain on Wednesday in an apparent group suicide.</p>
+<p>A massive hunt is continuing because there is still some doubt over the exact number of agents that landed on a beach near Kangnung in the early hours of Wednesday morning, military sources said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KANGNUNG, South Korea"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

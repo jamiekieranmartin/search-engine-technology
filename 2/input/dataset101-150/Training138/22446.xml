@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="22446" id="root" date="1996-08-29" xml:lang="en">
+<title>UK: Millions ate BSE beef, epidemic risk unknown--study.</title>
+<headline>Millions ate BSE beef, epidemic risk unknown--study.</headline>
+<byline>Maggie Fox</byline>
+<dateline>LONDON 1996-08-29</dateline>
+<text>
+<p>People have eaten more than 700,000 cattle infected with mad cow disease since the epidemic started in Britain in the 1980s, but scientists say they still do not know if this will translate into a fatal human epidemic.</p>
+<p>A report published on Thursday gave the first definitive analysis of the extent of Bovine Spongiform Encephalopathy (BSE or mad cow disease), but left open how many people might have been exposed.</p>
+<p>Infected beef was distributed throughout Britain's 55-million population, so in theory nearly all meat-eaters had a chance to consume some.</p>
+<p>But experts say consumers of burgers, sausages and meat pies ran a higher risk because of the offal content than diners on ordinary cuts of beef.</p>
+<p>No one knows how much infected beef a person has to eat before catching the human equivalent of BSE, Creutzfeldt-Jakob Disease (CJD). Officially, the British government says it is probable but not certain that people can get the brain-ravaging illness from sausages or burgers made out of diseased cows.</p>
+<p>Experts who worked on the report said the BSE figures were troubling, even though they show BSE will die out by 2001.</p>
+<p>&quot;There's...the potential worry in looking at the number of infected animals that entered the food chain,&quot; said Christl Donnelly, a statistician at Oxford University who co-authored the report in the science journal Nature.</p>
+<p>BSE remains a mysterious illness. Related to scrapie in sheep and CJD, it can arise naturally because of genetic mutations, but can also pass from mother to calf.</p>
+<p>It can also be transmitted orally. Cattle got the disease from being fed the rendered remains of sheep with scrapie.</p>
+<p>Because scientists are not sure what the infective agent is, they cannot test for BSE or CJD. It can only be diagnosed after death with a brain autopsy. They do know that a brain protein known as a prion becomes mutated and multiplies rapidly, and at the same time holes develop in the brain.</p>
+<p>Whatever the infective agent is, cooking does not kill it. Tests show it withstands very high temperatures over time.</p>
+<p>The government introduced a ban on the use of cattle brains, spinal cords and other infective parts in 1989, and gradually tightened these restrictions through last December. It also banned using animal protein to feed herbivores.</p>
+<p>But people will still have eaten about 446,000 diseased cattle before 1989 and 283,000 more before last December, according to the report.</p>
+<p>&quot;The big shock in this paper is the proportion of (infected) animals eaten before the 1989 ban,&quot; Jeffrey Almond, an expert at Reading University, told the Independent newspaper.</p>
+<p>&quot;The peak would have been probably about 1994 when it got up to about 10 or 15 percent (of all cattle eaten),&quot; said Stephen Dealler, a microbiologist at Burnley Hospital in northern England who thinks up to two million people may catch CJD.</p>
+<p>Dealler, who has testified to parliament about his fears, says the new numbers can be used to calculate the risks. This could start with known cases of the new variant of CJD.</p>
+<p>&quot;Imagine they caught their disease in 1985. We know how many cattle they ate in 1985. We can work out from there roughly how many cases of CJD to expect,&quot; he said in a telephone interview.</p>
+<p>Depending on how infectious BSE is, that could translate to anywhere from 1,000 cases of the new variant of CJD to two million cases, Dealler says.</p>
+<p>Twelve people have died of the new variant of CJD, which normally strikes one in a million mostly elderly people because of its long incubation period of up to 30 years. Dealler and other scientists say this could be the tip of an iceberg.</p>
+<p>Dealler said he was astounded to see that government scientists co-authored the Nature report after denying for years that large numbers of BSE-infected cattle had been eaten. &quot;They have actually at least admitted to it,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="I0100105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="I41200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

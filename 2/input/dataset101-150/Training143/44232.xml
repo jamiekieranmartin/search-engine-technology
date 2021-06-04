@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="44232" id="root" date="1996-09-10" xml:lang="en">
+<title>GERMANY: Germany bans Turkish charter airline as unsafe.</title>
+<headline>Germany bans Turkish charter airline as unsafe.</headline>
+<dateline>HAMBURG, Germany 1996-09-10</dateline>
+<text>
+<p>Germany's federal aviation office said on Tuesday it had banned Turkish charter airline Holiday Air from landing in Germany because its aircraft had been found to be unsafe.</p>
+<p>A spokesman for the office, the Luftfahrtbundesamt, said Holiday Air had failed to eliminate a number of serious technical defects from its aircraft despite several warnings, and that passengers' safety was not assured.</p>
+<p>A Holiday Air spokesman in Duesseldorf said the airline had a fleet of three Airbus A300 aircraft, a Boeing 727 and a Boeing 737, with an average age of between 15 and 16 years.</p>
+<p>He said Holiday Air had also leased a Lockheed Tristar but returned it after the federal office complained it was not airworthy.</p>
+<p>Germany has tightened its airline safety measures since a Dominican aircraft leased from Turkey's Birgenair and packed with German holidaymakers crashed into the Caribbean in February, killing all 189 people aboard. Investigations showed the crew failed to react properly to a faulty altimeter reading.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HAMBURG, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

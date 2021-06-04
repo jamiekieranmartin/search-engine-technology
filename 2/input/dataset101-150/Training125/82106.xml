@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="82106" id="root" date="1996-09-27" xml:lang="en">
+<title>UK: Scottish nationalists want economic boost from oil.</title>
+<headline>Scottish nationalists want economic boost from oil.</headline>
+<byline>Giles Elgood</byline>
+<dateline>INVERNESS, Scotland 1996-09-27</dateline>
+<text>
+<p>Scottish nationalists on Friday pledged an independent Scotland would invest North Sea oil revenues in industry and infrastructure, and repatriate refining activities now carried out abroad.</p>
+<p>The Scottish National Party's deputy policy chief, Alex Neil, said that as part of Britain, Scotland was the only oil nation that had got poorer and poorer as the oil had flowed faster and faster.</p>
+<p>&quot;Oil revenues are like Scotland winning the lottery every Saturday night,&quot; Neil told a fringe meeting at the SNP's annual conference. &quot;Oil revenues should have been and I hope will become that kind of bank account for Scotland.&quot;</p>
+<p>Nationalists have long been angered that North Sea oil and gas revenues they regard as due to Scotland have gone into central government coffers in London.</p>
+<p>The SNP maintains that since the British Conservative party came to power in 1979, 100 billion pounds (150 billion dollars) of North Sea oil revenues have been &quot;squandered&quot; by the government in London.</p>
+<p>&quot;Scottish revenues have bankrolled (former prime minister Margaret) Thatcher's failed economic experiment and kept afloat a government Scotland never voted for,&quot; the SNP said in an economic policy document issued at the conference.</p>
+<p>It cited British Treasury figures forecasting North Sea oil revenues rising to 3.2 billion pounds in 1996/97 -- the highest figure since the 1980s.</p>
+<p>The SNP is holding its last annual conference before a general election that British Prime Minister John Major must call before next May.</p>
+<p>The SNP, which has four members of parliament, is enjoying a boost in its opinion poll standing to about 29 percent in Scotland, partly as a result of policy blunders by the opposition Labour Party, the biggest party in Scotland.</p>
+<p>Neil said that an independent Scotland would take greater control of &quot;downstream&quot; activities such as oil refining, which provided greater added value and better jobs.</p>
+<p>He said only 20 percent of Scottish North Sea oil was refined in Scotland. The country &quot;should bring more downstream activity back to Scotland&quot;, he said.</p>
+<p>&quot;We are probably one of the richest countries, but we are allowing our riches to flow out of Scotland,&quot; Neil said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="INVERNESS, Scotland"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

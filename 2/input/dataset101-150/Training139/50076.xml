@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="50076" id="root" date="1996-09-12" xml:lang="en">
+<title>THAILAND: Thailand suspends pig imports after protest.</title>
+<headline>Thailand suspends pig imports after protest.</headline>
+<dateline>BANGKOK 1996-09-12</dateline>
+<text>
+<p>Thailand has suspended pig imports from Malaysia and China following strong protests from local pig farmers, a Commerce Ministry official said on Thursday.</p>
+<p>However, the government had asked the Thai Swine Association (TSA) to help stabilise rising domestic pork prices in return and warned it would import hogs if prices kept rising, he told Reuters.</p>
+<p>The cabinet last week decided to allow imports of 30,000 pigs a month until December.</p>
+<p>There is an apparent pig shortage in Thailand because of high animal feed prices which have reduced the incentive for farmers to increase breeding.</p>
+<p>The TSA had charged that the decision to import pigs was politically motivated and demanded that it be rescinded.</p>
+<p>&quot;The government has not revoked the decision but temporarily suspended it. And we will import pigs if a shortage occurrs again,&quot; the official said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I0100119">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

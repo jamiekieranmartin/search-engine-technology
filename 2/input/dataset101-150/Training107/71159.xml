@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="71159" id="root" date="1996-09-23" xml:lang="en">
+<title>EGYPT: Egyptian tourism up again in July.</title>
+<headline>Egyptian tourism up again in July.</headline>
+<dateline>CAIRO 1996-09-23</dateline>
+<text>
+<p>The number of visitors to Egypt rose almost 16 percent in July, to 354,000 from 306,000 in the same month of 1995, the cabinet office said on Monday.</p>
+<p>The figures, the latest available, suggest a tourism boom is continuing into the fiscal year 1996/7, which began on July 1.</p>
+<p>Tourism Minister Mamdouh el-Beltagi said last week that in 1995/6 tourism brought in a record $3.009 billion, $710 million more than in the previous fiscal year.</p>
+<p>The cabinet office said visitors spent 1.496 million nights in Egypt in July, 7.7 percent up on 1.389 million in July 1995. The number of tourists and tourist nights were also well up on June 1996, but this is not strictly comparable because of the seasonal nature of the industry.</p>
+<p>-- Jonathan Wright +20 2 578 3290/1</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="E511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="GTOUR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAIRO"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

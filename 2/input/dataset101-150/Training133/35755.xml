@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="35755" id="root" date="1996-09-05" xml:lang="en">
+<title>USA: Agouron sees Q1 filing for anti-HIV drug.</title>
+<headline>Agouron sees Q1 filing for anti-HIV drug.</headline>
+<dateline>NEW YORK 1996-09-05</dateline>
+<text>
+<p>Agouron Pharmaceuticals Inc said Thursday it hoped to file for U.S. Food and Drug Administration approval for its anti-HIV drug Viracept in the first quarter of 1997.</p>
+<p>&quot;Barring surprises...we believe we're on track for this schedule,&quot; Agouron Chief Executive Peter Johnson said in a presentation made at a biotechnology conference organized by The Carson Group and BioCentury Publications.  </p>
+<p>He said the filing with the FDA would be based a pivotal clinical trial of the drug, the first results of which will begin arriving in about a month. He said the company had yet to determine when it would publish the results.</p>
+<p>Viracept is a protease inhibitor, a new class of drugs that have been shown to reduce the level of HIV in the blood of infected patients when used in combination with older therapies, including AZT and 3TC.</p>
+<p>The drug will compete with protease inhibitors already on the market from Merck and Co Inc, Abbott Laboratories Inc and Roche Holdings.</p>
+<p>Johnson said he expected Viracept to gain rapid FDA approval, as have the competing drugs, if the results of the pivotal trial proved to be positive.</p>
+<p>He said the Agouron drug could have an edge over the competition because of what he described as a favorable combination of effectiveness, few side effects and a lower rate of the drug triggering HIV mutations that are resistant to other protease inhibitors.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

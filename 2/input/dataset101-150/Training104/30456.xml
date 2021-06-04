@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="30456" id="root" date="1996-09-03" xml:lang="en">
+<title>BELGIUM: Two bodies found in Belgian sex scandal.</title>
+<headline>Two bodies found in Belgian sex scandal.</headline>
+<dateline>JUMET, Belgium 1996-09-03</dateline>
+<text>
+<p>Police searching a property owned by convicted child rapist Marc Dutroux, chief suspect in Belgium's paedophile sex scandal, unearthed two decomposing bodies on Tuesday, a medical source told Reuters.</p>
+<p>&quot;They have found two bodies in an advanced state of decomposition,&quot; the source said on condition of anonymity. There was no immediate official comment.  </p>
+<p>The source said the bodies were not of young children but of adolescents or adults.</p>
+<p>The Belga news agency, citing a judicial source, said the remains of at least two people had been found at the house in the Charleroi suburb of Jumet formerly occupied by Dutroux accomplice Bernard Weinstein.</p>
+<p>Dutroux has said he murdered Weinstein and also admitted kidnapping An Marchal, 17, and Eefje Lambrecks, 19, in the port of Ostend a year ago. The fate of the two girls remains a mystery.</p>
+<p>Several other Belgian girls have gone missing in recent years. Their files are all now pooled in Neufchateau, nerve centre of an international paedophile hunt.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JUMET, Belgium"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

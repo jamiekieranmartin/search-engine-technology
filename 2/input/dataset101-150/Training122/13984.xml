@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13984" id="root" date="1996-08-26" xml:lang="en">
+<title>USA: Neurobiological Tech starts trials.</title>
+<headline>Neurobiological Tech starts trials.</headline>
+<dateline>RICHMOND, Calif. 1996-08-26</dateline>
+<text>
+<p>Neurobiological Technologies Inc said Monday it has started Phase I human clinical trials for Memantine.</p>
+<p>Memantine is an NMDA receptor antagonist. Excessive activation of NMDA receptors on nerve cells plays an important role in producing symptoms associated with stroke, traumatic brain injury, neuropathic pain and neurodegenerative conditions such as Alzheimer's disease, the company said.</p>
+<p>The company is enrolling patients in a Phase I clinical trial to verify the safety and pharmacokinetics of Memantine in AIDS patients and healthy volunteers.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RICHMOND, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

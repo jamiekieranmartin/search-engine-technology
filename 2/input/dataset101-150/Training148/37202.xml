@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="37202" id="root" date="1996-09-06" xml:lang="en">
+<title>MEXICO: Spanish Prime Minister in Mexico on trade trip.</title>
+<headline>Spanish Prime Minister in Mexico on trade trip.</headline>
+<dateline>MEXICO CITY 1996-09-05</dateline>
+<text>
+<p>Spanish Prime Minister Jose Maria Aznar arrived on Thursday in Mexico, second leg of a trip to Latin America to promote closer trade and political links.</p>
+<p>Trade between Mexico and its former colonial ruler slumped dramatically last year because of Mexico's economic crisis and the effects of the North American Free Trade Agreement (NAFTA) binding Mexico closer to the United States and Canada.</p>
+<p>Aznar, whose conservative government won election in May, is keen to reverse the trend. He also hopes to use the common language and cultural ties between his nation and most of Latin America as a bridgehead between the region and the European Union.</p>
+<p>On the political front, Aznar and Mexican President Ernesto Zedillo will discuss changes to a bilateral treaty which Spain hopes will allow the extradition of Basque separatist guerrillas who have taken refuge in Mexico.</p>
+<p>The two leaders were also expected to discuss their opposition to U.S. legislation on Cuba that threatens to slap sanctions on foreign companies &quot;trafficking&quot; in confiscated American property on the Communist-ruled island.</p>
+<p>Aznar was greeted at the airport by Mexican Foreign Minister Jose Angel Gurria when he arrived in Mexico from the Dominican Republic. He made no comments to reporters and left immediately for a working meeting with Zedillo.</p>
+<p>Aznar was scheduled to address the Mexican Senate and the Foreign Relations Ministry later in the day. He was due to return home on Saturday. REUTER  052109 GMT sep 96</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

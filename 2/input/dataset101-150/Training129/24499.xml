@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="24499" id="root" date="1996-08-30" xml:lang="en">
+<title>FRANCE: France expels African, Air France unions protest.</title>
+<headline>France expels African, Air France unions protest.</headline>
+<dateline>PARIS 1996-08-30</dateline>
+<text>
+<p>France on Friday expelled another African man seized in a police raid on a Paris church as about 100 Air France workers denounced &quot;charters of shame&quot; used to fly illegal immigrants home.</p>
+<p>A Guinean man, detained in a round-up in the Saint-Bernard church a week ago, was deported on a scheduled Air France flight to Conakry after his appeals failed, a spokesman for Air France's pro-Socialist CFDT union said.</p>
+<p>He was apparently the eighth African deported from among 210 people evicted from the church after a 50-day occupation aimed at securing residence permits, unions said. Most of the others have been released after a brief stay in detention.</p>
+<p>About 100 people from the CFDT and the Communist-led CGT unions marched outside Air France headquarters at Charles de Gaulle airport north of Paris against the use of civilian jets and staff in deporting illegal immigrants.</p>
+<p>&quot;We must obtain a formal commitment from (Air France chairman) Christian Blanc that no plane, no personnel be used to transform our air companies into charters of shame,&quot; CFDT spokesman Francois Cabrera said.</p>
+<p>He said civilians should not be police accomplices.</p>
+<p>Twenty-three out of 25 charters flying illegal immigrants home since Prime Minister Alain Juppe's government took office in May 1995 have been civilian jets. The other two were military jets.</p>
+<p>Separately, Juppe confirmed the conservative government was preparing to submit a draft bill to parliament to tighten laws on illegal workers as part of a crackdown on immigration.</p>
+<p>&quot;Legislation is insufficient in several areas, notably in those concerning illegal work,&quot; Juppe told reporters.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="GUREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

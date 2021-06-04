@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="39661" id="root" date="1996-09-08" xml:lang="en">
+<title>LIBERIA: Hundreds found starving in Liberia town.</title>
+<headline>Hundreds found starving in Liberia town.</headline>
+<dateline>MONROVIA 1996-09-08</dateline>
+<text>
+<p>Aid workers in Liberia have found hundreds of severely malnourished children, women and elderly people in the western town of Tubmanburg, which has been cut off by factional fighting since February.</p>
+<p>U.N. officials said an assessment team from relief agencies finally reached the town on Saturday and started distributing food and other aid after negotations with the rival factions.</p>
+<p>&quot;Hundreds of children are merely barely living skeletons,&quot; a U.N. statement said, adding that many appeared near death and lacked basic foods, medicine and safe drinking water.</p>
+<p>&quot;Virtually all of the children and elderly are suffering from some degree of malnutrition -- one medical doctor estimated that 60 percent of the children are severely malnourished,&quot; it added.</p>
+<p>The assessment team left with 10 critically ill women and children. Officials said that aid groups would return with more food this week.</p>
+<p>More than six years of civil war have killed well over 150,000 people in Liberia, which was founded by freed American slaves in 1847. Over half the pre-war population of 2.5 million have been driven from their homes.</p>
+<p>West African leaders, frustrated by the collapse of over a dozen peace deals, rallied Liberia's faction leaders round a revamped agreement in August and threatened individual sanctions against any leader derailing the accord.</p>
+<p>The deal envisages disarmament by January and elections by May.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LIBER">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONROVIA"/>
+<dc element="dc.creator.location.country.name" value="LIBERIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

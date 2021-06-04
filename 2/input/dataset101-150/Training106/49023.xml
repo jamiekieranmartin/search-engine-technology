@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="49023" id="root" date="1996-09-12" xml:lang="en">
+<title>SLOVENIA: Slovenia extends privatisation voucher validity.</title>
+<headline>Slovenia extends privatisation voucher validity.</headline>
+<dateline>LJUBLJANA 1996-09-12</dateline>
+<text>
+<p>Slovenia's government said on Thursday it would prolong the validity of privatisation vouchers, originally set to expire at the end of the month, unitl the end of June 1997 -- the fourth extension in a row.</p>
+<p>The government said the extension was needed because the country's mass sell-off scheme had been delayed and as many as 200 companies could not complete their privatisation process until next year.</p>
+<p>The delay had partly been caused by revisions in the evaluation of large state companies and their units, it said.</p>
+<p>Under Slovenia's privatisation scheme, which started in the beginning of 1994, every Slovene received a voucher whose value varied according to age, ranging from 100,000 tolars ($740) for people under 18 to 400,000 tolars for people over 48.</p>
+<p>Until now about 88 percent of Slovenians have spent their vouchers by placing them with Slovenian investment funds or buying shares directly.</p>
+<p>Of some 1,500 companies involved in the scheme, about 693 have so far completed the privatisation process.</p>
+<p>-- Marja Novak, Ljubljana newsroom, 386-61-125-8439</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SLVNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LJUBLJANA"/>
+<dc element="dc.creator.location.country.name" value="SLOVENIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

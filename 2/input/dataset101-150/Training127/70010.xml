@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="70010" id="root" date="1996-09-23" xml:lang="en">
+<title>NIGERIA: Nigeria expects $1.1 bln from bitumen exports.</title>
+<headline>Nigeria expects $1.1 bln from bitumen exports.</headline>
+<dateline>LAGOS 1996-09-23</dateline>
+<text>
+<p>Nigeria's Ministry of Solid Minerals has projected an annual income of 88.56 billion naira (US$1.1 bln) from the export and local consumption of bitumen, the News Agency of Nigeria reported on Monday.</p>
+<p>It quoted the ministry's statistical records as showing that the present national demand for bitumen stood at 150,000 tonnes annually but no serious attempt was being made to locally source the commodity.  </p>
+<p>&quot;It is estimated that over 40 billion barrels of bitumen and heavy crude oil exist in this belt (southwest), twice the reserves of crude oil in Nigeria,&quot; said B.N. Olorunfemi, special technical assistant to the solid minerals minister.</p>
+<p>Bitumen is mainly used in road construction.</p>
+<p>Twenty five percent of the total reserves were workable by open-cast mining, Olorunfemi said, adding that the belt had been divided into blocks of 300 square kilometres each as concessions to be allocated to prospective investors.</p>
+<p>The current government policy on the industrial mineral involves its delineation into 15 blocks for lease to private investors, said the agency, adding that there were bright prospects of attracting foreign investors.</p>
+<p>Last year, the military government set up a committee to look into the exploitation of the country's huge but largely untapped bitumen deposits.</p>
+<p>($1=80)</p>
+<p>--Lagos newsroom +234 1 2630317</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NIGEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAGOS"/>
+<dc element="dc.creator.location.country.name" value="NIGERIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

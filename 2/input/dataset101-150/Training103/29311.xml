@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="29311" id="root" date="1996-09-03" xml:lang="en">
+<title>ALBANIA: Boat owner jailed for drowned Albanian teenagers.</title>
+<headline>Boat owner jailed for drowned Albanian teenagers.</headline>
+<dateline>TIRANA 1996-09-03</dateline>
+<text>
+<p>An Albanian whose boat capsized in May drowning 13 schoolchildren passengers and their teacher was found guilty of manslaughter and jailed for more than three years, a newspaper said on Tuesday.</p>
+<p>A court in the southeastern city of Korce found Niko Damo, 22, guilty of reckless behaviour and sentenced him to three years and four months in prison, the daily Gazeta Shqiptare said. It gave no further details.</p>
+<p>Damo said he would not appeal.</p>
+<p>Twelve girls and one boy -- all about 18 years old -- and their 44-year-old teacher drowned during an outing on Prespa Lake in southeastern Albania on May 8 when the boat sank about 50 metres (yards) from shore.</p>
+<p>Three boys and two men survived by swimming to land. Frogmen and rescue workers recovered the victims' bodies.</p>
+<p>Local villagers who witnessed the accident said they saw the boat owner beating his head with a rock after he found out so many pupils had died.</p>
+<p>The students attended an agricultural high school in Starove, about 200 km (120 miles) from the capital Tirana.</p>
+<p>Albania shares Prespa Lake with Macedonia and Greece.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TIRANA"/>
+<dc element="dc.creator.location.country.name" value="ALBANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

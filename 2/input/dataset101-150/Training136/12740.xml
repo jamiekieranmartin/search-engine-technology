@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12740" id="root" date="1996-08-24" xml:lang="en">
+<title>IRAN: Iran hangs two men for drug trafficking.</title>
+<headline>Iran hangs two men for drug trafficking.</headline>
+<dateline>TEHRAN 1996-08-24</dateline>
+<text>
+<p>Iran has hanged two drug traffickers in the southern city of Shiraz, the evening newspaper Resalat reported on Saturday.</p>
+<p>The two Iranian men were arrested in July with 419 kilograms (924 lbs) of opium after they opened fire on police and killed a pedestrain and wounded four, the newspaper quoted a police commander as saying.</p>
+<p>Resalat said the executions were ordered by the Islamic Revolutionary Court. It did not say when they took place.</p>
+<p>One of the men, who killed the pedestrian, was hanged at the site of the crime and the other was executed in Adel prison in Shiraz, the newspaper said.</p>
+<p>Possession of 30 grammes (just over an ounce) of heroin or five kg (11 lb) of opium is punishable by death in Iran. More than 1,000 people have been executed in drug-related cases since the law took effect in 1989.</p>
+<p>Iran has an estimated one million drug addicts and is a key transit route for drugs, mostly opium, smuggled to Europe through Afghanistan and Pakistan -- the so called &quot;Golden Crescent.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-24"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEHRAN"/>
+<dc element="dc.creator.location.country.name" value="IRAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

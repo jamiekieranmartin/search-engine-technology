@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="28025" id="root" date="1996-09-02" xml:lang="en">
+<title>AUSTRALIA: RTRS-NZ airline passengers offered alternative flights.</title>
+<headline>RTRS-NZ airline passengers offered alternative flights.</headline>
+<dateline>BRISBANE 1996-09-02</dateline>
+<text>
+<p>Stranded passengers from New Zealand airline Kiwi International are being offered alternative travel from Brisbane to their destinations aboard other Kiwi International flights, an airline spokesman said on Monday.</p>
+<p>&quot;The airline has other aircraft flying and urges the 300 passengers to talk to Kiwi International about alternative flight arrangements,&quot; the spokesman told Reuters.</p>
+<p>A dispute which grounded the Kiwi International A320 Airbus at Brisbane at the weekend was currently being heard in the Brisbane Supreme Court, he said.</p>
+<p>The dispute between Kiwi and the aircraft's lessor, Singapore company Region Air, was related to &quot;commercial matters,&quot; the spokesman said.</p>
+<p>The aircraft's lease had been pre-paid to the end of September with the airline seeking clarifications on some details in the lease, he said.</p>
+<p>Kiwi International currently has a Boeing 737 aircraft available to fly passengers to their destinations, he said.</p>
+<p>-- Sydney Newsroom 61-2 373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRISBANE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

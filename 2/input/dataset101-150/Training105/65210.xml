@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="65210" id="root" date="1996-09-19" xml:lang="en">
+<title>USA: Mitsubishi recalls 93,000 cars for faulty brake hoses.</title>
+<headline>Mitsubishi recalls 93,000 cars for faulty brake hoses.</headline>
+<dateline>CYPRESS, Calif.</dateline>
+<text>
+<p>Mitsubishi Motor Sales of America, Inc. said Thursday it is recalling up to 93,000 vehicles sold in the United States due to potentially faulty brake hoses.</p>
+<p>The company said the recall covers the 1992-1994 Diamante sedans; 1993-1995 Diamante Wagons equipped with anti-lock brake systems; 1991-1994 3000GT sports car models equipped with ABS brakes; and 1992-1994 Montero sport utility vehicles.</p>
+<p>Mitsubishi, which is the U.S. unit of Japan's Mitsubishi Motors Corp., said it was notifying the owners requesting that they bring their vehicle for repair to an Mitsubishi Motors dealer.</p>
+<p>It said the repairs will involve replacement of the left and right front wheel-side brake hoses.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CYPRESS, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

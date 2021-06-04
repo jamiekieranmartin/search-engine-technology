@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="38452" id="root" date="1996-09-06" xml:lang="en">
+<title>BELGIUM: EU climate action not enough to curb CO2 post 2000.</title>
+<headline>EU climate action not enough to curb CO2 post 2000.</headline>
+<dateline>BRUSSELS 1996-09-06</dateline>
+<text>
+<p>European Union efforts to curb emissions of carbon dioxide from fossil fuel burning are not enough to meet the bloc's target of stabilising output by 2000 and reducing it after that date, the European Environment Agency said on Friday.</p>
+<p>&quot;The European Union is making progress in stabilising emissions of greenhouse gases to date. However, there is considerable uncertainty whether the EU will meet the target of stabilisation of CO2 emissions at 1990 levels by the year 2000,&quot; the EEA said in a statement.</p>
+<p>&quot;Current measures are insufficient to prevent a further increase in CO2 emissions after the year 2000,&quot; said the Copenhagen-based agency.</p>
+<p>A United Nations scientific committee concluded recently that &quot;the balance of evidence suggests a discernible human influence on global climate&quot;.</p>
+<p>Gases such as carbon dioxide are said by scientists to become blocked in the earth's atmosphere, trapping reflected solar rays in a greenhouse effect which warms the atmosphere.</p>
+<p>The EU's 15 countries along with the world's other industrialised nations are responsible for the vast bulk of global emissions.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="G156">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

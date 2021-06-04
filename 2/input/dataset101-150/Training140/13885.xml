@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13885" id="root" date="1996-08-26" xml:lang="en">
+<title>USA: SunRiver Corp unit details new product. [CORRECTED 22:14 GMT]</title>
+<headline>SunRiver Corp unit details new product. [CORRECTED 22:14 GMT]</headline>
+<dateline>AUSTIN, Texas 1996-08-26</dateline>
+<text>
+<p>SunRiver Data Systems, subsidiary of SunRiver Corp, outlined its newly-introduced network computer line on Monday.</p>
+<p>Boundless Technologies Network Computer line provides end-users with similar capabilities as those of a LAN-based personal computer (PC), including multi-media support and on-demand access to data applications.</p>
+<p>The flagship XL model allows the broadcast multi-user access to any network computer currently available. Other models are low-cost network computers.</p>
+<p>The computers are priced at about $649 each, with the actual cost varying depending upon the specific model and configuration selected.</p>
+<p>In an earlier release SunRiver Corp (corrects company name from SunRise Corp) and its fully-owned subsidiary announced a name change to reflect the introduction of the new line of network computers.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AUSTIN, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

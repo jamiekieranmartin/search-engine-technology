@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="62306" id="root" date="1996-09-18" xml:lang="en">
+<title>USA: Dole claims support of new Miss America.</title>
+<headline>Dole claims support of new Miss America.</headline>
+<dateline>SAN DIEGO, Calif. 1996-09-17</dateline>
+<text>
+<p>Republican presidential candidate Bob Dole claimed the support Tuesday of a fellow Kansan, the new Miss America, Tara Dawn Holland.</p>
+<p>Furthermore, Dole told a boisterous campaign rally in this city where he was nominated at last month's Republican convention, he was the candidate preferred by most contestants at last Saturday's Miss America contest in Atlantic City.</p>
+<p>&quot;I talked to Miss America, and she's not only going to vote for me, she's going to try to campaign for me, if she can work it out with her agent.</p>
+<p>Holland, however, has said since winning the title that although she supports Dole, she would not actively campaign for him.</p>
+<p>&quot;They had a poll of the Miss America contestants, and I won that poll 22-9,&quot; Dole said. There were 50 contestants in the pageant.</p>
+<p>Dole did not say how the rest of the contestants responded in the poll, but he cast the results as an omen of good fortune for his struggling campaign.</p>
+<p>&quot;All the polls are changing according to what I read around and hear around,&quot; Dole said, cheered by an ABC poll released Tuesday that showed Dole had narrowed his deficit against Clinton to eight percentage points.</p>
+<p>Holland was named the 76th Miss America. The 23-year-old music education major sang an operatic aria in her talent performance and announced fighting illiteracy was her Miss America platform.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN DIEGO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

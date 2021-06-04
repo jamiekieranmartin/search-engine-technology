@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="60334" id="root" date="1996-09-18" xml:lang="en">
+<title>CANADA: Canadian tourism seen increasing in 1997.</title>
+<headline>Canadian tourism seen increasing in 1997.</headline>
+<dateline>OTTAWA 1996-09-18</dateline>
+<text>
+<p>The number of Canadians planning to take a vacation is on the rise and more of them plan to holiday in Canada, the Conference Board of Canada reported on Wednesday.</p>
+<p>&quot;Stronger economic growth and lower unemployment should boost travel activity in Canada next year,&quot; said Harry French, director of the board's tourism research institute. &quot;Our industry will also continue to benefit from strong growth in international travel.&quot;</p>
+<p>French said overnight trips from Japan, the United Kingdom and Germany should grow at near double-digit levels in 1997.  </p>
+<p>The board said British Columbia and Alberta will lead in travel activity. It said the outlook for U.S. travel to Canada is optimistic but some provinces will fare better than others. Travel from the United States to Ontario will be weak despite the fact that the economies of key states such as Michigan are doing well.</p>
+<p>&quot;A natural levelling off is to be expected as our low dollar has been with us for a few years now,&quot; French said. &quot;Also, the sluggish growth can be partially attributed to government spending reductions that have significantly reduced the marketing budget for promoting the provinces in the U.S.&quot;  </p>
+<p>The conference board said the Open Skies bilateral agreement between Canada and the United States has had a positive impact on air travel between the two countries, which will continue to increase faster than other forms of travel.</p>
+<p>A major development in international travel has been the turnaround in travel to the U.S., the board said. It said after five years of decline, overnight trips from Canada to the U.S. will grow this year and again in 1997.</p>
+<p>Gross domestic product in the accomodation sector will increase by three percent in 1997 following an estimated 2.6 percent increase this year, while hotel occupancy growth will slow in this year and in 1997 as the industry returns to occupancy levels recorded before the severe recession affected the industry in the early 1990s, the conference board said.</p>
+<p>-- Reuters Toronto Bureau  (416) 941-8100</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GTOUR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OTTAWA"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

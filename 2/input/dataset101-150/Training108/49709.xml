@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="49709" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: Hoechst says has nine top drug candidates.</title>
+<headline>Hoechst says has nine top drug candidates.</headline>
+<dateline>NEW YORK 1996-09-12</dateline>
+<text>
+<p>German drugs and chemcials group Hoechst AG said on Thursday it has 23 drug development projects underway, of which nine have been targeted as top priority.</p>
+<p>The company's goal is for two major new drug approvals a year, Hoechst executives said in a conference for reporters and financial analysts.</p>
+<p>Among the lead candidates, executives highlighted a drug for treating Alzheimer's disease and another for patients suffering from heart attacks.  </p>
+<p>The heart drug, called HOE 642, is in a late-stage clinical trial, is targeted for filing with European and U.S. regulators in 1998, said Rotraut Labs, head of development at the Hoechst Marion Roussel drug unit.</p>
+<p>She said its mechanism of action differered from other drugs already on the market for treating cardiac ischemia.</p>
+<p>The Alzheimer's drug, propentofylline, has been marketed in Japan since 1988 and in Korea since 1994. The drug is in late stage clinical trials in the U.S. and Hoechst is targeting a 1998 U.S. filing for the drug, Labs said.</p>
+<p>Asked about the annual sales potential of the top drug candidates, Labs said, &quot;As top priority projects, these compounds have to promise us a commercial potential of $500 million.&quot;</p>
+<p>-- R. Jacobsen, 212-859-1733</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

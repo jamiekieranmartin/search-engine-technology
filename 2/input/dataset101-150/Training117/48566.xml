@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="48566" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: CryoLife Inc acquires foundation.</title>
+<headline>CryoLife Inc acquires foundation.</headline>
+<dateline>ATLANTA 1996-09-12</dateline>
+<text>
+<p>CryoLife Inc said Thursday it has acquired United Cryopreservation Foundation Inc, a processor and distributor of cryopreserved human heart valves and saphenous vein for transplant.</p>
+<p>The transaction is valued at about $2.5 million, said Edwin Cordell, vice president and chief financial officer at CryoLife Inc.</p>
+<p>Under the deal, CryoLife will pay about $2 million over five years and will assume about $500,000 in United Cryopreservation Foundation's obligations.</p>
+<p>In exchange, CryoLife acquires the foundation's assets, including cryopreservation equipment and facilities. The not-for-profit foundation was organized in June 1992 as a tissue-processing facility.</p>
+<p>CryoLife was founded in 1984. It develops and provides technology for ultra-low temperature preservation of viable human cardiovascular and orthopaedic tissues for use in surgery.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

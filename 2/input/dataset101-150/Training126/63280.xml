@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="63280" id="root" date="1996-09-19" xml:lang="en">
+<title>USA: U.S. Northeast spot power steady amid nuke outages.</title>
+<headline>U.S. Northeast spot power steady amid nuke outages.</headline>
+<dateline>NEW YORK 1996-09-19</dateline>
+<text>
+<p>U.S. Northeast spot electricity prices ended Thursday steady versus Wednesday's level on unplanned outages of a couple regional nulcear power plants, market sources said.</p>
+<p>Lackluster demand for electricity due to cool weather offset the bullish effect of reduced generation capacity in the region, they said.</p>
+<p>In the New York Power Pool (NYPP), non-firm electricity prices for heavy load hours on Friday was quoted in the $23.00 a megawatt hour area in the eastern part of the state, and $18.50 in the western part.</p>
+<p>Off-peak NYPP prices for Friday were discussed in the $15.00-$16.00 range.</p>
+<p>Power prices in western district are usually lower than the eastern district because most of the power production in the west comes from cheap fuels such as hydro and nuclear, whereas considerable generation capacity in the east uses expensive fuel oil and natural gas.</p>
+<p>In the New England Power Pool (NEPOOL), non-firm, peak electricity delivered to the Northeast Utilities territory border on Friday was quoted at about $25.00, and to the upper eastern part of system as high as $29.00.</p>
+<p>Off-peak NEPOOL prices for Friday were valued in the $19.00-$20.00.</p>
+<p>New York Power Authority today restarted its 780 megawatt (MW) Fitzpatrick 1 nuclear power station in Scriba, N.Y., after being tripped off line Monday.</p>
+<p>Boston Edison Co's 670 Pilgrim nuclear power plant was expected to be shut until earlier next week after being shut to correct problems with a set of the plant's heat exchangers.</p>
+<p>--R Leong, New York Power Desk +1 212 859 1622</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

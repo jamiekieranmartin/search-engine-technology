@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="14314" id="root" date="1996-08-26" xml:lang="en">
+<title>VENEZUELA: Eight drown in Venezuelan boating accident.</title>
+<headline>Eight drown in Venezuelan boating accident.</headline>
+<dateline>MARACAIBO, Venezuela 1996-08-26</dateline>
+<text>
+<p>Eight members of a family, five of them children aged between two and seven, drowned when their small boat sank on Lake Maracaibo in western Venezuela early on Monday, authorities said.</p>
+<p>The accident happened when the Sanchez Zarraga family took their boat out for a nighttime spin, Civil Defence and Coast Guard officials said. The cause of the sinking was not known but officials said the boat had a hole in the stern and no lifejackets. Three members of the party were rescued unhurt.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MARACAIBO, Venezuela"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="21110" id="root" date="1996-08-29" xml:lang="en">
+<title>UK: Mad cow cull cuts global warming, report says.</title>
+<headline>Mad cow cull cuts global warming, report says.</headline>
+<dateline>LONDON 1996-08-29</dateline>
+<text>
+<p>The environment may indirectly benefit from the current scare over mad cow disease, New Scientist magazine reported on Thursday.</p>
+<p>It quoted British scientists as saying reductions in British cattle herds because of the epidemic would cut emissions of methane, a greenhouse gas that contributes to global warming.</p>
+<p>&quot;Beef is a greenhouse-intensive food,&quot; the magazine quoted Susan Subak of University College London as saying.</p>
+<p>She estimates that, if British cattle herds are cut in half as a result of the epidemic, methane emissions from their belches would decline by up to three percent.</p>
+<p>Cattle have long been blamed as contributors to global warming. They belch and fart methane, estimated at an average of 48 kilograms (105 lb) a year per cow.</p>
+<p>In addition, fossil fuels are burned to produce fertiliser used on the crops fed to cattle. Fossil fuels send carbon dioxide, another greenhouse gas, into the atmosphere.</p>
+<p>Britain is currently planning to cull 147,000 cows because of fears about Bovine Spongiform Encephalopathy (BSE or mad cow disease). This is a small percentage of the 11 million national cattle herd.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

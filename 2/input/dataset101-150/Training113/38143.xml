@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="38143" id="root" date="1996-09-06" xml:lang="en">
+<title>USA: Ford recalls 87,485 cars for steering repair.</title>
+<headline>Ford recalls 87,485 cars for steering repair.</headline>
+<dateline>DETROIT 1996-09-06</dateline>
+<text>
+<p>Ford Motor Co said on Friday it was recalling about 86,485 Crown Victoria and Lincoln Town Car vehicles to correct a problem that could cause a loss of steering control.</p>
+<p>The recall affects 1995 and 1996 Crown Victoria Police Interceptor and commercial fleet models and Lincoln Town Car models with the Limousine Conversion or Livery Package.  </p>
+<p>Ford said the vehicles' pitman arm bearing, a part of the steering mechanism, was not fully lubricated during the manufacturing process and, under hard driving usage, could become excessively worn and fail. If such a failure were to occur, the driver would likely experience a loss of steering control.</p>
+<p>Ford said it was aware of no accidents or injuries related to the problem.</p>
+<p>Owners are being notified by mail and requested to contact their dealers for inspection, lubrication and, if necessary, replacement of the pitman arm assembly, free of charge.</p>
+<p>The service should take about one hour, Ford said.</p>
+<p>About 2,787 of the cars being recalled are located in Canada.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="36580" id="root" date="1996-09-06" xml:lang="en">
+<title>BRAZIL: Brazil sets import quotas for car makers.</title>
+<headline>Brazil sets import quotas for car makers.</headline>
+<dateline>BRASILIA 1996-09-06</dateline>
+<text>
+<p>Brazil has set individual import quotas for car manufacturers from the European Union, Japan and South Korea, government sources said Friday.</p>
+<p>The quotas, which follow Brazil's decision to allow limited low-tariff imports from the EU, Japan and South Korea in a bid to take the sting out of World Trade Organization complaints over its car import rules, were due to be published in the Official Journal.  </p>
+<p>Last month, Brazil said the three entities could import 50,000 vehicles over the next 12 months at half the normal 70 percent tariff. Japan has 47.5 percent of the total quota.</p>
+<p>According to the sources, the low-tariff quota was divided up among car firms as follows:</p>
+<p>JAPAN</p>
+<p>Honda Motor Co Ltd - 433 vehicles in the next quarter, 432 in each of the following two quarters and 433 in the subsequent quarter.  </p>
+<p>Daihatsu Motor Co Ltd - 260 vehicles in each of the next two quarters and 261 in each of the following two.</p>
+<p>Mazda Motor Corp - 546 vehicles per quarter.</p>
+<p>Mitsubishi Motors Corp - 1,394 vehicles in the next quarter and 1,395 in each of the following three.</p>
+<p>Nissan Motor Co Ltd - 292 vehicles per quarter</p>
+<p>Subaru - 381 cars in the next quarter, 382 in the each of the following two and 381 in the fourth quarter.</p>
+<p>Suzuki Motor Corp - 832 vehicles per quarter.</p>
+<p>Toyota Motor Corp - 1,551 vehicles in the next three quarters and 1,552 in the subsequent quarter.  </p>
+<p>SOUTH KOREA</p>
+<p>Daewoo Motor Co Ltd -- 802 vehicles in the next two quarters, 803 in the third and 802 in the fourth quarter.</p>
+<p>Hyundai Motor Co Ltd - 987 vehicles in the next three quarters and 988 in the fourth.</p>
+<p>Kia Motors Corp - 2,141 vehicles in the next three quarters and 2,142 in the subsequent quarter.  </p>
+<p>EUROPEAN UNION</p>
+<p>BRITAIN</p>
+<p>Bentley - One vehicle in the first quarter, none in each of the following two and one in the subsequent quarter.</p>
+<p>Jaguar - 15 vehicles per quarter</p>
+<p>Land Rover - 30 vehicles in the next quarter and 31 in each of the following three.</p>
+<p>Lotus - One vehicle in the first quarter, none in the following two and one in the fourth quarter.  </p>
+<p>Rolls-Royce - One vehicle in the third quarter.</p>
+<p>FRANCE</p>
+<p>Citroen - 550 vehicles in the first and third quarters and 551 vehicles in the second and fourth quarters.</p>
+<p>Peugeot - 691 vehicles in the first and third quarters and 690 in the second and fourth.</p>
+<p>GERMANY</p>
+<p>Audi AG - 370 vehicles in the first and third quar INTERRUPTED</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRASILIA"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

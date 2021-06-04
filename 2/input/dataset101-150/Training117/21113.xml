@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="21113" id="root" date="1996-08-29" xml:lang="en">
+<title>UK: British company pioneers non-animal tests.</title>
+<headline>British company pioneers non-animal tests.</headline>
+<dateline>LONDON 1996-08-29</dateline>
+<text>
+<p>The first pharmaceuticals company to test drugs exclusively on human tissue, bypassing the need for controversial animal tests, will open its doors in October, New Scientist magazine reported on Thursday.</p>
+<p>It said Pharmagene, based in Royston, central England, could start research because of the opening this year of the first European human tissue bank. Donors can offer tissue after death in the same way they donate organs.</p>
+<p>&quot;We think we're the first company in the world to do all our work on human tissue,&quot; Bob Coleman, a founder of the company, told New Scientist.</p>
+<p>&quot;We are going to miss out animals altogether,&quot; added Gordon Baxter, who helped found the company.</p>
+<p>&quot;If you have information on human genes, what's the point of going back to animals?&quot;</p>
+<p>Animal tests are controversial not only because animal welfare groups think they are cruel, but because the results often do not translate to people.</p>
+<p>For example, aspirin kills cats but is widely used for headaches, fever and heart disease in humans.</p>
+<p>Coleman said the tissue bank would include contributions from every part of the human body, but it would be kept in test tubes.</p>
+<p>&quot;We won't have arms and legs stored on meat hooks,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

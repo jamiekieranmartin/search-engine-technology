@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="62314" id="root" date="1996-09-18" xml:lang="en">
+<title>USA: US West Coast prods flat to up on APIs, refineries.</title>
+<headline>US West Coast prods flat to up on APIs, refineries.</headline>
+<dateline>LOS ANGELES 1996-09-17</dateline>
+<text>
+<p>U.S. West Coast product prices were steady to higher in moderate late trade, getting a lift from refinery buying and drops in inventories.</p>
+<p>Gasoline inventories in West Coast PADD 5 fell 709,000 barrels to 26.9 million last week, according to data from the American Petroleum Institute (API) released late Tuesday.</p>
+<p>&quot;That's an extremely low number for out here,&quot; one trader claimed. Fundamentally, supplies appeared under pressure as key Los Angeles refiners bought to compensate for lost capacity.</p>
+<p>Mobil, Chevron, and Arco were undergoing or planning repairs on major units, traders said.  </p>
+<p>And Ultramar's roughly 70,000 barrel-per-day plant in L.A., was said to be short diesel due to a hydrotreater which was shut last week.</p>
+<p>Conventional or &quot;clear&quot; grade gasoline in Los Angeles was seen between 69.50 and 70 cents for September parcels, steady with earlier prices.</p>
+<p>And Premium September conventional in L.A. stayed 10 cents over regular. Premiums were higher because of the outage at Mobil's Torrance, Calif., reformer, which upgrades gasolines.</p>
+<p>Ultra-clean CARB gasoline rose 0.50 cent to 71.50/72.50 cents for September parcels.  </p>
+<p>Most trade shifted to October parcels, traders said, noting October barrels were lower by a half to full cent.</p>
+<p>One broker said the market watched for the return of Powerine, a small refinery in California, that could return to production by month's end. He said that rumours indicated the plant would manufacture feedstocks.</p>
+<p>Meanwhile, low sulphur diesel in L.A. edged up half a cent to 71.50/72.50 cents a gallon, while CARB grade was unchanged in late trading. San Francisco gasolines were assessed two cents lower than L.A. material.</p>
+<p>--David Brinkerhoff, Los Angeles bureau +1 213 380 2014</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

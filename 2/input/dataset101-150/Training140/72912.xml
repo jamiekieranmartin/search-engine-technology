@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="72912" id="root" date="1996-09-24" xml:lang="en">
+<title>USA: Hi-tech's Cray remains in critical condition.</title>
+<headline>Hi-tech's Cray remains in critical condition.</headline>
+<dateline>COLORADO SPRINGS, Colo 1996-09-24</dateline>
+<text>
+<p>Seymour Cray, one of the leading innovators in high technology, remained in critical condition Tuesday from injuries suffered in a car accident over the weekend, a hospital spokeswoman said.</p>
+<p>&quot;He's still listed as critical and unstable,&quot; said Kate Brewster, spokeswoman for Penrose St. Francis Health Services in Colorado Springs.</p>
+<p>Cray, who is considered the father of the supercomputer, was injured on Interstate 25 on Sunday when his Jeep Cherokee rolled over three times after it was hit by another car.</p>
+<p>Cray founded supercomputer company Cray Research in 1972. Supercomputers, which can process massive amounts of data at high speed, were the talk of the 1980s but lost their luster with the advent of personal computers and workstations, which became the choice of engineers and scientists.</p>
+<p>Cray Research, a Minnesota-based company, was sold to Silicon Graphics Inc. in June of this year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLORADO SPRINGS, Colo"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

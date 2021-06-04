@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="78194" id="root" date="1996-09-26" xml:lang="en">
+<title>BOSNIA: Expected Bosnia currency to be convertible - cbanker.</title>
+<headline>Expected Bosnia currency to be convertible - cbanker.</headline>
+<dateline>SARAJEVO 1996-09-26</dateline>
+<text>
+<p>The yet-to-be-created currency for post-war Bosnia will be convertible for at least six years once it is introduced, Sarajevo's daily Dnevni Avaz newspaper quoted the national bank governor as saying on Thursday.</p>
+<p>&quot;The quantity of Bosnian currency in circulation will directly depend on the country's foreign currency reserves, and the foreign exchange rate will be fixed for the next six years,&quot; national bank governor Kasim Omicevic told the newspaper.</p>
+<p>The national banks of Bosnia's two constitutent entities -- its Moslem-Croat federation and its Serb republic -- will cease to exist once a new Central Bank is established. Omisevic is governor of the existing federation bank.</p>
+<p>The new Central Bank of Bosnia-Hercegovina will be created once the results of September 14 country-wide elections have been certified.</p>
+<p>Under the terms of the Dayton pace agreement, the new central bank will have authority to issue currency and formulate monetary policy.</p>
+<p>Omicevic could not say what the new currency would be called. A variety of currencies are now used in different parts of Bosnia, with the German mark being the only one accepted everywhere.</p>
+<p>The Bosnian dinar is accepted on Moslem-controlled territory and the Croatian kuna is used in Bosnian Croat-held areas. Bank notes from the Federal Republic of Yugoslavia circulate in Serb-dominated parts of Bosnia.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BSHZG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SARAJEVO"/>
+<dc element="dc.creator.location.country.name" value="BOSNIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

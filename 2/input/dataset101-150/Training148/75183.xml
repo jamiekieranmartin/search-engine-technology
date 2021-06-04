@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="75183" id="root" date="1996-09-25" xml:lang="en">
+<title>GUATEMALA: Mexico, Centam neighbors meeting on free trade.</title>
+<headline>Mexico, Centam neighbors meeting on free trade.</headline>
+<dateline>GUATEMALA CITY 1996-09-25</dateline>
+<text>
+<p>Beef exports and rules of origin will be key themes among negotiators from Mexico, Honduras, Guatemala and El Salvador meeting here Wednesday to work on a free trade treaty, officials said.</p>
+<p>&quot;Today we are initiating the renewal of our pending talks to reach an extensive trade agreement,&quot; said Eduardo Solis, head Mexican trade negotiator, at the inauguration of the two- day work meeting.</p>
+<p>The three Central American countries make up the so-called Northern Triangle, which will negotiate as a block with Mexico.  </p>
+<p>Representatives from all four countries met in Mexico in August to exchange information and set a calendar for meetings for negotiations.</p>
+<p>The Central American nations all have trade deficits with Mexico.  Imports are 18 times exports in the case of Honduras, 12 to one for El Salvador and eight to one for Guatemala.</p>
+<p>Mexican beef producers are protected with a 20-25 percent tarriff on beef from Central America, making livestock an important point of negotiation for the Northern Triangle negotiators.</p>
+<p>The Central American countries will be fighting for rules of origin that would allow goods manufactured or assembled in the region, even with less than 60 percent of regional content, to enjoy free trade.</p>
+<p>Mexico already has a free trade treaty with Costa Rica, and is in separate free trade negotiations with Nicaragua, which could join the Northern Triangle negotiating block.</p>
+<p>The Guatemalan government plans to form a separate free trade agreement with El Salvador next year.</p>
+<p>--Fiona Ortiz, Guatemala City bureau 502 2515718</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ELSAL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="GUAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="HON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GUATEMALA CITY"/>
+<dc element="dc.creator.location.country.name" value="GUATEMALA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

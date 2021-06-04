@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="66880" id="root" date="1996-09-20" xml:lang="en">
+<title>CHILE: Chile sees hurdles in free trade talks with Canada.</title>
+<headline>Chile sees hurdles in free trade talks with Canada.</headline>
+<byline>Roger Atwood</byline>
+<dateline>SANTIAGO, Chile</dateline>
+<text>
+<p>Canada and Chile have hit stumbling blocks in negotiations toward a free trade agreement but talks are not paralysed as some reports have suggested, Chilean Foreign Minister Jose Miguel Insulza said Friday.</p>
+<p>Insulza said Chile postponed a visit by President Eduardo Frei to Canada this month partly because the agreement wasn't ready, but also because the dates weren't very convenient for Frei anyway.</p>
+<p>&quot;It's an important issue, but we're not rushing to reach an agreement. There is no reason to hurry into an agreement,&quot; Insulza told reporters.</p>
+<p>&quot;And no, the negotiations are not paralysed,&quot; he said, asked about local news reports saying talks had foundered on Canadian demands for quicker liberalisation of Chilean financial services.</p>
+<p>Chile and Canada have hoped to sign an agreement by year's end to phase out mutual trade barriers and lay the groundwork for Chile to join the North American Free Trade Agreement, possibly as soon as next year.</p>
+<p>Insulza said it was true that financial services continued to be a sticking point in talks.</p>
+<p>But he signalled Chile would maintain a rule that banks must deposit about 30 percent of their reserves in the Central Bank, a rule aimed at keeping financial markets stable and which the Canadians are reported to want eliminated.</p>
+<p>&quot;I understand there are alternatives that would not force us to take such a radical solution,&quot; said Insulza. &quot;Personally I think we should never change economic or monetary policies to reach an international agreement, rather that agreements should be adjusted to the country's permanent policies.&quot;</p>
+<p>&quot;With respect to the agreement, there are some pending issues, and in fact I would say the issue of financial services is one of them,&quot; said Insulza.</p>
+<p>Frei had been scheduled to visit Ottawa late this month, possibly to sign the agreement although it had looked unlikely for weeks now that the trade pact would be ready by then.</p>
+<p>&quot;The date was never very convenient and, since the agreement is not ready, there was no rush to make the trip now,&quot; said Insulza.</p>
+<p>Many trade experts have said Chile will probably have to phase out the 30 percent rule on banks and a series of other financial regulations when it joins NAFTA, no matter what it negotiates with Canada.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO, Chile"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

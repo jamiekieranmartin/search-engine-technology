@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="49674" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: Avian botulism linked to California pelican deaths.</title>
+<headline>Avian botulism linked to California pelican deaths.</headline>
+<dateline>SAN DIEGO, Calif. 1996-09-12</dateline>
+<text>
+<p>Scientists believe thousands of pelicans that died at a California wildlife reserve may have been killed by avian botulism caused by eating infected fish.</p>
+<p>So far 6,266 pelicans have died at the Salton Sea National Wildlife Refuge in the Imperial Valley, some 150 miles (240 km) east of San Diego. In all 8,672 birds of 51 species died in the past month.</p>
+<p>Toni Rocke, an animal epidemiologist for the National Wildlife Health Research Centre in Madison, Wisconsin, found the deadly botulism in 40 percent of 70 fish sampled from the inland sea, a spokeswoman said.</p>
+<p>&quot;Dr. Rocke is positive right now in saying the source of botulism in pelicans is the fish,&quot; said Susan Saul, a spokeswoman for the U.S. Fish and Wildlife Service. &quot;What we don't know is whether the pelicans are eating sick fish, dead fish or live fish to get the botulism.&quot;</p>
+<p>Avian botulism has been known to kill waterfowl that eat maggots found in dead fish, but pelicans do not eat maggots or dead fish. They generally eat only live fish.</p>
+<p>How the fish acquired the toxin, &quot;we don't know,&quot; Saul said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN DIEGO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

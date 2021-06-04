@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="75714" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: Mexico relieved over U.S. immigration bill.</title>
+<headline>Mexico relieved over U.S. immigration bill.</headline>
+<dateline>NEW YORK 1996-09-25</dateline>
+<text>
+<p>Mexico's foreign minister said Wednesday he was relieved that a draft U.S. immigration bill will not bar illegal immigrant children from public schools but expressed concern about hostility to migrants.</p>
+<p>Congressional negotiators Tuesday approved details of a bill deleting a Republican-backed provision allowing states to deny public education to the children of illegal immigrants. Both houses of Congress now have to vote on the bill.</p>
+<p>Mexican Secretary of Foreign Affairs Jose Angel Gurria, speaking before talks with U.S. Secretary of State Warren Christopher, said he was &quot;relieved that it's not going to have the chapter on education.&quot; But he told reporters he was also &quot;worried more generally about the context in which all this legislation is being proposed.&quot;</p>
+<p>&quot;That is something, by the way, which we feel will stay. It's not a question of, you know, disappearing after the November (U.S. presidential) election,&quot; he said.</p>
+<p>&quot;I think there is a new mood, and it's not good. We don't like what we see in terms of the attitudes of some members of the Congress and some regions in the United States, where the phenomenon of migration has given rise to attitudes which seem to be very hostile to migrants.&quot;</p>
+<p>While Mexico did not want to encourage illegality, Gurria said, &quot;we're worried about the impact on human rights (and) labour rights&quot; and believed attitudes toward illegal immigrants &quot;spill over into the attitudes toward legal migrants.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

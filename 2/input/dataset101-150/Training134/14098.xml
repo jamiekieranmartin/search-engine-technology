@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="14098" id="root" date="1996-08-26" xml:lang="en">
+<title>SOUTH AFRICA: ANC to hold meeting on S.African crime wave.</title>
+<headline>ANC to hold meeting on S.African crime wave.</headline>
+<dateline>CAPE TOWN 1996-08-26</dateline>
+<text>
+<p>South Africa's ruling African National Congress said on Monday that senior government ministers would meet next weekend to discuss spiralling crime that has worried foreign investors.</p>
+<p>The party said in a statement the two-day meeting in Cape Town would be attended by the ministers of police, defence and justice and representatives of the prisons and intelligence services.</p>
+<p>Foreign investors have warned South Africa they will pull out of the country if nothing is done to halt violent crimes such as car hijackings and armed robbery in which business leaders and tourists are often targeted.</p>
+<p>Crime is cited as one of the leading causes of an exodus of skilled South Africans to other countries.</p>
+<p>Many Moslem communities throughout South Africa have formed anti-crime organisations and staged marches on the homes of suspected criminals.</p>
+<p>During one such march in Cape Town earlier this month, a gang leader was shot and burned to death.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAPE TOWN"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

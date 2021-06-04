@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="40902" id="root" date="1996-09-09" xml:lang="en">
+<title>SOUTH AFRICA: SAfrica HomeChoice unveils growth plan pre-listing.</title>
+<headline>SAfrica HomeChoice unveils growth plan pre-listing.</headline>
+<dateline>CAPE TOWN 1996-09-09</dateline>
+<text>
+<p>Cape-based direct marketer HomeChoice, making its stock market debut later this month, said on Monday it planned to expand its six sales offices to more than 20 over the next 18 months.</p>
+<p>Financial director Ernie Barclay said the expansion would be financed through the 47 million rand now being raised on the Johannesburg Stock Exchange (JSE).</p>
+<p>The company expects to be listed on the JSE's industrial stores sector on September 20.</p>
+<p>&quot;The direct mail industry in South Africa is still in its infancy, but has the potential to grow substantially as in other developing countries,&quot; Barclay said.</p>
+<p>HomeChoice gets round the potential handicap posed by South Africa's often unreliable postal service by delivering directly to customers itself.</p>
+<p>-- Cape Town newsroom +27 21 25-2238</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="I8395449">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAPE TOWN"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="37078" id="root" date="1996-09-06" xml:lang="en">
+<title>POLAND: Polish police probe Dutroux's car-theft links.</title>
+<headline>Polish police probe Dutroux's car-theft links.</headline>
+<dateline>WARSAW 1996-09-06</dateline>
+<text>
+<p>Polish police said on Friday they were investigating whether Belgian child rapist Marc Dutroux had visited their country.</p>
+<p>&quot;There is a Polish connection. But it is rather connected with car thefts and smuggling,&quot; Commissioner Andrzej Przemyski of the police press office told Reuters. &quot;We are staying in touch with the Belgian police,&quot; he added.</p>
+<p>He said so far there was no official evidence that Dutroux, a key suspect in the Belgian paedophile kidnapping, sex abuse and murder scandal, had visited Poland. Dutroux is also suspected of involvement in a car theft ring.</p>
+<p>Poland has become a destination for many cars stolen in the West and is a transit country for those smuggled to Russia and other former Soviet countries.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="81564" id="root" date="1996-09-27" xml:lang="en">
+<title>USA: Officials say pilot errors led to Colombia crash.</title>
+<headline>Officials say pilot errors led to Colombia crash.</headline>
+<dateline>WASHINGTON 1996-09-27</dateline>
+<text>
+<p>Colombian officials said a series of pilot errors led to the crash of an American Airlines jet in a mountainous area of Colombia last December, according to a final report released in Washington on Friday.</p>
+<p>Aeronautica Civil, the Colombian civilian aviation authority, confirmed that one of the flight's pilots entered an incorrect computer code that caused the AMR Corp's American Airlines plane to turn away from its destination toward the city of Bogota.</p>
+<p>The Boeing 757 was bound for Cali in southern Colombia when pilots lost track of its position. It slammed into a mountain, killing all but four of the 167 passengers and crew aboard.</p>
+<p>Probable causes of the crash were pegged to the lack of &quot;situational awareness&quot; of the flight crew regarding the plane's proximity to terrain and the crew's failure to discontinue the approach.</p>
+<p>The report found that the pilot inadvertently entered the wrong computer command, changing the flight's course without verifying whether it was the correct choice and without first obtaining the approval of the other pilot, contrary to American's procedures.</p>
+<p>The crew's failure to revert to basic radio navigation when the computer-assisted navigation became confusing was also cited as one of the probable causes of the crash.</p>
+<p>Contributing factors to the cause of the accident included the crew's ongoing efforts to speed their approach and landing to avoid potential delays, the report said.</p>
+<p>The crew also failed to release the &quot;speed brakes&quot; of the Boeing 757 when it was using an escape manoeuvre to try to avoid the mountain, the report said.</p>
+<p>Colombian officials recommended that the U.S. Federal Aviation Administration develop and impose standards related to the use of automation in flight navigation.</p>
+<p>The report called on the FAA to require airlines to provide pilots with the training and tools to recognise when computers became an obstacle to navigating a flight and when to revert to basic radio navigation.</p>
+<p>It also recommended the FAA require new planes to automatically release speed brakes in situations &quot;demanding maximum thrust and climb capability.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

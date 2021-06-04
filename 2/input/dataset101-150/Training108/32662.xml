@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32662" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Rorer drug found better for preventing clots.</title>
+<headline>Rorer drug found better for preventing clots.</headline>
+<dateline>BOSTON 1996-09-04</dateline>
+<text>
+<p>A special form of the anti-clotting drug heparin does a better job at preventing dangerous blood clots in trauma patients and its prolonged use may also help prevent clots in people receiving hip replacement surgery, two separate studies have found.</p>
+<p>The drug is enoxaparin, which is a category of heparin known as low-molecular-weight heparin. It is sold under the brand name Lovenox by Rhone-Poulenc Rorer.</p>
+<p>Both studies were published in Thursday's New England Journal of Medicine.  </p>
+<p>In the study of trauma patients who got either heparin or enoxaparin, a research team from the University of Toronto found that enoxaparin reduced the risk of developing a blood clot by 30 to 58 percent, depending on the location of the clot.</p>
+<p>The clots are painful or dangerous because they can block the flow of blood to muscles or a vital organ.</p>
+<p>The hip replacement study, conducted by Swedish researchers, was designed to see if people who were getting new hips would have fewer clots if they got a full month of treatment with enoxaparin.  </p>
+<p>All the volunteers received the anti-clotting drug while they were in the hospital. After they were discharged, half got enoxaparin for nearly a month, the rest got a placebo.</p>
+<p>The Swedish team, led by David Bergqvist of the Academic Hospital in Uppsala, found clot problems in 45 of the 116 placebo recipients, but only 21 in the 117 who got enoxaparin.</p>
+<p>Rorer is 68 percent owned by France's Rhone-Poulenc SA.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

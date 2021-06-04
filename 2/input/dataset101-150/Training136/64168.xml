@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="64168" id="root" date="1996-09-19" xml:lang="en">
+<title>THAILAND: Police arrest three Ghanaians on heroin charge.</title>
+<headline>Police arrest three Ghanaians on heroin charge.</headline>
+<dateline>BANGKOK 1996-09-19</dateline>
+<text>
+<p>Thai anti-narcotics police said they had arrested three suspects from Ghana in a northern town on Thursday on charges of heroin trafficking.</p>
+<p>Michael Adjei, Godrey Arhenluff and Doris William were arrested after police raided their rented rooms in Nakorn Sawan province about 240 kms (150 miles) from Bangkok and seized 1.54 kilogrammes of heroin from them.</p>
+<p>The suspects were being detained for furthur investigation, pending formal charges, police said.</p>
+<p>Drug trafficking carries the death penalty in Thailand, but usually sentences are commuted to long jail terms.</p>
+<p>There are now nearly 400 Africans serving jail term in Thailand for drugs offences, according to prison authorities.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GHANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="29675" id="root" date="1996-09-03" xml:lang="en">
+<title>ISRAEL: Israel's Netanyahu to meet Clinton next week.</title>
+<headline>Israel's Netanyahu to meet Clinton next week.</headline>
+<dateline>JERUSALEM 1996-09-03</dateline>
+<text>
+<p>Israeli Prime Minister Benjamin Netanyahu will holds talks in the United States with President Bill Clinton next week, the prime minister's office said on Tuesday.</p>
+<p>The two leaders will discuss among other things the U.S. sponsored Middle East peace process.</p>
+<p>&quot;The prime minister will meet with President Clinton next Monday,&quot; Netanyahu's office said in a statement. It did not say where in the United States the meeting would be held.</p>
+<p>Netanyahu is expected by Israeli officials to meet Palestinian President Yasser Arafat prior to the trip to the United States.</p>
+<p>Intensive contacts are underway between Israeli and Palestinian officials to pave the way for a Netanyahu-Arafat meeting.</p>
+<p>Netanyahu, elected in May, has resisted meeting Arafat saying he will do so only when he deems it necessary for the security of the state of Israel.</p>
+<p>While in the United States Netanyahu will meet in New York with Jewish leaders, the statement said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERUSALEM"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

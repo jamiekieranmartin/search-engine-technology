@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="66301" id="root" date="1996-09-20" xml:lang="en">
+<title>USA: Maintenance shuts 17 pct of U.S. nuclear power.</title>
+<headline>Maintenance shuts 17 pct of U.S. nuclear power.</headline>
+<dateline>NEW YORK 1996-09-20</dateline>
+<text>
+<p>About 17,223 megawatts (MW) of nuclear generated electricity, just over 17 percent of the nation's nuclear output, is currently shut for maintenance and refueling, according to a Reuter survey of plant operators.</p>
+<p>&quot;The fall is a low demand period (for electricity), the peak demand is through the course of the summer,&quot; said Gene Gorzelnik, spokesman for the North American Electric Reliability Council (NERC).</p>
+<p>Nuclear power plants typically shut down for about 45 days every 18 months to refuel and conduct any needed maintenance or upgrades. This work in turn is usually set for the &quot;shoulder&quot;, or low-demand months of May and September.</p>
+<p>&quot;Generally speaking, the spring or fall would be the best time for outages just because electricity loads are not likely to be as high,&quot; said Diane Park, spokeswoman for Entergy Corp.</p>
+<p>The absence of a huge piece of the nation's power generation complex was having predictably little impact on electricity prices, which traders and brokers said were at some of their lowest levels in weeks due to mild weather.</p>
+<p>September is seen as the prime time for outages, when temperatures are too cool to require air conditioning but not yet cold enough to trigger heating demand.</p>
+<p>&quot;In September the days are still long enough that people aren't using their lights, they're turning the air conditioner off,&quot; said one Mid-West power marketer. &quot;It's just a very slow usage month.</p>
+<p>&quot;(But) October can be a cold month, which would give some extra demand, so people usually try and finish maintenance by then,&quot; the marketer added.</p>
+<p>The NERC estimated overall U.S. nuclear power generation capacity this past summer at 100,504 MW, out of total power generation capacity, including hydro- and fossil fuel power plants, of about 723,571 MW.</p>
+<p>-- Chris Reese, New York Power Desk 212-859-1627</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="I1610109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

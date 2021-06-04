@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="68724" id="root" date="1996-09-21" xml:lang="en">
+<title>PHILIPPINES: One missing, 17 rescued in Philippine boat sinking.</title>
+<headline>One missing, 17 rescued in Philippine boat sinking.</headline>
+<dateline>TACLOBAN CITY, Philippines 1996-09-21</dateline>
+<text>
+<p>The skipper of a cargo boat was reported missing, while 17 of his crew were rescued after their boat sank near the San Bernardo Strait in southern Philippines, Coast guard officials said on Saturday.</p>
+<p>The Philippine Coast Guard said it rescued 17 crew members from the LCD Socor III off the coast of Cabacungan island in Allen, Samar, 410 kms (256 miles) south of Manila, in the early morning last on Thursday.</p>
+<p>&quot;All the crew were accounted for except for the skipper,&quot; Coast guard officer Andrew Pilon told Reuters.</p>
+<p>The boat was carrying a cargo of cement, worth around 1.5 million pesos ($58,000), from Cebu in central Philippines to neighbouring Albay when it sank, the Coast guard said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TACLOBAN CITY, Philippines"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

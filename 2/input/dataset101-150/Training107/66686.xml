@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="66686" id="root" date="1996-09-20" xml:lang="en">
+<title>MAURITIUS: Tourism on the rise in Mauritius.</title>
+<headline>Tourism on the rise in Mauritius.</headline>
+<dateline>PORT LOUIS 1996-09-20</dateline>
+<text>
+<p>Tourist arrivals in the tropical Indian Ocean island of Mauritius will rise by nearly 11 percent to 470,000 in 1996, the economic planning ministry said.</p>
+<p>A report published on Friday said tourist arrivals increased by 14.7 percent during the first six months of 1996 to 218,395 compared with the first half of 1995, mainly thanks to a recovery of the South African and British markets.</p>
+<p>Gross earnings from tourism for the first six months of 1996 grew to 4.25 billion rupees ($206 million) from 3.36 billion in the same 1995 period. Gross receipts from tourism in 1996 were forecast to total 9.20 billion rupees from 7.47 billion in 1995.</p>
+<p>Tourism is Mauritius' third largest hard currency earner.</p>
+<p>($1=20.64 Mauritian rupees).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MAURTS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="E511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="GTOUR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PORT LOUIS"/>
+<dc element="dc.creator.location.country.name" value="MAURITIUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

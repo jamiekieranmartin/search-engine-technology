@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="14503" id="root" date="1996-08-26" xml:lang="en">
+<title>CYPRUS: Hijacker threatens to blow up Sudan plane in Cyprus.</title>
+<headline>Hijacker threatens to blow up Sudan plane in Cyprus.</headline>
+<dateline>LARNACA, Cyprus 1996-08-27</dateline>
+<text>
+<p>A man believed armed with grenades and explosives hijacked a Sudan Airways Airbus 310 to Cyprus on Monday night where he threatened to blow it up unless it was refuelled to fly to London, a Cypriot police spokesman said.</p>
+<p>The hijacker was believed to be armed with grenades and TNT, police spokesman Glafcos Xenos told reporters at Larnaca airport where the plane landed with 186 passengers and 13 crew after being hijacked en route from Khartoum to Amman in Jordan.</p>
+<p>It was not known if there was more than one hijacker on board but air traffic control sources said the pilot, speaking by radio, had referred to the hijackers as &quot;they&quot;.</p>
+<p>Xenos said their identity was not known but he or they had demanded to be flown to London in order to apply for political asylum.</p>
+<p>Cypriot authorities negotiated through the pilot with one of the hijackers for him to release all women and children on board before refuelling but he refused and was quoted as saying:</p>
+<p>&quot;I will blow the plane up.&quot;</p>
+<p>He later said he would release all passengers on arrival in London, the police spokesman said.</p>
+<p>&quot;We are making every effort to get the passengers free,&quot; Xenos told reporters.</p>
+<p>The Airbus 310 was parked at the western edge of Larnaca's coastal airport and was ringed by police. Anti-terrorist police were arriving.</p>
+<p>Cyprus initially refused permission for the plane to land but allowed it to touch down when the pilot said he was running out of fuel, Cypriot officials said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CYPR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="SUDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LARNACA, Cyprus"/>
+<dc element="dc.creator.location.country.name" value="CYPRUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

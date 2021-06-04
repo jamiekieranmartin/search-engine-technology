@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="35766" id="root" date="1996-09-05" xml:lang="en">
+<title>USA: Ford August US car sales fall.</title>
+<headline>Ford August US car sales fall.</headline>
+<dateline>DETROIT 1996-09-05</dateline>
+<text>
+<p>Ford Motor Co</p>
+<p>			Aug 1-31, 1996     Aug 1-31, 1995 *Pct Chng</p>
+<p> Domestic Car	   134,110	   143,869	     -6.8</p>
+<p> Domestic Truck	 161,549	   168,918	     -4.4</p>
+<p> Import Car		 2,067	     4,834	    -57.2</p>
+<p> Import Truck		   0		   0	     N.A.</p>
+<p>		  Jan 1-Aug 31, 1996 Jan 1-Aug 31, 1995 *Pct Chng</p>
+<p> Domestic Car	 1,177,412	 1,203,982	     -3.2</p>
+<p> Domestic Truck     1,409,713	 1,375,977	     +1.5</p>
+<p> Import Car		30,144	    46,802	    -36.2</p>
+<p> Import Truck		   0		   0	     N.A.</p>
+<p>* Pct change based on daily selling rate. Sale days 27 in latest month vs 27, 207 for year to date vs 205 in year ago.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="61475" id="root" date="1996-09-18" xml:lang="en">
+<title>USA: US wilderness groups pleased by west timber deal.</title>
+<headline>US wilderness groups pleased by west timber deal.</headline>
+<dateline>WASHINGTON 1996-09-18</dateline>
+<text>
+<p>Wilderness advocates said Wednesday they were pleased the timber industry, after a prolonged fight, agreed that sales of old-growth timber off federal lands made to replace ancient Pacific Northwest tree sales comply with environmental laws.</p>
+<p>&quot;I think we know now it (replacement timber) won't come from the areas that are off limits now to logging, and there will be environmental laws and public participation,&quot; said Patty Goldman of the Sierra Club Legal Defense Fund.</p>
+<p>But environmentalists said the deal did not answer how the government, with dwindling amounts of old-growth forests on federal land, will be able to find &quot;in-kind&quot; timber to substitute for the ancient Pacific Northwest trees in which the endangered marbled murrelet nests.</p>
+<p>The agreement affects timber sales long-stalled because they would damage habitat of the endangered bird.</p>
+<p>The timber industry had sued the federal government in August 1995 seeking to exempt the replacement sales from the environmental standards and laws.</p>
+<p>&quot;All that happened is that administration has an agreement from the industry that the replacement volume would be sold according to laws, and I think they would have a hard time finding the replacement timber,&quot; said Jim Jontz, of the Western Ancient Forest Campaign.</p>
+<p>The salvage logging rider, passed last year as part of a broad spending bill, would have forced the government to allow the ancient trees to be logged, but courts then blocked the sales again.</p>
+<p>However the federal government was obligated to find replacement timber for those lost sales.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I02000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

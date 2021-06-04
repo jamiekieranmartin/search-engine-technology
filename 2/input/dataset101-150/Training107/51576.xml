@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="51576" id="root" date="1996-09-13" xml:lang="en">
+<title>REPUBLIC OF IRELAND: Ireland launches 100-punt note, last before EMU.</title>
+<headline>Ireland launches 100-punt note, last before EMU.</headline>
+<dateline>DUBLIN, Ireland</dateline>
+<text>
+<p>The Central Bank of Ireland launched a new 100-punt note Friday, possibly the last Irish banknote to be issued if Ireland succeeds in qualifying for European Economic and Monetary Union (EMU).</p>
+<p>&quot;If European integration moves ahead according to plan, this will be the last Irish bank note to be issued,&quot; central bank Gov. Maurice O'Connell said at the launch.</p>
+<p>&quot;The timetable for economic and monetary union provides that the Euro banknotes will be in circulation by the beginning of the year 2002.&quot;</p>
+<p>O'Connell said the changeover would be a huge logistical exercise and that Ireland was preparing for it on the assumption that it would participate in a single currency.</p>
+<p>The 100-punt note, worth about $62 at current exchange rates, features Charles Stewart Parnell, one of the great political figures of 19th-century Ireland.</p>
+<p>It is the fifth and final note in a series which has seen the security features of Irish banknotes substantially upgraded and the size of the notes reduced for greater convenience.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="E121">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBLIN, Ireland"/>
+<dc element="dc.creator.location.country.name" value="REPUBLIC OF IRELAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

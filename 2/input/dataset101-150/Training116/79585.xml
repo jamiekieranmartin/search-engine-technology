@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="79585" id="root" date="1996-09-26" xml:lang="en">
+<title>SYRIA: Syria says clashes signal new Arab uprising.</title>
+<headline>Syria says clashes signal new Arab uprising.</headline>
+<dateline>DAMASCUS 1996-09-26</dateline>
+<text>
+<p>Syria said on Thursday that bloody clashes between Palestinians and Israeli troops in the West Bank and Gaza signalled the start of a new, more powerful uprising against Israel.</p>
+<p>The official daily al-Baath newspaper blamed Israeli Prime Minister Benjamin Netanyahu for the violence, saying his decision to open an archaeological tunnel near a holy Islamic site in Jerusalem was &quot;pushing the region towards war and not peace.&quot;</p>
+<p>&quot;It is natural that Netanyahu's measures be countered with a wave of outrage and fierce clashes with the occupation forces in all Palestinian areas....&quot; the newspaper said.</p>
+<p>&quot;This is in fact a start of a new uprising that might be more fierce than the children's stone-throwing intifada. This uprising will have more power and new weapons which the Israeli authorities did not see before,&quot; al-Baath said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="SYRIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DAMASCUS"/>
+<dc element="dc.creator.location.country.name" value="SYRIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

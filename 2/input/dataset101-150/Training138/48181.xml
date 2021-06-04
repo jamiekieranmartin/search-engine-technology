@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="48181" id="root" date="1996-09-12" xml:lang="en">
+<title>UK: British cabinet reconsiders mad cow cull.</title>
+<headline>British cabinet reconsiders mad cow cull.</headline>
+<byline>Patricia Reaney</byline>
+<dateline>LONDON 1996-09-12</dateline>
+<text>
+<p>British ministers were reviewing on Thursday the cull of 147,000 cattle to eliminate mad cow disease as the EU sent a clear message it would not accept a reduction in the number of animals to be slaughtered.</p>
+<p>Prime Minister John Major confirmed on Wednesday that a review of the  cull would be top of the agenda at Thursday's cabinet's meeting -- the first since the summmer break.</p>
+<p>The government came under increased pressure from farmers and some Conservatives to reconsider its policy after an Oxford University report predicted last month that the mad cow epidemic would be over by the year 2001 even without the cull.</p>
+<p>Despite the new findings, the European Commission warned that although it would consider changing its approach to dealing with the crisis, it would not be interested in talking numbers.</p>
+<p>&quot;We're still a little bit old-fashioned here at the Commission: we consider that all measures necessary should be taken to protect human health and that's why we have agreed with the British government a selective slaughter policy,&quot; spokesman Gerry Keily told BBC radio.</p>
+<p>&quot;We haven't said it can't be changed. If there is a better approach, we will talk about changing it. But we will not talk on the basis of numbers of cattle to be slaughtered. That's not our priority. The protection of human health is our priority.&quot;</p>
+<p>Britain reluctantly agreed to the slaughter in exchange for a gradual lifting of a ban on exports of British beef and by-products imposed by the European Union.</p>
+<p>The row over mad cow disease broke out in March after Britain acknowledged there could be a link between mad cow or Bovine Spongiform Encephalopathy (BSE) and Creutzfeldt-Jakob Disease, the human equivalent to the brain-wasting disease.</p>
+<p>The ban caused a serious rift between London and its European neighbours and resulted in British ministers blocking EU business for several weeks on the orders of Major until the cull agreement was reached.</p>
+<p>The EU later suggested that the ban should be kept in place longer than planned following evidence that BSE can be spread from mothers to calves.</p>
+<p>British newspapers said the cabinet was likely to reduce or abandon the cull in the light of the Oxford report. Scientists claimed that without the cull there would be an estimated 7,000 cases of BSE in the next five years and the mass slaughter would only reduce it by 23 percent.</p>
+<p>But Keily said 23 percent was not insignificant.</p>
+<p>&quot;If in future it is proven that there is really a risk for consumers, then consumers are going to ask: &quot;Why wasn't something seriously done about it?&quot; said Keily.</p>
+<p>He added that the EU would meet 70 percent of the 100 million pound ($155.5 million) cost of the cull.</p>
+<p>British Agriculture Minister Douglas Hogg is due to meet European Farm Minister Franz Fischler on Monday to discuss the matter. ($1=.6430 Pound)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I0100105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I41220">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="G153">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

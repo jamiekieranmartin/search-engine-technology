@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="43566" id="root" date="1996-09-10" xml:lang="en">
+<title>ESTONIA: PRESS DIGEST - Estonia - September 10.</title>
+<headline>PRESS DIGEST - Estonia - September 10.</headline>
+<dateline>TALLINN 1996-09-10</dateline>
+<text>
+<p>Following are the reports carried by Estonia's newspapers on Tuesday. Reuters has not verified these reports and does not vouch for their accuracy.</p>
+<p>ALL NEWSPAPERS</p>
+<p>- The Estonian confectionery group Kalev has bought 25 percent of the shares in its Lithuanian counterpart.</p>
+<p>- Trade unions are demanding a 1200 kroon minimum wage.</p>
+<p>SONUMILEHT</p>
+<p>- Twenty-three MPs say a debate between the presidential candidates should take place before the September 20 electoral college poll.</p>
+<p>- A total of 45,000 firearms were owned privately in Estonia as of September 1 this year.</p>
+<p>- Chairman of the Future Estonia Party Jaanus Raidal calls for cooperation with non-citizens in Estonia to speed up their integration into society.</p>
+<p>EESTI PAEVALEHT</p>
+<p>- Two high-ranking officials in the U.S. administration, Daniel Fried and Marshall Adair, will visit Estonia on September 10-11.</p>
+<p>ARIPAEV</p>
+<p>- The Europena Bank for Reconstruction and Development has agreed to invest 32 million kroons in the Estonian Rural Bank.</p>
+<p>-- Riga newsroom +371 7226693</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ESTNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TALLINN"/>
+<dc element="dc.creator.location.country.name" value="ESTONIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

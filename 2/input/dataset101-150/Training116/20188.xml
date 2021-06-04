@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="20188" id="root" date="1996-08-28" xml:lang="en">
+<title>GREECE: France's Juppe on official visit to Greece Sep 15.</title>
+<headline>France's Juppe on official visit to Greece Sep 15.</headline>
+<dateline>ATHENS 1996-08-28</dateline>
+<text>
+<p>French Premier Alain Juppe will pay an official visit to Greece on September 15 to celebrate 150 years of the French Archaeological Society, government spokesman Dimitris Reppas said on Wednesday.</p>
+<p>Juppe will meet Greek Prime Minister Costas Simitis and Foreign Minister Theodoros Pangalos, Reppas told reporters.</p>
+<p>&quot;The French premier's visit was planned to coincide with the Archaeological Society's celebrations. The Greek government was asked for an official meeting with the prime minister and the foreign minister and it said yes,&quot; Reppas said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="38821" id="root" date="1996-09-06" xml:lang="en">
+<title>CHINA: China moves to curb incidence of food poisoning.</title>
+<headline>China moves to curb incidence of food poisoning.</headline>
+<dateline>BEIJING 1996-09-06</dateline>
+<text>
+<p>China, apparently alarmed by Japan's recent bout with food poisoning, has introduced hygiene rules for school lunches.</p>
+<p>Under regulations passed last week by the Ministry of Health, suppliers of school lunches would have to apply for licences from local health authorities, the China Daily said on Friday.</p>
+<p>Workers who handled or prepared school meals would have to undergo regular medical examinations, it said.</p>
+<p>The rules were issued on the heels of Japanese health authorities outlining new hygiene guidelines last month after a food poisoning germ killed 11 people.</p>
+<p>The germ, believed to have spread through school lunches, and infected nearly 10,000 people in Japan, most of them schoolchildren.</p>
+<p>The newspaper said China's school lunches were not hygienic enough.</p>
+<p>&quot;Some meals are inadequate and pose a threat to the health of the students,&quot; the newspaper said.</p>
+<p>&quot;Some people sell unhygienic or even bad food to the students, some of which causes food poisoning,&quot; it said.</p>
+<p>One inspection of kitchens in 43 primary and middle schools in Nanning in the southwestern Guangxi region revealed that none of them met national sanitation standards, it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIJING"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

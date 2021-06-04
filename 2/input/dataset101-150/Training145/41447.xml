@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="41447" id="root" date="1996-09-09" xml:lang="en">
+<title>USA: Japanese tourists fall ill on flight to Chicago.</title>
+<headline>Japanese tourists fall ill on flight to Chicago.</headline>
+<dateline>CHICAGO 1996-09-09</dateline>
+<text>
+<p>Seventeen Japanese tourists complaining of nausea on a Chicago-bound flight on Monday were taken to hospitals from O'Hare Airport, apparently suffering from food poisoning, an airline spokesman said.</p>
+<p>No meal was served on the United Airlines flight from Newark, New Jersey. The tourists told authorities through an interpreter that they had eaten raw fish or meat at a restaurant the previous night.</p>
+<p>One passenger told flight attendants that he felt sick 25 minutes before the plane was due to land, and the flight was met by ambulances when others in the group also reported feeling ill.</p>
+<p>None of the passengers was seriously ill, although several were transported in wheelchairs.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

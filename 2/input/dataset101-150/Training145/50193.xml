@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="50193" id="root" date="1996-09-12" xml:lang="en">
+<title>FRANCE: Strike grounds Air France domestic flights.</title>
+<headline>Strike grounds Air France domestic flights.</headline>
+<dateline>PARIS 1996-09-12</dateline>
+<text>
+<p>Air France Europe, the domestic and regional arm of state-owned Air France, was grounded by a unexpected strike on Thursday after a pilot refused to fly a plane because of what he viewed as an inadequate security check.</p>
+<p>&quot;We are unable to guarantee service, so we are asking our customers not to come to the airport for their flights today,&quot; an Air France Europe spokesman told Reuters.  </p>
+<p>The airline said the strike began without notice at 11.30 p.m. (2130 GMT) on Wednesday when four pilots' unions walked off the job without prior notice. &quot;There were a few flights this morning, but aircraft are no longer taking off across France,&quot; the Air France Europe spokesman said.</p>
+<p>The union action came after the company, which provides passenger flights within Europe, disciplined a pilot who had refused to fly from Biarritz to Paris after complaining of inadequate safety checks on passengers' baggage.</p>
+<p>The airline said the pilot, identified only as Mr Le Baraillec, had been punished after refusing to take off 35 times this year, always for the same reason.</p>
+<p>The airline has been battered by several strikes in recent months over plans to merge the airline, formerly known as Air Inter, with parent company Air France.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

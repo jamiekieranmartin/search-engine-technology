@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="74775" id="root" date="1996-09-25" xml:lang="en">
+<title>UK: Britain gives cautious greeting to new CJD test.</title>
+<headline>Britain gives cautious greeting to new CJD test.</headline>
+<dateline>LONDON 1996-09-26</dateline>
+<text>
+<p>Britain has cautiously welcomed a new test for the human form of mad cow disease, saying it would only help confirm that patients who already had symptoms of the disease were infected.</p>
+<p>U.S. researchers earlier said they had found a way to detect Creutzfeldt-Jakob Disease in living patients, whereas previously it could only be diagnosed by brain autopsies.</p>
+<p>&quot;We only have evidence that the test is positive when the patient already has symptoms,&quot; Professor John Pattison, chairman of the government's Spongiform Disease Advisory Committee, told BBC television on Wednesday.</p>
+<p>The British government said in March it had identified a new strain of CJD in 12 victims and said they probably caught it from eating beef infected with Bovine Spongiform Encephalopathy (BSE or mad cow disease).</p>
+<p>The announcement prompted the European Union to ban all exports of British beef and beef products.</p>
+<p>News of the U.S. test, which works by detecting a protein released into the spinal fluid by CJD, triggered speculation that dormant forms of the disease could be detected in people who had shown no symptoms.</p>
+<p>But Pattison rejected the idea and said mass screenings of the population would not work either because other brain illnesses could also give a positive reading.</p>
+<p>&quot;It looks as if this is a protein excreted into the spinal fluid when there is a considerable amount of brain damage...if you don't select the patients very carefully in terms of their symptoms, you do get positives in other conditions,&quot; he said.</p>
+<p>Pattison said it would be some time before the test could be adapted to detect BSE in live cattle.</p>
+<p>&quot;The information we have on cattle is very slight indeed. Only nine samples have been tested and only six were positive, so much more work needs to be done on that,&quot; he said.</p>
+<p>&quot;I think the emphasis on the moment is that it's only cattle who've already got symptoms who would be positive. We haven't yet got any evidence about whether or not it's positive in the pre-clinical phase of the disease.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I0100105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

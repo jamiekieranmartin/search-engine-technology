@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="69819" id="root" date="1996-09-23" xml:lang="en">
+<title>USA: Technology legend Cray in critical condition.</title>
+<headline>Technology legend Cray in critical condition.</headline>
+<dateline>COLORADO SPRINGS, Colo. 1996-09-23</dateline>
+<text>
+<p>Seymour Cray, considered the father of the supercomputer, was in critical condition on Monday with massive head injuries suffered in a car accident, a hospital spokewoman said.</p>
+<p>Cray, 70, was injured on Sunday when his car was hit by another car and rolled over. Physicians operated on to relieve pressure on his brain, Penrose St. Francis Health Services spokeswoman Kate Brewster said on Monday.</p>
+<p>&quot;He's still listed as critical but unstable. His vital signs are not stable,&quot; Brewster said.</p>
+<p>Cray founded supercomputer company Cray Research in 1972. Supercomputers, which can process massive amounts of data at high speed, were the talk of the 1980s but lost their luster with the advent of personal computers and workstations, which became the choice of engineers and scientists.</p>
+<p>Cray Research spun off Cray Computer, based in Colorado Springs. The two were not related. Cray Computer filed for Chapter 11 bankruptcy protection in March 1995 after it was unable to sell $20 million worth of stock to replenish its coffers.</p>
+<p>Supercomputers were used by the Department of Defense but the end of the Cold War diminished the need for them, making it impossible for another supercomputing company to survive, analysts said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLORADO SPRINGS, Colo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

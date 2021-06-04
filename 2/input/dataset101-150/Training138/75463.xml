@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="75463" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: Researchers develop test for mad cow disease.</title>
+<headline>Researchers develop test for mad cow disease.</headline>
+<byline>Andrea Orr</byline>
+<dateline>LOS ANGELES 1996-09-25</dateline>
+<text>
+<p>U.S. researchers have found a way to detect mad cow disease with a simple test that could avoid the mass slaughter of thousands of British cattle suspected of having the disorder.</p>
+<p>The findings, to be published on Thursday in The New England Journal of Medicine, are based on the discovery of a protein in cattle, humans and other animals suffering from a class of fatal brain disorders that resemble mad cow disease. The protein is absent in other unrelated forms of dementia.</p>
+<p>Currently, the disease can only be diagnosed in brain autopsies, meaning that entire herds are often destroyed. The new test can be done on live animals.</p>
+<p>&quot;The best veterinarians have been wrong nearly one-third of the time (diagnosing mad cow disease),&quot; California Institute of Technology (CalTech) biologist Michael Harrington said, explaining the need for an accurate diagnosis.</p>
+<p>&quot;There is no other test you can perform on a living animal. You have to slaughter it first.&quot;</p>
+<p>Harrington, with other CalTech scientists and a team of researchers at the National Institute of Health in Bethesda, Maryland, wrote the report on the new diagnosis.</p>
+<p>The protein combination linked to mad cow disease was discovered 14 years ago in humans with related nervous system disorders. But Harrington's team was the first to find an antibody that detected the presence of that protein.</p>
+<p>&quot;It was like a key that fit in a lock,&quot; he said. &quot;We were able to develop a simple quick test that can be done in less than a day in any competent biochemistry lab anywhere in the world.&quot;</p>
+<p>Researchers conceded the test might need to be refined before it is used on volumes of cattle. Initial research was performed not on cattle but on humans suffering from a strain of the disease known as Creutzfeldt-Jakob disease, or Kuru, which is the most common way it is manifest in people.</p>
+<p>Kuru has been found to be most prevalent among tribes with cannibalistic practices. But researchers said it was marked by the same protein combination found in mad cow disease, so the diagnosis should work just as effectively in cattle.</p>
+<p>The ability to distinguish mad cow disease in cattle from other behaviour disorders is a breakthrough since only the mad cow class of dementia is believed to be transmitted through the food chain, posing the threat of illness or death to people who eat contaminated beef.</p>
+<p>Ten cases of mad cow disease, formally Bovine Spongiform Encephalopathy, were reported in humans in the United Kingdom this year. The outbreak set off an international panic in which some health officials advised the precautionary slaughter of thousands of animals.</p>
+<p>Mad cow disease is believed to be transmitted to cattle that are fed the meat of sheep suffering from a related ailment known as scrapie for the way afflicted animals fall against walls and scrape the wool off their bodies. Cattle suffering from mad cow disease stagger, lose their balance and become uncooperative in herds.</p>
+<p>More than 160,000 cases of mad cow disease have been discovered in cattle in the United Kingdom since an outbreak that started in the mid-1980s. Feeding practices have since been changed to prevent transmission of Scrapie from sheep and scientists believe it is now on its way to being eradicated.</p>
+<p>Researchers fear many humans who ate infected beef 10 years ago may still be at risk since the disease has an incubation period of two to 30 years.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I0100105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I41220">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

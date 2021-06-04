@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="42441" id="root" date="1996-09-09" xml:lang="en">
+<title>ISRAEL: Israel, PLO negotiators begin peace talks.</title>
+<headline>Israel, PLO negotiators begin peace talks.</headline>
+<dateline>JERICHO, West Bank 1996-09-09</dateline>
+<text>
+<p>Palestinian and Israeli officials overseeing implementation of PLO-Israel peace deals began meeting on Monday for the first time since Israeli elections last May, witnesses said.</p>
+<p>Israeli Prime Minister Benjamin Netanyahu and Palestinian President Yasser Arafat decided to restart the stalled talks during their first meeting last week.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERICHO, West Bank"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

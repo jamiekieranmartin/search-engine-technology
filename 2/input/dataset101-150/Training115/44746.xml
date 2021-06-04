@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="44746" id="root" date="1996-09-10" xml:lang="en">
+<title>USA: Grand Casinos president resigns.</title>
+<headline>Grand Casinos president resigns.</headline>
+<dateline>MINNEAPOLIS 1996-09-10</dateline>
+<text>
+<p>Grand Casinos Inc said Tuesday that Pat Cruzen, its president since 1994, had resigned for personal reasons and would serve as a consultant.</p>
+<p>Cruzen also resigned as a director.</p>
+<p>Tom Brosig, former Grans Casinos president and one of the company's original executives, will reassume the post of president on a permanent basis, the company said.</p>
+<p>Brosig was also elected to the board.</p>
+<p>Grand Casinos owns and operates three casino/hotel resorts in Mississippi, manages two land-based casinos in Louisiana, and manages two casino/hotel resorts in Minnesota.</p>
+<p>-- Chicago Newsdesk 312 408 8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97912">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

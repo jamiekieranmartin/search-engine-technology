@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="80709" id="root" date="1996-09-27" xml:lang="en">
+<title>USA: Children's Broadcasting backs estimates.</title>
+<headline>Children's Broadcasting backs estimates.</headline>
+<dateline>CHICAGO 1996-09-27</dateline>
+<text>
+<p>Children's Broadcasting Corp agrees with analysts' estimates on its expected performance for 1996 and 1997, said Christopher Dahl, chairman and chief executive officer.</p>
+<p>First Call puts the street consensus on Children's Broadcasting as a loss of $0.71 per share for 1996 and a loss of $0.14 for 1997. &quot;The company's OK with that,&quot; Dahl said in a telephone interview.</p>
+<p>Minneapolis-based Children's Broadcasting is building a U.S. network of radio stations with programming for children.</p>
+<p>-- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

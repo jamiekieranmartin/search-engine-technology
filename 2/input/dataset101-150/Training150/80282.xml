@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="80282" id="root" date="1996-09-26" xml:lang="en">
+<title>ISRAEL: Israelis kill three Palestinians in Gaza clashes.</title>
+<headline>Israelis kill three Palestinians in Gaza clashes.</headline>
+<dateline>GAZA 1996-09-26</dateline>
+<text>
+<p>Israeli soldiers shot dead three Palestinians and wounded more than 50 in clashes in the Gaza Strip on Thursday, hospital sources said.</p>
+<p>A Jewish settler spokeswoman said six Israelis were injured, five of them soldiers.</p>
+<p>The deaths raised to eight the number of Palestinians killed in two days of clashes with Israeli forces over Israeli policy in Jerusalem, holy to Moslems and Jews.</p>
+<p>Ahli hospital officials said Palestinian policeman Qusai Okasha, 20, died in hospital after being shot. Shifa hospital in Gaza said Hani Moussa was shot dead in a clash near Kfar Darom Jewish settlement. Rizk Hawajreh, 32, was also shot dead, a doctor at Shifa said.</p>
+<p>The Israeli army said a lieutenant-colonel was moderately wounded by a gunshot.</p>
+<p>Palestinian hospital sources said some 50 Palestinians were wounded.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GAZA"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

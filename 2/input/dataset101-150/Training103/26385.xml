@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="26385" id="root" date="1996-09-01" xml:lang="en">
+<title>PHILIPPINES: Filipino takes hostage on boat ride, surrenders.</title>
+<headline>Filipino takes hostage on boat ride, surrenders.</headline>
+<dateline>MANILA 1996-09-01</dateline>
+<text>
+<p>A man with a gun and two grenades shot and wounded two passengers on a Philippine ferry and escaped on a lifeboat with a woman hostage but surrendered after nine hours at sea, police said on Sunday.</p>
+<p>Before fleeing, the man had demanded 50,000 pesos ($1,925) but crew and passengers could produce only 24,000 pesos ($925), which the man took before leaving the ship on Saturday, police colonel Jovencio Condorra said.</p>
+<p>The 5,873-tonne ferry St Francis of Assisi followdd the raft for nine hours before 21-year-old Rolando Elauria surrendered on Sunday to the ship's captain, the coast guard said.</p>
+<p>The ferry was carrying 650 passengers to central Iloilo city when Elauria grabbed hostages while the ship was on the open sea.</p>
+<p>As the raft drifted towards islands where police were waiting, Elauria signalled to the ferry that he was giving up.</p>
+<p>The ferry took the man and his hostage back on board.</p>
+<p>Condorra said the man told Iloilo police he had been involved in another shooting incident earlier and was fleeing from the law when he boarded the ferry.</p>
+<p>Nervous that he was being followed, he shot and wounded two passengers then took seven others as hostage. He freed six of them before escaping on the life boat.</p>
+<p>&quot;He could not get very far because the boat they gave him had only a pedal and no motor,&quot; Condorra said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

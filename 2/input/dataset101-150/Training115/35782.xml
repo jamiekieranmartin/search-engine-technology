@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="35782" id="root" date="1996-09-05" xml:lang="en">
+<title>USA: Ohio voters to vote on casino gambling Nov 5.</title>
+<headline>Ohio voters to vote on casino gambling Nov 5.</headline>
+<dateline>CHICAGO 1996-09-05</dateline>
+<text>
+<p>Ohio voters will get their chance Nov 5 to decide whether to allow casino gambling in the state.</p>
+<p>Ohio Secretary of State Bob Taft Thursday certified that enough signatures had been collected to place a proposed constitutional amendment on the November ballot.</p>
+<p>Under the amendment, a total of eight permanently moored floating casinos would be permitted -- three in Cleveland, two in Cincinnatti, and one each in Lorain, Mahoning County, and Hamilton County.</p>
+<p>The amendment would also establish an Ohio Gaming Commission that would collect 20 percent of the casinos' gross revenues. Of that amount, 80 percent would be earmarked for public schools, while the remaining 20 percent of revenues would be split between the local governments where the casino is located.</p>
+<p>If passed, casino gaming could reportedly mean $186 million more in revenues a year to schools in Ohio.</p>
+<p>The gaming measure has been opposed by Ohio Gov. George Voinovich.</p>
+<p>The proposed constitutional amendment will mark the second try at winning support for casino gambling in Ohio in six years. In a news release, Taft pointed out that a gambling issue appeared on the 1990 ballot, but was defeated 2,098,725 to 1,270,387.</p>
+<p>--Karen Pierog, 312-408-8647</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97912">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

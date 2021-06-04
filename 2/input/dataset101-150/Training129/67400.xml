@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="67400" id="root" date="1996-09-20" xml:lang="en">
+<title>BANGLADESH: Bangladeshis return from UAE ahead of new law.</title>
+<headline>Bangladeshis return from UAE ahead of new law.</headline>
+<dateline>DHAKA 1996-09-20</dateline>
+<text>
+<p>More than 450 Bangladeshi workers have returned to Dhaka from Abu Dhabi to avoid tough new immigration laws, the Independent newspaper said on Friday.</p>
+<p>It said they were probably the first group of some 150,000 Bangladeshis expected to return to escape a crackdown on illegal workers in the United Arab Emirates (UAE).</p>
+<p>The UAE had asked Bangladesh's diplomatic mission in Abu Dhabi to take back the illegal Bangladeshis by September 30, the newspaper said.</p>
+<p>It quoted Dhaka airport officials as saying that most of the Bangladeshis usually go to UAE on short-term visas obtained through recruitment agencies.</p>
+<p>&quot;After expiry of the visas, the workers destroy their passports and try to stay on illegally.&quot;</p>
+<p>The UAE has given a two-month amnesty to illegal workers during which violaters can legalise their stay or leave the country.</p>
+<p>The new immigration law, which comes into effect on October 1, imposes stiff penalties on illegal aliens or workers who violate labour laws.</p>
+<p>Diplomats expect some 200,000 expatriates will have left by the end of the August-September amnesty period.</p>
+<p>Government officials were not available for comment as Friday was a weekend in Moslem Bangladesh.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BANDH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="UAE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DHAKA"/>
+<dc element="dc.creator.location.country.name" value="BANGLADESH"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="72052" id="root" date="1996-09-24" xml:lang="en">
+<title>USA: New study to focus on Parkinson's in minorities.</title>
+<headline>New study to focus on Parkinson's in minorities.</headline>
+<dateline>WASHINGTON 1996-09-24</dateline>
+<text>
+<p>With former heavyweight boxing champ Muhammad Ali on hand, a drug company on Tuesday announced the first national Parkinson's study for minority patients, people particularly hit by the disease.</p>
+<p>Caroline Tanner, a Parkinson's Institute medical officer, said at a news conference that about 35 percent of people with Parkinson's are minorities, but they represent only about 5 percent of participants in Parkinson's trials.</p>
+<p>Pharmacia &amp; Upjohn said it would work with the institute in the year-long trial at 18 medical centers.</p>
+<p>The 144 advanced Parkinson's patients to be enrolled would already be on the standard therapy of levodopa, but 108 would also be given Pharmacia's new investigative drug pramipexole.</p>
+<p>Pharmacia senior vice president Jack Jackson said there was a low minority representation in its earlier clinical trials for pramipexole.</p>
+<p>Tanner said the lack of minorities in trials was a problem because drugs may behave differently in different ethnic groups. The minority-only trial will include Parkinson's patients of African, Asian or Hispanic heritage, she said.</p>
+<p>Lonnie Ali, who spoke on behalf of her black boxing champ husband, called on minority Parkinson's patients to enroll in the study to try to find the best treatment.</p>
+<p>&quot;We need to find out what will work best in this initial fight,&quot; she said.</p>
+<p>The disease, caused by a decrease of the chemical dopamine and marked by tremor, muscle weakness and a shuffling gait, affects about 1.5 million Americans.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="51841" id="root" date="1996-09-13" xml:lang="en">
+<title>GERMANY: CUSTODY ORDER LIFTED ON STEFFI GRAF'S FATHER.</title>
+<headline>CUSTODY ORDER LIFTED ON STEFFI GRAF'S FATHER.</headline>
+<dateline>BONN, Germany</dateline>
+<text>
+<p>A German court lifted a custody order Friday against tennis star Steffi Graf's father Peter, currently on trial for tax evasion, but he remained in jail for the time being, Peter Graf's lawyer said.</p>
+<p>Lawyer Kurt Himmelsbach said prosecutors in the town of Mannheim had appealed against the city court's decision and that a high court in Karlsruhe would have to make a final ruling. This decision was unlikely to come Friday, he said.</p>
+<p>Peter Graf, 58, has been in jail in the southwestern town of Mannheim since August 1995.</p>
+<p>He is accused, together with family tax advisor Joachim Eckardt, of evading $12.5 million of taxes on his daughter's income between 1989 and 1993, and could face up to 10 years in jail if convicted.</p>
+<p>Himmelsbach said the Mannheim court had also ruled Eckardt should be released from custody. This is usually done if the court decides there is no danger that the accused will flee or falsify evidence.</p>
+<p>The world No. 1 tennis player is still formally under investigation in the affair, but says prosecutors are waiting for the outcome of the trial against her father to decide whether to drop the investigation in return for a fine.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

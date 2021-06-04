@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="86184" id="root" date="1996-09-30" xml:lang="en">
+<title>NETHERLANDS: KLM Asia plans extra flight to Taiwan.</title>
+<headline>KLM Asia plans extra flight to Taiwan.</headline>
+<dateline>AMSTERDAM 1996-09-30</dateline>
+<text>
+<p>KLM Asia, part of KLM Royal Dutch Airlines NV is to increase by one the number of scheduled flights it operates between Schiphol airport and Taipei.</p>
+<p>A spokesman for KLM told Reuters in a telephone interview the airline plans to add an extra Boeing 747 combi flight to KLM Asia's existing schedule of five flights a week, departing Schiphol at 1925 local time. He said the extra flight will start from October 27.</p>
+<p>The increase has come about as part of a long-term agreement between Amsterdam Airport Schiphol and Taipei Airport's operating company which paved the way for airlines Martinair, China Airways, KLM Asia and EVA Air to start flights between the two countries a year ago.</p>
+<p>A spokeswoman for Amsterdam airport told Reuters the agreement provides for two extra flights ex-Schiphol and ex- Taipei effective October 1 this year.</p>
+<p>KLM's spokesman said the operational experience on the flights, which have a stopover in Bangkok, has been good, warranting the planned expansion.</p>
+<p>--Air Cargo Newsroom Tel+44 171 542 8982 Fax +44 171 542 5017</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

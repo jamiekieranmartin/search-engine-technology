@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="39303" id="root" date="1996-09-07" xml:lang="en">
+<title>USA: WASHINGTON POST FRONT BUSINESS PAGE - SEPT 7.</title>
+<headline>WASHINGTON POST FRONT BUSINESS PAGE - SEPT 7.</headline>
+<dateline>WASHINGTON 1996-09-07</dateline>
+<text>
+<p>The Washington Post carried the following items on the front page of its business section on Sept 7:</p>
+<p>---</p>
+<p>WASHINGTON - The U.S. unemployment rate dropped to a seven-year low of 5.1 percent in August.</p>
+<p>---</p>
+<p>WASHINGTON - Luskin's Inc., the Baltimore-based video and appliance retailer, will close eight of its 11 stores in the Washington area.</p>
+<p>---</p>
+<p>WASHINGTON - Signs of a price war are appearing in the auto industry as carmakers prepare for the start of the 1997 model year Oct. 1.</p>
+<p>---</p>
+<p>WASHINGTON - A federal judge in Philadelphia has temporarily ordered American Online Inc. to stop blocking electronic junk mail from Cyber Promotions Inc.</p>
+<p>---</p>
+<p>WASHINGTON - The Fox TV network is losing its top programming executive on the eve of the new TV season.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

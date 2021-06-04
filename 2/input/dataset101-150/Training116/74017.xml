@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="74017" id="root" date="1996-09-24" xml:lang="en">
+<title>AUSTRALIA: RTRS-Premier bid unacceptable - Discovery.</title>
+<headline>RTRS-Premier bid unacceptable - Discovery.</headline>
+<dateline>SYDNEY 1996-09-24</dateline>
+<text>
+<p>Oil and gas producer Discovery Petroleum NL said on Tuesday it regarded the 70 cents a share takeover offer from U.K group Premier Oil Plc to be unacceptable.  </p>
+<p>Premier's bid, launched on Monday, values at Discovery at about A$91.9 million. Discovery said it believed the offer did not fully reflect the future potential of its assets and advised shareholders not to sell their shares on the market, pending release of the company's formal Part B response to the bid.</p>
+<p>By 3.40 p.m. (0540 GMT), Discovery shares were a cent higher at 71 cents on turnover of 1.21 million shares.</p>
+<p>-- Sydney Newsroom 61-2 9373 1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="51260" id="root" date="1996-09-13" xml:lang="en">
+<title>SLOVAKIA: Nafta pushes Slovak SAX index higher.</title>
+<headline>Nafta pushes Slovak SAX index higher.</headline>
+<dateline>BRATISLAVA 1996-09-13</dateline>
+<text>
+<p>Slovak blue chips closed mixed in thinner trading on the Bratislava Stock Exchange on Friday, with gains to gas storage company Nafta nudging the 12-share SAX index up 0.2 points to 208.65.</p>
+<p>Nafta, the second most heavily capitalised issue on the index, rose 30 crowns to close at 2,060, while oil refiner Slovnaft fell 10 crowns to 920.</p>
+<p>&quot;Nafta appears to have bounced off its floor though still fluctuating on uncertainty before its extraordinary general shareholders meeting,&quot; Jozef Cimra, a broker at ING Barings, said.</p>
+<p>East Slovak steel maker VSZ rose three crowns to 630, while VUB Bank closed up 15 crowns at 1,815.</p>
+<p>Insurer Slovenska Poistovna closed unchanged at 1,920 crowns on turnover of 14.5 million, but its average trading price rose 4.17 percent.</p>
+<p>Overall, volume dropped to 145,175 shares traded from 482,436 on Thursday, while turnover fell to 155.7 million crowns from 275.11 million.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SLVAK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRATISLAVA"/>
+<dc element="dc.creator.location.country.name" value="SLOVAKIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

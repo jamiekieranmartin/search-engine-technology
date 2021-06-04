@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="83238" id="root" date="1996-09-28" xml:lang="en">
+<title>PHILIPPINES: Philippines arrests two Chinese in drug bust.</title>
+<headline>Philippines arrests two Chinese in drug bust.</headline>
+<dateline>MANILA 1996-09-28</dateline>
+<text>
+<p>Philippine police arrested on Friday afternoon two Chinese who were selling 10 kilograms of methamphetamine hydrochloride, otherwise known as ice or shabu.</p>
+<p>Police said the two Chinese, who were suspected to be part of an international drug trafficking syndicate, were apprehended while they were selling the illegal substance to narcotic officers who were posing as buyers.</p>
+<p>The drugs are estimated to be worth 20 million pesos ($761,000) on the street.</p>
+<p>&quot;Follow-up operations are now being undertaken by elements of this office on the suspected drug lairs of said syndicate group,&quot; the police said in a statement released on Saturday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

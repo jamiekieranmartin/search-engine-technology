@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="83932" id="root" date="1996-09-29" xml:lang="en">
+<title>USA: Taking drugs for common pain may do harm, expert says.</title>
+<headline>Taking drugs for common pain may do harm, expert says.</headline>
+<dateline>SAN FRANCISCO 1996-09-29</dateline>
+<text>
+<p>Taking medication for life's more common aches and pains often does more harm than good, an expert in pain management said on Sunday.</p>
+<p>&quot;You do not want to risk your life treating minor symptoms,&quot; James Fries, professor of medicine at California's Stanford University, said at the American Medical Association's Science Reporters' Conference.</p>
+<p>Pain medication is taken for minor musculoskeletal problems more frequently than for anything else, Fries said.</p>
+<p>One example is non-steroidal anti-inflammatory drugs, or NSAIDs, taken by millions of Americans each day to relieve arthritis or muscular pain. Abdominal pain is a common side effect of NSAIDs, which cause one-third of bleeding ulcers, Fries said.</p>
+<p>&quot;By taking a short term view of pain, one actually increases lifetime pain,&quot; Fries said.</p>
+<p>In addition, many NSAID users also take antacids to suppress the side effects of the drug, but end up masking the very symptoms that would point to a bleeding ulcer.</p>
+<p>&quot;An excessive concern with pain relief gave us an epidemic of 10,000 to 20,000 deaths from bleeding ulcers each year, and hospitalizations from the same condition for another 100,000 to 200,000,&quot; Fries said.</p>
+<p>Fries said pain is an important defence mechanism that tells people to remove their hand from a hot stove or not to move an injured body part.</p>
+<p>He said recent studies suggest that low back pain responds best when you do nothing. Pain relievers allow muscles to relax, preventing back spasms that hold the spine immobile and prevent reinjury.</p>
+<p>People are often disappointed when their doctor tells them to simply take an aspirin instead of &quot;heavy-duty pain relievers,&quot; Fries said.</p>
+<p>&quot;We would like educated patients comfortable with their physician when he says to take acetaminophen, rather than the strong, dangerous stuff,&quot; he said.</p>
+<p>Exercise should play an important role in pain management, Fries said, pointing to research showing that exercise and lack of pain go together.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

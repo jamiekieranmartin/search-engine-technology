@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="37425" id="root" date="1996-09-06" xml:lang="en">
+<title>USA: Heart receipient gets 25 year prison term.</title>
+<headline>Heart receipient gets 25 year prison term.</headline>
+<dateline>NEW YORK 1996-09-06</dateline>
+<text>
+<p>A murder defendant who got a controversial taxpayer-financed $400,000 heart transplant then fled to the Dominican Republic to avoid prosecution was sentenced to 25 years in prison, the government said on Sunday.</p>
+<p>The case against Bartolome Moya, the purported leader of a brutal New York City drug ring, drew national attention because it raised ethical questions about whether criminals facing life imprisonment should receive hard-to-obtain organs and whether taxpayers' should pay for such expensive transplants.</p>
+<p>Federal prosecutors said that Moya was sentenced Wednesday after previously pleading guilty to participating in the violent drug ring, including his involvement in murders.</p>
+<p>The bizarre case began in 1993 when Moya and others in his group were indicted by federal grand jury in Manhattan on charges of committing at least a dozen murders and numerous kidnappings, bombing and other violent crimes between July 1988 and July 1991.</p>
+<p>U.S. District Judge Thomas Griesa dismissed the case against Moya because he suffered from chronic heart disease and was likely to die. The case was dismissed without prejudice, meaning that prosecutors could refile charges.</p>
+<p>Moya was allowed to spend his last days with his family in Philadelphia, where he enrolled in a heart transplant programme at Temple University, concealing information about the criminal charges he faced.</p>
+<p>The chief cardiologist at Temple later said that Moya met medical criteria as a candidate for the operation and that his background would not have been considered in any case.</p>
+<p>The 1994 transplant was financed by Pennsylvania Medicaid funds. When federal prosecutors learned about the successful operation they obtained a new indictment against Moya.</p>
+<p>He was rearrested and returned to prison. When the judge learned that Moya would die without necessary daily medication and needed regular care by his Philadelphia doctors, he released him to home custody.</p>
+<p>Although Moya complied for several months, in July 1994 he fled to the Dominican Republic. He was arrested there in October 1994 and returned to New York to face pending charges.</p>
+<p>In sentencing Moya, Griesa denied the defendant's application for a reduced sentence based on medical complications related to his heart transplant.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

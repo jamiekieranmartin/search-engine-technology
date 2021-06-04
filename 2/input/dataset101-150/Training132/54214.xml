@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="54214" id="root" date="1996-09-14" xml:lang="en">
+<title>BANGLADESH: 10 die, scores hurt in Bangladesh train accident.</title>
+<headline>10 die, scores hurt in Bangladesh train accident.</headline>
+<dateline>DHAKA 1996-09-14</dateline>
+<text>
+<p>At least 10 people were killed and dozens injured when an express train was derailed near Dhaka on Saturday, rescuers and hospital sources said.</p>
+<p>They said nearly 30 injured people were admitted to the capital's Medical College Hospital. Many others have been rushed to other hospitals and clinics, one doctor said.  </p>
+<p>Firefighters helping to free people trapped in the wreckage told reporters the accident occurred near Khilkhet on the outskirts of the Bangladeshi capital.</p>
+<p>&quot;Five bodies have been recovered and we can see at least five more entangled in the debris,&quot; one rescue official said.</p>
+<p>The cause of the accident was not immediately known.</p>
+<p>&quot;The death toll will definitely rise,&quot; the official said.</p>
+<p>Passenger Shoeb Chowdhury, who escaped with minor injuries, told Reuters five carriages of the Mahanagar Express, which runs between Dhaka and Chittagong port city, went off the tracks.</p>
+<p>&quot;I am frantically looking for my brother who was also on the same train,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BANDH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-14"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DHAKA"/>
+<dc element="dc.creator.location.country.name" value="BANGLADESH"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

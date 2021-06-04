@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="49545" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: Senate votes to keep guns away from abusers.</title>
+<headline>Senate votes to keep guns away from abusers.</headline>
+<dateline>WASHINGTON 1996-09-12</dateline>
+<text>
+<p>The Senate voted overwhelmingly Thursday to ban handgun ownership by people convicted of spousal and child abuse, and House Democrats urged Speaker Newt Gingrich to permit a vote soon.</p>
+<p>The Senate had already approved the handgun ban unanimously as part of anti-stalking legislation, but the bill was sent to President Clinton without the handgun rule because the House had not voted on the ban.</p>
+<p>Federal law prevents convicted felons from owning handguns, but in cases of spousal and child abuse the conviction is often a misdemeanor, not a felony.</p>
+<p>&quot;Unfortunately, for many women and children who suffer in silence, home is a place of danger and death,&quot; said Sen. Frank Lautenberg, a New Jersey Democrat and author of the amendment. &quot;There is no reason why wife beaters and child abusers should have guns,&quot; he said.</p>
+<p>He presented FBI data that showed nearly 3,500 women and children would die this year as victims of abuse by men and 65 percent of the women would be killed by firearms.</p>
+<p>The measure passed on a voice vote of 92-2, with Democrats Howell Heflin of Alabama and Jeff Bingaman casting the only dissenting votes. However, the handgun amendment was attached to a fiscal 1997 spending bill covering the Treasury Department and White House, which faces difficulty winning final Senate approval.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

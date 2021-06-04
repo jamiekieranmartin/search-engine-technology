@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="15623" id="root" date="1996-08-27" xml:lang="en">
+<title>UK: United News plans to sell 47 British local papers.</title>
+<headline>United News plans to sell 47 British local papers.</headline>
+<dateline>LONDON 1996-08-27</dateline>
+<text>
+<p>Britain's United News &amp; Media announced plans on Tuesday to sell off 47 local newspapers in south east England and Wales.</p>
+<p>The company, which has interests in commercial television and national newspapers, said it wanted to focus its efforts on local newspapers in northern England.</p>
+<p>&quot;The proposed divestment will allow us to concentrate on and develop our local media interests in the north, where we already have a strong portfolio of titles,&quot; said United News chief executive Clive Hollick.</p>
+<p>United Provincial Newspapers, the regional newspaper arm of United News, is Britain's third largest local paper publisher.</p>
+<p>It reported operating profits of 28.6 million pounds ($44.6 million) in 1995 on turnover of 184.4 million pounds. However, the bulk of its revenues are generated in northern England.</p>
+<p>The titles up for sale comprise 28 separate free weekly newspapers in London and the south east plus 19 free and paid for titles in South Wales.</p>
+<p>The company did not put a price tag on the titles.</p>
+<p>The planned divestments are the latest in a series of sales of British regional newspaper groups.</p>
+<p>Earlier this month British media company Pearson sold its Westminster Press local newspaper unit to Newsquest Media Group for 305 million pounds.</p>
+<p>Magazine and local radio group EMAP sold its regional newspapers to Johnston Press for 211 million pounds in June.</p>
+<p>($1=.6415 Pound)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47510">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

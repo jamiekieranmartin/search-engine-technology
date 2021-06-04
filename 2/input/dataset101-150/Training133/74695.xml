@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="74695" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: Hoffmann Phase III kidney trial successful.</title>
+<headline>Hoffmann Phase III kidney trial successful.</headline>
+<dateline>NUTLEY, N.J. 1996-09-25</dateline>
+<text>
+<p>Roche Holding Ltd unit Hoffmann-La Roche Inc and Protein Design Labs Inc said on Wednesday two multinational Phase III trials showed Zenapax was successful in preventing kidney transplant rejection.  </p>
+<p>The companies said in a statement that Roche's preliminary analysis of the data showed Zenapax was effective in reducing incidence of acute transplanted kidney rejection.</p>
+<p>Zenapax was not seen causing any clinically significant adverse effects, the companies said.</p>
+<p>Hoffmann-La Roche said based on the trials it planned to file for marketing clearance for Zenapax in the United States, Canada and Europe.</p>
+<p>Basel, Switzerland-based Roche and its U.S. unit licensed exclusive worldwide rights to the drug from Protein Design Labs.  </p>
+<p>Protein Design Labs would receive royalties based on sales, they said.</p>
+<p>Roche declined to comment on the drug's potential value and Protein Design was not immediately available.</p>
+<p>Zenapax, or dacliximab, is a humanized antibody.  Protein received a fundamental patent covering humanized antibodies including dacliximab in Europe in January and a U.S. patent for dacliximab in June.</p>
+<p>The companies said Zenapax was effective when administered with a standard immunosuppressive regime.  </p>
+<p>&quot;These controlled trials show that Zenapax is a well- tolerated and effective immunosuppressant for kidney transplants,&quot; Flavio Vincenti, professor of clinical medicine at University of California, San Francisco said in a statement released by the companies.</p>
+<p>Vincenti said reducing incidence of acute rejection would mean fewer patient rehospitalizations and treatments with anti-rejection drugs, which had significant side effects.</p>
+<p>Protein Designs said its human and humanized, or computer-designed monoclonal antibodies, had a longer half-life and were less immunogenic than traditional antibodies derived from mice.</p>
+<p>-- New York newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NUTLEY, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

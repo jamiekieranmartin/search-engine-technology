@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="84584" id="root" date="1996-09-30" xml:lang="en">
+<title>UK: Britain clamps down on child sex tour organisers.</title>
+<headline>Britain clamps down on child sex tour organisers.</headline>
+<dateline>LONDON 1996-10-01</dateline>
+<text>
+<p>A bill making it illegal for Britons to organise paedophile holidays abroad became law on Tuesday and offenders could face life imprisonment.</p>
+<p>The bill makes it an offence to conspire with or incite people to have sex with children abroad.</p>
+<p>Home Office minister Timothy Kirkhope said: &quot;These people defile children and bring shame on this country and the full force of the law must be used against these depraved people.</p>
+<p>&quot;This is an abhorrent activity. We are doing everything we can to prevent it and protect children everywhere.&quot;</p>
+<p>Human rights campaigners are worried about &quot;sex tourists&quot; from advanced countries preying on children in the Third World.</p>
+<p>The U.N. Children's Fund estimates there are at least one million child prostitutes in Asia alone with the greatest numbers in India, Thailand, Taiwan and the Philippines.</p>
+<p>The British government has announced that it is also planning laws to prosecute sex tourists when they return home.</p>
+<p>Australia and Germany already have laws under which their nationals can be prosecuted for offences committed by abroad.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

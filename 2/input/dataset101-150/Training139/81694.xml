@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="81694" id="root" date="1996-09-27" xml:lang="en">
+<title>USA: NeXstar oks Japan license, marketing pact.</title>
+<headline>NeXstar oks Japan license, marketing pact.</headline>
+<dateline>BOULDER, Colo. 1996-09-27</dateline>
+<text>
+<p>NeXstar Pharmaceuticals Inc said Friday it has reached a license and distribution agreement with Sumitomo Pharmaceuticals Co Ltd to have Sumitomo market NeXstar's antifungal agent for treating cancer and organ transplant patients in Japan.</p>
+<p>Under the pact, Sumitomo will pay a $7 million licensing fee and sales royalties, and it will pay NeXstar to manufacture AmBisome, NeXstar said.</p>
+<p>AmBisome is NeXstar's version of amphotericin B, an agent that is harmful to kidneys but that helps patients with vulnerable immune systems fight fungal infections, said company spokesman Joseph Alper. NeXstar's version of the agent is liposome-encased, which protects the kidney from its effects, Alper said.</p>
+<p>Sumitomo Pharmaceutical is 75 percent owned by Sumitomo Chemical Co Ltd.</p>
+<p>The company said results from the use of AmBisome at Japan's leading bone marrow transplant site will presented at a coming meeting of the Japan Society of Clinical Hematology.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOULDER, Colo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

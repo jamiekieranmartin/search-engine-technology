@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="30868" id="root" date="1996-09-03" xml:lang="en">
+<title>HONG KONG: Playmates' Chan family in court squabble.</title>
+<headline>Playmates' Chan family in court squabble.</headline>
+<dateline>HONG KONG 1996-09-03</dateline>
+<text>
+<p>Albert Chan, a former director of Playmates Investments Ltd, has petitioned the High Court to wind up the company, the Hong Kong Economic Times reported on Tuesday.</p>
+<p>Playmates Investments owns 66.5 percent of Playmates Toys, which introduced the internationally successful Teenage Mutant Ninja Turtles dolls, and of Prestige Properties.</p>
+<p>Albert Chan holds 32.5 percent of Playmates Investments, while his younger brother Thomas, who is managing director of both listed companies, holds 57.5 percent.</p>
+<p>The older brother alleges in his petition that Thomas Chan has stopped him from participating in the management of the Playmates group, the newspaper said.</p>
+<p>A court hearing was expected to last eight weeks, it said.</p>
+<p>Playmates officials on Tuesday morning refused to discuss details of the case but said the group would make a public statement later.</p>
+<p>Shares of Playmates Toys were down 19 cents to HK$1.75 at midday.</p>
+<p>Prestige Properties fell six cents to HK$1.06.</p>
+<p>-- Hong Kong Newsrom (852) 2843 6370</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I49410">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="C16">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

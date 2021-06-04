@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="44857" id="root" date="1996-09-10" xml:lang="en">
+<title>VATICAN: Vatican says no plans to hospitalise Pope.</title>
+<headline>Vatican says no plans to hospitalise Pope.</headline>
+<dateline>VATICAN CITY 1996-09-10</dateline>
+<text>
+<p>The Vatican, responding to a flurry of rumours and reports about Pope John Paul's health, said on Tuesday there were no plans for him to be hospitalised.</p>
+<p>&quot;There are no plans for the Pope to enter hospital,&quot; chief Vatican spokesman Joaquin Navarro-Valls said.</p>
+<p>He was responding to an Italian newspaper report that said the 76-year-old Pope would enter hospital in Rome for checks after he returns from a September 19-22 trip to France.</p>
+<p>The Polish Pontiff looked extremely fatigued during his trip to Hungary last weekend.</p>
+<p>The spokesman was also responding to rumours among reporters that the Pope would enter hospital on Tuesday or Wednesday. The rumours also said the Pope would not hold his weekly general audience at the Vatican on Wednesday morning.</p>
+<p>But the Vatican said it would go ahead as scheduled and workmen were preparing St Peter's Square for the audience, which usually attracts tens of thousands of people.</p>
+<p>Navarro-Valls, himself a trained doctor, told reporters in Hungary on Saturday that the Pope had suffered from an intestinal infection that caused a fever twice this year and which tests so far had failed to pinpoint.</p>
+<p>He said that, while the problem might recur, it was not degenerative and there were no signs of a return of an intestinal tumour removed in 1992.</p>
+<p>Navarro-Valls said one explanation for the infection was that it may be caused by adhesions in the intestine.</p>
+<p>Adhesion, or the joining of normally separate tissues, occurs between loops of intestine in people who have undergone abdominal surgery.</p>
+<p>The Pope had major abdominal surgery in 1981 after an assassination attempt and in 1992 to remove the colon tumour. In both cases surgeons removed tracts of his intestine.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VCAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="GREL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VATICAN CITY"/>
+<dc element="dc.creator.location.country.name" value="VATICAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

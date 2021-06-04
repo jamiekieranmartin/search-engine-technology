@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13142" id="root" date="1996-08-25" xml:lang="en">
+<title>ARGENTINA: More than 85 percent of Argentines fear crime.</title>
+<headline>More than 85 percent of Argentines fear crime.</headline>
+<dateline>BUENOS AIRES, Argentina 1996-08-25</dateline>
+<text>
+<p>More than 85 percent of the population in Argentina feels unsafe, according to a poll reported on Sunday in the daily Clarin newspaper.</p>
+<p>Argentines have traditionally prided themselves on the safety of their country from the ills of drug abuse and violent crimes found elsewhere in Latin America.</p>
+<p>But the poll, carried out for Clarin by the Centre for Studies of Public Opinion (CEOP) in the capital, found that 85.3 percent of the respondents &quot;felt unsafe&quot;.</p>
+<p>More than half of the respondents have had a crime committed against them. Some 26.8 percent were attacked on the streets while 14.8 percent had their houses robbed.</p>
+<p>The poll also found that despite rising crime, the public felt unprotected with 44.4 percent saying they did not have faith in the police.</p>
+<p>Crime has increased in Argentina in the last few years following a severe recession that resulted in record high unemployment. The jobless rate remains just under its historic high of 17.1 percent.</p>
+<p>Nearly half of the respondents said job creation would be a solution to crime.</p>
+<p>More attention has been given to crime recently, particularly due to a number of high profile crimes including an attack on the house of President Carlos Menem's brother.</p>
+<p>The poll's margin of error percentage was not available and the newspaper did not indicate how many people had been interviewed.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUENOS AIRES, Argentina"/>
+<dc element="dc.creator.location.country.name" value="ARGENTINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

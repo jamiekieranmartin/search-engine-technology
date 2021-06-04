@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="83364" id="root" date="1996-09-28" xml:lang="en">
+<title>FRANCE: Thousands march in Paris in support of immigrants.</title>
+<headline>Thousands march in Paris in support of immigrants.</headline>
+<dateline>PARIS 1996-09-28</dateline>
+<text>
+<p>Thousands of people marched in Paris on Saturday in support of immigrants threatened with expulsion from France under tough immigration laws adopted in 1993.</p>
+<p>&quot;The movement is growing stronger. Today there are movements in support of immigrants in need of residence papers in most of France's major cities as well as in many small towns,&quot; said Greens Party leader Dominique Voynet.</p>
+<p>The protest took place a little over a month after police raided a Paris church occupied by 300 African immigrants demanding residence rights.</p>
+<p>Several of the Africans have since been forcibly returned to their home countries, although most have been allowed to stay and others are fighting expulsion in the courts.</p>
+<p>The 1993 laws deprived tens of thousands of immigrants of their legal status in France, subjecting them to expulsion even though some had spouses and children who were legal French residents.</p>
+<p>While their cause has won support on the left, the right generally favours strong action against immigrants whom it accuses of taking jobs from French citizens.</p>
+<p>With the unemployment rate hitting a record 12.6 percent last month, the conservative government of Prime Minister Alain Juppe has taken a hard-line approach on the issue.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

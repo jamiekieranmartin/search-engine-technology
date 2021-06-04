@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="19526" id="root" date="1996-08-28" xml:lang="en">
+<title>USA: Calif Assembly panel backs $2 bln school bond plan.</title>
+<headline>Calif Assembly panel backs $2 bln school bond plan.</headline>
+<dateline>SACRAMENTO, Calif. 1996-08-28</dateline>
+<text>
+<p>A key California Assembly panel has approved a $2 billion school bond proposal, sending it to the full Assembly Wednesday, while a rival $4 billion bond plan continued to languish in the Legislature.</p>
+<p>The Assembly appropriations committee voted in favor of Republican Senator Bill Leonard's $2 billion general obligation bond proposal, which was expected to be taken up by full Assembly this week. The bond funds would be used for class size reduction and for classroom construction.  </p>
+<p>Leonard's bill would also increase the current fee for new home construction from $1.84 to $2.84 per square foot to raise an estimated $500 million to help certain school districts build more facilities.</p>
+<p>If approved by the Assembly and Senate, the school bond could appear on the November ballot.</p>
+<p>Meanwhile, a $4 billion school bond proposed by Senator Leroy Greene, a Democrat, continued to languish on Wednesday in the Assembly's inactive file.  </p>
+<p>The $4 billion bond measure, if approved by the Legislature and the voters, would provide $1 billion to help schools reduce class sizes, another $2 billion to construct and modernize classrooms, and $1 billion for higher education.</p>
+<p>Some lawmakers have expressed concerns about the size of the Greene proposal.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SACRAMENTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

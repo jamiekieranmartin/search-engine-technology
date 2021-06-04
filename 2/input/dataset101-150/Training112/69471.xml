@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="69471" id="root" date="1996-09-22" xml:lang="en">
+<title>SPAIN: One dead, 41 injured as bus overturns in Spain.</title>
+<headline>One dead, 41 injured as bus overturns in Spain.</headline>
+<dateline>MADRID 1996-09-22</dateline>
+<text>
+<p>One person died and 41 were injured when a coach carrying a tour group of elderly people crashed in southwest Spain on Sunday, local media reported.</p>
+<p>The 50 predominantly Portuguese passengers were en route to Lisbon from northeastern Spain when the bus hit a barrier in the centre of the highway and overturned, reports said.</p>
+<p>The coach belonged to Portuguese company Pima Tours.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-22"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

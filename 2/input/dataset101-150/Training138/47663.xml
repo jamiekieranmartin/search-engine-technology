@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="47663" id="root" date="1996-09-11" xml:lang="en">
+<title>UK: UK says no decision on mad cow cull.</title>
+<headline>UK says no decision on mad cow cull.</headline>
+<byline>David Ljunggren</byline>
+<dateline>LONDON 1996-09-11</dateline>
+<text>
+<p>British officials on Wednesday played down media reports that the government might abandon the planned slaughter of 147,000 cattle to eliminate mad cow disease, saying no decision had been taken.</p>
+<p>The Times newspaper said ministers were likely to shelve the cull in a meeting on Thursday. This would undoubtedly spark a new row with the European Union, which slapped a ban on British beef exports in March.</p>
+<p>Last month Britain welcomed a report by Oxford University scientists predicting that the outbreak of mad cow disease, or Bovine Spongiform Encephalopathy (BSE), would be over by the year 2001 even without the mass cull agreed with the EU.</p>
+<p>&quot;We based our initial estimate of the number in the cull on science. Therefore, if new science comes along, it is right that we should review those numbers. But no decision has been taken,&quot; said an agriculture ministry spokesman.</p>
+<p>The EU has already suggested that the ban on British beef exports should be kept in place longer than planned in the light of evidence that BSE can be spread from mothers to calves.</p>
+<p>The National Farmers Union (NFU), keen to settle the row so its hard-pressed members can start exporting their cows again, urged ministers to take their time.</p>
+<p>&quot;First of all explore with Europe all the opportunies and then make a decision. Don't make a decision based on newspaper reports and scaremongering,&quot; NFU president Sir David Naish told BBC Radio on Wednesday.</p>
+<p>But scrapping the cull would be popular with the more nationalist members of Prime Minister John Major's Conservative Party, who are doing their best to put the party on a collision course with Brussels.</p>
+<p>&quot;If these reports turn out to be right, three cheers,&quot; said William Powell, a Conservative member of parliament's agriculture select committee.</p>
+<p>&quot;We have been without the export trade now for some six months. The Germans are making it plain that no matter what the science, they have no intention of allowing us to export again.</p>
+<p>&quot;So why should we engage in a mindless slaughter, at staggering public cost, with no advantage in eradicating BSE, just because some ignorant Germans are determined to elevate politics above all else?&quot;</p>
+<p>The Oxford scientists' report said 700,000 cattle with mad cow disease had been eaten, raising fears that an epidemic of Creutzfeldt-Jakob Disease (CJD), the human form of the brain-wasting ailment, could follow.</p>
+<p>The row broke out in March after the government acknowledged there could be a link between BSE and CJD.</p>
+<p>The EU ban on British beef and by-products caused a serious rift with London and resulted in British ministers blocking EU business. Britain reluctantly agreed to the cull in exchange for the gradual lifting of the ban.</p>
+<p>British Agriculture Minister Douglas Hogg is due to meet European Farm Minister Franz Fischler on Monday to discuss the matter.</p>
+<p>&quot;The minister is understood to believe that if there is little likelihood of the ban being lifted soon, there is no point in pressing ahead with the cull that had never been justified on scientific grounds,&quot; The Times said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="I0100105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="G153">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="28598" id="root" date="1996-09-03" xml:lang="en">
+<title>SWITZERLAND: SOCCER-FIFA DRAWS UP LABOUR CODE TO BATTLE CHILD LABOUR.</title>
+<headline>SOCCER-FIFA DRAWS UP LABOUR CODE TO BATTLE CHILD LABOUR.</headline>
+<dateline>ZURICH 1996-09-03</dateline>
+<text>
+<p>FIFA, in a bid to eliminate use of exploitative child labour, said on Tuesday it had agreed with international trade union officials on a code of labour for the production of FIFA-authorised footballs.</p>
+<p>World soccer's ruling body said the text would be presented to the World Federation of the Sporting Goods Industry, which is holding a special conference on child labour in London in November.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

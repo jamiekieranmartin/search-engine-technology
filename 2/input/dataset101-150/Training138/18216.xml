@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="18216" id="root" date="1996-08-28" xml:lang="en">
+<title>UK: Mad cow epidemic will die out, British experts say.</title>
+<headline>Mad cow epidemic will die out, British experts say.</headline>
+<byline>Maggie Fox</byline>
+<dateline>LONDON 1996-08-28</dateline>
+<text>
+<p>British scientists predicted on Wednesday that the mad cow epidemic would die out by 2001 but admitted they still did not know how many people would get the human form of the disease from eating infected beef.</p>
+<p>In the &quot;first comprehensive analysis&quot; of the epidemic in the scientific journal Nature, the veterinarians, epidemiologists and other experts said it would be hard to get rid of the epidemic any faster without slaughtering vast numbers of cattle.</p>
+<p>&quot;The epidemic is in rapid decline before and without any culling. That's the good news,&quot; said Christl Donnelly, a statistician at Oxford University who worked on the study.</p>
+<p>&quot;But there's also the potential worry in looking at the number of infected animals that entered the food chain.&quot;</p>
+<p>Britain's farmers hailed the report and demanded talks with ministers on its implications.</p>
+<p>A National Farmers Union (NFU) official said the report had vindicated the union's demand that decisions on tackling the disease, which may be transmissable to humans, should be based on scientific evidence rather than politics.</p>
+<p>&quot;We obviously want to see the government to discuss this latest evidence which would seem to be fairly positive,&quot; said chief press officer Trevor Hayes.</p>
+<p>Bovine Spongiform Encephalopathy (BSE or mad cow disease) decimated British cattle herds in the 1980s. Scientists decided it was caused by feeding cows the rendered remains of sheep that had scrapie, a similar brain-wasting disease.</p>
+<p>They eventually banned this type of feed and introduced rules to keep infected beef products out of the food supply.</p>
+<p>But in March government scientists admitted that people could become infected with Creutzfeldt-Jakob Disease (CJD), a deadly brain illness, from eating mad cow-infected beef.</p>
+<p>This summer they announced BSE was passed from cow to calf.</p>
+<p>Researchers led by zoologist and epidemiologist Roy Anderson of Oxford used statistical analysis to predict there would be 340 new infections and 14,000 new cases of BSE before 2001.</p>
+<p>Nearly every new infection now came via maternal transmission, they said. The numbers would be too small to sustain the epidemic. Donnelly said the current culling policy would barely speed up the end of the epidemic. &quot;It's really just slicing a little bit off the top,&quot; she said. To make a big difference, she said, &quot;you would have to kill virtually everything&quot;.</p>
+<p>They also gave what they believed to be definitive numbers on the epidemic. About 446,000 infected animals were eaten before the use of infected organs was banned in 1989, and 283,000 more before restrictions were tightened last December.</p>
+<p>&quot;The estimated number of animals infected over the period 1974 to the end of 1995 is 903,000,&quot; they wrote.</p>
+<p>Anderson's group said they did not know whether there would be an epidemic of CJD, which normally strikes one in a million per year and has an incubation period of up to 30 years.</p>
+<p>Donnelly said there simply was not enough information yet. &quot;The government is not covering up the risk to humans. It's really not known,&quot; she said. &quot;I know it's frustrating to the public. It's also frustrating to scientists.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="I0100105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="I41220">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

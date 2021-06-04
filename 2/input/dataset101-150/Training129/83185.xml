@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="83185" id="root" date="1996-09-28" xml:lang="en">
+<title>ANGOLA: Angola detains 29 S.Africans in visa probe.</title>
+<headline>Angola detains 29 S.Africans in visa probe.</headline>
+<dateline>LUANDA 1996-09-28</dateline>
+<text>
+<p>Angolan immigration officials have detained 29 South Africans during a drive against illegal immigrants exploiting alluvial diamond deposits, South Africa's ambassador to Luanda said on Saturday.</p>
+<p>&quot;They were caught in the Lunda Norte province where they are mining and their documents are being processed by the police and immigration authorities,&quot; Roger Ballard-Tremer told reporters.</p>
+<p>He said the South Africans were staff of the British-South African company Branch Energy Ltd which has partnerships with several Angolan companies.</p>
+<p>&quot;The company is negotiating to correct the situation,&quot; the ambassador said.</p>
+<p>Earlier this month Angola deported 18 South Africans whose work papers it said were not in order.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ANGOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LUANDA"/>
+<dc element="dc.creator.location.country.name" value="ANGOLA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

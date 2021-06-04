@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="83291" id="root" date="1996-09-28" xml:lang="en">
+<title>MOROCCO: Jewish coins unearthed at mediaeval Moroccan site.</title>
+<headline>Jewish coins unearthed at mediaeval Moroccan site.</headline>
+<dateline>RABAT 1996-09-28</dateline>
+<text>
+<p>Moroccan archaeologists have discovered a mediaeval Moslem town and unearthed Jewish and Moslem coins there, a local newspaper reported on Saturday.</p>
+<p>The daily Bayane el Youm quoted archaeologists as saying the discovery, in the central Moroccan mountain area of Khenifra, would change traditional views that inhabitants of the Atlas mountains were only nomadic tribes who left no landmark buildings.</p>
+<p>The town dated back to the 12th century and was occupied by three successive Islamic dynasties, the paper said.</p>
+<p>Archaeologists found Moslem and Jewish coins in the town, including one bearing the sentence &quot;Emir al Moumimine oua Nacer Adine Ali Ibn Youssef (Commander of the Faithful and Defender of the Religion)&quot;.</p>
+<p>The newspaper said this referred to Ali Ibn Youssef Ibn Tachfine who ruled an ascetic Islamic Mourabitin dynasty for 20 years in the 12th century.</p>
+<p>The town was found in the Mid Atlas mountains some 180 km (110 miles) southeast of Rabat, the newspaper said, without giving further details on the Jewish coins unearthed there.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="GENT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RABAT"/>
+<dc element="dc.creator.location.country.name" value="MOROCCO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

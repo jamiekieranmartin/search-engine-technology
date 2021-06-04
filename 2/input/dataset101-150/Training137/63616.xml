@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="63616" id="root" date="1996-09-19" xml:lang="en">
+<title>UK: Africans confirm value of &quot;Eskimo&quot; fish diet.</title>
+<headline>Africans confirm value of &quot;Eskimo&quot; fish diet.</headline>
+<byline>Maggie Fox</byline>
+<dateline>LONDON 1996-09-20</dateline>
+<text>
+<p>Studies on African villagers have confirmed the value of eating fish -- but it takes a lot of fish to affect health, Italian researchers reported on Friday.</p>
+<p>The study, by Dr Paolo Pauleto and colleagues at the University of Padua, found that Tanzanian villagers who ate a fish-based diet had lower blood pressure and lower cholesterol than their mostly vegetarian neighbours.</p>
+<p>They said their findings confirmed controversial research in the 1980s that found &quot;Eskimos&quot; in Greenland had low rates of heart disease despite a diet consisting almost entirely of meat and fish. The Eskimo results gave birth to a Western obsession with fish oil.</p>
+<p>Pauleto's group compared two groups of about 1,200 Bantu villagers living in Tanzania.</p>
+<p>&quot;One group live on the shores of Lake Nyasa and their diet includes large amounts of freshwater fish; the other group live in the nearby hills and have a vegetarian diet,&quot; they wrote in the Lancet medical journal.</p>
+<p>&quot;After adjustment for age, sex and alcohol intake, the fish-consuming group had lower mean blood pressure.&quot; Only 2.8 percent of fish-eaters had high blood pressure, compared to 16.4 percent of those who did not eat fish.</p>
+<p>Cholesterol levels were also lower in the group that ate fish and the fish-eaters had higher levels of omega-three fatty acids, which are linked to lower rates of heart disease.</p>
+<p>Fish is a rich source of omega-three fatty acids. Other sources are soya oil, linseed oil and nuts -- all rare in the African diet.</p>
+<p>They said the communities were very similar, so that comparisons would be scientifically accurate. Obesity was unusual in both groups and both ate about 2,100 calories a day.</p>
+<p>The vegetarians had less fat and protein in their diet and got most of their energy from grains like maize or rice. They also drank more beer.</p>
+<p>The fish-eaters ate three to four fish a day -- between 300 and 600 grams (10 and 20 ounces) compared to an average of 400 grams a day of meat or fish eaten by Greenland natives. The fish supplied 60 percent of all fat eaten by the Bantus.</p>
+<p>The researchers said their findings were surprising as other studies have shown that people who take fish oil supplements may actually have higher blood pressure. But they noted that the Bantu villagers were being tested on a lifelong diet, while the supplement studies reflected a short-term change in diet.</p>
+<p>&quot;Our findings confirm that the favourable risk factor profile originally described for Eskimos living on a diet rich in omega-three polyunsaturated fatty acids is real, and not overestimated,&quot; they concluded.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TANZA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

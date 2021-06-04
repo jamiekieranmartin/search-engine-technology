@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="73746" id="root" date="1996-09-24" xml:lang="en">
+<title>BELGIUM: New arrest in Belgian child sex scandal.</title>
+<headline>New arrest in Belgian child sex scandal.</headline>
+<dateline>BRUSSELS 1996-09-24</dateline>
+<text>
+<p>Belgian police made a new arrest on Tuesday in the scandal of child abduction, sexual abuse and murder that has shaken the country to the core.</p>
+<p>Marleen De Cockere, a former companion of Jean-Michel Nihoul who has been under arrest since August 16, was charged with criminal association and drug trafficking. Belga news agency said she was also implicated in the illegal imprisonment of children.  </p>
+<p>De Cockere is the 12th person to be arrested in the Dutroux Affair, named after key suspect Marc Dutroux who was also involved in a car theft ring.</p>
+<p>Belgium has been in shock since August 16 when the bodies of two eight-year-old girls were found on a property owned by Dutroux in Sars-La-Buissiere near the southern city of Charleroi.</p>
+<p>Two more teenagers were found dead two and a half weeks later on a property that was home to Frenchman Bernard Weinstein, an accomplice whom Dutroux admits killing. Two other girls were rescued alive from a secret cell in another house owned by Dutroux.</p>
+<p>Belgian television said several people had been questioned on Tuesday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

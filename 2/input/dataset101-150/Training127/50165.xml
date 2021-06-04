@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="50165" id="root" date="1996-09-12" xml:lang="en">
+<title>SWEDEN: Autoliv jumps 4 pct on Volkswagen sales.</title>
+<headline>Autoliv jumps 4 pct on Volkswagen sales.</headline>
+<dateline>STOCKHOLM 1996-09-12</dateline>
+<text>
+<p>Swedish car safety equipment manufacturer Autoliv jumped over four percent in Thursday morning trade after announcing it was selling side air bags to Volkswagen.</p>
+<p>At 1110 GMT Autoliv shares were 9.50 crowns higher at 237 crowns.</p>
+<p>Swedbank analyst Mats Liss told Reuters that it was the first time that Autoliv had sold airbags to Volkswagen.</p>
+<p>&quot;It also shows the penetration of side airbags into the car market is greater than previously expected and could move onto other models,&quot; Liss said.</p>
+<p>-- Stockholm newsroom +46-8-700 1017</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>
